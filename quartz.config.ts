@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "es-ES",
-    baseUrl: "montedemo.github.io/Bibliotheka/Index",
+    baseUrl: "Montedemo.github.io/Bibliotheka/Index",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
