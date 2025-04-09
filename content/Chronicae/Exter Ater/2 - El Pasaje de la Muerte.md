@@ -314,7 +314,7 @@ Cuando accedieron a las estancias del castillo, los hombres de Martín estaban a
 ![cat warrior|1200x676](https://i.imgur.com/kVvJ1p8.png) 
 ###### Los hombres de Martín 
 
-Ninguno de los presentes sabía realmente de curación y todos señalaban al durmiente Martín como el más experto en tratar heridas. Cuando Martín recobró la consciencia puso su empeño en curar a los heridos y estabilizar sus heridas, de-teniendo las alarmantes hemorragias. Después, tras recobrar sombríamente su dignidad se dirgió al grupo solemnemente con rostro de contrición:
+Ninguno de los presentes sabía realmente de curación y todos señalaban al durmiente Martín como el más experto en tratar heridas. Cuando Martín recobró la consciencia puso su empeño en curar a los heridos y estabilizar sus heridas, de-teniendo las alarmantes hemorragias. Después, tras recobrar sombríamente su dignidad se dirigió al grupo solemnemente con rostro de contrición:
 
  > "Os debo una disculpa. He sido engañado en favor de aquellos que buscaban mi ruina y condenación. El diablo ha vuelto a jugar alguien de mi linaje y yo he sido su siguiente víctima, Mantengo solemnemente la promesa que os hice y acudiré en ayuda de las gente de Intza, liberándoos de todas promesa, condición o juramento. Si sobrevivo, me retiraré a pasar resto de mis días en penitencia en San Miguel de Aralar. "
 
