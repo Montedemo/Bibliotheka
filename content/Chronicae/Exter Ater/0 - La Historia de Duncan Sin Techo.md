@@ -5,8 +5,8 @@ Pero su familia, lejos de dejarlo en paz, sigue persiguiéndolo. Los MacDubhgail
 >"Hasta que no regreses, no podrás dormir bajo techo sin perder a quien más quieras"
 
 Lo que al principio parecía una amenaza vacía se ha ido cumpliendo con crueldad inexorable. Cada vez que Duncan ha dormido bajo un techo, ha perdido a alguien que apreciaba profundamente. La primera en caer fue su parens, Ekaterina, y después su amada Ainhoa, cuyo asesinato fue el acto final de la desesperada Oighrig, que, para cumplir su maldición, degolló a Ainhoa ante los ojos de Duncan. Devastado y consumido por la pérdida, Duncan se encontró rodeado por la tragedia y la impotencia.
-![cat warrior](https://i.imgur.com/hpaxgoi.jpeg) 
-
+![cat warrior|1387x1820](https://i.imgur.com/hpaxgoi.jpeg) 
+###### Duncan MacDubhgail ex Tremere
 Pero su dolor no terminó ahí. Determinado a llevar la trágica noticia de la muerte de Ainhoa al padre de ella, Ander Edurnegorri, un pirata vasco y aliado de su alianza, Duncan emprendió un viaje hacia el sur. Acompañado por sus dos únicos amigos en Montverte - el bravo espadachín normando **Raoul Legrand** y el brillante médico sefardí **Josué ben Solomon**, quien, nostálgico de su tierra, había decidido regresar a Toledo, convenciendo a Raoul de que las tierras de Iberia ofrecerían gloria y fama - Duncan cruzó la Galia y atravesó los Pirineos, aunque su ánimo permane-cía sombrío, como si el dolor y la culpa lo ahogaran en cada paso.
 
 En el corazón de vieja Vasconia, cuna de la brujería y tierra de tradiciones an-cestrales, entre viejos y nuevos enemi-gos, y en medio de difíciles alianzas, Duncan irá descubriendo que su exis-tencia está marcada por algo más gran-de de lo que había imaginado, una ver-dad que podría cambiarlo todo. La reve-lación de su destino no solo está vincu-lada a los magos y las intrigas que lo han perseguido, sino también a la clave de su propia identidad y propósito. Esta travesía por las feraces tierras vasconas no es solo un viaje físico, sino un des-censo hacia las profundidades de su alma, hacia un hado que desafiará todas las certezas que había creído conocer.
@@ -14,8 +14,8 @@ En el corazón de vieja Vasconia, cuna de la brujería y tierra de tradiciones a
 >Ez da destinoari ihes egiten uzten.
 >El destino no perdona a quien de él huye
 
-![cat warrior](https://i.imgur.com/8fIXZyl.png) 
-##### Raoul Legrand
+![cat warrior|1359x1804](https://i.imgur.com/8fIXZyl.png) 
+###### Raoul Legrand
 
-![cat warrior](https://i.imgur.com/HxvJDDm.jpeg) 
-##### Josué ben Salomón
+![cat warrior|1374x1824](https://i.imgur.com/HxvJDDm.jpeg) 
+###### Josué ben Salomón
