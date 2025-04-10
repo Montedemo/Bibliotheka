@@ -17,63 +17,9 @@ region:
   - Reims 
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
 
 En marcado contraste con la civilización cultivada de Reims, se encuentra un bosque salvaje y montañoso que comienza inmediatamente al sur de la ciudad, extendiéndose hacia el valle del río Marne y con una extensión de 25 millas. Las tierras de [Champaña](app://obsidian.md/2.%20Geograf%C3%ADa%20%F0%9F%8C%8D/Politico/2.%20Vasallos/Champa%C3%B1a) se inician al otro lado. Los árboles cubren densamente un altiplano de piedra caliza con una geografía irregular, llena de pequeños lagos, ríos subterráneos y abismos. Esto hace que estos bosques, a diferencia del [Bosque de Cuise](app://obsidian.md/Bosque%20de%20Cuise), sean poco adecuados para la caza, una actividad que tampoco interesa a los arzobispos de Reims. Como resultado, todo tipo de bestias salvajes deambulan con relativa impunidad. La Montaña de Reims alberga varios sitios peculiares y fuentes de vis.
 

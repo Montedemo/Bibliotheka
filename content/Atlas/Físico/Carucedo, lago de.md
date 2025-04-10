@@ -27,48 +27,9 @@ imports:
   - algo
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### Geografía
-> Tipo |  Valor |
-> ---|---|
-> Categoría | `=this.type` |
-> Clase | `=this.size` |
-> Region | `=this.region` |
-> Parte de | `=this.pertenece` |
-> Engloba | `=this.engloba`|
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
-> Tipo |  Valor |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
-> Defensas | `=this.defences` |
-> ###### Society
-> Tipo |  Valor |
-> ---|---|
-> Humanos | `=this.poblacion` |
-> Criaturas | `=this.criaturas` |
-> Aura | `=this.aura`  |
-> ###### Comercio
-> Tipo |  Valor |
-> ---|---|
-> Exporta | `=this.exports` |
-> Importa | `=this.imports` |
-> ###### Organizations
-> Tipo |  Valor |
-> ---|---|
-> ```dataview
-table WITHOUT ID link(file.name) AS "Group", link(Leader) AS "Leader"
-where contains( PrimaryHome, this.file.name)
 
 
-# `=this.file.name`
+
 ## Descripción General
  <section class="wa-section main-content"><p>El Lago de Carucedo se sitúa en la parte más occidental del Berizo, en el <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="983c8eac-8499-4733-9286-134d8464e491" data-template-type="organization" data-article="983c8eac-8499-4733-9286-134d8464e491">Reino de León</span> Destaca entre los lagos de barrera o aluvionamiento por su singular formación, debida a la explotación de las minas de oro romanas de Las Médulas.
 </p><hr /><p></p></section>  <section data-section-id="sidebarcontent" class="wa-section public"><dl><dt>General Details</dt><dd><div id="34f6d6503aede53853bd52dd2e60184f" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/831448cb18e2f2c9ca20110729e6cefe.jpeg" alt title="Lago_de_Carucedo_.jpeg" /></div></dd></dl></section><section data-section-id="geography" class="wa-section public"><dl><dt>Geography</dt><dd>El Lago tiene un perímetro de aproximadamente 5 kilómetros y 9 metros de profundidad máxima.</dd></dl></section><section data-section-id="history" class="wa-section public"><h2>History</h2>

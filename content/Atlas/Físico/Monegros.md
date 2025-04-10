@@ -20,63 +20,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p><span class="dropcap">L</span>OS Monegros es una región natural de <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="5ff3ea64-57a9-4e12-8823-322e90f3be82" data-template-type="location" data-article="5ff3ea64-57a9-4e12-8823-322e90f3be82">Spania</span> situada en el <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="84ca6161-c564-4375-b8b7-396a6b833b99" data-template-type="location" data-article="84ca6161-c564-4375-b8b7-396a6b833b99">Valle de Hiberia</span> y perteneciente el <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="15b4db11-0e8f-474b-9d4e-cc8d28ffeb20" data-template-type="organization" data-article="15b4db11-0e8f-474b-9d4e-cc8d28ffeb20">Reino de Aragón</span>. 
 <br />
 Se trata de un espacio boscoso y poco habitado, de lomas, barrancos y cárcavas frondosamente cubierto de árboles perennes como la sabina, la encina y el enebro, cuyo oscuro follaje a dado nombre al lugar. 

@@ -21,63 +21,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p><span class="dropcap">P</span>EQUEÑA serranía situada en el límite occidental de los <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="dce691b0-4783-4b83-86ca-801f4453bb41" data-template-type="location" data-article="dce691b0-4783-4b83-86ca-801f4453bb41">Monegros</span> en el <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="15b4db11-0e8f-474b-9d4e-cc8d28ffeb20" data-template-type="organization" data-article="15b4db11-0e8f-474b-9d4e-cc8d28ffeb20">Reino de Aragón</span>. Se extiende a lo largo de 40 kms en el límite entre las tierras de <span data-article-privacy="private" data-article-id="c007a6e5-30f6-4291-80b3-f2310a823075" data-template-type="settlement" class="private-article article-unlinked entity-link wa-link">Zaragoza</span> y <span data-article-privacy="private" data-article-id="3b5ae0d5-ba1b-43a0-ae15-f05b3f5aa10f" data-template-type="settlement" class="private-article article-unlinked entity-link wa-link">Huesca</span>, desde los Llanos de la Violada hasta las cercanías de La Almolda.
 </p><div id="333ccf0e1b243829399c4d1989d0be5d" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/10e9cdc83be23ad0c4a03aa05bbf3204.png" alt title="alcubierre01.png" /></div>
  

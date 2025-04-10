@@ -21,63 +21,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p>Los montes Carpetanos son una larga cadena montañosa situada en el centro de la <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="5ff3ea64-57a9-4e12-8823-322e90f3be82" data-template-type="location" data-article="5ff3ea64-57a9-4e12-8823-322e90f3be82">Spania</span> formando prácticamente un eje suroeste-noreste que la divide en dos mitades, norte y sur. Tienen una longitud aproximada de 400 km y se extiende desde el valle del río Alagón, afluente del Tajo y que los separa de su continuación, los <span data-article-privacy="private" data-article-id="87d18655-2535-4755-a914-2a62d932c16c" data-template-type="location" class="private-article article-unlinked entity-link wa-link">Vettones, M.</span>, hasta los montes de <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="2ea4c137-062c-4eff-806d-a2f3d6479d8f" data-template-type="location" data-article="2ea4c137-062c-4eff-806d-a2f3d6479d8f">Idubeda</span> en el centro-noreste de <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="5ff3ea64-57a9-4e12-8823-322e90f3be82" data-template-type="location" data-article="5ff3ea64-57a9-4e12-8823-322e90f3be82">Spania</span>. Constituye la separación natural entre los reinos de Castilla y de Toledo, y también forman divisoria entre las cuencas de los ríos Duero y Tajo.
 La mayor elevación del sistema es el pico Almanzor (2592 m sobre el nivel del mar), situado en los <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="8778a0c6-e307-403d-81be-4d7f8e46e3fa" data-template-type="location" data-article="8778a0c6-e307-403d-81be-4d7f8e46e3fa">Montes Cretos</span>. La cordillera es un encadenamiento de sierras sucesivas, separadas  entre sí por grandes valles o puertos de montaña. De todas ellas, las más importantes por extensión son las siguientes, ordenadas de oeste a este: Cretos, Guadarrama y Ayllón. La base de estas montañas oscila de los 500 a 1200 metros.</p></section>  <section data-section-id="alternativename" class="wa-section public"><dl><dt>Alternativename</dt><dd>Transierra</dd></dl></section><section data-section-id="geography" class="wa-section public"><h2>Geography</h2>
 <p>El término "montes Carpetanos" es un término académico pues no es compartido por los habitantes de la zona, los cuales se refieren a las diferentes sierras de las que se compone la cordillera y no tienen conciencia de un todo. Enumeradas de oeste a este, las sierras son las siguientes:

@@ -21,63 +21,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p>Pico situado entre el <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="952fff6a-d594-4eb5-abd0-a8c97abe7000" data-template-type="location" data-article="952fff6a-d594-4eb5-abd0-a8c97abe7000">Puerto de Incles</span> o puerto de Font Argenta y el pico de <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="b20c35a5-302a-4aed-a638-7cb556ba9ee3" data-template-type="location" data-article="b20c35a5-302a-4aed-a638-7cb556ba9ee3">L'Anrondat</span>, a cuyo macizo pertenece. Un cresta permite el paso entre ambas vertientes de los Pirineos a través del mencionado puerto. Si las condiciones metereólogicas acompañan se disfruta de unas vistas excelentes durante todo el recorrido.
 </p>
 <p>

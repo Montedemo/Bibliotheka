@@ -21,63 +21,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p>Una de las principales cordilleras de <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="298d6b16-2538-44ad-928c-5d5c34faeda9" data-template-type="location" data-article="298d6b16-2538-44ad-928c-5d5c34faeda9">Europa</span>, situada en el sector sudoccidental de esta, dividiendo las partes de Hispania y <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="95e463a3-b292-434e-8950-8d20a84d7f6a" data-template-type="location" data-article="95e463a3-b292-434e-8950-8d20a84d7f6a">Galia</span>.</p></section>  <section data-section-id="alternativename" class="wa-section public"><dl><dt>Alternativename</dt><dd>Pyraenei Montes, Pyrineii, Pirineus, Pirinées</dd></dl></section><section data-section-id="geography" class="wa-section public"><h2>Geography</h2>
 <p>A primera vista, se puede dividir los Pirineos en sus dos laderas o vertientes, la meridional y más extensa -o Pirineos Hispánicos- cuyas aguas van a parar en su mayoría al río Ebro por lo que pueden ser llamados también ibéricos - y la septentrional o Pirineos Gálicos, u océanicos ya que la mayoría de sus aguas van a parar al Océano. También podríamos dividir los Pirineos según la cultura dominante de su zona, así: Pirineos vascones, Pirineos aquitanos, Pirineos aragoneses, Pirineos provenzales y Pirineos catalanes. Sin embargo, dado que las comunidades pirenaicas están íntimamente conectadas a ambas vertientes, vamos a obviar dicha división y marcar dos lineas verticales: Sumus Portus y Airenosia, dividiendo los Pirineos tres segmentos, de Oeste a Este:
 </p><ol>

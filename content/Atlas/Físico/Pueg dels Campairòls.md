@@ -20,63 +20,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p><span class="dropcap">C</span>OLINA al norte de <span data-article-privacy="private" data-article-id="623534ea-4401-4d05-a959-d8675bc6f141" data-template-type="settlement" class="private-article article-unlinked entity-link wa-link">Vestiac</span> que limita al sur el <span data-article-privacy="private" data-article-id="0cfd43b8-6885-4c0c-820d-8b05e2d26ebb" data-template-type="location" class="private-article article-unlinked entity-link wa-link">Bosque de Tava</span> y en cuya umbría se encuentra un lugar de poder donde crecen setas mágicas. Los lugareños lo llaman La Buicha. De esta montaña, la solana pertenece al <span data-article-privacy="private" data-article-id="b112c96d-4b72-4bc1-8eca-1a5644c8aaaa" data-template-type="organization" class="private-article article-unlinked entity-link wa-link">Monasterio de San Martin de Unac</span> y la umbría al <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="4e7fe48d-0e6d-4b6d-9210-e0223d9491dd" data-template-type="organization" data-article="4e7fe48d-0e6d-4b6d-9210-e0223d9491dd">Señorío de Lordat</span>.
 </p><div id="929b48ba0d8413d30107bfd663ccf54c" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/d54eae179c58ee985e72ee207d9635c3.jpg" alt title="1280px-Bestiac.jpg" /></div><small><b>El Pueg de la Buicha o dels Campeirols, con la aldea de Vestiac a sus pies y los picos del Macizo de Tava de fondo</b></small>
 <hr /><h3>Descripción</h3>

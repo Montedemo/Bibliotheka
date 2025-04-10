@@ -28,48 +28,9 @@ imports:
 ---
 
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### Geografía
-> Tipo |  Valor |
-> ---|---|
-> Categoría | `=this.type` |
-> Clase | `=this.size` |
-> Region | `=this.region` |
-> Parte de | `=this.pertenece` |
-> Engloba | `=this.engloba`|
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
-> Tipo |  Valor |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
-> Defensas | `=this.defences` |
-> ###### Society
-> Tipo |  Valor |
-> ---|---|
-> Humanos | `=this.poblacion` |
-> Criaturas | `=this.criaturas` |
-> Aura | `=this.aura`  |
-> ###### Comercio
-> Tipo |  Valor |
-> ---|---|
-> Exporta | `=this.exports` |
-> Importa | `=this.imports` |
-> ###### Organizations
-> Tipo |  Valor |
-> ---|---|
-> ```dataview
-table WITHOUT ID link(file.name) AS "Group", link(Leader) AS "Leader"
-where contains( PrimaryHome, this.file.name)
 
 
-# `=this.file.name`
+
 ## Descripción General
  <section class="wa-section main-content"><p>El lago de San Martín de Castañeda -o Mare Iacum- es un lago localizado en la parte noroccidental de Iberia, en las tierras altas del <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="983c8eac-8499-4733-9286-134d8464e491" data-template-type="organization" data-article="983c8eac-8499-4733-9286-134d8464e491">Reino de León</span> entre el país de <strong class="article-unlinked">Berizo</strong>, Galicia y Portucale.. Está situado a una altura de unos 1000 metros sobre el nivel del mar, y se trata del lago glaciar más grande de <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="5ff3ea64-57a9-4e12-8823-322e90f3be82" data-template-type="location" data-article="5ff3ea64-57a9-4e12-8823-322e90f3be82">Spania</span>. El principal caudal de entrada y salida de agua del lago corresponde al río Tera.
 Recibe su actual nombre por ser propiedad del <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="75c81dbc-ee6d-4bfa-b089-e0df427e86b5" data-template-type="organization" data-article="75c81dbc-ee6d-4bfa-b089-e0df427e86b5">Monasterio de San Martin de Castañeda</span> cuya azarosa existencia se ha vinculado a la del lago cerca del cual se ubica.</p></section>  <section data-section-id="sidebarcontent" class="wa-section public"><dl><dt>General Details</dt><dd><div id="e24d75466012da06b8e30e0268a6b6b8" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/2c44d308f53399b09966305e387231a7.jpg" alt title="640px-Lago_de_Sanabria,_Zamora._03.jpg" /></div></dd></dl></section><section data-section-id="alternativename" class="wa-section public"><dl><dt>Alternativename</dt><dd>Lago de San Martín de Castañeda, Mare Iacum</dd></dl></section><section data-section-id="geography" class="wa-section public"><h2>Geography</h2>

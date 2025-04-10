@@ -28,48 +28,9 @@ imports:
 ---
 
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### Geografía
-> Tipo |  Valor |
-> ---|---|
-> Categoría | `=this.type` |
-> Clase | `=this.size` |
-> Region | `=this.region` |
-> Parte de | `=this.pertenece` |
-> Engloba | `=this.engloba`|
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
-> Tipo |  Valor |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
-> Defensas | `=this.defences` |
-> ###### Society
-> Tipo |  Valor |
-> ---|---|
-> Humanos | `=this.poblacion` |
-> Criaturas | `=this.criaturas` |
-> Aura | `=this.aura`  |
-> ###### Comercio
-> Tipo |  Valor |
-> ---|---|
-> Exporta | `=this.exports` |
-> Importa | `=this.imports` |
-> ###### Organizations
-> Tipo |  Valor |
-> ---|---|
-> ```dataview
-table WITHOUT ID link(file.name) AS "Group", link(Leader) AS "Leader"
-where contains( PrimaryHome, this.file.name)
 
 
-# `=this.file.name`
+
 ## Descripción General
  <section class="wa-section main-content"><p><span class="dropcap">L</span>AS tablas son un importante paraje húmedo situado al norte del <span data-article-privacy="private" data-article-id="f3123ac5-279c-423e-8c1d-c3e529cce613" data-template-type="location" class="private-article article-unlinked entity-link wa-link">Campo de Calatrava</span> en las cercanías de las aldeas de Laminiel y del castillo de Zacatena, propiedad de la <span data-article-privacy="private" data-article-id="c022d27f-6d84-4906-bc2c-8c6023b59ba2" data-template-type="organization" class="private-article article-unlinked entity-link wa-link">Orden de Calatrava</span>.
 <br />

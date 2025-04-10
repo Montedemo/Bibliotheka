@@ -21,63 +21,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p><span class="dropcap">P</span>EÑALARA es una montaña del interior de la península ibérica, la más alta de la sierra de Guadarrama —perteneciente a los <span data-article-privacy="private" data-article-id="bea92cec-7bf3-4d4f-b332-adefce1102ab" data-template-type="location" class="private-article article-unlinked entity-link wa-link">Carpetani, M.</span> en el corazón de la <strong class="article-unlinked">Transierra castellana</strong>, con 2428 metros sobre el nivel del mar. 
 <br />
 Se encuentra en el centro de un macizo montañoso de su mismo nombre, de naturaleza granítica y que cuenta con una serie de picos alineados de suroeste a noreste: Dos Hermanas, Peñalara, el risco de los Claveles y el risco de los Pájaros. Los bosques de pino silvestre que tapizan las laderas de la montaña dejan paso, por encima de los 1900 metros de altitud, a las praderas alpinas y matorrales de alta montaña. A esta cota, y en la ladera este, existe un circo glaciar y más de veinte pequeñas lagunas donde viven más de diez especies de anfibios y otros animales de alta montaña.Se trata de una montaña frecuentada por pastores y cazadores dado su fácil acceso.

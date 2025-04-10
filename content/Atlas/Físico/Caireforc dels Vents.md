@@ -21,63 +21,9 @@ region:
   - Valle de Astan
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p><span class="dropcap">P</span>ROMINENTE y extraña formación rocosa que se alza sobre un espolón de la cara norte de <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="b20c35a5-302a-4aed-a638-7cb556ba9ee3" data-template-type="location" data-article="b20c35a5-302a-4aed-a638-7cb556ba9ee3">L'Anrondat</span>, cuya ominosa figura impresiona a los viajeros y pastores que cruzan el <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="952fff6a-d594-4eb5-abd0-a8c97abe7000" data-template-type="location" data-article="952fff6a-d594-4eb5-abd0-a8c97abe7000">Puerto de Incles</span> ya que cierra por el oeste el hermoso paraje de los <span data-article-privacy="private" data-article-id="5aaf4453-7071-4fd8-83ba-d71b838a93c0" data-template-type="location" class="private-article article-unlinked entity-link wa-link">Estanques de Font Argenta</span> donde acostumbran a descansar, y donde suelen pacer los rebaños durante el veraneo. El lugar es objeto de siniestros rumores ya que se dice que en su cima habitan brujas o demonios y por eso, los pastores se refieren al lugar como "la Coma del Infierno" advitiendo de que es un lugar por donde no llevar los rebaños.
 <br />
 La roca recibe su nombre por ser el eje donde confluyen los los fuertes vientos que se cuelan por la abertura del collado de Incles cruzando las cumbres pirenaicas de la <span data-article-privacy="private" data-article-id="a22a76f2-5b76-483c-bde4-4fa9be611bd1" data-template-type="location" class="private-article article-unlinked entity-link wa-link">Sierra de Astan</span> de Norte a sur y de Sur a Norte, envolsándose en todas direcciones a su alrededor, lo que explica su peculiar forma como tallada por dichos vientos. 

@@ -21,63 +21,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p>La sierra de Gata es una de las sierras que componen los <span data-article-privacy="private" data-article-id="87d18655-2535-4755-a914-2a62d932c16c" data-template-type="location" class="private-article article-unlinked entity-link wa-link">Vettones, M.</span> en el centro-oeste de <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="5ff3ea64-57a9-4e12-8823-322e90f3be82" data-template-type="location" data-article="5ff3ea64-57a9-4e12-8823-322e90f3be82">Spania</span>. Sus cumbres marcan la divisoria entre las aguas del <strong class="article-unlinked">Duero</strong> , al norte y del <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="00fea915-3b49-49b2-9f9c-de8345d24b05" data-template-type="location" data-article="00fea915-3b49-49b2-9f9c-de8345d24b05">Tajo</span> hacia el Sur, marcando por lo tanto la diferencia entre la Spania norteña y la meridional, y señalando la sierra que el <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="983c8eac-8499-4733-9286-134d8464e491" data-template-type="organization" data-article="983c8eac-8499-4733-9286-134d8464e491">Reino de León</span> ha superado, formando la región de la <strong class="article-unlinked">Transierra</strong> hasta el Tajo. Por el oeste limita con la sierra de la Malcata, en la frontera de León con el <span data-article-privacy="private" data-article-id="84fa60ef-bfdf-458b-89cd-48a9a3f8133d" data-template-type="organization" class="private-article article-unlinked entity-link wa-link">Reino de Portugal</span> . Por el este limita con la sierra de Francia; la separación entre ambas sierras es el valle formado por el río Hurdano y la inhóspita comarca de Las Hurdes.
 </p><hr /><p></p></section>  <section data-section-id="sidebarcontent" class="wa-section public"><dl><dt>General Details</dt><dd><div id="2f1fe79b17d243e30b2652358a1983c1" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/474f9d542aa9891c00bb930f40bcbd4d.jpeg" alt title="640px-Sierra_desde_Acebo.jpeg" /></div></dd></dl></section><section data-section-id="geography" class="wa-section public"><h2>Geography</h2>
 <p>La sierra de Gata forma una separación natural de la llanura del Duero y la del Tajo

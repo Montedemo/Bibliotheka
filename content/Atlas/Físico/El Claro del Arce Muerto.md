@@ -20,63 +20,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p><span class="dropcap">P</span>EQUEÑA regio del <span data-article-privacy="private" data-article-id="0cfd43b8-6885-4c0c-820d-8b05e2d26ebb" data-template-type="location" class="private-article article-unlinked entity-link wa-link">Bosque de Tava</span> ubicada cerca de su límite meridional al sur de <span data-article-privacy="private" data-article-id="50d5419f-30a9-4b35-81d5-87127d296fcd" data-template-type="settlement" class="private-article article-unlinked entity-link wa-link">Causson</span> en torno a un árbol mágico habitado por una especie de ogro benéfico.
 </p><div id="117b9479698943329a4c6a25917da5cb" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/2c290f0694e55be1b6ceb89c871aa890.png" alt title="claro del arce muerto.png" /></div>
 <hr />En la sección del bosque de Tava que ha quedado al sur de <span data-article-privacy="private" data-article-id="50d5419f-30a9-4b35-81d5-87127d296fcd" data-template-type="settlement" class="private-article article-unlinked entity-link wa-link">Causson</span> hay un pequeño claro. En el borde de este claro se levanta un antiguo arce muerto con desmadejadas ramas desnudas. El rasgo preminente de esta regio es la presencia de un espiritu eremita, un ogro del bosque que ha hecho su hogar en el gran hueco del arce.

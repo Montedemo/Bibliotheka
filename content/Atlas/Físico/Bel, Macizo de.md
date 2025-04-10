@@ -21,63 +21,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p><span class="dropcap">A</span>LTIPLANO pirenaico que es una extensión aplanada de la <span data-article-privacy="private" data-article-id="a22a76f2-5b76-483c-bde4-4fa9be611bd1" data-template-type="location" class="private-article article-unlinked entity-link wa-link">Sierra de Astan</span> hacia el norte y cuyos bordes caen sobre el valle alto del <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="cbdd5b43-1a4e-4b3b-bcad-67ecb60f704d" data-template-type="location" data-article="cbdd5b43-1a4e-4b3b-bcad-67ecb60f704d">Arièja</span> en el <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="10eee935-c213-4308-8af4-73b1d428b1ec" data-template-type="location" data-article="10eee935-c213-4308-8af4-73b1d428b1ec">Savarthès</span>.</p><div id="2a2fc71577d4d71d165e77fdaaef8d22" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/4542a0c779c6717e3f968a44c4390a53.jpeg" alt title="Raquettes-a-Beille38-1.jpeg" /></div>
 <hr /><p></p></section>  <section data-section-id="alternativename" class="wa-section public"><dl><dt>Alternativename</dt><dd>Plana de Belha</dd></dl></section><section data-section-id="geography" class="wa-section public"><h2>Geography</h2>
 <p>Plataforma descendente de la <span data-article-privacy="private" data-article-id="a22a76f2-5b76-483c-bde4-4fa9be611bd1" data-template-type="location" class="private-article article-unlinked entity-link wa-link">Sierra de Astan</span> hacia el Arièja, limita al sur con el propio eje de cumbres de Astan, al N. con el valle del Arièja que lo separa de los <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="805ba72b-854c-4855-aee7-c32680c3baef" data-template-type="location" data-article="805ba72b-854c-4855-aee7-c32680c3baef">Montes de Tava</span>, al este por el arroyo de la Val y al oeste por el abrupto valle del <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="b311c872-59bd-4a54-a26c-8e85de6fb223" data-template-type="location" data-article="b311c872-59bd-4a54-a26c-8e85de6fb223">Astan</span>. 

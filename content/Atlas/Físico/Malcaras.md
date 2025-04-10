@@ -20,63 +20,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p><span class="dropcap">A</span>DUSTA montaña rocosa bajo cuya sombra se encuentra el Estanh Forcat, paraje que atraviesan los pastores y viajantes que cruzan los Pirineos por los pasos de Albeilla y Tristaina entre el <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="10eee935-c213-4308-8af4-73b1d428b1ec" data-template-type="location" data-article="10eee935-c213-4308-8af4-73b1d428b1ec">Savarthès</span> y Andorra. En lo alto de las paredes del precipicio se ubica una caverna que es el hogar de un agresivo gigante cuyo apelativo a dado nombre al lugar.</p><div id="09560af78b2b0c8a9da2720ae6b2886c" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/5b23e879c1b9c1f12c9e0f1d941ef425.jpeg" alt title="Pic de Malcaras.jpeg" /></div>
 <hr /><h3>Descripción</h3>
 Dominando los desfiladeros que llevan del <strong class="article-unlinked">Val de Sos</strong> a través de la <span data-article-privacy="private" data-article-id="5ad24502-fb85-4272-a195-b6f65a65b463" data-template-type="location" class="private-article article-unlinked entity-link wa-link">Val de Siguer</span> a los <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="18ce02b0-3c11-413e-ad34-b81b376c753d" data-template-type="location" data-article="18ce02b0-3c11-413e-ad34-b81b376c753d">Valles de Andorra</span> hay un monte adusto al que llaman el Pic de Malcaras. A un centenar de pasos de altura, escondida bajo una roca que sobresale, hay una cueva inaccesible por medios convencionales. 

@@ -21,63 +21,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p><span class="dropcap">C</span>UMBRE pirenaica de 2730 m, parte de la <span data-article-privacy="private" data-article-id="a22a76f2-5b76-483c-bde4-4fa9be611bd1" data-template-type="location" class="private-article article-unlinked entity-link wa-link">Sierra de Astan</span> en la divisoria entre los <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="18ce02b0-3c11-413e-ad34-b81b376c753d" data-template-type="location" data-article="18ce02b0-3c11-413e-ad34-b81b376c753d">Valles de Andorra</span> y el <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="10eee935-c213-4308-8af4-73b1d428b1ec" data-template-type="location" data-article="10eee935-c213-4308-8af4-73b1d428b1ec">Savarthès</span>.
 </p><div id="e4ca2c3f59bbc1e4f130f4cd5467b35b" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/f2ff13f675abeca2607271e0e52f8658.jpeg" alt title="l'anrondat 2.jpeg" /></div><p></p></section>  <section data-section-id="sidebarcontent" class="wa-section public"><dl><dt>General Details</dt><dd><div id="aff39cbea2ce66e56f9ebb4295f9ed69" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/2ec213769f6848da5851463e8d93d88e.jpeg" alt title="pic de l'anrondat.jpeg" /></div></dd></dl></section><section data-section-id="sidepanelcontenttop" class="wa-section public"><dl><dt>General Details</dt><dd><b>Altitud</b>
 <br />2730 m.</dd></dl></section><section data-section-id="sidepanelcontent" class="wa-section public"><dl><dt>General Details</dt><dd><div id="0d5560948394b3519992ab40edb5f1c0" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/25a11d1a432b1a2ffcdfc7b4b1fc37a5.jpeg" alt title="anrondat y l'isle.jpeg" /></div>

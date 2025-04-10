@@ -21,63 +21,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p><span class="dropcap">E</span>L Moncayo es una montaña de <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="2ea4c137-062c-4eff-806d-a2f3d6479d8f" data-template-type="location" data-article="2ea4c137-062c-4eff-806d-a2f3d6479d8f">Idubeda</span> situada en la frontera entre el <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="586de2a4-1f87-409c-8afc-f6828ead03db" data-template-type="organization" data-article="586de2a4-1f87-409c-8afc-f6828ead03db">Reino de Castilla</span> y el <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="15b4db11-0e8f-474b-9d4e-cc8d28ffeb20" data-template-type="organization" data-article="15b4db11-0e8f-474b-9d4e-cc8d28ffeb20">Reino de Aragón</span>, en <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="5ff3ea64-57a9-4e12-8823-322e90f3be82" data-template-type="location" data-article="5ff3ea64-57a9-4e12-8823-322e90f3be82">Spania</span>. Con sus 2315 m sobre el nivel del mar, es la máxima cumbre de Idubeda y uno de los picos relevantes de toda la Spania tanto por su altura como por su singularidad.<br />
 El topónimo Moncayo parece proceder del latín <em>Mons Caius</em> que derivaría de Cayus - de cada/cata = cuesta/pendiente/inclinación-, monte (muy) pendiente o de (mucha) cuesta".</p><div id="9c584e6d2f4c5f60891b25d7509e3d49" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/51ff8ec21434b6079fbbab836f00dd5b.png" alt title="moncayo01.png" /></div><hr />
 <div class="visibility-toggler" id="f8f105d7f39549d94a43603a45b6387a"> 
