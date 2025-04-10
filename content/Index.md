@@ -12,6 +12,8 @@ description: Biblioteca digital de saberes antiguos
 
 🌐 Explora el conocimiento archivado en el menú lateral.
 
-💀*RECUERDA QUE HAS DE MORIR*💀
+## 💀*RECUERDA QUE HAS DE MORIR* 💀
 
 ![[bibliotecademontedemo.png]]
+
+---
