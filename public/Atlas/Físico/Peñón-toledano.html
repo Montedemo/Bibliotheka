@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="es"><head><title>Peñón toledano</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Bibliotheka"/><meta property="og:title" content="Peñón toledano"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Peñón toledano"/><meta name="twitter:description" content="Infobox =this.file.name =this.categoria Información general | | ---|---| Clase | =this.clase | Tipo | =this.tipo | Region | =this.region | Parte de | =this.location | Aura | =this.aura | Viaje (=[[Travel Calculator]].HoursPerDay hrs per day) Travel Calculator / Exhaustion: =[[Travel Calculator]].Ex..."/><meta property="og:description" content="Infobox =this.file.name =this.categoria Información general | | ---|---| Clase | =this.clase | Tipo | =this.tipo | Region | =this.region | Parte de | =this.location | Aura | =this.aura | Viaje (=[[Travel Calculator]].HoursPerDay hrs per day) Travel Calculator / Exhaustion: =[[Travel Calculator]].Ex..."/><meta property="og:image:alt" content="Infobox =this.file.name =this.categoria Información general | | ---|---| Clase | =this.clase | Tipo | =this.tipo | Region | =this.region | Parte de | =this.location | Aura | =this.aura | Viaje (=[[Travel Calculator]].HoursPerDay hrs per day) Travel Calculator / Exhaustion: =[[Travel Calculator]].Ex..."/><meta property="twitter:domain" content="Montedemo.github.io/Bibliotheka/Index"/><meta property="og:url" content="https://montedemo.github.io/Bibliotheka/Index/Atlas/Físico/Peñón-toledano"/><meta property="twitter:url" content="https://montedemo.github.io/Bibliotheka/Index/Atlas/Físico/Peñón-toledano"/><link rel="icon" href="../../static/icon.png"/><meta name="description" content="Infobox =this.file.name =this.categoria Información general | | ---|---| Clase | =this.clase | Tipo | =this.tipo | Region | =this.region | Parte de | =this.location | Aura | =this.aura | Viaje (=[[Travel Calculator]].HoursPerDay hrs per day) Travel Calculator / Exhaustion: =[[Travel Calculator]].Ex..."/><meta name="generator" content="Quartz"/><link href="../../index.css" rel="stylesheet" type="text/css" spa-preserve/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  padding: 2rem;
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiQzpcXFVzZXJzXFxtb250ZVxccmVwb3NcXHF1YXJ0elxccXVhcnR6XFxjb21wb25lbnRzXFxzdHlsZXMiLCJzb3VyY2VzIjpbIm1lcm1haWQuaW5saW5lLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUdGO0VBQ0U7OztBQUtGO0VBQ0U7RUFDQTs7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcGFkZGluZzogMnJlbTtcbiAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICAgIHRyYW5zZm9ybS1vcmlnaW46IDAgMDtcbiAgICAgIHRyYW5zaXRpb246IHRyYW5zZm9ybSAwLjFzIGVhc2U7XG4gICAgICBvdmVyZmxvdzogdmlzaWJsZTtcbiAgICAgIG1pbi1oZWlnaHQ6IDIwMHB4O1xuICAgICAgbWluLXdpZHRoOiAyMDBweDtcblxuICAgICAgcHJlIHtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICBib3JkZXI6IG5vbmU7XG4gICAgICB9XG5cbiAgICAgIHN2ZyB7XG4gICAgICAgIG1heC13aWR0aDogbm9uZTtcbiAgICAgICAgaGVpZ2h0OiBhdXRvO1xuICAgICAgfVxuICAgIH1cblxuICAgICYgPiAubWVybWFpZC1jb250cm9scyB7XG4gICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICBib3R0b206IDIwcHg7XG4gICAgICByaWdodDogMjBweDtcbiAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICBnYXA6IDhweDtcbiAgICAgIHBhZGRpbmc6IDhweDtcbiAgICAgIGJhY2tncm91bmQ6IHZhcigtLWxpZ2h0KTtcbiAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgICBib3JkZXItcmFkaXVzOiA2cHg7XG4gICAgICBib3gtc2hhZG93OiAwIDJweCA0cHggcmdiYSgwLCAwLCAwLCAwLjEpO1xuICAgICAgei1pbmRleDogMjtcblxuICAgICAgLm1lcm1haWQtY29udHJvbC1idXR0b24ge1xuICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgd2lkdGg6IDMycHg7XG4gICAgICAgIGhlaWdodDogMzJweDtcbiAgICAgICAgcGFkZGluZzogMDtcbiAgICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgICBjb2xvcjogdmFyKC0tZGFyayk7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDRweDtcbiAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgICAgICBmb250LXNpemU6IDE2cHg7XG4gICAgICAgIGZvbnQtZmFtaWx5OiB2YXIoLS1ib2R5Rm9udCk7XG4gICAgICAgIHRyYW5zaXRpb246IGFsbCAwLjJzIGVhc2U7XG5cbiAgICAgICAgJjpob3ZlciB7XG4gICAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgfVxuXG4gICAgICAgICY6YWN0aXZlIHtcbiAgICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMXB4KTtcbiAgICAgICAgfVxuXG4gICAgICAgIC8vIFN0eWxlIHRoZSByZXNldCBidXR0b24gZGlmZmVyZW50bHlcbiAgICAgICAgJjpudGgtY2hpbGQoMikge1xuICAgICAgICAgIHdpZHRoOiBhdXRvO1xuICAgICAgICAgIHBhZGRpbmc6IDAgMTJweDtcbiAgICAgICAgICBmb250LXNpemU6IDE0cHg7XG4gICAgICAgIH1cbiAgICAgIH1cbiAgICB9XG4gIH1cbn1cbiJdfQ== */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://Montedemo.github.io/Bibliotheka/Index/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://Montedemo.github.io/Bibliotheka/Index/Atlas/Físico/Peñón-toledano-og-image.webp"/><meta property="og:image:url" content="https://Montedemo.github.io/Bibliotheka/Index/Atlas/Físico/Peñón-toledano-og-image.webp"/><meta name="twitter:image" content="https://Montedemo.github.io/Bibliotheka/Index/Atlas/Físico/Peñón-toledano-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Atlas/Físico/Peñón-toledano"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="../..">Bibliotheka</a></h2><div class="spacer mobile-only"></div><div style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><p>Buscar</p><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Busca algo" placeholder="Busca algo"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Modo oscuro"><title>Modo oscuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Modo claro"><title>Modo claro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-content"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorador</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div class="explorer-content" aria-expanded="false"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../Atlas/">Atlas</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../Atlas/Físico/">Físico</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Peñón toledano</a></div></nav><h1 class="article-title">Peñón toledano</h1><p show-comma="true" class="content-meta"><time datetime="2025-04-09T20:10:00.000Z">09 abr 2025</time><span>Se lee en 16 min</span></p><ul class="tags"><li><a href="../../tags/Geography" class="internal tag-link">Geography</a></li><li><a href="../../tags/land" class="internal tag-link">land</a></li></ul></div></div><article class="popover-hint"><blockquote class="callout infobox" data-callout="infobox">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Infobox</p></div>
+                  
+                </div>
+<div class="callout-content">
+<h1 id="thisfilename"><code>=this.file.name</code><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#thisfilename" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><img src="../../MapPlaceholder.png" width="auto" height="auto" alt="cover hsmall"/></p>
+<h6 id="thiscategoria"><code>=this.categoria</code><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#thiscategoria" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<h6 id="información-general">Información general<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#información-general" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<p>|   |
+---|---|
+Clase | <code>=this.clase</code> |
+Tipo | <code>=this.tipo</code> |
+Region | <code>=this.region</code> |
+Parte de | <code>=this.location</code> |
+Aura | <code>=this.aura</code>  |</p>
+<h6 id="viaje-travel-calculatorhoursperday-hrs-per-day">Viaje (<code>=[[Travel Calculator]].HoursPerDay</code> hrs per day)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#viaje-travel-calculatorhoursperday-hrs-per-day" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<h6 id="travel-calculator---exhaustion--travel-calculatorexhaustionlevel"><a href="../../Travel-Calculator" class="internal alias" data-slug="Travel-Calculator">Travel Calculator</a>  / <a href="../../Exhaustion" class="internal" data-slug="Exhaustion">Exhaustion</a>:  <code>=[[Travel Calculator]].ExhaustionLevel</code><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#travel-calculator---exhaustion--travel-calculatorexhaustionlevel" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Destino</th><th>Jornadas</th></tr></thead><tbody><tr><td><a href="../../Voonlar" class="internal" data-slug="Voonlar">Voonlar</a></td><td>🕓: <code>VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]</code></td></tr></tbody></table></div>
+<h6 id="politica">Politica<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#politica" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<p>|   |
+---|---|
+Propiedad de: | <code>=this.propietario</code> |
+Disputado por | <code>=this.disputado</code> |</p>
+<h6 id="lugares-de-interés">Lugares de interés<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#lugares-de-interés" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="dataview" data-theme="github-light github-dark"><code data-language="dataview" data-theme="github-light github-dark" style="display:grid;"><span data-line> </span></code></pre></figure>
+</div>
+</blockquote>
+<p>table WITHOUT ID link(file.name) AS “Engloba”,  tipo
+from “2. Geografía 🌍/Fisico”
+where contains( location, this.file.name)</p>
+<blockquote>
+<pre><code>###### Poblaciones de interés
+```dataview
+</code></pre>
+</blockquote>
+<p>table WITHOUT ID link(file.name) AS “Engloba”,  tipo
+from “2. Geografía 🌍/Demografico”
+where contains( location, this.file.name)</p>
+<blockquote>
+<pre><code>###### Organizaciones
+```dataview
+</code></pre>
+</blockquote>
+<p>table WITHOUT ID link(file.name) AS “Entidad”, link(Leader) AS “Jefe”, categoría, clase, tipo
+from “3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos”
+where contains( PrimaryHome, this.file.name)</p>
+<blockquote>
+<pre><code>###### Personalidades 
+```dataview
+</code></pre>
+</blockquote>
+<p>TABLE WITHOUT ID link(file.name) AS “Nombre”, clase, tipo, ☠
+from “3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes”
+where contains( PrimaryHome, this.file.name)
+SORT file.name DESC</p>
+<blockquote>
+<pre><code>###### Criaturas
+```dataview
+</code></pre>
+</blockquote>
+<p>TABLE WITHOUT ID link(file.name) AS “Criatura”, tipo, RdP
+from “6. Bestiario 🐉”
+where contains( PrimaryHome, this.file.name)
+SORT file.name DESC</p>
+<blockquote>
+<pre><code></code></pre>
+</blockquote>
+<h1 id="thisfilename-1"><code>=this.file.name</code><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#thisfilename-1" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+ <section class="wa-section main-content"><p>Se conoce así al cerro escarpado, rodeado por el <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="00fea915-3b49-49b2-9f9c-de8345d24b05" data-template-type="location" data-article="00fea915-3b49-49b2-9f9c-de8345d24b05">Tajo</span> en tres de sus cuatro partes que sirve de basamento natura o pedestal a la <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="03e41c57-ad44-4b2a-9572-14789189ef45" data-template-type="settlement" data-article="03e41c57-ad44-4b2a-9572-14789189ef45">Ciudad de Toledo</span> , y donde reside en primer término su sugestiva belleza. Toledo sobre su basamento, contemplado a gran distancia y atendiendo a sus rasgos geométricos, ofrece la proporción en sus dimensiones, la esbeltez de líneas y la armonía necesaria de sus elementos, para que ante nuestros sentidos lo califiquemos como una obra de arte, ya sea divina, mágica o humana.
+</p>
+<p>
+La situación y forma de este peñón, separado al azar de la meseta le ha conferido su importancia estratégica como fortaleza natural, asiento de tribus, sede de reyes y codiciada posesión en todas épocas. Si la ciudad se extendiera sobre la monótona Mancha, esta perdería sus encantos y resultarían imposibles los trazados de sus murallas, calles y edificios. El Toledo humano debe su origen y su desenvolvimiento, precisamente al hecho de haber sido asentado en el hermoso pedestal, pintoresca y estratégicamente emplazado.
+</p>
+<p>
+La naturaleza ofrece en Toledo una sensación distinta a la habitual; no se trata de accidentes de dimensiones descomunales, de formas de erosión raras, sino de un accidente de trazado y proporciones tales que diríase ha sido concebido por el más inspirado artista. La hoz del Tajo, siendo profunda, tiene vertientes simétricas, uniformes y de perfil sencillo; la planta del foso es casi poligonal, y dentro de ese aspecto rígido, tiene enlaces por curvas suaves y regulares. Las rápidas laderas muestran las entrañas rocosas en forma tan caprichosa que figuran una estructura de gruesos sillares paralelopipédicos. No obstante, literatos, historiadores y cronistas de todas las épocas han bautizado al pedestal de esta ciudad con los más variados calificativos: &quot;enhiesto peñasco&quot;, &quot;eminencia abrupta&quot;, &quot;lugar riscoso y encumbrado&quot;, &quot;alta roca&quot;, &quot;escarpa-do risco&quot;, &quot;montaña inaccesible&quot;, &quot;gallarda roca&quot;, &quot;ciudad rocosa&quot;, &quot;abrupta y dura sierra arcaica&quot;, &quot;grisáceo y brutal peñas-co&quot;, &quot;ciudad de las águilas&quot;, &quot;fantasma pétreo&quot;. 
+</p>
+<p>
+Sin embargo, geográficamente hablando, el promontorio toledano puede calificarse de cerro achatado, o más bien de una altiplanicie con una planta de forma de un trapecio isósceles, cuyas bases tienen longitudes de 1600 y 700 m.
+La altitud máxima respecto al nivel del río es de unos 70 m. La máxima cota es de 548 m. en la explanada del Alcázar y la mínima en el nivel del río en el Puente de San Martín, 440 m. La curva de cota 500 coincide en buena parte con la línea que marca el cambio de pendiente entre la superficie de la cumbre, suavemente ondulada, con una inclinación entre el 1--30%) y las vertientes rápidas, especialmente en los frentes del río, con algunos traoms hasta el 70%. 
+</p>
+<p>
+Las irregularidades más notables que deforman el cuerpo geométrico son: la profunda depresión cuya línea sigue la calle del Barco, y su paralela, surcada por la calle del Cristo de la Parra.
+La base superior del tronco de pirámide queda alterada por una serie de pequeñas colinas, las Doce Colinas, de las cuales las más prominentes forman una divisoria en sentido O-E que separa dos vertientes, la N. con una superficie menor a un tercio del to-tal, y la S. algo mayor que las dos terceras partes.</p></section>  <section data-section-id="sidebarcontent" class="wa-section public"><dl><dt>General Details</dt><dd><h3 id="el-peñón-toledano">El Peñón Toledano<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#el-peñón-toledano" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p></p>
+<p>
+</p><div id="f79815f1be6072a334f0fcc7b0a2c9a5" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10"><img src="https://worldanvil.com/uploads/images/9eb83906302c26c11d85338279e1e130.jpeg" alt title="toledo-spain-toledo-ispaniya-4092.jpeg"/></div>
+Toledo vista desde el Castillo de San Servando</dd></dl></section><section data-section-id="sidepanelcontenttop" class="wa-section public"><h2 id="general-details">General Details<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#general-details" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p></p><h4 id="dimensiones">Dimensiones<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dimensiones" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<ul>
+<li>Altitud máx. sobre el nivel del mar: 548 m.</li>
+<li>Altitud mín. sobre el nivel del mar: 440 m.</li>
+<li>Altitud máxima sobre el río: 70 m.</li>
+<li>Curva defensiva: 500 m.</li>
+<li>Extensión (sobre plano): triángulo de 1600 x 700 m.</li>
+</ul><p></p><hr/></section><section data-section-id="alternativename" class="wa-section public"><dl><dt>Alternativename</dt><dd>El cerro de Toledo, El cerro toledano, Las Doce Colinas</dd></dl></section><section data-section-id="geography" class="wa-section public"><h2 id="geography">Geography<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#geography" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Vamos a estudiar a Toledo sin Toledo, es decir, separando mentalmente cuanto constituye la obra del hombre, hasta dejar desnudo el peñón, en el cual vamos a contemplar la obra natural y por último, veremos en los rasgos de su fisonomía topográfica se encuentran los condicionantes de su entramado urbano.
+El que por primera vez contemple Toledo, desde un punto lejano o a vista de pájaro, se quedará intensamente emocionado ante el sorprendente espectáculo que presenta el cerro erizado de pintorescas construcciones, presididas por el Alcázar y agrupadas alrededor de la soberana Catedral; pero en esto conjunto de casas, monasterios, conventos, iglesias y minaretes, etc., no están sus construcciones colocadas como en una población cualquiera, sino entremezcladas aparentemente en confusa red, tendida sobre la ondulada cumbre del montículo y recortada bruscamente ante un escarpe circular, sobre cuya arista se alzan los lienzos del recinto amurallado.
+</p>
+<p>
+El pacífico Tajo, en su curso por la llanura de la Sagra, marcha con un serpenteo indeciso, propio de su régimen de vejez; deja unas orillas para invadir otras, pero al llegar ante el notorio promontorio toledano, abandona la tranquila marcha por terrenos aluviales, y penetra decidido por la estrecha hoz entre los materiales cristalinos, con recorrido tumultuoso, hasta que vuelve de nuevo a discurrir por la planicie, después de haber dado guardia de honor a la colosal fortaleza. El Tajo, riega las felices vegas de Toledo donde se ubican las villas y los palacios de recreo de reyes moros y castellanos; bate las máquinas y molinos y los batanes.
+</p>
+<p>
+La belleza sugestiva de la Ciudad de los Reyes reside en primer término en el majestuoso pedestal o basamento natural sobre el que se alza, y en segundo lugar nos recrea el detalle de la filigrana de la superstructura, integrada por ese manto de piedra y barro, labrado por las manos de los artífices de todas las generaciones humanas. Toledo sobre su basamento, contemplado a gran distancia y atendiendo a sus rasgos geométricos, ofrece la proporción en sus dimensiones, la esbeltez de líneas y la armonía necesaria de sus elementos, para que ante nuestros sentidos lo califiquemos como una obra de arte, ya sea divina, mágica o humana.
+</p>
+<p>
+La Naturaleza ofrece en Toledo una sensación distinta a la habitual; no se trata de accidentes de dimensiones descomunales, de formas de erosión raras, sino de un accidente de trazado y proporciones tales que diríase ha sido concebido por el más inspirado artista. La hoz del Tajo, siendo profunda, tiene vertientes simétricas, uniformes y de perfil sencillo; la planta del foso es casi poligonal, y dentro de ese aspecto rígido, tiene enaces por curvas suaves y regulares. Las rápidas laderas muestran las entrañas rocosas en forma tan caprichosa que figuran una estructura de gruesos sillares paralelopipédicos. Dos profundos barrancos dan acceso al foso por su orilla derecha y entre ambos se eleva la Peña del Rey Moro a modo de colosal remate decorativo.
+</p>
+<p>
+</p><h5 id="una-fortaleza-natural">Una fortaleza natural<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#una-fortaleza-natural" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+El emplazamiento de Toledo ha venido ofreciendo excelentes condiciones como fortaleza natural, con tres frentes protegidos por el magnífico foso del río Tajo y el cuarto formado por un rápido talud.
+<p></p>
+<p>
+Tanto en una fortificación de campaña como en una permanente, el elemento fundamental de trazado es la<b> cresta militar</b>, situada delante de la topográfica, allí donde la pendiente suave de la cumbre cesa, comenzando el fuerte declive; desde la cresta militar deben quedar batidos todos los puntos del talud, lo cual no ocurre generalmente desde la cresta topográfica. Pero en la posición de Toledo, la cresta militar está admirablemente marcada, y coincide de modo aproximado, con la línea de nivel, cuya altitud sobre el mar es de 500 metros.
+</p>
+<p>
+Dada la extensión de esta fortaleza, se entiende que las tribus primigenias, poco numerosas, no pudieran cubrir su línea natural defensiva y morasen en cerros más pequeños y fácilmente fortificables con los del Bú.
+</p>
+<p>
+Pero el Toledo romano y visigodo sí responde al perfil de ciudad cuyo amplio perímetro hay que defender. La muralla de Wamba, alzada en buena parte sobre la romana, se basa en la cresta militar de 500 m.
+</p>
+<p>
+</p><h5 id="las-doce-colinas">Las Doce Colinas<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#las-doce-colinas" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+Pese a que se ha intentado reducir el número de prominencias del Peñón Toledano a siete, para conectarla espiritualmente con Roma o Jerusalén, son en realidad doce las colinas o cumbres que presenta:
+<ol>
+<li>Explanada del Alcázar: 548 m.</li>
+<li>Pórtico de San Román: 543 m.</li>
+<li>San Vicente, con la cumbre en la parte N de la calle lateral: 538 M.</li>
+<li>Callejón de los Husillos, al sur de la Calle de la Plata: 538 m.</li>
+<li>Callejón de las Esquivias, al final del mismo, en la Alacava: 536 m.</li>
+<li>cerro de la Virgen de Gracia, en el O de la Alacava: 531 m.</li>
+<li>Cuesta o Espina del Can, en su punto medio (cerca de San Justo) 531 m.</li>
+<li>Calle de la Sillería (cerca de San Nicolás, detrás del Corral del Carbón): 530 m.</li>
+<li>Travesía de San Cristóbal; 515 m.</li>
+<li>Palacio de San Andrés, puerta principal: 510 m.</li>
+<li>Callejón de la Divisa, a mitad: 509 m.</li>
+</ol>
+<p></p>
+<p>
+</p><h5 id="ciudad-y-río">Ciudad y río<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ciudad-y-río" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+Aunque el río <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="00fea915-3b49-49b2-9f9c-de8345d24b05" data-template-type="location" data-article="00fea915-3b49-49b2-9f9c-de8345d24b05">Tajo</span> no atraviesa la ciudad de Toledo, en este caso, la relación entre ciudad y río es indiscutible, ya que el Tajo forma un amplio semicírculo ofreciendo defensa natural en dos tercios del perímetro urbano: el llamado <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="7d99c81f-a753-482d-8763-5e32f39e9807" data-template-type="location" data-article="7d99c81f-a753-482d-8763-5e32f39e9807">Valle del Tajo</span>, aunque se trata más bien de un profundo corte que de un &quot;valle&quot;. Esto hace que una gran parte de la ciudad se halle ajena a las vías de comunicación interurbanas, al contrario de otras muchas ciudades, y a pesar de encontrarse desde sus orígenes en una zona estratégica de paso, su especial configuración hace que la red exterior de caminos no le afecte determinantemente, sino que la toque tangencialmente, como la calzada de Zaragoza a Mérida, o con las vías que surcan el vado situado aguas arriba al noroeste, o la que van al puente de barcas al NO.
+Antes de la construcción del puente, el cruce del río se realizaba por un vado natural existente entre la huerta del rey y la de Safont. Sin embargo este vado debía de limitarse a ciertas épocas del año en las que el descenso del nivel dividía el río en dos brazos. De hecho, aún a la puerta Nueva, en el arrabal de la Antequeruela, se la conoce como Bab al-Mojahda (Puerta del Vado).
+<p></p>
+<p>
+Los romanos fueron los encargados de construir el único puente fijo de la ciudad. Este puente, llamado por los árabes al-Qantara (el puente) queda totalmente lateral al recinto. Hasta tal punto que en la ciudad de Toledo la existencia de un puente no ha generado un núcleo poblacional al otro lado del mismo, y es que realmente la relación entre Toledo y el Tajo se basa más en el elemento topográfico que hidrográfico.
+</p>
+<p>
+</p><h4 id="relieve-y-red-urbana">Relieve y red urbana<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#relieve-y-red-urbana" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+El relieve es el principal determinante del urbanismo toledano a través de estos tres parámetros:
+<ol>
+<li>En primer lugar, el recinto se asienta sobre un cerro rodeado -<span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="7f591c32-bd34-4cb4-91c6-35dba4cee285" data-template-type="location" data-article="7f591c32-bd34-4cb4-91c6-35dba4cee285">El Peñón Toledano</span>- en tres de sus lados por el río Tajo.</li>
+<li>El notable cambio de pendiente alrededor de los 500 metros de altura, de tal manera de que es a partir de dicha altitud cuando aparece el asentamiento propiamente dicho.</li>
+<li>La comunicación entre la ciudad y el río se hace a través de las vaguadas, que constituyen los caminos de acceso naturales, y las vías de evacuación residuales.</li>
+</ol>
+<h5 id="elevaciones">Elevaciones<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#elevaciones" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+De las elevaciones surgen divisorias y vaguadas. Ya hemos visto la configuración del <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="7f591c32-bd34-4cb4-91c6-35dba4cee285" data-template-type="location" data-article="7f591c32-bd34-4cb4-91c6-35dba4cee285">El Peñón Toledano</span> en Las Doce Colinas entre las que destacan las del Alcázar (550 m.) y la de San Román (554 m.)
+<p></p>
+<p>
+En una sección E-O, el cerro va subiendo desde el río hasta el Alcázar por el Oeste y hasta San Román por el Este. Esto significa que los puntos de paso están en las depresiones entre las cimas. Además, existen dos vertientes claramente diferenciadas por la línea de cumbres:
+</p><ol>
+<li>la vertiente Norte cuenta con las divisorias de las frontales de Sillería, San Vicente y Esquivias;</li>
+<li>Para la vertiente Sur interviene una segunda línea de cumbres formadas por el callejón de la Divisa y cuesta del Can, San Andrés y San Cristóbal.</li>
+</ol>
+<h5 id="barrancos-y-vaguadas">Barrancos y vaguadas<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#barrancos-y-vaguadas" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+Muchas de las calles han tenido una situación obligada e invariable en el transcurso de los siglos, como son las determinadas por las vaguadas o depresiones creadas por las líneas de cumbres, en las cuales no es posible colocar obstáculos al veloz deslizamiento de las aguas de lluvias que por sus cursos naturales se precipitan hacia el Tajo.
+<h5 id="vaguadas-principales">Vaguadas principales<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#vaguadas-principales" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+No todas tienen igual importancia. La división tradicional de la ciudad en cuatro cuarteles: el Barco, San Sebastián, Puerta Nueva y Cambrón se corresponden con las cuatro vaguadas más importantes por las que discurren las calles generadoras de la organización de la ciudad:
+<p></p>
+<p>
+</p><ol>
+<li><b>Puerta Nueva (A)</b> en dirección Norte, parte de San Vicente, baja por Alfileritos, tuerce a mano izquierda por Carmelitas Descalzos, y luego por la Calle de la Luz hasta la puerta de Valmardón. Pasada por la puerta discurre por la calle de los Azacanes ahsta llegar a la puerta Nueva, donde confluye con otra vaguada que surca el barrio de la Antequeruela. Por ella discurren las bajadas de la Antequeruela uniendo la puerta Nueva on la antigua de la Bisagra a través de la Plaza de la Estrella.</li>
+<li><b>El Barco (B)</b>: en dirección Sur, la vaguada formada por las calles del Barco y del Pozo Amargo que discurre en dos ramales independientes. El primero comienza en la cuesta de los Portugueses, baja por la calle de las Tornerías, bordea la catedral y se mete por la calle del Barco hasta unirse con la del Pozo Amargo en la Plazuela de Don Fernando. El segundo comienza en las Tendillas, sigue por Nuncio Viejo y bordea la catedral hasta coger la calle del Pozo Amargo. A partir de la plazuela de Don Fernando llega hasta la puerta del Hierro.</li>
+<li><b>San Sebastián (C)</b>: en paralelo a la anterior; por la que discurren las calles de Santa Úrsula y del Cristo de la Parra hasta llegar a la puerta de San Sebastián o de Curtidores.</li>
+<li><b>El Cambrón (D)</b>: en dirección Oeste, por las calles de las Tendillas, la Merced o de Capuchinas, Nuncio Nuevo, real y Carmelitas hasta la puerta del Cambrón.</li>
+</ol>
+<p></p>
+<p>
+En estas cuatro vaguadas principales del cerro se ubican los cuatro colectores de saneamiento terminando todas en una puerta de la muralla. El relieve ha actuado como elemento estructurador de la ciudad desde sus comienzos y estas alcantarillas pueden remontarse hasta la época romana.
+</p>
+<p>
+</p><h5 id="vaguadas-secundarias">Vaguadas secundarias<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#vaguadas-secundarias" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+Además de estos ejes nucleares existen otros por vaguadas secundarias y líneas de deslizamiento topográficas (de parecida cota o pasos entre elevaciones de relieve):
+<ol>
+<li>vaguada secundaria por Alamillos y la Calle Campana.</li>
+<li>vaguada secundaria por Santa Leocadia, colegio de Doncellas, san Pedro Mártir y Rojas.</li>
+<li>línea de deslizamiento por Sillería, Alfileritos y Cárcel Vieja.</li>
+<li>línea de deslizamiento por Cuesta de Belén y calle de la Plata.</li>
+</ol>
+<h5 id="el-eje-colector">El eje colector<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#el-eje-colector" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+La articulación de toda esta red viaria se consigue mediante un gran eje colector, que constituye la espina dorsal de la ciudad. Este gran eje está formado por las calles del Ángel, Santo Tomé, Trinidad, Hombre de Palo y del Comercio, uniendo entre sí las antiguas puertas interiores de Assuica y de la Sangre y atravesando todo el distrito comercial de la ciudad, encargándose de tres funciones básicas en el urbanismo:
+<ul>
+<li>Interconectar las cuatro grandes áreas de la ciudad: zonas Norte, Sur, Judería y Alficén.</li>
+<li>Unir entre sí todas las vías generadoras, de vaguadas secundarias y de deslizamiento.</li>
+<li>Servir de soporte y focalizador al área comercial clásica de la ciudad (Alcaná, Catedral, Zocodover)</li>
+</ul>
+<h5 id="estructura-radial">Estructura radial<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#estructura-radial" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+Aún así, se mantiene en su conjunto la estructura radiada, herencia de época musulmana, de la disposición del solar y por su naturaleza de plaza fortificada.
+<p></p>
+<p>
+Las arterias radiales principales son:
+</p><ol>
+<li>Calles del Ángel, Santo Tomé, Trinidad;</li>
+<li>calle Ancha y Hombre de Palo;</li>
+<li>Calle del Pozo amargo</li>
+<li>Calle del Barco.</li>
+</ol>
+Las cuatro convergen hacia el solar de la mezquita-catedral.
+<p></p>
+<p>
+</p><h5 id="explanaciones-convergentes">Explanaciones convergentes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#explanaciones-convergentes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+La principal es la zona ocupada por la Mezquita-Catedral, es una explanada a la que afluyen más o menos directamente, 19 calles. Esta explanación, además de ser la más extensa, ocupa el sitio central y es de suponer que fuera el foro en época romana, donde más tarde se emplazaría la primera catedral cristiana, trasformada luego en Mezquita Aljama, que dejaría aún vasto espacio para lo que se podría denominar Plaza Mayor.
+<p></p>
+<p>
+La Plaza del Zocodover, por su situación inmediata al Alficén, al frente N. amurallado, ha desempeñado importante servicio en las organizaciones defensivas de la ciudad, y aquí confluyen siete calles.
+</p>
+<p>
+Las otras dos explanaciones son San Cristóbal y el Tránsito. Ambas se edificaron en época árabe y por su situación éxcéntrica no representan papel importante en el trazado.
+</p>
+<p>
+</p><h5 id="calles-precipicio">Calles precipicio<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#calles-precipicio" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+Independientemente de las calles propiamente dichas, existen otras que se pueden llamar calles precipicio, las cualas no pueden figurar como de tránsito normal, ya que muchas de ellas están provistas de escalones o rampas y otras que no los tienen, deberían tenerlos, ya que pueden tener vaolres muy superiores de inclinación a los de caminos de alta monaña: la cuesta del Can tiene el 25% de pendiente; la cuesta de la Reina el 24%, la cuesta de los Escalones, el 30% y la Travesía del Reptil, calle trazada en la zona de escarpe, un 50%.<p></p><hr/></section>   
+<h3 id="mapa">Mapa<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mapa" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><img src="../../MapPlaceholder.png" width="auto" height="auto" alt="Placeholder Map"/></p>
+<h3 id="imagen">Imagen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#imagen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><img src="../../ImagePlaceholder.png" width="auto" height="auto" alt="Placeholder Picture"/></p>
+<p>Placeholder</p>
+<h2 id="pnj-notables">PNJ Notables<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#pnj-notables" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Placeholder</p>
+<h2 id="geografía">Geografía<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#geografía" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Placeholder</p>
+<h2 id="fauna-y-flora">Fauna y Flora<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#fauna-y-flora" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Placeholder</p>
+<h2 id="puntos-de-interés">Puntos de Interés<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#puntos-de-interés" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Placeholder</p>
+<h2 id="objetos-de-valor">Objetos de Valor<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#objetos-de-valor" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Placeholder</p>
+<h2 id="habitantes">Habitantes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#habitantes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Placeholder</p>
+<h2 id="visitantes">Visitantes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#visitantes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Placeholder</p>
+<h2 id="historia">Historia<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#historia" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Placeholder</p>
+<h2 id="otros-detalles-de-interés">Otros detalles de interés<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#otros-detalles-de-interés" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Placeholder</p></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista Gráfica</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-content" aria-expanded="true"><h3>Tabla de Contenidos</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul class="toc-content overflow" id="list-1"><li class="depth-0"><a href="#thisfilename" data-for="thisfilename">=this.file.name</a></li><li class="depth-0"><a href="#thisfilename-1" data-for="thisfilename-1">=this.file.name</a></li><li class="depth-2"><a href="#mapa" data-for="mapa">Mapa</a></li><li class="depth-2"><a href="#imagen" data-for="imagen">Imagen</a></li><li class="depth-1"><a href="#pnj-notables" data-for="pnj-notables">PNJ Notables</a></li><li class="depth-1"><a href="#geografía" data-for="geografía">Geografía</a></li><li class="depth-1"><a href="#fauna-y-flora" data-for="fauna-y-flora">Fauna y Flora</a></li><li class="depth-1"><a href="#puntos-de-interés" data-for="puntos-de-interés">Puntos de Interés</a></li><li class="depth-1"><a href="#objetos-de-valor" data-for="objetos-de-valor">Objetos de Valor</a></li><li class="depth-1"><a href="#habitantes" data-for="habitantes">Habitantes</a></li><li class="depth-1"><a href="#visitantes" data-for="visitantes">Visitantes</a></li><li class="depth-1"><a href="#historia" data-for="historia">Historia</a></li><li class="depth-1"><a href="#otros-detalles-de-interés" data-for="otros-detalles-de-interés">Otros detalles de interés</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creado con <a href="https://quartz.jzhao.xyz/">Quartz v4.5.0</a> © 2025</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript">function o(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.classList.contains("is-collapsed")?this.scrollHeight:t.scrollHeight;t.style.maxHeight=e+"px";let c=t,l=t.parentElement;for(;l;){if(!l.classList.contains("callout"))return;let i=l.classList.contains("is-collapsed")?l.scrollHeight:l.scrollHeight+c.scrollHeight;l.style.maxHeight=i+"px",c=l,l=l.parentElement}}function n(){let t=document.getElementsByClassName("callout is-collapsible");for(let s of t){let e=s.firstElementChild;if(!e)continue;e.addEventListener("click",o),window.addCleanup(()=>e.removeEventListener("click",o));let l=s.classList.contains("is-collapsed")?e.scrollHeight:s.scrollHeight;s.style.maxHeight=l+"px"}}document.addEventListener("nav",n);
+</script><script type="module">function f(i,e){if(!i)return;function r(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function t(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}i?.addEventListener("click",r),window.addCleanup(()=>i?.removeEventListener("click",r)),document.addEventListener("keydown",t),window.addCleanup(()=>document.removeEventListener("keydown",t))}function y(i){for(;i.firstChild;)i.removeChild(i.firstChild)}var h=class{constructor(e,r){this.container=e;this.content=r;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),r=this.onMouseMove.bind(this),t=this.onMouseUp.bind(this),o=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",r),document.addEventListener("mouseup",t),window.addEventListener("resize",o),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",r),()=>document.removeEventListener("mouseup",t),()=>window.removeEventListener("resize",o))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let r=this.createButton("+",()=>this.zoom(.1)),t=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(t),e.appendChild(o),e.appendChild(r),this.container.appendChild(e)}createButton(e,r){let t=document.createElement("button");return t.textContent=e,t.className="mermaid-control-button",t.addEventListener("click",r),window.addCleanup(()=>t.removeEventListener("click",r)),t}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}zoom(e){let r=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),t=this.content.getBoundingClientRect(),o=t.width/2,n=t.height/2,c=r-this.scale;this.currentPan.x-=o*c,this.currentPan.y-=n*c,this.scale=r,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){this.scale=1;let e=this.content.querySelector("svg");this.currentPan={x:e.getBoundingClientRect().width/2,y:e.getBoundingClientRect().height/2},this.updateTransform()}},C=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],E;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;E||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let r=E.default,t=new WeakMap;for(let n of e)t.set(n,n.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let a=t.get(s);a&&(s.innerHTML=a)}let n=C.reduce((s,a)=>(s[a]=window.getComputedStyle(document.documentElement).getPropertyValue(a),s),{}),c=document.documentElement.getAttribute("saved-theme")==="dark";r.initialize({startOnLoad:!1,securityLevel:"loose",theme:c?"dark":"base",themeVariables:{fontFamily:n["--codeFont"],primaryColor:n["--light"],primaryTextColor:n["--darkgray"],primaryBorderColor:n["--tertiary"],lineColor:n["--darkgray"],secondaryColor:n["--secondary"],tertiaryColor:n["--tertiary"],clusterBkg:n["--light"],edgeLabelBackground:n["--highlight"]}}),await r.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let n=0;n<e.length;n++){let v=function(){let g=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let w=c.querySelector("svg").cloneNode(!0);m.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new h(g,m)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},c=e[n],s=c.parentElement,a=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(a),L=a.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),f(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script src="../../postscript.js" type="module"></script></html>
