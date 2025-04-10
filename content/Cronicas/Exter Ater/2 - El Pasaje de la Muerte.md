@@ -112,6 +112,7 @@ El bosque, oscuro y opresivo, se abrió de repente cuando el sol se ocultaba tra
 
 ## Una aldea de Aralar
 El camino del bosque se abrió de repente hacía un valle en las faldas de Aralar, montaña sagrada de los vascones. Habían llegado a la aldea de Intza. Las casas eran sencillas construcciones de piedra, sin señores ni edificios prominentes. 
+
 ![[🎬 _Escena_ Bienvenidos a Intza-20240928011120571.webp]]
 
 Allí los recibió Eneko Zabaleta al-Nafarrí, un atractivo y locuaz narrador que había viajado mucho y vivido en al-Ándalus y retornado recientemente a su tierra natal, reconociendo a Duncan y Phaestus como magi. Al notar el mal estado del grupo, decidió llevarlos ante Birrutia, la mujer más sabia del pueblo.  
