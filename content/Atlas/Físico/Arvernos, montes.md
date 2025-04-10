@@ -18,63 +18,9 @@ region:
   - Auvernia 
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
 
 ## Perspectiva Hermética 
 Al oeste del camino hacia el sur desde Clermont se encuentran los antiguos volcanes de Puy de Dôme, Puy de Sancy y las Montañas Cantal. En la cima del Puy de Dôme hay un santuario, dedicado originalmente a Lug, luego a Mercurio y finalmente a San Bernabé. La creencia local es que los hechiceros de Auvernia se reúnen aquí a medianoche, pero esto es un recuerdo transmitido desde los días de los magos mercuriales de Roma. Los restos de una vía romana conducen hasta la cima a través del bosque que cubre los empinados lados del Puy de Dôme. Si se asciende a pie, manteniéndose exactamente sobre la vía, el recorrido lleva a través de una frontera de regio a una pequeña regio con una aura Mágica de nivel 3, donde se encuentra el templo de Mercurio, abandonado y sin techo. Aún no se ha encontrado el nivel superior de la regio aquí, donde el templo está intacto, ni una ruta prerromana que suba al puy hacia el santuario de Lug.

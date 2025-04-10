@@ -20,63 +20,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p><span class="dropcap">E</span>L Cuerno de Bracel, también llamado pico de Bracel, es una cumbre de los <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="cb40d9c8-1edb-439a-943c-523f8af04972" data-template-type="location" data-article="cb40d9c8-1edb-439a-943c-523f8af04972">Pirineos Centrales</span> limitando con los Orientales y situado entre los países del <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="10eee935-c213-4308-8af4-73b1d428b1ec" data-template-type="location" data-article="10eee935-c213-4308-8af4-73b1d428b1ec">Savarthès</span> y el <span data-article-privacy="private" data-article-id="fe604f77-4f49-44e0-a765-69a199863169" data-template-type="location" class="private-article article-unlinked entity-link wa-link">País de Sault</span>. Tiene una altitud de 2.222 y forma parte de los picos de altitud mediana de la <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="53792d76-7259-443a-a6ce-9b9cf0698386" data-template-type="location" data-article="53792d76-7259-443a-a6ce-9b9cf0698386">cadena pirenaica</span>. Su forma escarpada y abrupta con una gran caída en sus laderas sur y sudeste (500-1100), la hace destacar en el paisaje de la región y haber sido objeto de leyendas y culto desde muy antiguo. Está ricamente poblado por una abundante y variada fauna pirenaica.
 </p><div id="dbfa10669e2442cd326b66f6d5002fa5" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/b51ce525edf79985b21f54b39991cedc.jpg" alt title="640px-Cassoula_Dent_d'Orlu.jpg" /></div><small>Cara norte del Cuerno de Bracel vista desde Mont Alhon</small>
 <hr /><p></p></section>  <section data-section-id="sidebarcontent" class="wa-section public"><dl><dt>General Details</dt><dd><div id="0182236ae2edb10777c65dee1ea8d7fa" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/e927cd72c711ccd57aeff4c0f969e6ef.jpeg" alt title="Dent_Orlu_Pyrenees_France.jpeg" /></div></dd></dl></section><section data-section-id="sidepanelcontent" class="wa-section public"><dl><dt>General Details</dt><dd><div class="visibility-toggler" id="c2754528457fecd8334c0ab98008914f"> 

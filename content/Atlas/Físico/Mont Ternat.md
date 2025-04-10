@@ -21,63 +21,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p><span class="dropcap">M</span>ACIZO pirenaico entre las tierras del <span data-article-privacy="private" data-article-id="83b68d70-7b36-4096-a92e-6bdeb1de3b8c" data-template-type="organization" class="private-article article-unlinked entity-link wa-link">Condado de Fois</span> y de <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="f5c37df3-6638-4c71-93ab-cf09a39cf870" data-template-type="organization" data-article="f5c37df3-6638-4c71-93ab-cf09a39cf870">Vizcondado de Coserans</span> que marca a su vez, la frontera entre las culturas provenzal, gascona y catalana. Mide 33 km de largo y 13 km de ancho, y culmina en el pico de la Terna 2.199 metros.
 Geológicamente, el macizo "dels Tres Senhors" forma parte de la zona axial de los Pirineos por su carácter central en la cadena pirenaica, y por la presencia de rocas metamórficas y plutónicas. </p><div id="9d3428edf0fe2b4ed62d9348d4793492" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/4d5559221e7d9d4acc40e74ce63a49f5.jpeg" alt title="mont ternat con los pirineos mayores de fondo.jpeg" /></div>
 <hr /><p></p></section>  <section data-section-id="sidebarcontent" class="wa-section public"><dl><dt>General Details</dt><dd><div id="0bddd2f4a237a8aa7161ef1b3bd334ef" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/80a5aabf1ea2c8fcc3bea8de4866cbf9.jpeg" alt title="la terna y los rebaños.jpeg" /></div></dd></dl></section><section data-section-id="alternativename" class="wa-section public"><dl><dt>Alternativename</dt><dd>Mont dels Tres Senhors, Mons Ternatus, Monte de la Terna</dd></dl></section><section data-section-id="geography" class="wa-section public"><h2>Geography</h2>

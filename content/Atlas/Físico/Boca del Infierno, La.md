@@ -20,63 +20,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p>Cerca de Lisboa está la pequeña localidad costera de <strong class="article-unlinked">Cascais</strong> , donde los lugareños aún murmuran la vieja leyenda de la Boca del Infierno. Según esa leyenda, en tiempos antiguos vivió en un castillo de la localidad un poderoso y maligno hechicero. Ansioso por contraer matrimonio, el hechicero buscó por toda la región a la muchacha más hermosa, a la que ofreció todo tipo de, riquezas a cambio de casarse con él. La joven se negó y mostró abiertamente su desprecio hacia el brujo, quien, furioso y loco de celos, secuestró a la doncella y la encerró en los calabozos de su fortaleza. A la puerta del calabozo dejó como guardia a un joven caballero con orden de no abrir jamás la puerta y no dejar salir bajo ningún concepto a la doncella que estaba allí prisionera.
 <br />
 Pasaron los días y, poco a poco, la curiosidad empezó a hacer mella en el caballero. Se preguntaba quién habría allí dentro, cómo sería esa doncella y por qué estaba encerrada. Al final, la curiosidad pudo con él y abrió la puerta para ver con sus propios ojos a la prisionera. Los dos quedaron prendados el uno del otro y, a lo largo de sucesivas citas furtivas, surgió entre ellos un arrebatado amor, hasta que, un día, decidieron escapar del castillo del brujo.

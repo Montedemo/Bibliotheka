@@ -20,63 +20,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p><span class="dropcap">A</span>RBOLEDA mítica ubicada dentro de los densos bosques que recubren el macizo de <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="805ba72b-854c-4855-aee7-c32680c3baef" data-template-type="location" data-article="805ba72b-854c-4855-aee7-c32680c3baef">Tava</span>, en los límites septentrionales del país de <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="10eee935-c213-4308-8af4-73b1d428b1ec" data-template-type="location" data-article="10eee935-c213-4308-8af4-73b1d428b1ec">Savarthès</span>.
 </p><div id="817a48dcbb8df2949d00e536b5527647" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/e6881e329b5aa6b4846e0bc4f68e8ee0.png" alt title="robles que gimen 2.png" /></div>
 <hr />El viento siempre sopla en los bosques que hay al nordeste de Piquer y la fría brisa lanza sus helados cuchillos sobre los rostros, incluso en los más calurosos veranos. Animales desaliñados se mueven nerviosos por los bosques y se oyen suspiros, crujidos y susurros a los que nadie ha dado explicación alguna, que sobresaltan a los viajeros. En el centro del bosque hay un círculo de siete robles que rodean lo que parece ser un arco de piedra. Se escucha un suave gemido entre los árboles que sin lugar a dudas no es producido por el viento. La gente de la zona evita el lugar y ningún cazador o carbonero se aventura en las cercanías, e incluso ha difundido el rumor de quien duerma una noche en el arco se despertará ante un alba perfecta.

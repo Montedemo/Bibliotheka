@@ -21,63 +21,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p></p><div id="b94cc3fd21dce046f046059c2b0ef63a" class="visibility-toggler image-thumb-container user-css-image-thumbnail position-relative padding-10 "><img src="https://worldanvil.com/uploads/images/649c5f1f6b7c9accbf580229926f8825.jpeg" alt title="Europe_As_A_Queen_Sebastian_Munster_1570.jpeg" /></div><p></p></section>  <section data-section-id="geography" class="wa-section public"><h2>Geography</h2>
 <p></p><h4>La gran llanura europea</h4>
 Libre de elevaciones excepto por algunas pequeñas en su interior, este accidente geográfico se extiende desde los <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="53792d76-7259-443a-a6ce-9b9cf0698386" data-template-type="location" data-article="53792d76-7259-443a-a6ce-9b9cf0698386">Pirineos</span> y las orillas septentrionales del <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="86026dc7-0c6e-4ef4-a651-0e826973d1b6" data-template-type="location" data-article="86026dc7-0c6e-4ef4-a651-0e826973d1b6">Océano</span> hasta el lejano monte Ural, en el confín oriental de la <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="64dc7ba9-58da-466e-956b-7ac33724ac01" data-template-type="location" data-article="64dc7ba9-58da-466e-956b-7ac33724ac01">Sarmatia</span>. Es relativamente estrecha en al región occidental (alrededor de 300 km) mientras que hacia el norte se ensancha, especialmente en Sarmatia oriental. 

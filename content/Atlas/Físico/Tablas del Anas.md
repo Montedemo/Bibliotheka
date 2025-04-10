@@ -23,63 +23,9 @@ region:
   - Subcomarca
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### `=this.categoria` 
-> ###### Información general
->  |   |
-> ---|---|
-> Clase | `=this.clase` |
-> Tipo | `=this.tipo` |
-> Region | `=this.region` |
-> Parte de | `=this.location` |
-> Aura | `=this.aura`  |
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
->  |   |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
->###### Lugares de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Fisico"
-where contains( location, this.file.name)
->```
->###### Poblaciones de interés
-> ```dataview
-table WITHOUT ID link(file.name) AS "Engloba",  tipo
-from "2. Geografía 🌍/Demografico"
-where contains( location, this.file.name)
->```
->###### Organizaciones
-> ```dataview
-table WITHOUT ID link(file.name) AS "Entidad", link(Leader) AS "Jefe", categoría, clase, tipo
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos"
-where contains( PrimaryHome, this.file.name)
->```
->###### Personalidades 
->```dataview
-TABLE WITHOUT ID link(file.name) AS "Nombre", clase, tipo, ☠
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
->###### Criaturas
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Criatura", tipo, RdP
-from "6. Bestiario 🐉"
-where contains( PrimaryHome, this.file.name)
-SORT file.name DESC
->```
 
 
-# `=this.file.name`
+
  <section class="wa-section main-content"><p><span class="dropcap">L</span>AS tablas son un importante paraje húmedo situado al norte del <span data-article-privacy="private" data-article-id="f3123ac5-279c-423e-8c1d-c3e529cce613" data-template-type="location" class="private-article article-unlinked entity-link wa-link">Campo de Calatrava</span> en las cercanías de las aldeas de Laminiel y del castillo de Zacatena, propiedad de la <span data-article-privacy="private" data-article-id="c022d27f-6d84-4906-bc2c-8c6023b59ba2" data-template-type="organization" class="private-article article-unlinked entity-link wa-link">Orden de Calatrava</span>.
 <br />
 Las tablas son uno de los últimos representantes de un ecosistema denominado tablas fluviales que se forman al desbordarse los ríos en sus tramos medios, favorecidos por fenómenos de semiendorreísmo y la escasez de pendientes. El humedal se forma en la confluencia del río <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="f92b5584-5603-46bc-b439-e78c032e9060" data-template-type="location" data-article="f92b5584-5603-46bc-b439-e78c032e9060">Anas</span> y su afluente el Cigüela y es uno de los ecosistemas acuáticos más importantes de <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="5ff3ea64-57a9-4e12-8823-322e90f3be82" data-template-type="location" data-article="5ff3ea64-57a9-4e12-8823-322e90f3be82">Spania</span> por la variedad y calidad de la fauna y flora que habitan en ella, así como por aquellas aves que la emplean en los pasos migratorios.

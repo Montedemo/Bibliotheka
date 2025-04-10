@@ -27,48 +27,9 @@ imports:
 ---
 
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### Geografía
-> Tipo |  Valor |
-> ---|---|
-> Categoría | `=this.type` |
-> Clase | `=this.size` |
-> Region | `=this.region` |
-> Desemboca en | `=this.pertenece` |
-> Recibe | `=this.engloba`|
-> ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destino |  Jornadas  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politica
-> Tipo |  Valor |
-> ---|---|
-> Propiedad de: | `=this.propietario` |
-> Disputado por | `=this.disputado` |
-> Defensas | `=this.defences` |
-> ###### Society
-> Tipo |  Valor |
-> ---|---|
-> Humanos | `=this.poblacion` |
-> Criaturas | `=this.criaturas` |
-> Aura | `=this.aura`  |
-> ###### Comercio
-> Tipo |  Valor |
-> ---|---|
-> Exporta | `=this.exports` |
-> Importa | `=this.imports` |
-> ###### Organizations
-> Tipo |  Valor |
-> ---|---|
-> ```dataview
-table WITHOUT ID link(file.name) AS "Group", link(Leader) AS "Leader"
-where contains( PrimaryHome, this.file.name)
 
 
-# `=this.file.name`
+
 ## Descripción General
 
 El río Escalda (en francés Escaut, en neerlandés Schelde, en valón Escó) es un río europeo que nace en [[Picardía]], atraviesa la Baja Lotaringia y desemboca en el [[Mar Germánico]], sirviendo de frontera en entre el reino de [[Francia]]y el [[Sacro Imperio Romano Germánico]]. 
