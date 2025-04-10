@@ -77,7 +77,7 @@ SORT file.name DESC
 
 
 # `=this.file.name`
-El río [[Sena]], con sus sinuosos meandros, es el principal enlace entre [[París]] y la costa ([[Mar Británico]]). El área de su cuenca incluye los condados de [[Ruan]], Lisieux y Evreux, y en la desembocadura del Sena se encuentra la alianza de [[Requies Draconis]]. La cuenca del río es el corazón productivo de [[Normandía]], con muchas prósperas ciudades a lo largo del río o de sus afluentes, y aguas arriba de Ruan, el río se adentra hacia París.
+El río [[Sena]], con sus sinuosos meandros, es el principal enlace entre [[París]] y la costa ([[Británico, mar]]). El área de su cuenca incluye los condados de [[Ruan]], Lisieux y Evreux, y en la desembocadura del Sena se encuentra la alianza de [[Requies Draconis]]. La cuenca del río es el corazón productivo de [[Normandía]], con muchas prósperas ciudades a lo largo del río o de sus afluentes, y aguas arriba de Ruan, el río se adentra hacia París.
 
 ### Mapa
 ![[MapPlaceholder.png|Placeholder Map]]

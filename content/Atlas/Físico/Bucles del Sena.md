@@ -78,7 +78,7 @@ SORT file.name DESC
 
 
 # `=this.file.name`
-Entre Ruán y su desembocadura en el [[Mar Británico]], el río [[Sena]] se ralentiza discurriendo en una serie de meandros (llamados *boucles*, que a su vez generan un variado paisaje de marismas, campos y bosques. ) Este fue el hogar del dragón [[Gargouille]] y la sede de las alianzas herméticas [[Confluensis]], hasta que se trasladó a Cotentin en el siglo XI y de sus sucesora, la Casa Mercer  de [[Requies Draconis]]. 
+Entre Ruán y su desembocadura en el [[Británico, mar]], el río [[Sena]] se ralentiza discurriendo en una serie de meandros (llamados *boucles*, que a su vez generan un variado paisaje de marismas, campos y bosques. ) Este fue el hogar del dragón [[Gargouille]] y la sede de las alianzas herméticas [[Confluensis]], hasta que se trasladó a Cotentin en el siglo XI y de sus sucesora, la Casa Mercer  de [[Requies Draconis]]. 
 ### Mapa
 ![[MapPlaceholder.png|Placeholder Map]]
 

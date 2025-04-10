@@ -1,12 +1,12 @@
 ---
 NoteIcon: geoagua
 tags:
-  - Geography river
-type: río
-size: afluente arroyo
-pertenece: rio mar
+  - Geography sea
+type: mar
+size: región maritima
+pertenece: Mar 
 aura: tipo de aura
-engloba: ríos menores
+engloba: mares menores ríos
 propietario: nadie
 disputado: nadie
 personalidades: 
@@ -37,8 +37,8 @@ imports:
 > Categoría | `=this.type` |
 > Clase | `=this.size` |
 > Region | `=this.region` |
-> Desemboca en | `=this.pertenece` |
-> Recibe | `=this.engloba`|
+> Parte de | `=this.pertenece` |
+> Engloba | `=this.engloba`|
 > ###### Viaje (`=[[Travel Calculator]].HoursPerDay` hrs per day)
 > ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
 > Destino |  Jornadas  |
@@ -71,7 +71,7 @@ where contains( PrimaryHome, this.file.name)
 
 # `=this.file.name`
 ## Descripción General
- <section class="wa-section main-content"><p>Afluente del <span data-article-privacy="private" data-article-id="bea2422c-9dc7-4164-b02d-0ce940a9115d" data-template-type="location" class="private-article article-unlinked entity-link wa-link">Garona</span> y que riega la ciudad de <strong class="article-unlinked">Fois</strong>. Su curso alto forma el país de <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="10eee935-c213-4308-8af4-73b1d428b1ec" data-template-type="location" data-article="10eee935-c213-4308-8af4-73b1d428b1ec">Sabarthès</span></p></section>  <section data-section-id="alternativename" class="wa-section public"><dl><dt>Alternativename</dt><dd>Ariège</dd></dl></section>   
+ <section class="wa-section main-content"><p></p></section>   
 
 ### Mapa
 ![[MapPlaceholder.png|Placeholder Map]]
