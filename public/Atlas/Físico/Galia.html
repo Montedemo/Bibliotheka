@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="es"><head><title>Galia</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Bibliotheka"/><meta property="og:title" content="Galia"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Galia"/><meta name="twitter:description" content="Infobox =this.file.name =this.clase | | ---|---| Rango | =this.tipo| Localización | =this.location| Capital | =this.capital| Gentilicio | =this.Denomyn| Política | | ---|---| Gobernante | =this.leader| Título | =this.titulo| Vasallo de | =this.superior| Parte de | =this.organizacion| Disputado por ..."/><meta property="og:description" content="Infobox =this.file.name =this.clase | | ---|---| Rango | =this.tipo| Localización | =this.location| Capital | =this.capital| Gentilicio | =this.Denomyn| Política | | ---|---| Gobernante | =this.leader| Título | =this.titulo| Vasallo de | =this.superior| Parte de | =this.organizacion| Disputado por ..."/><meta property="og:image:alt" content="Infobox =this.file.name =this.clase | | ---|---| Rango | =this.tipo| Localización | =this.location| Capital | =this.capital| Gentilicio | =this.Denomyn| Política | | ---|---| Gobernante | =this.leader| Título | =this.titulo| Vasallo de | =this.superior| Parte de | =this.organizacion| Disputado por ..."/><meta property="twitter:domain" content="Montedemo.github.io/Bibliotheka/Index"/><meta property="og:url" content="https://montedemo.github.io/Bibliotheka/Index/Atlas/Físico/Galia"/><meta property="twitter:url" content="https://montedemo.github.io/Bibliotheka/Index/Atlas/Físico/Galia"/><link rel="icon" href="../../static/icon.png"/><meta name="description" content="Infobox =this.file.name =this.clase | | ---|---| Rango | =this.tipo| Localización | =this.location| Capital | =this.capital| Gentilicio | =this.Denomyn| Política | | ---|---| Gobernante | =this.leader| Título | =this.titulo| Vasallo de | =this.superior| Parte de | =this.organizacion| Disputado por ..."/><meta name="generator" content="Quartz"/><link href="../../index.css" rel="stylesheet" type="text/css" spa-preserve/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  padding: 2rem;
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiQzpcXFVzZXJzXFxtb250ZVxccmVwb3NcXHF1YXJ0elxccXVhcnR6XFxjb21wb25lbnRzXFxzdHlsZXMiLCJzb3VyY2VzIjpbIm1lcm1haWQuaW5saW5lLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUdGO0VBQ0U7OztBQUtGO0VBQ0U7RUFDQTs7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcGFkZGluZzogMnJlbTtcbiAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICAgIHRyYW5zZm9ybS1vcmlnaW46IDAgMDtcbiAgICAgIHRyYW5zaXRpb246IHRyYW5zZm9ybSAwLjFzIGVhc2U7XG4gICAgICBvdmVyZmxvdzogdmlzaWJsZTtcbiAgICAgIG1pbi1oZWlnaHQ6IDIwMHB4O1xuICAgICAgbWluLXdpZHRoOiAyMDBweDtcblxuICAgICAgcHJlIHtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICBib3JkZXI6IG5vbmU7XG4gICAgICB9XG5cbiAgICAgIHN2ZyB7XG4gICAgICAgIG1heC13aWR0aDogbm9uZTtcbiAgICAgICAgaGVpZ2h0OiBhdXRvO1xuICAgICAgfVxuICAgIH1cblxuICAgICYgPiAubWVybWFpZC1jb250cm9scyB7XG4gICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICBib3R0b206IDIwcHg7XG4gICAgICByaWdodDogMjBweDtcbiAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICBnYXA6IDhweDtcbiAgICAgIHBhZGRpbmc6IDhweDtcbiAgICAgIGJhY2tncm91bmQ6IHZhcigtLWxpZ2h0KTtcbiAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgICBib3JkZXItcmFkaXVzOiA2cHg7XG4gICAgICBib3gtc2hhZG93OiAwIDJweCA0cHggcmdiYSgwLCAwLCAwLCAwLjEpO1xuICAgICAgei1pbmRleDogMjtcblxuICAgICAgLm1lcm1haWQtY29udHJvbC1idXR0b24ge1xuICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgd2lkdGg6IDMycHg7XG4gICAgICAgIGhlaWdodDogMzJweDtcbiAgICAgICAgcGFkZGluZzogMDtcbiAgICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgICBjb2xvcjogdmFyKC0tZGFyayk7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDRweDtcbiAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgICAgICBmb250LXNpemU6IDE2cHg7XG4gICAgICAgIGZvbnQtZmFtaWx5OiB2YXIoLS1ib2R5Rm9udCk7XG4gICAgICAgIHRyYW5zaXRpb246IGFsbCAwLjJzIGVhc2U7XG5cbiAgICAgICAgJjpob3ZlciB7XG4gICAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgfVxuXG4gICAgICAgICY6YWN0aXZlIHtcbiAgICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMXB4KTtcbiAgICAgICAgfVxuXG4gICAgICAgIC8vIFN0eWxlIHRoZSByZXNldCBidXR0b24gZGlmZmVyZW50bHlcbiAgICAgICAgJjpudGgtY2hpbGQoMikge1xuICAgICAgICAgIHdpZHRoOiBhdXRvO1xuICAgICAgICAgIHBhZGRpbmc6IDAgMTJweDtcbiAgICAgICAgICBmb250LXNpemU6IDE0cHg7XG4gICAgICAgIH1cbiAgICAgIH1cbiAgICB9XG4gIH1cbn1cbiJdfQ== */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://Montedemo.github.io/Bibliotheka/Index/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://Montedemo.github.io/Bibliotheka/Index/Atlas/Físico/Galia-og-image.webp"/><meta property="og:image:url" content="https://Montedemo.github.io/Bibliotheka/Index/Atlas/Físico/Galia-og-image.webp"/><meta name="twitter:image" content="https://Montedemo.github.io/Bibliotheka/Index/Atlas/Físico/Galia-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Atlas/Físico/Galia"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="../..">Bibliotheka</a></h2><div class="spacer mobile-only"></div><div style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><p>Buscar</p><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Busca algo" placeholder="Busca algo"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Modo oscuro"><title>Modo oscuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Modo claro"><title>Modo claro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-content"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorador</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div class="explorer-content" aria-expanded="false"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../Atlas/">Atlas</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../Atlas/Físico/">Físico</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Galia</a></div></nav><h1 class="article-title">Galia</h1><p show-comma="true" class="content-meta"><time datetime="2025-04-09T20:10:00.000Z">09 abr 2025</time><span>Se lee en 18 min</span></p><ul class="tags"><li><a href="../../tags/Category/subcontinent" class="internal tag-link">Category/subcontinent</a></li></ul></div></div><article class="popover-hint"><blockquote class="callout infobox" data-callout="infobox">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Infobox</p></div>
+                  
+                </div>
+<div class="callout-content">
+<h1 id="thisfilename"><code>=this.file.name</code><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#thisfilename" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><img src="../../armas.png" width="auto" height="auto" alt/></p>
+<h6 id="thisclase"><code>=this.clase</code><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#thisclase" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<p>|   |
+---|---|
+Rango |  <code>=this.tipo</code>|
+Localización | <code>=this.location</code>|
+Capital | <code>=this.capital</code>|
+Gentilicio | <code>=this.Denomyn</code>|</p>
+<h6 id="política">Política<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#política" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<p>|   |
+---|---|
+Gobernante | <code>=this.leader</code>|
+Título | <code>=this.titulo</code>|
+Vasallo de | <code>=this.superior</code>|
+Parte de | <code>=this.organizacion</code>|
+Disputado por | <code>=this.disputado</code>|
+Sistema de gobierno | <code>=this.gobierno</code>|
+Sistema de poder | <code>=this.estructura</code>|
+Sistema económico | <code>=this.economia</code>|
+Moneda: | <code>=this.moneda</code>|
+Religión oficial | <code>=this.religion</code>|
+Lengua oficial | <code>=this.lengua</code>|
+Etnias | <code>=this.etnias</code>|</p>
+<h6 id="historia">Historia<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#historia" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<p>|   |
+---|---|
+Fundador/es | <code>=this.founder</code>|
+Fundado en | <code>=this.founded</code>|
+Disuelto en | <code>=this.disbanded</code>|
+Heredero de | <code>=this.predecesor</code>|
+Predecesor de |  <code>=this.sucesor</code>|</p>
+<h6 id="geografía">Geografía<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#geografía" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<p><img src="../../MapPlaceholder.png" width="auto" height="auto" alt="cover hsmall"/></p>
+<h6 id="territorios">Territorios<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#territorios" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="dataview" data-theme="github-light github-dark"><code data-language="dataview" data-theme="github-light github-dark" style="display:grid;"><span data-line> </span></code></pre></figure>
+</div>
+</blockquote>
+<p>TABLE WITHOUT ID link(file.name) AS “Territorios”, tipo, leader<br/>
+from “2. Geografía 🌍/Politico”
+where contains( organizacion, this.file.name)
+SORT file.name DESC</p>
+<blockquote>
+<pre><code>```dataview
+</code></pre>
+</blockquote>
+<p>TABLE WITHOUT ID link(file.name) AS “Vasallos”, tipo, leader<br/>
+from “2. Geografía 🌍/Politico”
+where contains( superior, this.file.name)
+SORT file.name DESC</p>
+<blockquote>
+<pre><code>###### Poblaciones
+```dataview
+</code></pre>
+</blockquote>
+<p>table WITHOUT ID link(file.name) AS “Población”, clase
+from “2. Geografía 🌍/Demografico”
+where contains( region, this.file.name)</p>
+<blockquote>
+<pre><code>###### Organizaciones y grupos
+```dataview
+</code></pre>
+</blockquote>
+<p>TABLE WITHOUT ID link(file.name) AS “Grupos”, PrimaryHome
+from “3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos”
+where contains( region, this.file.name)
+SORT file.name DESC</p>
+<blockquote>
+<pre><code>###### Personalidades 
+```dataview
+</code></pre>
+</blockquote>
+<p>TABLE WITHOUT ID link(file.name) AS “Figuras”, Titulo, ☠
+from “3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes/Historicos”
+where contains( region, this.file.name)
+SORT file.name DESC</p>
+<blockquote>
+<pre><code>```dataview
+</code></pre>
+</blockquote>
+<p>TABLE WITHOUT ID link(file.name) AS “Otras”, tipo, ☠
+from “3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes/PNJs”
+where contains( region, this.file.name)
+SORT file.name DESC</p>
+<blockquote>
+<pre><code></code></pre>
+</blockquote>
+<blockquote class="callout infobox is-collapsible" data-callout="infobox" data-callout-fold data-callout-metadata=" ">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Collapsible Infobox </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<h1 id="thisfilename-mítica"><code>=this.file.name</code> Mítica<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#thisfilename-mítica" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="dataview" data-theme="github-light github-dark"><code data-language="dataview" data-theme="github-light github-dark" style="display:grid;"><span data-line> </span></code></pre></figure>
+</div>
+</blockquote>
+<p>TABLE WITHOUT ID link(file.name) AS “Magi”, Casa, Alianza
+from “3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes/Hermeticos”
+where contains( region, this.file.name)
+SORT file.name DESC</p>
+<blockquote>
+<pre><code>```dataview
+</code></pre>
+</blockquote>
+<p>table WITHOUT ID link(file.name) AS “Alianzas”, PrimaryHome, Estacion
+from “3. Personajes y Organizaciones 🧑‍🤝‍🧑/Grupos/1. Hermeticum/Alianzas”
+where contains( region, this.file.name)
+SORT file.name DESC</p>
+<blockquote>
+<pre><code>```dataview
+</code></pre>
+</blockquote>
+<p>TABLE WITHOUT ID link(file.name) AS “Númenes”, PrimaryHome, tipo, RdP
+from “3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes/Numina”
+where contains( region, this.file.name)
+SORT file.name DESC</p>
+<blockquote>
+<pre><code>```dataview
+</code></pre>
+</blockquote>
+<p>TABLE WITHOUT ID link(file.name) AS “Bestiario”, tipo, RdP
+from “6. Bestiario 🐉”
+where contains( region, this.file.name)
+SORT file.name DESC</p>
+<blockquote>
+<pre><code></code></pre>
+</blockquote>
+<h1 id="thisfilename-1"><code>=this.file.name</code><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#thisfilename-1" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+ <section class="wa-section main-content"><p>Sección occidental de la gran llanura europea</p></section>  <section data-section-id="history" class="wa-section public"><h2 id="history">History<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#history" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p></p><h5 id="la-galia-antigua">La Galia Antigua<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#la-galia-antigua" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+Esta parte del mundo debe su nombre a los salvajes galos que una vez habitaron estas tierras y que hacían sacrificios a las poderosas hadas y espíritus de la tierra. Los galos tenían por el jabalí, símbolo de sus reyes tribales, una especial reverencia. Los druidas eran los guías de su fe y sus creencias.
+<br/>
+<p></p>
+<p>
+Aún así no solo galos habitaban este territorio, el sur presentaba un panorama étnico muy variopinto, los Aquitanos -una tribu pre-celta- habitaba el suroeste, en la región que lleva su nombre -Aquitania , y los comerciantes griegos, desde su fundación de Massalia (<span data-article-privacy="private" data-article-id="b89d8e69-68fb-4a8c-bfd9-e6239a20f10c" data-template-type="settlement" class="private-article article-unlinked entity-link wa-link">Marsella</span>) extendieron su influencia sobre toda las tribus celtas de la actual región del <span data-article-privacy="private" data-article-id="8fe6f028-73a8-4a07-a05b-d77fb5fa1b01" data-template-type="organization" class="private-article article-unlinked entity-link wa-link">Arelate</span>.
+<br/>
+</p><h4 id="la-llegada-de-los-romanos">La llegada de los romanos<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#la-llegada-de-los-romanos" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<br/>Cuando los romanos, en protección de los masaliotas, llegaron a la zona en el 125 AC, se produjo la división de la región que ellos llamaban Provincia en dos provincias: Novempopulania (los Nueve Pueblos), hacia el Atlántico, y Narbonense, que formaba el distrito oriental, mirando hacia el mediterráneo. 
+<br/>
+La penetración romana fue lenta y pacífica y pronto estos territorios del sur quedaron asimilados a su incipiente imperio. Solo una revuelta importante turbó la paz y la abundancia de la Narbonense. Tolosa era la antigua capital de la tribu gala de los Volcos. Los tolosanos realizaban sacrificios hundiendo en el lago sagrado en cuya orilla la ciudad se había fundado, como forma de devoción a los espíritus de aquel lago. En el 106 AC, el gobernador romano hizo secar el luego para quedarse los tesoros. Los Tolosates se sintieron ultrajados y sucedió una gran revuelta, ayudada por la incursión de los Cimbros, una tribu germánica nómada. Los Romanos sufrieron una serie de reveses, y los tesoros del lago fueron perdidos después de ser derrotados en la batalla de Arausio, en el Ródano, en el 105 AC. Los Romanos regresaron con fuerza y pacificaron la región, pero nunca encontraron el tesoro.
+<h4 id="la-guerra-de-las-galias">La Guerra de las Galias<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#la-guerra-de-las-galias" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+Entre el 58 y el 50 A.C., Julio César combatió exitosamente a los galos, derrotando al rey Vercingetorix en la batalla de Alesia. El dominio romano alcanzó entonces toda la Galia e incluso a día de hoy, las ruinas romanas pueden encontrarse esparcidas por toda la región. Muchos druidas huyeron a zonas más salvajes y continuaron ejerciendo su influencia. Los Galos nunca adoptaron de todo corazón el panteón romano y continuaron adorando sus propias deidades también. Así floreció una cultura Galo-Romana y la región conoció la prosperidad bajo la gran capital romana de Lugdunum (<span data-article-privacy="private" data-article-id="f57dae44-2ace-4eed-8056-6bfbe5d3d47a" data-template-type="settlement" class="private-article article-unlinked entity-link wa-link">Lyon</span>).
+<br/>
+<h4 id="la-llegada-de-la-cristiandad">La llegada de la Cristiandad<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#la-llegada-de-la-cristiandad" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+Los primeros seguidores de Cristo trajeron la fe a la región. María Magdalena y la Virgen María desembarcaron en Santa María de la Mar en los años siguientes a la crucifixión, y muchas iglesias contienen reliquias de ellas. Lazaro, que había sido resucitado por Cristo, acompañaba a la Virgen y se convirtió en el primer obispo de Marsella.
+<br/>
+El area permanecía, aún así, leal a la vieja religión galorromana, hasta que el gran obispo Saturnino de Tolosa (San Saturnino) sufrío martirio de la mano de sacerdotes romanos, siendo arrastrado por las calles de la cudad hasta la muerte en el año 257. Su muerte inspiró nuevas conversiones y el poder de los cultos romanos cayó en la ciudad, convirtiéndose a la nueva religión y llegando a ser un floreciente centro de la Cristiandad.
+<br/>
+Por ese tiempo, los misioneros cristianos llegaron a París desde Tolosa, capitaneados por Dionisio, con sus asistentes, Eleuterio y Rústico. Los tres entraron en la ciudad pagana y predicaron el evangelio, con gran aplauso. Las autoridades romanas quedaron consternadas por el hecho y capturaron a los misioneros, arrojándolos a que se pudrieran en un oscuro calabozo. Allí languidecieron durante muchos años, rezando a Dios decididamente y logrando conversiones por su fé inquebrantable, hasta que finalmente fueron llevados a la Colina de los Mártires -Montmartre. Allí fueron decapitados en el 275 y sus cuerpos arrojados al Sena. Pero con su ejemplo trajeron la luz de la Cristiandad a la ciudad, y la abadía de San Dionisio fue construida en honor de estos santos y mártires. Se celebra su festividad el 9 de octubre, y San Dionisio es hoy todavía, uno de los santos patrones de Francia, especialmente invocado por la familia real, ya que no solo es el patrón personal del <span data-article-privacy="private" data-article-id="6d5ea3a6-1e51-4341-93c5-40dffc08cde3" data-template-type="rank" class="private-article article-unlinked entity-link wa-link">Rey de Francia</span> sino también el de todos los parisinos y ha sido invocado muchas veces en momentos de necesidad.
+<p></p>
+<p>
+</p><h4 id="los-bretones">Los bretones<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#los-bretones" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+En los siglos V y VI, una oleada de Celtas británicos, escapando del colapso del reino Artúrico y de las incursiones de Pictos, Irlandeses, y sobre todo, invasores Sajones, huyeron a la provincia romana de Armórica, que se hizo conocer desde entonces como Bretaña (o Pequeña Bretaña). Desde ese momento en adelante, Bretaña ha tenkdo su propio idioma, el <span data-article-privacy="private" data-article-id="414bdbb2-e199-4083-b196-798fb7c58981" data-template-type="language" class="private-article article-unlinked entity-link wa-link">Bretón</span> y cultura, y ha sido la mayoría del tiempo independiente, aunque a menudo debiendo fidelidad al <span data-article-privacy="private" data-article-id="6d5ea3a6-1e51-4341-93c5-40dffc08cde3" data-template-type="rank" class="private-article article-unlinked entity-link wa-link">Rey de Francia</span>.
+<p></p>
+<p>
+</p><h4 id="los-visigodos">Los visigodos<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#los-visigodos" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+En el 419 AD, las legiones romanas abandonaron la zona para defender a la propia Roma de las incursiones, y los Visigodos barrieron el sur y se establecieron en ella como parte de su reino. Aun hoy, los restos romanos salpican el paisaje, entremezclándose con los monumentos construidos por las hadas y los gigantes.
+<br/>
+Así, los Visigodos se asentaron en la Galia. Herejes arianos, los visigodos servían como <em>foederati Imperium</em>, tropas bárbaras estacionadas en defensa del imperio. A cambio de su servicio militar, se les concedió el derecho de asentarse en la Narbonense en el 462. En el 475 renunciaron a us derechos sobre la Narbonense al este del Ródano para que se les reconociera su total independencia. Este reino Visigótico se llamó Septimania, en honor de sus siete ciudades, y Tolosa se convirtió en la capital y toda la región continuó disfrutando de prosperidad incluso tras el colapso final del Imperio de Occidente.
+<p></p>
+<p>
+</p><h5 id="los-francos-merovingios">Los francos merovingios<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#los-francos-merovingios" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+Por ese momento, el norte de la Galia conoció otra amenaza. Durante décadas, los Francos, un grupo de feroces tribus germanas se habían estado asentando en la región, especialmente en las tierras ribereñas con el <span data-article-privacy="private" data-article-id="c2dcaf05-ee28-4f4c-a58e-f6d48df85463" data-template-type="location" class="private-article article-unlinked entity-link wa-link">Rin, río</span> ya que habían sido recibidos originalmente también como <em>foederati</em> para defender las fronteras. Su rey, Childerico, ayudó a los Romanos a derrotar a los Visigodos, y su sucesor, Clodoveo, combatió y derrotó al gobernador romano Siagrio en 486 y tras firmar un tratado de paz con los Ostrogodos, llego a reinar sobre un gran imperio, liberado del dominio romano.Su dinastía floreció y catorce grandes reyes merovingios reinaron sobre todos los Francos.
+<br/>
+Clodoveo reinó del 481 al 511. Extendió su reino mediante la guerra, traición y matrimonio. Su mujer, Clotilde de Borgoña, era cristiana, y cambó el curso de la vida de Clodoveo. Su primer hijo murió y el segundo cayó gravemente enfermo de infante, pero Clodoveo vio como las oraciones de su esposa al dios de esta curaban al niño. Lo que le persuadió finalmente fue el milagro del obispo de Arras, Vedasto, hizo en la tumba de San Martin de Tours, devolviendo a un ciego su vista. Así, en 496, enfrentándose a los Alamanes en batalla, juró que si ganaba la batalla renunciaría a Mercurio y a Júpiter. Los derrotó con creces y fue bautizado por San Remigio, arzobispo de Reims. 
+<br/>
+En el 507, Clodoveo en la batalla de Vouille, derrotó a los Visigodos, comenzando el declive de la Septimania cuyas fronteras retrocedían al avance de los francos, solo detenidos por la intervención de los Ostrogodos, y los reyes Visigodos continuaron manteniendo una porción de la Septimania (la región se llamaría ahora Narbonense) mientras movían su centro de poder a Barcelona, y después a Toledo para enfocarse en la conquista de Hispania, pero eso ya es otra historia...
+<br/>
+A la muerte de Clodoveo, las tierras de los Francos fueron repartidas entre sus cuatro hijos, y posteriores divisiones y frecuentes guerras civiles marcaron el periodo merovingio. Los senescales de los palacios ganaron progresivamente importancia en tanto se encargaban de la defensa de los reinos, y aunque hubo momentos de recuperación, como con Dagoberto I, que logró reunicar los reinos francos y nuevas conquistas, estos pronto se perdieron otra vez. 
+<br/>
+Durante la decadencia merovingia, un oscuro periodo de anarquía, empidemicas y hambrunas descendió sobre la Galia. En el Arelate, muchas de las antiguas ciudades romanas fueron abandonadas, y solo prosperó Marsella. Los señores godos y aquitanos del sur pronto se alzaron en rebeldía y se hicieron virtualmente independientes del trono franco.
+<br/>
+En el 719, los Moros atacaron la Narbonense visigoda, tras la caída del reino de Hispania, sin que los francos enviaran ninguna ayuda. En cambio, en 721, el gran duque Odo, de Gascuña y Tolosa, derrotó el avance de los moros, dando tiempo a los francos en prepararse para la defensa.
+<br/> Así, En 732 un gran ejército musulmán volvía a adentrarse en la Galia desde la Península Ibérica. Carlos Martel, senescal, dirigió un ejército que les dio encuentro en la Batalla de Poitiers, obteniendo una gran victoria. En el 754, el hijo de Carlos Martel, Pipino, arrebató la corona al débil heredero merovingio, al que se le tonsuró para privarle de sus poderes mágicos y fue recluido en un monasterio. La leyenda dice que otros herederos de la sangre real merovingia lograron escapar de la usurpación de Pipino.
+<br/>
+En el 759 los francos conquistaron Septimania y fijaron la frontera con los moros en los Pirineos. El poder franco abarcaba ahora toda la Galia desde el <span data-article-privacy="private" data-article-id="c2dcaf05-ee28-4f4c-a58e-f6d48df85463" data-template-type="location" class="private-article article-unlinked entity-link wa-link">Rin, río</span> a los <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="53792d76-7259-443a-a6ce-9b9cf0698386" data-template-type="location" data-article="53792d76-7259-443a-a6ce-9b9cf0698386">Pirineos</span> aunque los nobles del sur siempre aprovecharán cualquier momento de debilidad de los francos para rebelarse o independizarse, de igual manera que fueron los más afectados tanto por las continuas incursiones y saqueos musulmanes, como por las expediciones de castigo de los señores del norte.
+<p></p>
+<p>
+</p><h5 id="la-dinastía-carolingia">La dinastía Carolingia<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#la-dinastía-carolingia" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+La dinastía, conocida como Carolingia en honor a Carlos Martel, hizo grandes esfuerzos para reforzar su legitimidad, buscando el apoyo de la Iglesia. Usaron el nombre de Luis, derivado de Clodoveo (Clovis), por sus hijos y sostuvieron que la princesa Biltild, hija del rey Clotario, era su ancestro. El abad de San Dionisio vio esta oportunidad y apoyó a los nuevos reyes. En el 754, el papa Esteban II pronunció que cualqueir que se hiciese rey fuera de la linea de los Carolingios sería excomulgado. 
+<br/>
+El más insigne de los monarcas carolingios fue el hijo de Pipino, Carlos, una figura clave en la historia de Europa. Su consejero, el sacerdote sajón Alcuino de York, un importantísimo erudito, impulsó un renacer de la cultura y el estudio. 
+<br/>
+Carlos el Grande reinó sobre un poderoso imperio, fue coronado emperador de Occidente y fue también el Rey de Francia. Los juglares y trovadores de la actualidad cantan gestas basadas en la Epica de Carlomagno: una colección de historias de caballería, romance y pasión análoga a la del rey Arturo y que incluye el famoso cuento trágico de Roldán, asesinado en el Paso de Roncesvalles. Desde el más humilde campesino hasta el mismo rey, todos conocen las aventuras de Carlomagno y sus paladines, y su heroismo y costumbres han hecho mucho por dar forma a la cultura actual.
+<br/>
+Sin embargo, el Imperio Carolingio no sobrevivió a la muerte de Carlomagno, y sus nietos dividieron su herencia, de acuerdo a la costumbre sálica de la época.
+<p></p>
+<p>
+</p><h5 id="la-dinastía-capeto">La dinastía Capeto<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#la-dinastía-capeto" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+Hugo Capeto se convirtió en Rey de los Francos en el 987. Era el descendiente de Roberto el -fuerte, un rey de Bretaña del siglo IX, y de Hugo el Grande, el efectivo gobernante de Francia bajo los débiles reyes carolingios Luis IV y Lotario. Hugo Capeto recibió una inestimable ayuda de Geriberto de Aurillac, quien le ayudó a alcanzar el puesto de arzobispo de Reims en el 991. Bien es cierto que Gerberto, un renombrado erudito al que se le atribuyen talentos mágicos aprendidos en Hispania, tuvo mucho que ver en el éxito de Hugo. Sin embargo, la bula del papa Esteban contra monarcas no Carolingios seguía en efecto y la excomunión parecía inevitable. Hugo recuperó el favor de la iglesia al recuperar los cuerpos de San Valerio y de San Riquier. Como recompenssa, su linaje se sentaría en el trono por siete generaciones. 
+<br/>
+En 1220 reina el séptimo en la línea, Felipe II Augusto. Es muy probable que la Dinastía Capeta se extinga a la muerte de Felipe, a pesar de lo saludable que parece el príncipe Luis. Se masca una tragedia en la corte de París...
+<p></p>
+<p>
+</p><h5 id="las-invasiones-vikingas">Las invasiones vikingas<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#las-invasiones-vikingas" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+En el 845, 120 barquiluengos vikingos ascendieron por el río Sena hasta París, saqueando monasterios y ciudades a su paso. Para el invierno, los saqueadores habían sacado entre tributos y rescates de la ciudad de París un total de 7.000 libras. No fue el único evento ya que a finales del siglo VIII habían sido saqueados monasterios de Bretaña, y en el 800 Carlomagno había organizado defensas costeras ante los ataques piratas en el estuario del Sena. De hecho, Aquitania casi había sido devastada a mediados del siglo IX por los vikingos. Muchos saqueos fueron guiados por la mano divina, ciertamente los historiadores monásticos registran que aquellas ciudades y monasterios saqueados habían pecado anteriormente. 
+<br/>
+A mediados del siglo IX, los vikingos habían etablecido bases semi-permanentes (campamentos de invierno) en Neustria (el nombre que antes recibía Normandía). Estos intentos de colonización forzaron al rey Carlos III a alcanzar un acuerdo con el caudillo vikingo, Rollo, en 911. Las intenciones del rey eran que Rollo actuara como un amortiguador a los ataques de sus parientes escandinavos, y así se acordó. Rollo se convirtió al Cristianismo, se casó con la hija del rey y se le concedieron lso condados de Rouen, Lisieux y Evreux en la llanura del Sena. No obstante, Rollo y sus descendietes -que se hacían llamar condes de Ruda - animaron la inmigración y el refuerzo desde Escandinavia y durante las siguientes décdadas agrandaron codiciosamente su territorio, capturando muchas áreas colindantes. Los Francos comenzaron a referirse a este área controlada por los ambiguos bárbaros como la Tierra de los Hombres del Norte, y para el año 1000, los piratas Normandos fueron una presencia permanente en el norte de Francia.
+<br/>
+Entre los sucesors de Rollo se incluyía Guillermo II el Bastardo, que en 1066 conquistó Inglaterra. Un heredero posterior, Enrique II, controlaría casi la mitad de la Galia, ya que era duque de Normandía, de Aquitania, conde de Anjou, y rey de Inglaterra. Su hijo, Ricardo Corazón de León, heredó su teritorio en 1189 que pasaría a su hermano Juan en 1199.
+<p></p>
+<p>
+</p><h5 id="romance-y-rebelión">Romance y Rebelión<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#romance-y-rebelión" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<h4 id="el-reto-angevino">El reto angevino<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#el-reto-angevino" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4><p></p><hr/></section>   
+<h2 id="etymology">Etymology<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#etymology" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Origen del término.</p>
+<hr/>
+<h2 id="política-1">Política<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#política-1" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>…</p>
+<h3 id="estructura-y-organización">Estructura y organización<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#estructura-y-organización" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Definición de la jerarquía de títulos que la componen. Descripción de los principales roles y sus responsabilidades en la organización.</p>
+<h3 id="agenda-pública">Agenda pública<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#agenda-pública" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Objetivos y motivación detrás de las acciones.</p>
+<h3 id="relaciones-exteriores">Relaciones exteriores<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#relaciones-exteriores" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Relaciones diplomáticas establecidas.</p>
+<h3 id="leyes">Leyes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#leyes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Normas escritas o no que rigen a la población. Los aspectos que incluyen son: crimen, propiedad, empleao, comercio, finanzas, impuestos, litigios y castigos. Quién crea las leyes y donde se guardan y documentan. Quién aplica la ley. Qué tipo de castigos se aplican a los infractores. Cómo de laxo o evitable es el largo brazo de la ley.</p>
+<h3 id="ejército">Ejército<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ejército" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Cuáles son las fuerzas militares o de seguridad de la organización, si las hay. Qué divisiones son signficativas. Se pueden enlazar a otras organizaciones geopolíticas o no.</p>
+<hr/>
+<h2 id="geografía-1">Geografía<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#geografía-1" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Describe los rasgos geográficos más remarcables.</p>
+<h3 id="relieve">Relieve<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#relieve" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>El terreno es una llanura, una montaña o una serie de colinas.</p>
+<h3 id="hidrografía">Hidrografía<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hidrografía" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Principales cursos de agua que atraviesan el territorio.</p>
+<h3 id="clima">Clima<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#clima" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h3 id="naturaleza">Naturaleza<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#naturaleza" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Entorno natural y dinámicas que gobiernan el ecosistema de este lugar.  Cómo cambia el ecosismtema con el paso de las estaciones. Como reaccionan los organismos a este cambio (migraciones, hibernaciones, caza o apareamiento.) hay algún fenómeno natural, climatológico o sobrenatural que sea particular o distintivo (tormentas, inundaciones, terremotos, actividad volcánica, etc.)</p>
+<h4 id="clima-1">Clima<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#clima-1" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Temperatura y tiempo atmosférico de la zona. Comportamientos habituales y extremos del clima. Nivel de predecibilidad del clima, de estacionalidad o de estabilidad.</p>
+<h4 id="fauna-y-flora">Fauna y Flora<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#fauna-y-flora" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Animales y plantas característicos de los espacios naturales. Información de su ecología e interacciones locales.</p>
+<hr/>
+<h2 id="society">Society<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#society" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="población">Población<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#población" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Cómo se divide la población en el territorio. Etnicidades, natalidad, mortandad, esperanza de vida.</p>
+<h3 id="implantación">Implantación<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#implantación" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Territorios que ocupa y cual es el estado de ocupación. Cuáles son sus sus tierras ancestrales o las tomadas por la fuerza. Cómo han sido asimiladas o colonizadas.</p>
+<h3 id="estratificación">Estratificación<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#estratificación" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Denominaciones, naturaleza  y características de las diferentes clases sociales: élites, clases medias, clases populares y marginados.</p>
+<h3 id="creencias">Creencias<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#creencias" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Mitos, folklore y tradiciones locales.</p>
+<h3 id="cultura">Cultura<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#cultura" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Forma que sus habitantes perciben o reaccionan ante el mundo que les rodea. Cuales son sus creencias y costumbres principales.</p>
+<h3 id="religión">Religión<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#religión" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Cómo de implantada está la religión oficial y qué otras religiones están presentes en la organización. Existencia de alguna religión prohibida o tabú.
+Principales centros religiosos y jerarquía.</p>
+<h3 id="minorías">Minorías<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#minorías" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Identidad y naturaleza de las minorías étnicas y religiosas. Grado de libertad, integración o marginación.</p>
+<h3 id="viajeros-y-visitantes">Viajeros y visitantes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#viajeros-y-visitantes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Clase de gente foránea  visita el lugar, qué buscan aquí y qué suelen hacer. Dónde es más fácil encontrarles.</p>
+<h3 id="educación">Educación<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#educación" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Cómo de formados están los habitantes. Cuál es el nivel medio. Centros de educación, formación y saber.</p>
+<h3 id="ciencia-y-tecnología">Ciencia y tecnología<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ciencia-y-tecnología" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Qué inovaciones tecnológicas están disponibles para toda la población y que logros trascedentales les da una ventaja militar o económica sobre sus vecinos. Han desarrollado alguna tecnología o manufactura específica .</p>
+<hr/>
+<h2 id="economía">Economía<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#economía" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Nivel de desarrollo económico y prosperidad.</p>
+<h3 id="recursos--naturales">Recursos  Naturales<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#recursos--naturales" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Madera de los bosques, grano. de los campos, ovejas de las colinas y metales o piedras de las entrañas de la tierra. Los recursos naturales definen los bienes que pueden encontrarse o que pueden ser explotados por la población.</p>
+<h3 id="agricultura-e-industria">Agricultura e Industria<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#agricultura-e-industria" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Es una potencia agrícola o manufacturera. Cuales son las actividades que sustentan esas facetas (metalurgia, telares, colmenas, rebaños, ballenas, etc.)</p>
+<h3 id="comercio-y-transporte">Comercio y Transporte<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#comercio-y-transporte" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Como se mueven estos productos fuera y dentro de las fronteras. Infraestructuras y vías de comunicaciones. Centros de comercio, mercados principales y ferias. Compañías comerciales y rutas. Acuerdos de comercio.</p>
+<h4 id="importaciones">Importaciones<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#importaciones" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Cuáles son los productos que necesita traer del exterior o que aprecia cómo bienes de lujo. Qué productos son más baratos de importar aunque se puedan producir dentro.</p>
+<h4 id="exportaciones">Exportaciones<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#exportaciones" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>Que mercaderías están demandadas fuera y cuán abundante es ese recurso.</p>
+<h3 id="infraestructuras">Infraestructuras<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#infraestructuras" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Bienes y recursos que aseguran la salud, riqueza o bienestar de la población: canalizaciones de agua, fortificaciones, puentes, murallas, puertos, casas consistoriales, etc.</p>
+<hr/>
+<h2 id="historia-1">Historia<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#historia-1" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Esbozo sucinto. Los listado de eventos se adjuntan en líneas cronológicas.</p>
+<h3 id="antecedentes">Antecedentes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#antecedentes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Situación anterior. Organizaciones predecesoras.</p>
+<h3 id="fundación">Fundación<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#fundación" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Proceso de formación y creación de esta unidad geopolítica</p>
+<h3 id="crisis-y-evoluciones">Crisis y evoluciones<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#crisis-y-evoluciones" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Momentos relevantes en su devenir histórico y cambios que experimenta.</p>
+<h3 id="disolución">Disolución<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#disolución" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Causas y proceso de disolución.</p>
+<hr/>
+<h2 id="rumores-leyendas-y-secretos">Rumores, leyendas y secretos<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#rumores-leyendas-y-secretos" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Noticias que circulan oficial y oficiosamente por el lugar. Misterios y secretos. Rumores. Historias locales.  Secretos y actividades crípticas.</p>
+<hr/>
+<h2 id="perspectiva-hermética">Perspectiva Hermética<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#perspectiva-hermética" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Implantación de la Orden
+Alianzas
+Tradiciones no-herméticas.
+Aspectos de interés hermético: vis en bruto, auras y poderes sobrenaturales.</p></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista Gráfica</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-content" aria-expanded="true"><h3>Tabla de Contenidos</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul class="toc-content overflow" id="list-1"><li class="depth-0"><a href="#thisfilename" data-for="thisfilename">=this.file.name</a></li><li class="depth-0"><a href="#thisfilename-mítica" data-for="thisfilename-mítica">=this.file.name Mítica</a></li><li class="depth-0"><a href="#thisfilename-1" data-for="thisfilename-1">=this.file.name</a></li><li class="depth-1"><a href="#etymology" data-for="etymology">Etymology</a></li><li class="depth-1"><a href="#política" data-for="política">Política</a></li><li class="depth-2"><a href="#estructura-y-organización" data-for="estructura-y-organización">Estructura y organización</a></li><li class="depth-2"><a href="#agenda-pública" data-for="agenda-pública">Agenda pública</a></li><li class="depth-2"><a href="#relaciones-exteriores" data-for="relaciones-exteriores">Relaciones exteriores</a></li><li class="depth-2"><a href="#leyes" data-for="leyes">Leyes</a></li><li class="depth-2"><a href="#ejército" data-for="ejército">Ejército</a></li><li class="depth-1"><a href="#geografía" data-for="geografía">Geografía</a></li><li class="depth-2"><a href="#relieve" data-for="relieve">Relieve</a></li><li class="depth-2"><a href="#hidrografía" data-for="hidrografía">Hidrografía</a></li><li class="depth-2"><a href="#clima" data-for="clima">Clima</a></li><li class="depth-2"><a href="#naturaleza" data-for="naturaleza">Naturaleza</a></li><li class="depth-1"><a href="#society" data-for="society">Society</a></li><li class="depth-2"><a href="#población" data-for="población">Población</a></li><li class="depth-2"><a href="#implantación" data-for="implantación">Implantación</a></li><li class="depth-2"><a href="#estratificación" data-for="estratificación">Estratificación</a></li><li class="depth-2"><a href="#creencias" data-for="creencias">Creencias</a></li><li class="depth-2"><a href="#cultura" data-for="cultura">Cultura</a></li><li class="depth-2"><a href="#religión" data-for="religión">Religión</a></li><li class="depth-2"><a href="#minorías" data-for="minorías">Minorías</a></li><li class="depth-2"><a href="#viajeros-y-visitantes" data-for="viajeros-y-visitantes">Viajeros y visitantes</a></li><li class="depth-2"><a href="#educación" data-for="educación">Educación</a></li><li class="depth-2"><a href="#ciencia-y-tecnología" data-for="ciencia-y-tecnología">Ciencia y tecnología</a></li><li class="depth-1"><a href="#economía" data-for="economía">Economía</a></li><li class="depth-2"><a href="#recursos--naturales" data-for="recursos--naturales">Recursos  Naturales</a></li><li class="depth-2"><a href="#agricultura-e-industria" data-for="agricultura-e-industria">Agricultura e Industria</a></li><li class="depth-2"><a href="#comercio-y-transporte" data-for="comercio-y-transporte">Comercio y Transporte</a></li><li class="depth-2"><a href="#infraestructuras" data-for="infraestructuras">Infraestructuras</a></li><li class="depth-1"><a href="#historia" data-for="historia">Historia</a></li><li class="depth-2"><a href="#antecedentes" data-for="antecedentes">Antecedentes</a></li><li class="depth-2"><a href="#fundación" data-for="fundación">Fundación</a></li><li class="depth-2"><a href="#crisis-y-evoluciones" data-for="crisis-y-evoluciones">Crisis y evoluciones</a></li><li class="depth-2"><a href="#disolución" data-for="disolución">Disolución</a></li><li class="depth-1"><a href="#rumores-leyendas-y-secretos" data-for="rumores-leyendas-y-secretos">Rumores, leyendas y secretos</a></li><li class="depth-1"><a href="#perspectiva-hermética" data-for="perspectiva-hermética">Perspectiva Hermética</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creado con <a href="https://quartz.jzhao.xyz/">Quartz v4.5.0</a> © 2025</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript">function o(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.classList.contains("is-collapsed")?this.scrollHeight:t.scrollHeight;t.style.maxHeight=e+"px";let c=t,l=t.parentElement;for(;l;){if(!l.classList.contains("callout"))return;let i=l.classList.contains("is-collapsed")?l.scrollHeight:l.scrollHeight+c.scrollHeight;l.style.maxHeight=i+"px",c=l,l=l.parentElement}}function n(){let t=document.getElementsByClassName("callout is-collapsible");for(let s of t){let e=s.firstElementChild;if(!e)continue;e.addEventListener("click",o),window.addCleanup(()=>e.removeEventListener("click",o));let l=s.classList.contains("is-collapsed")?e.scrollHeight:s.scrollHeight;s.style.maxHeight=l+"px"}}document.addEventListener("nav",n);
+</script><script type="module">function f(i,e){if(!i)return;function r(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function t(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}i?.addEventListener("click",r),window.addCleanup(()=>i?.removeEventListener("click",r)),document.addEventListener("keydown",t),window.addCleanup(()=>document.removeEventListener("keydown",t))}function y(i){for(;i.firstChild;)i.removeChild(i.firstChild)}var h=class{constructor(e,r){this.container=e;this.content=r;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),r=this.onMouseMove.bind(this),t=this.onMouseUp.bind(this),o=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",r),document.addEventListener("mouseup",t),window.addEventListener("resize",o),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",r),()=>document.removeEventListener("mouseup",t),()=>window.removeEventListener("resize",o))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let r=this.createButton("+",()=>this.zoom(.1)),t=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(t),e.appendChild(o),e.appendChild(r),this.container.appendChild(e)}createButton(e,r){let t=document.createElement("button");return t.textContent=e,t.className="mermaid-control-button",t.addEventListener("click",r),window.addCleanup(()=>t.removeEventListener("click",r)),t}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}zoom(e){let r=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),t=this.content.getBoundingClientRect(),o=t.width/2,n=t.height/2,c=r-this.scale;this.currentPan.x-=o*c,this.currentPan.y-=n*c,this.scale=r,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){this.scale=1;let e=this.content.querySelector("svg");this.currentPan={x:e.getBoundingClientRect().width/2,y:e.getBoundingClientRect().height/2},this.updateTransform()}},C=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],E;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;E||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let r=E.default,t=new WeakMap;for(let n of e)t.set(n,n.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let a=t.get(s);a&&(s.innerHTML=a)}let n=C.reduce((s,a)=>(s[a]=window.getComputedStyle(document.documentElement).getPropertyValue(a),s),{}),c=document.documentElement.getAttribute("saved-theme")==="dark";r.initialize({startOnLoad:!1,securityLevel:"loose",theme:c?"dark":"base",themeVariables:{fontFamily:n["--codeFont"],primaryColor:n["--light"],primaryTextColor:n["--darkgray"],primaryBorderColor:n["--tertiary"],lineColor:n["--darkgray"],secondaryColor:n["--secondary"],tertiaryColor:n["--tertiary"],clusterBkg:n["--light"],edgeLabelBackground:n["--highlight"]}}),await r.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let n=0;n<e.length;n++){let v=function(){let g=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let w=c.querySelector("svg").cloneNode(!0);m.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new h(g,m)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},c=e[n],s=c.parentElement,a=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(a),L=a.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),f(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script src="../../postscript.js" type="module"></script></html>
