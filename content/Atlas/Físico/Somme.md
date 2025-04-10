@@ -85,4 +85,4 @@ SORT file.name DESC
 ### Imagen
 ![[ImagePlaceholder.png|Placeholder Picture]]
 
-Río del norte de  [[2. Geografía 🌍/Politico/1. Soberanos/Francia|Francia]] que desemboca en el [[Mar Británico]] (canal de la Mancha) y principal responsable de la Llanura picarda ([[2. Geografía 🌍/Politico/3. Demarcaciones/Picardía|Picardía]]). 
+Río del norte de  [[2. Geografía 🌍/Politico/1. Soberanos/Francia|Francia]] que desemboca en el [[Británico, mar]] (canal de la Mancha) y principal responsable de la Llanura picarda ([[2. Geografía 🌍/Politico/3. Demarcaciones/Picardía|Picardía]]). 
