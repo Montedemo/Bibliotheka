@@ -1,7 +1,7 @@
 En el el grupo escapa de Zugarramurdi y acaba enmarañado en las redes de una maquinación infernal en el seno de las brujas de Vasconia que pone en vilo su existencia y cuya resolución conducirá a una revelación crucial.
 ![[stanhope-psyche-charon.webp]]
 
-###### Los muertos no pueden regresar del Infierno salvo que alguien paguesu pasaje de vuelta.  
+###### Los muertos no pueden regresar del Infierno salvo que alguien pague su pasaje de vuelta.  
 
 ---
 
@@ -32,7 +32,7 @@ Mientras tanto, Raoul, Antxon y Beñat decidieron seguir las huellas que salían
 ![[Cameron.png]]
 ###### Cameron Medio-Osa, cambiaformas infernal 
 
-![[z_Assets/catriona macdubhgaill.png]]
+![[z_assets/catriona macdubhgaill.png]]
 ###### Catriona MacDubhgail, la Sacrificadora 
 
 Beñat, ciego por un nuevo hechizo de la bruja, corrió a lavarse la cara en un arroyo cercano mientras Antxon y Raoul contenían a las enemigas. Gabín y el otro hombre de Antxon llegaron en refuerzo, y entre los tres lograron dañar seriamente al combatiente andrógino. Sin embargo, la bruja oculta volvió a lanzar un conjuro que destrozó por completo las piernas de Fermín, deján-dolo fuera de combate. Duncan, tam-bién reincorporado al combate, intentó calcinar a la bruja con la Lanza de Lla-mas, pero falló, aunque logró identificar-la como su prima Catriona MacDubhghail, poderosa oficiante del Culto del Extranjero Negro, mientras que la enorme figur andrógina era Cameron Medio-Osa. ¿Qué harían los miembros tan destacados de su culto familiar tan lejos de sus tierras ancestrales?
