@@ -35,7 +35,7 @@ NoteIcon: geo
 
 
 
- <section class="wa-section main-content"><p></p></section>   
+    
 
 ## Etymology
 Origen del término.

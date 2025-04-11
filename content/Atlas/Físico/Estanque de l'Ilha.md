@@ -26,7 +26,7 @@ region:
 
 
 
- <section class="wa-section main-content"><p></p></section>   
+    
 
 ### Mapa
 ![[MapPlaceholder.png|Placeholder Map]]
