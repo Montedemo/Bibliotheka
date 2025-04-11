@@ -24,7 +24,7 @@ region:
 
 
 
- <section class="wa-section main-content"><p></p></section>  <section data-section-id="alternativename" class="wa-section public"><dl><dt>Alternativename</dt><dd>Montes de Toledo</dd></dl></section>   
+   <section data-section-id="alternativename" class="wa-section public"><dl><dt>Alternativename</dt><dd>Montes de Toledo</dd></dl></section>   
 
 ### Mapa
 ![[MapPlaceholder.png|Placeholder Map]]
