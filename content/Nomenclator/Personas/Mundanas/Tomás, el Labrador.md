@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Tomás-20240923000712229.png]]
+![[👤 PNJ - Tomás-20240923000712229.png]]
 # Tomás Tafalla
 ## Descripción
 

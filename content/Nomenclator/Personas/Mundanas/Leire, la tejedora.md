@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Leire, la Tejedora-20240923100143456.png]]
+![[👤 PNJ - Leire, la Tejedora-20240923100143456.png]]
  
 # Leire Gorroandetxe 
 

@@ -1,6 +1,6 @@
-
+![[👤 PNJ - Garazi la hilandera-20240923165519656.png]]
 # Garazi Irulea
-![[👤 _PNJ_ - Garazi la hilandera-20240923165519656.png]]
+
 ## Descripción
 ### Apariencia 
 Garazi, de unos 40 años, es una mujer menuda y de aspecto delicado. Su cabello castaño siempre está recogido con un burukoa, y sus manos se mueven constantemente mientras hila o teje. Tiene una voz suave y una sonrisa constante. Lleva ropa hecha de restos de retales caros que le sobran a las damas del pueblo para las que teje, por lo que. de lejos, aparenta más riqueza de la que tiene. 

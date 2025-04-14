@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Leire, la pastora-20240923171230728.png]]
+![[👤 PNJ - Leire, la pastora-20240923171230728.png]]
 # Leire Zubizarreta
 
 ## Descripción

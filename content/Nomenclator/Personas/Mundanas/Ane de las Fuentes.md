@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Ane de las Fuentes-20240923123408768.png]]
+![[👤 PNJ - Ane de las Fuentes-20240923123408768.png]]
 # Ane Iturri
 
 ## Descripción

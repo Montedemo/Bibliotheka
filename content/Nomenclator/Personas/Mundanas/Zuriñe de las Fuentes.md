@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Zuriñe, la guardiana de las fuentes-20240923122647326.png]]
+![[👤 PNJ - Zuriñe, la guardiana de las fuentes-20240923122647326.png]]
 # Zuriñe Iturri
 
 ## Descripción

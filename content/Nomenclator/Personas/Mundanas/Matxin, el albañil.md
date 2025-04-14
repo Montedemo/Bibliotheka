@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Matxin, el albañil-20240923175212541.jpg]]
+![[👤 PNJ - Matxin, el albañil-20240923175212541.jpg]]
 # Matxin Etxeberria 
 
 ## Descripción

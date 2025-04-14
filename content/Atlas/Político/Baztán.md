@@ -1,0 +1,1 @@
+Valle y vizcondado del reino de [[Navarra]], que conforma la mayor parte del llamado Tramontano navarro. 

@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Txomin el albañil-20240923173836036.png]]
+![[👤 PNJ - Txomin el albañil-20240923173836036.png]]
 # Txomin Etxeberria 
 
 ## Descripción

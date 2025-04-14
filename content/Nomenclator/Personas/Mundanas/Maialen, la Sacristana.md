@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Maialen Olaizola-20240922234902649.png]]
+![[👤 PNJ - Maialen Olaizola-20240922234902649.png]]
 # Maialen Olaizola
  
 ## Descripción

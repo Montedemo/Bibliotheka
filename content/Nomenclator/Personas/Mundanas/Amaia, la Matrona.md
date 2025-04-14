@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Amaia-20240922231738451.png]]
+![[👤 PNJ - Amaia-20240922231738451.png]]
 # Amaia Gorroandetxe
  
 ## Descripción
