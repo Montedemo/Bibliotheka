@@ -14,3 +14,5 @@ Adur fue criado por su abuelo, un antiguo cazador, después de que sus padres mu
 Adur está obsesionado con la idea de encontrar una serpiente dorada, que según la leyenda local, concede poderes mágicos a quien la capture. Aunque muchos piensan que es solo un mito, Adur está dispuesto a arriesgarlo todo para probar que es real.
 ### Token
 ![[Adur Aroztegui-Token.png]]
+## Etiquetas
+#exterater #intza #pnj 
