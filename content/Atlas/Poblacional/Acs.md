@@ -29,9 +29,6 @@ NoteIcon: settlement
 ---
 
 
-
-    
-
 ### Mapa
 ![[MapPlaceholder.png|Placeholder Map]]
 
