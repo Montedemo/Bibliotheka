@@ -1,4 +1,4 @@
-El reino de Navarra es el más pequeño en extensión de los reinos de [[España]]. Al norte limita con el condado de [[Gascuña]] (las villas transpirenaicas de Mixa, Ostabaret, San Juan Pie de Puerto y Mauleón rinden vasallaje al rey de Navarra), al sur y al oeste con el Reino de [[Castilla]] (estando la ciudad de Laguardia en su parte más occidental y al este con la [[Corona de Aragón]] (con ciudades limitrofes, de norte a sur, como Burgui, Javier, Peña, Buñuel y Monteagudo).
+El reino de Navarra es el más pequeño en extensión de los reinos de [[España]]. Al norte limita con el condado de [[Gascuña]] (las villas transpirenaicas de Mixa, Ostabaret, San Juan Pie de Puerto y Mauleón rinden vasallaje al rey de Navarra), al sur y al oeste con el Reino de [[Castilla]] (estando la ciudad de Laguardia en su parte más occidental y al este con la [[Corona de Aragón]] (con ciudades limítrofes, de norte a sur, como Burgui, Javier, Peña, Buñuel y Monteagudo).
 
 ![[image.png]]
 
@@ -38,19 +38,19 @@ Después de [La Guerra del Cisma](app://obsidian.md/w/europa-mythica-montedemo/
 #### Las alianzas navarras
 Sin tener en cuenta los territorios del Tribunal de Provenza, que se corresponden con la Navarra primitiva o germen del Reino de Pamplona, las alianzas ibéricas del reino de Navarra se ubican en las unidades regionales de Tierra Estella y la Tierra de Tudela, por lo tanto, fuera del saltus vasconum. 
 
-|   |   |   |
-|---|---|---|
-|Alianzas habitadas|Vida|Votos|
-|Barda|1102-Act.|2|
-|Al-Quṣṣāṣ|1158-Act.|2(3)|
+|                    |           |       |
+| ------------------ | --------- | ----- |
+| Alianzas habitadas | Vida      | Votos |
+| [[Barda]]          | 1102-Act. | 2     |
+| [[Al-Quṣṣāṣ]]      | 1158-Act. | 2(3)  |
 
 |                    |           |
 | ------------------ | --------- |
 | Alianzas en ruinas | Vida      |
-| Secunda            | 810-848   |
-| Andelos            | 1095-1165 |
+| [[Secunda]]        | 810-848   |
+| [[Andelos]]        | 1095-1165 |
 #### Las sorgiñak 
-Las tierras navarras del Tribunal de Provenza coinciden con la parte más agreste del saltus vasconum, solar de la poderosa tradición no-hermética de las sorgiñak, (cuyos miembros fueron asimilados dentro de la Casa Ex-Miscellanea, aunque con buenas relaciones con los mercurianos de la Casa Flambeau.) Diferentes convenios entre Aedes Mercurii y las sorgiñak permiten el uso conjunto de lugares de poder y la extracción de vis. Hasta la guerra del Cisma, las sorgiñak se organizaron en un gran Coenobium (alianza múltiple) de Aquelarre. Pero su alineación hermética inicial con la casa Flambeau las hizo presa fácil de las correrías de magi Diedne que prácticamente destruyeron la tradición y acabaron con la alianza de Askelarre a principios del siglo XI. Desde entonces, las sorgiñak heméticas suelen integrarse en la Casa Ex-Miscellanea y los varones con el don que nacen en su seno, suelen ser enviados a Aedes Mercurii para que sean entrenados como aprendices allí. Se habla de poderosas sorgiñak no herméticas que todavía perviven en los bosques de Vasconia, como las sorgiñak de Aralar, pero la mayoría de estas mujeres sabias son brujas locales sin el Don capaces de obrar algunas habilidades sobrenaturales por iniciación mistérica, y por lo tanto, de escasa relevancia para la Orden de Hermes. 
+Las tierras navarras del Tribunal de Provenza coinciden con la parte más agreste del [[saltus vasconum]], solar de la poderosa tradición no-hermética de las sorgiñak, (cuyos miembros fueron asimilados dentro de la [[Casa Ex-Miscellanea]], aunque con buenas relaciones con los mercurianos de la [[Casa Flambeau]].) Diferentes convenios entre [[Aedes Mercurii]] y las sorgiñak permiten el uso conjunto de lugares de poder y la extracción de vis. Hasta la guerra del Cisma, las sorgiñak se organizaron en un gran Coenobium (alianza múltiple) de Aquelarre. Pero su alineación hermética inicial con la casa Flambeau las hizo presa fácil de las correrías de magi de la [[Casa Diedne]] que prácticamente destruyeron la tradición y acabaron con la alianza de [[Askelarre]] a principios del siglo XI. Desde entonces, las sorgiñak heméticas suelen integrarse en la Casa Ex-Miscellanea y los varones con el don que nacen en su seno, suelen ser enviados a Aedes Mercurii para que sean entrenados como aprendices allí. Se habla de poderosas sorgiñak no herméticas que todavía perviven en los bosques de Vasconia, como las [[Sorgiñak de Aralar]], pero la mayoría de estas mujeres sabias son brujas locales sin el Don capaces de obrar algunas habilidades sobrenaturales por iniciación mistérica, y por lo tanto, de escasa relevancia para la Orden de Hermes. 
 
 ---
 

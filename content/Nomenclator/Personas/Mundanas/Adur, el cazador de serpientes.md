@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Adur, el cazadordeserpientes-20240923170348759.png]]
+![[Adur20240923170348759.png]]
 # Adur Aroztegi
 Atractivo joven de Intza, cuya vida está marcada  por su  extraña afinidad con las serpientes a cuyo veneno es inmune. 
 
@@ -15,4 +15,4 @@ Adur está obsesionado con la idea de encontrar una serpiente dorada, que según
 ### Token
 ![[Adur Aroztegui-Token.png]]
 ## Etiquetas
-#exterater #intza #pnj 
+#exterater #intza #pnj  #guerrero

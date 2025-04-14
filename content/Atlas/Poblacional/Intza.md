@@ -24,13 +24,13 @@ Todas las mujeres de la aldea están iniciadas en el culto de las sorgiñak, con
 
 ## Política y administración
 ###  Gobierno
-La aldea está gobernada por la anciana Maialen, una sorgiña sin Don, mujer de avanzada edad y gran sabiduría. Una asamblea de mujeres, la Asamblea de las Madres, gobierna los asuntos del pueblo. En ausencia de Birrutia y sus hijas -a menudo inmersas en las cuevas-, la Asamblea es presidida por la matrona más anciana, en este caso Maialen. No obstante, Birrutia, matriarca de las sorgiñak de Aralar, y sus hijas, aunque no interfiere en los asuntos del pueblo, no pueden dejar de manifestar su peso en la vida y espíritu del lugar. 
+La aldea está gobernada por la anciana Maialen, una sorgiña sin Don, mujer de avanzada edad y gran sabiduría. Una asamblea de mujeres, la Asamblea de las Madres, gobierna los asuntos del pueblo. En ausencia de Birrutia y sus hijas -a menudo inmersas en las cuevas-, la Asamblea es presidida por la matrona más anciana, en este caso Maialen. No obstante, [[Birrutia]], matriarca de las [[Sorgiñak de Aralar]], y sus hijas, aunque no interfiere en los asuntos del pueblo, no pueden dejar de manifestar su peso en la vida y espíritu del lugar. 
 #### El Aquelarre de Intza
-####  Matronas
+#####  Matronas
 - Maialen
 - Amaia
 - Zuriñe,  la guardiana de las fuentes.
-#### Matres
+##### Matres
 - Maider, la tabernera
 - Nagore, la molinera 
 - Garazi Etxeberria, la alfarera
@@ -39,7 +39,7 @@ La aldea está gobernada por la anciana Maialen, una sorgiña sin Don, mujer de 
 - Aunate, mujer del vinatero
 - Idoia, mujer del albañil
 - Garazi Berasaluze, la hilandera
-#### Doncellas 
+##### Doncellas 
 - Orreaga Jauregui, la melera 
 - Leire Zubizarreta, la pastora
 - Aldana Agirre, la pastora
@@ -50,15 +50,15 @@ La aldea está gobernada por la anciana Maialen, una sorgiña sin Don, mujer de 
 - Ainara, hija del vinatero
 - Leire, hija del vinatero 
 ### Las sorgiñak
-El culto de la Mari -la Antigua Religión- es mantenido por una familia en particular, el linaje de Birrutia, la matriarca de las sorgiñak de Aralar, el aquelarre más antiguo y prestigioso de toda la Vasconia. Se dice que siempre ha habido tres sorgiñak en Intza: anciana, madre e hija, que cuidan de los lugares sagrados de Aralar e instruyen a las matronas en las artes y conocimientos de su tradición. Se dice que Birrutia es la mujer más anciana del valle ya que todo el mundo ya la recuerda vieja, aunque ella no suele dejar de recordar que también fue joven.  Sin duda la presencia de Birrutia y sus hijas es la razón por la que la antigua Religión  y las viejas tradiciones siguen vivas en estas tierras; pero la presencia de las sorgiñak de Aralar también atrae la atención de otros poderes -mundanos o sobrenaturales- que envidian y temen el poder de estas mujeres. 
+El culto de la Mari -la Antigua Religión- es mantenido por una familia en particular, el linaje de Birrutia, la matriarca de las Sorgiñak de Aralar, el aquelarre más antiguo y prestigioso de toda la [[Vasconia]]. Se dice que siempre ha habido tres sorgiñak en Intza: anciana, madre e hija, que cuidan de los lugares sagrados de [[Aralar]] e instruyen a las matronas en las artes y conocimientos de su tradición. Se dice que Birrutia es la mujer más anciana del valle ya que todo el mundo ya la recuerda vieja, aunque ella no suele dejar de recordar que también fue joven.  Sin duda la presencia de Birrutia, su hija [[Yndarr]] y su nieta [[Sorgiñak]],  es la razón por la que la antigua Religión  y las viejas tradiciones siguen vivas en estas tierras; pero la presencia de las sorgiñak de Aralar también atrae la atención de otros poderes -mundanos o sobrenaturales- que envidian y temen el poder de estas mujeres. 
 ### Gremios y facciones
 La comunidad está bastante unida y cohesionada en torno a su matriarca, Maialen y a la presencia de las sorgiñak mayores.
 Los varones forman una hermandad de cazadores reuniéndose periódicamente para celebrar banquetes en el bosque, donde ellos se cocinan, beben y cantan sin la mirada inquisitiva de las mujeres. 
 ### Relaciones internas
-El señor oficioso del valle de Arraiz es don Martín de Goñi, que ocasionalmente reside en el castillo de Andueza, cerca de Atallu. Es el aide nagusia más destacado del valle y como le recaen las tareas de defensa del mismo, aunque no recoge rentas más que por sus tierras directas (en Atallu) ni ejerce señorío jurisdiccional. Aunque a veces le ausentan asuntos en la corte de Pamplona o de sus feudos solariegos -en teoría mucho más acogedores que el pequeño castillo de Andueza, suele pasar aquí largas temporadas dedicado a la caza, pero Birrutia como cabecilla de las sorgiñak ha dejado en varias ocasiones bien clara su posición y no ha podido inmiscuirse en los asuntos de la aldea. 
+El señor oficioso del valle de Araiz es don [[Martín de Goñi]], que ocasionalmente reside en el castillo de [[Andueza]], cerca de [[Atallu]]. Es el *aide nagusia* más destacado del valle y como tal le recaen las tareas de defensa del mismo, aunque no recoge rentas más que por sus tierras directas (en Atallu) ni ejerce señorío jurisdiccional. Aunque a veces le ausentan asuntos en la corte de [[Pamplona]] o de sus feudos solariegos -en teoría mucho más acogedores que el pequeño castillo de Andueza, suele pasar aquí largas temporadas dedicado a la caza, pero Birrutia como cabecilla de las sorgiñak ha dejado en varias ocasiones bien clara su posición preeminente y no ha podido inmiscuirse en los asuntos de la aldea.
 La vida es dura y, debido a la proximidad de Aralar, los aldeanos respetan y temen las antiguas creencias paganas. 
 ### Relaciones externas
-Se trata de una comunidad bastante cerrada debido al aislamiento, aunque las mujeres del Valle de Araiz suelen celebrar asambleas presididas por Birrutia y se unen en las celebraciones religiosas paganas. 
+Se trata de una comunidad bastante cerrada debido al aislamiento, aunque las mujeres del [[Valle de Araiz]] suelen celebrar asambleas presididas por Birrutia y se unen en las celebraciones religiosas paganas. 
 
 ![[Intza al atardecer4-1.png]]
 
