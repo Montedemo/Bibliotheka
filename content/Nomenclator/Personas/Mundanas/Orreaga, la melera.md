@@ -1,4 +1,4 @@
-![[👤 PNJ  - ORREAGA, LA MELERA-20240923160405515.png]]
+![[👤 PNJ- ORREAGA, LA MELERA-20240923160405515.png]]
 # Orreaga Jauregui
 
 ## Descripción
