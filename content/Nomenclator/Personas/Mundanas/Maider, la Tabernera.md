@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Maider Barrenechea-20240922235729034.png]]
+![[👤 PNJ - Maider Barrenechea-20240922235729034.png]]
 # Maider Barrenetxea
 ## Descripción
 

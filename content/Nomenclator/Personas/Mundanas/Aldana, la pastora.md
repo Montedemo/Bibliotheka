@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Aldana, la pastora-20240923120112842.png]]
+![[👤 PNJ - Aldana, la pastora-20240923120112842.png]]
 # Aldana
 
 ## Descripción

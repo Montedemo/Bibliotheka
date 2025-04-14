@@ -1,0 +1,1 @@
+Comarca del reino de Navarra situado al norte de los Pirineos, más allá de Roncesvalles. 

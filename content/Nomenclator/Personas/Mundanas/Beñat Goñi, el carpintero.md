@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Beñat Goñi, el carpintero-20240923163743823.png]]
+![[👤 PNJ - Beñat Goñi, el carpintero-20240923163743823.png]]
 # Beñat Goñi
 
 ## Descripción

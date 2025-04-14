@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Fray Iñigo de Aralar-20240923102048948.png]]
+![[👤 PNJ  - Fray Iñigo de Aralar-20240923102048948.png]]
 # Hermano Iñigo de Aralar
  Monje benedictino de la abadía de [[San Miguel In Excelsis]] -en [[Aralar]]- que  lleva  la cura de almas de [[Intza]].
 ## Descripción

@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Ander, el cazador-20240923104444928.png]]
+![[👤 PNJ - Ander, el cazador-20240923104444928.png]]
 # Ander, el cazador
  
 ## Descripción

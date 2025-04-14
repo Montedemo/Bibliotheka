@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Joxe, el curandero-20240923163152456.png]]
+![[👤 PNJ - Joxe, el curandero-20240923163152456.png]]
 # Joxe Mendia 
 
 ## Descripción

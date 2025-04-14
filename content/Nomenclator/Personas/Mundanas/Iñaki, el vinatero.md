@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Iñaki, el vinatero-20240923164518026.png]]
+![[👤 PNJ - Iñaki, el vinatero-20240923164518026.png]]
 # Iñaki Urrutikoetxea
 
 ## Descripción

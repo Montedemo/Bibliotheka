@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Mikel, el molinero-20240923102742289.png]]
+![[👤 PNJ - Mikel, el molinero-20240923102742289.png]]
 # Mikel Larralde
  
 ## Descripción

@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Idoia Gorroandetxe-20240923180157705.png]]
+![[👤 PNJ - Idoia Gorroandetxe-20240923180157705.png]]
 # Idoia Gorroandetxe
 
 - Esposa de [[Txomin el albañil]]

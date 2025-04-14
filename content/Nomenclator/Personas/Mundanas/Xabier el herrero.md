@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Xavier el herrero-20240923172333265.png]]
+![[👤 PNJ - Xavier el herrero-20240923172333265.png]]
 # Xabier Gorrandetxe
 
 ## Descripción

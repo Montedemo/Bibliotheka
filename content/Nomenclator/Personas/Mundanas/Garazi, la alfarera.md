@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Garazi, la alfarera-20240923121918605.png]]
+![[👤 PNJ - Garazi, la alfarera-20240923121918605.png]]
 # Garazi Etxeberria
 
 ## Descripción

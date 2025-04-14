@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Otxoa, el cazador-20240923161153051.png]]
+![[👤 PNJ - Otxoa, el cazador-20240923161153051.png]]
 # Otxoa Urrutia
 
 ## Descripción

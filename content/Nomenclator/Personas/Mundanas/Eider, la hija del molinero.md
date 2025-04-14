@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Eider, la hija del molinero-20240923161946768.png]]
+![[👤 PNJ - Eider, la hija del molinero-20240923161946768.png]]
 # Eider Larralde
 
 ## Descripción

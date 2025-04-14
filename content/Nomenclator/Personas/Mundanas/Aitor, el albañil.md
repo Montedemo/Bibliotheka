@@ -1,4 +1,4 @@
-![[👤 _PNJ_ - Aitor, el albañil-20240923174336665.png]]
+![[👤 PNJ - Aitor, el albañil-20240923174336665.png]]
 # Aitor Etxeberria
 
 ## Descripción
