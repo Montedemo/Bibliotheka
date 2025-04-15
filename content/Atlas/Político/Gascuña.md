@@ -11,3 +11,8 @@ El clima de Gascuña varía con la cercanía del mar. La costa oeste de la regi�
 <p>
 El límite meridional de la Gascuña está marcado por las pedregosas laderas de los <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="53792d76-7259-443a-a6ce-9b9cf0698386" data-template-type="location" data-article="53792d76-7259-443a-a6ce-9b9cf0698386">Pirineos</span> más allá de los cuales se extiende Hispania</p><hr /></section><section data-section-id="history" class="wa-section public"><h2>History</h2>
 <p>Esta área fue civilizada cuando Galia era parte del Imperio Romano, y todas las ciudades contienen rastros, al menos, de la antigua ocupación romana. El reino de Aquitania fue fundado por Carlomagno en 778, sobre el antiguo reino/ducado de Wasconia. En el siglo X, los poderosos barones en sus castillos fuertemente fortificados estaban enzarzados en disputas entre ellos, ignorando en gran medida a cualquier autoridad central. Cuando Leonor de Aquitania se casó con Luis, heredero del trono franco, en 1137, su territorio unido incluía Poitou, Limousin, Périgord, Saintongue y Auvernia, que actualmente forman el ducado de Aquitania. Tras el divorcio de Leonor de Luis y su matrimonio con Enrique, duque de Anjou, en 1154, Aquitania ha sido fundamental para las luchas políticas en curso entre el rey de Francia y el rey de Inglaterra. Enrique, actual duque de Aquitania y segundo en llevar ese nombre, también es rey de Inglaterra (Enrique III).</p><hr /></section>   
+--- 
+
+# Etiquetas 
+#Galia #Francia #Inglaterra #Aquitania #Plantagenet #Vasconia 
+

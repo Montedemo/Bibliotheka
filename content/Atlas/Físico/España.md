@@ -575,6 +575,5 @@ Aspectos de interés hermético: vis en bruto, auras y poderes sobrenaturales.
 
 --- 
 
-## Etiquetas
 
 #Europa #geografía #historia #tribunaldeiberia #tribunalprovenzal #tribunaldevalnegra #reinovisigodo
