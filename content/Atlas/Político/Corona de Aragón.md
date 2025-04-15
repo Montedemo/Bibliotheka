@@ -1,6 +1,12 @@
-LA Corona de Aragón (en aragonés, _corona d'Aragón_; en catalán, _corona d'Aragó_), conocida también por otros nombres alternativos, engloba al conjunto de territorios que están bajo la jurisdicción del rey de Aragón, desde 1164. El 13 de noviembre de 1137, Ramiro II el Monje, rey de Aragón, en la conocida como renuncia de Zaragoza, depositó en su yerno Ramón Berenguer el reino (aunque no la dignidad de rey), quien firmó en adelante como Conde de Barcelona y Príncipe de Aragón. Petronila tomó el título de "Reina de Aragón" y Ramón Berenguer, el de príncipe y dominador de Aragón. El matrimonio se hizo bajo la forma de Matrimonio en Casa (esto supone que, al no haber descendiente varón, el esposo cumple la función de gobierno, pero no la de cabeza de la casa, que solo se otorgará al heredero). En 1164, Alfonso II de Aragón, primogénito del matrimonio, heredó el patrimonio conjunto.  
+![[image-6.png]]
+LA Corona de Aragón (en aragonés, _corona d'Aragón_; en catalán, _corona d'Aragó_), conocida también por otros nombres alternativos, engloba al conjunto de territorios que están bajo la jurisdicción del rey de Aragón de la Casa de Barcelona, desde 1164, 
+
+![[image-7.png]]
+## Historia 
+El 13 de noviembre de 1137, Ramiro II el Monje, rey de Aragón, en la conocida como renuncia de Zaragoza, depositó en su yerno Ramón Berenguer el reino (aunque no la dignidad de rey), quien firmó en adelante como Conde de Barcelona y Príncipe de Aragón. Petronila tomó el título de "Reina de Aragón" y Ramón Berenguer, el de príncipe y dominador de Aragón. El matrimonio se hizo bajo la forma de Matrimonio en Casa (esto supone que, al no haber descendiente varón, el esposo cumple la función de gobierno, pero no la de cabeza de la casa, que solo se otorgará al heredero). En 1164, Alfonso II de Aragón, primogénito del matrimonio, heredó el patrimonio conjunto.  
 En el año 1220, la corona de Aragón se divide en dos zonas principales: el Reino de Aragón y los condados catalanes, siendo estos una serie de señoríos, en tiempos bajo influencia franca, que se fueron independizando progresivamente a partir del siglo IX. La mayoría de ellos han ido siendo anexionados o unificados con el Condado de Barcelona, el más poderoso de todos ellos, y pasaron con él a formar parte de la corona de Aragón, aunque otros, como el Condado de Urgel, mantienen todavía su independencia. Al sur, el  Marquesado de Lérida también forma parte de la corona.  
 Tras la dura derrota sufrida en la batalla de Muret en 1213, la corona ha perdido buena parte de sus posesiones situadas al norte de los Pirineos, como la Provenza, y tiene un rey que apenas es un infante, Jaime I. La derrota en Muret también truncó a efectos prácticos la posibilidad de formar un gran estado mediterráneo combinando la corona de Aragón con las posesiones occitanas, de manera que Jaime, que está llamado a convertirse en un monarca histórico, expandirá las fronteras del reino en otra dirección, hasta incluir Valencia y Mallorca, entre otras ciudades. El joven Jaime tiene ahora mismo doce años, hace dos sucedió al hasta ahora regente del reino, el conde Sancho I de Cerdaña, y tiene plenos derechos sobre el reino después de ser considerado mayor de edad en las cortes de Lérida de 1218.  
+## Geografía 
 La corona de Aragón limita al este con el mar Mediterráneo desde el extremo norte del condado de Gerona hasta Tortosa y Amposta, las posesiones más meridionales del reino en 1220. Por el oeste limita con los reinos de Navarra y Castilla, mientras que por el sur linda con el Imperio almohade, donde la región independiente de Albarracín hace las veces de zona neutral entre los dos reinos. Por el norte limita con varias regiones provenzales, empezando por el recién perdido Condado de Rosellón , e incluyendo el Condado de Fois , el Condado de Comenge y el Condado de Bigorra, entre otras. Jaca es una de las poblaciones más cercanas a la frontera.
 
 ## Perspectiva hermética
@@ -62,3 +68,8 @@ La corona se puede dividir en dos grandes regiones desde un punto de vista herm
 <td>1158-Act.</td>
 <td>3</td>
 <td>Primavera</td></tr></tbody></table>
+
+--- 
+
+# Etiquetas
+#Aragón #Cataluña #España #estados #reinos 

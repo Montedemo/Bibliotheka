@@ -54,5 +54,5 @@ Las tierras navarras del Tribunal de Provenza coinciden con la parte más agrest
 
 ---
 
-## Etiquetas 
+
 #España #Vasconia #reinos #sorgiñak #Pamplona 

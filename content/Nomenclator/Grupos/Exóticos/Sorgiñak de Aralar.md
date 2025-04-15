@@ -1,3 +1,3 @@
-Linaje de [[Sorgiña]]s afincado en la montaña de [[Aralar]] y que constituyen el aquelarre más antiguo de toda [[Vasconia]]. 
+Linaje de [[sorgiña]]s afincado en la montaña de [[Aralar]] y que constituyen el aquelarre más antiguo de toda [[Vasconia]]. 
 
 Siempre habrá tres sorgiñas en Aralar: madre, hija y nieta...

@@ -21,3 +21,7 @@ El valle mantiene una estructura social heredera de los grupos familiares cláni
 La mayoría de la gente es oficialmente católica, pero dado que no cuentan con la presencia de curas de almas residentes en su parroquia, las interpretaciones y mixtificaciones del clero católico con las creencias de la Antigua Religión de los vascones son frecuentes y abundantes. La mayoría de los habitantes del valle sienten tanto respeto por Jesucristo, la Virgen o San Miguel Arcángel que por la Dama (Mari), Akerbelz o Mikelats. Según la creencia, este último solía tener su morada predilecta en las cuevas secretas del monte Aralar. 
 
 Determinadas noches son elegidas por las matronas para reunirse en los lugares acordados y realizar danzas y fiestas en honor a la Mari y demás deidades protectoras.  Las matronas son las sacerdotisas no oficiales de la Antigua Religión cuyo espíritu no ha muerto del todo en estas tierras, dado que la montaña de Aralar es uno de sus lugares más sagrados. 
+
+--- 
+
+#Navarra #Somontanonavarro #Aralar 

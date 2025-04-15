@@ -1,9 +1,8 @@
-Señorío autónomo -actualmente en vasallaje con respecto al reino de [[Navarra]]- y que forma la región o provincia más occidental de la [[Vasconia]]. 
+Señorío autónomo -actualmente vinculado al reino de [[Navarra]]- y que forma la región o provincia más occidental de la [[Vasconia]]. 
 
 ## Generalidades
 El señorío de Vizcaya es un territorio con organización política propia existente en la actual provincia de Vizcaya desde el siglo XI .  
 En 1076, tras el asesinato del rey de Pamplona, Sancho IV el de Peñalén, y ser dividido el reino entre los principales monarcas de la dinastía Jimena, Sancho de Aragón y Alfonso de León, el segundo señor de Vizcaya tomó bando con su pariente más cercano y de poder real más distante en León con lo que Vizcaya, Álava, parte de Guipúzcoa y La Rioja empezarían a ser desde entonces territorios señoriales más o menos de behetría sobre las mismas bases del señorío de Vizcaya entre los monarcas de Castilla, Navarra o Aragón, todos con iguales derechos a reclamar vasallaje.
-
 
 ## Historia
 
@@ -15,3 +14,7 @@ En 1076, tras la muerte de Sancho Garcés IV de Pamplona, al iniciarse la guer
 
 Íñigo II López murió en 1077 y su hijo Lope II Íñiguez heredó el señorío, al que a su vez sucedió su hijo Diego I López el Blanco , quien fue señor hasta 1124, en que fue derrotado y posiblemente muerto por las tropas de Alfonso I el Batallador, rey de Navarra y Aragón en la invasión de Vizcaya, en los últimos años de reinado de Urraca en León y Castilla, ex-esposa de este último. Con ello Vizcaya se integró en su reino y puso al frente del señorío a Ladrón Íñiguez de la familia de los **Vela**, uno de los más poderosos nobles de la corte navarra. A su muerte en 1155 le sustituyó su hijo, Vela Ladrón quien también fue señor de **Álava** y **Guipúzcua**, que gobernó durante los reinados Alfonso I, García Ramírez y Sancho VI el Sabio ", aunque en ese tiempo Lope IV Díaz de Haro, el de Nájera, se intitulaba Señor de Vizcaya y reclamaba su legitimidad aunque nunca llegó ni siquiera a pisar Vizcaya.  
 En 1173 Alfonso VIII de Castilla atacará el reino de Navarra, y un año después fallecerá Vela Ladrón, momento de debilidad que el monarca castellano aprovechará para ocupar Vizcaya y restituir a los Haro al frente del Señorío de Vizcaya , en la persona de Diego II el Bueno.
+
+---
+
+#Vasconia  #vascones #ezkerra 
