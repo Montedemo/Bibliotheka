@@ -1,4 +1,4 @@
-   # 👤 Personaje: [Nombre del Personaje]
+   #   Personaje: [Nombre del Personaje]
    
  ![[👤 (PNJ) - Yndarr-20240928200259505.webp]]
 ![[]]
