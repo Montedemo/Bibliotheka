@@ -25,28 +25,4 @@ Sucesor: sucesora
 NoteIcon: alianza
 ---
 
- <section class="wa-section main-content"><p>Alianza del Tribunal del Rin, enconada enemiga de Durenmar.</p></section>   
-
-### Mapa
-![[MapPlaceholder.png|Placeholder Map]]
-### Vista
-![[ImagePlaceholder.png|Placeholder Picture]]
-Placeholder
-
-## Ubicación y descripción
-...
-***
-## Estructura
-...
-***
-## Cultura
-...
-***
-## Historia
-...
-***
-## Devenir
-...
-***
-## Secretos 
-...
+Alianza del [[Tribunal del Rin]], enconada enemiga de [[Durenmar]].
