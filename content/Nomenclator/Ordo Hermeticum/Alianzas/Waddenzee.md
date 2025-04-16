@@ -24,30 +24,7 @@ Predecesor: predecesora
 Sucesor: sucesora
 NoteIcon: alianza
 ---
+Controvertida alianza de piratas frisones en el [[Tribunal del Rin]]. 
 
-{{#each pages}} {{text.content}} {{/each}}
-{{#each pages}} {{src}} {{/each}}
-
-### Mapa
-![[MapPlaceholder.png|Placeholder Map]]
-### Vista
-![[ImagePlaceholder.png|Placeholder Picture]]
-Placeholder
-
-## Ubicación y descripción
-...
-***
-## Estructura
-...
-***
-## Cultura
-...
-***
-## Historia
-...
-***
-## Devenir
-...
-***
-## Secretos 
-...
+---
+#tribunaldelrin 

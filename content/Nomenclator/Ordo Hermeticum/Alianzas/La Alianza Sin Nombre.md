@@ -21,26 +21,4 @@ Predecesor: predecesora
 Sucesor: sucesora
 NoteIcon: alianza
 ---
-### Mapa
-![[MapPlaceholder.png|Placeholder Map]]
-### Vista
-![[ImagePlaceholder.png|Placeholder Picture]]
-Placeholder
-
-## Ubicación y descripción
-...
-***
-## Estructura
-...
-***
-## Cultura
-...
-***
-## Historia
-...
-***
-## Devenir
-...
-***
-## Secretos 
-...
+![[image-74.png]] 

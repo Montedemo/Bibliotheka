@@ -24,26 +24,4 @@ Predecesor: predecesora
 Sucesor: sucesora
 NoteIcon: alianza
 ---
-### Mapa
-![[MapPlaceholder.png|Placeholder Map]]
-### Vista
-![[ImagePlaceholder.png|Placeholder Picture]]
-Placeholder
-
-## Ubicación y descripción
-...
-***
-## Estructura
-...
-***
-## Cultura
-...
-***
-## Historia
-...
-***
-## Devenir
-...
-***
-## Secretos 
-...
+ALIANZA del [[Tribunal Normando]], en su momento, el principal bastión allí de la [[Casa Flambeau]]

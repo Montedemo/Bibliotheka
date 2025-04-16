@@ -23,14 +23,13 @@ Predecesor:
 Sucesor: 
 NoteIcon: alianza
 ---
+![[image-89.png]] 
 
-from "3. Personajes y Organizaciones 🧑‍🤝‍🧑/Personajes/Hermeticos"
 Una de las cinco grandes alianzas del [[Tribunal Normando]], Montverte es de las más venerables  y está envuelta en misterio debido a su consejo interno extremadamente reservado. Frecuentemente vilipendiada, es temida y odiada por muchos debido a sus tendencias agresivas y belicosas. Los magos de Montverte fueron en gran medida responsables de establecer la tradición de las incursiones herméticas, y esta turbia práctica  persiste únicamente gracias a la considerable fuerza marcial y política de sus seguidores, ejercida de manera implacable. 
 
-### Mapa
-![[MapPlaceholder.png|Placeholder Map]]
-### Vista
-![[montverte.webp|Placeholder Picture]]
+
+![[image-90.png]] 
+
 
 ## Historia
 Los invasores vikingos de la región que eventualmente se conocería como [[Normandía]], durante los siglos IX y X, estaban acompañados por hechiceros, algunos de los cuales fueron aceptados en la Orden de Hermes. Entre ellos había dos hermanos particularmente belicosos, Haland y [[Harivald]], parientes lejanos del caudillo vikingo **Rollo**. Harivald, el menor, era un maestro de las magias elementales; fue iniciado en la [[Casa Ex-Miscellanea]], pero más tarde se unió a la [[Casa Flambeau]]y fundó un linaje de magos Flambeau que perdura hasta hoy. Haland, el mayor, no estaba Dotado, pero ambos juntos capturaron un viejo fuerte carolingio en un lugar estratégicamente defendible y se asentaron allí, erigiendo un castillo normando.
@@ -142,21 +141,3 @@ Los habitantes de Montverte son prácticamente sinónimos del personal doméstic
 Sin embargo, los guardianes (grogs) de Montverte son demasiado numerosos y están demasiado bien entrenados y equipados para un barón típico. Todos, excepto unos pocos sirvientes y soldados de confianza, simplemente se consideran parte del séquito baronial y, en su mayoría, son ignorantes de la verdadera y más arcana naturaleza del castillo.
 
 No son conscientes de la existencia de la Orden de Hermes ni del hecho de que viven en una alianza.
-
-## Secretos 
-### A través de un Espejo, Oscuramente
-El rostro de Geirlaug en el espejo del consejo comienza a adoptar dos personalidades alternas, que en privado luchan una contra la otra. ¿Qué está causando esto, y se darán cuenta los demás magos (aparte de Thormod, quien parece completamente indiferente) para tomar medidas?
-
-Una posible explicación es que un poderoso demonio ha usurpado a la Archimaga Flambeau y está intentando gobernar la alianza en su lugar, para cumplir con sus propios y nefastos fines.
-
-### El Mago de Odín
-El reservado mago Thormod es, en realidad, un miembro prominente de un Culto mistérico los  [[Hijos de Odín]] . Ha aprendido a practicar magia vikinga y utiliza su considerable influencia política para promover los objetivos del culto.
-
-Quizás esté relacionado con su hierofante, la Reina Skuld, ya sea por lazos de sangre o a través de una relación clandestina.
-
-### Semilla de Historia: La Alianza Pirata
-El consejo interno de Montverte ha cultivado una alianza con los magos piratas de [[Waddenzee]] , en el [[Tribunal del Rín]]quienes residen en una isla al norte de Flandes.
-
-Montverte está al tanto del plan de ciertas alianzas de Normandía para separarse y fundar un [[Tribunal Lotaringio]] En colaboración con la alianza pirata, Montverte tiene la intención de frustrar ese plan. 
-
-Waddenzee inicialmente se uniría a la secesión, pero luego declararía de manera repentina su lealtad al Tribunal Normando como vasallo de Montverte. Esto probablemente paralizaría al naciente Tribunal y los atraparía parcialmente en una trampa de alianzas depredadoras de Normandía. Por su parte, Waddenzee daría la bienvenida a formar parte de un Tribunal que tácitamente admita como legales sus incursiones piratas.
