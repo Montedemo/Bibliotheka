@@ -24,26 +24,4 @@ Predecesor: predecesora
 Sucesor: sucesora
 NoteIcon: alianza
 ---
-### Mapa
-![[MapPlaceholder.png|Placeholder Map]]
-### Vista
-![[ImagePlaceholder.png|Placeholder Picture]]
-Placeholder
-
-## Ubicación y descripción
-...
-***
-## Estructura
-...
-***
-## Cultura
-...
-***
-## Historia
-...
-***
-## Devenir
-...
-***
-## Secretos 
-...
+Alianza de magi andalusíes establecida en la costa de Provenza, dedicada al pillaje y a la piratería. 
