@@ -23,26 +23,6 @@ Predecesor: predecesora
 Sucesor: sucesora
 NoteIcon: alianza
 ---
-### Mapa
-![[MapPlaceholder.png|Placeholder Map]]
-### Vista
-![[ImagePlaceholder.png|Placeholder Picture]]
-Placeholder
+Grupo de magi [[Rusticani]] itinerantes que viajan por [[Gascuña]] en el [[Tribunal Provenzal]]. 
 
-## Ubicación y descripción
-...
-***
-## Estructura
-...
-***
-## Cultura
-...
-***
-## Historia
-...
-***
-## Devenir
-...
-***
-## Secretos 
-...
+---

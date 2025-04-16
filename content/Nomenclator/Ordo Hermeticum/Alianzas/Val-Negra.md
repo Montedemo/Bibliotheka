@@ -24,26 +24,8 @@ Predecesor: predecesora
 Sucesor: sucesora
 NoteIcon: alianza
 ---
-### Mapa
-![[MapPlaceholder.png|Placeholder Map]]
-### Vista
-![[ImagePlaceholder.png|Placeholder Picture]]
-Placeholder
 
-## Ubicación y descripción
-...
-***
-## Estructura
-...
-***
-## Cultura
-...
-***
-## Historia
-...
-***
-## Devenir
-...
-***
-## Secretos 
-...
+Legendaria alianza, antigua Domus Magna de la [[Casa Flambeau]], erigida por su fundador en lo más alto de los [[Pirineos]] y constituyendo todo un Tribunal (el [[Tribunal de Val-Negra]]) en torno suyo. Se perdió durante la [[Guerra del Cisma]] y las alianzas de [[Castra Solis]] y [[Aedes Mercurii]] se disputan el prestigio de ser sus herederos directos. 
+
+--- 
+

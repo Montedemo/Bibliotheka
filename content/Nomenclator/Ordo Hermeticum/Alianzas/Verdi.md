@@ -24,28 +24,9 @@ Sucesor: sucesora
 NoteIcon: alianza
 ---
 
- <section class="wa-section main-content"><p>Domus magna de la Casa Verditius</p></section>   
+Domus magna de la [[Casa Verditius]], en la isla de Cerdeña, en el [[Tribunal Romano]]
 
-### Mapa
-![[MapPlaceholder.png|Placeholder Map]]
-### Vista
-![[ImagePlaceholder.png|Placeholder Picture]]
-Placeholder
+---
 
-## Ubicación y descripción
-...
-***
-## Estructura
-...
-***
-## Cultura
-...
-***
-## Historia
-...
-***
-## Devenir
-...
-***
-## Secretos 
-...
+#domusmagna #tribunalromano #CasaVerditius 
+
