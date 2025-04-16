@@ -1,7 +1,7 @@
-   # 👤 Personaje: [Nombre del Personaje]
+   #   Personaje: [Nombre del Personaje]
  
 
-## Descripció![[👤 (PNJ) - Sorgiñak-20240928200525651.webp]]n
+## Descripción ![[👤 (PNJ) - Sorgiñak-20240928200525651.webp]]n
 [Descripción física y de personalidad.]
 
 ## Motivaciones

@@ -1,23 +1,6 @@
-   # 👤 Personaje: [Nombre del Personaje]
- 
-
-## Descripción
-[Descripción física y de personalidad.]
-
+   Caudilla del aquelarre de sorgiñak de [[Zugarramurdi]], que practica ritos corrompidos por el Infierno. La propia Gabazkuak tiene sangre demoníaca, al ser hija -según cuenta su madre, [[Birrutia]] del demonio Guland, señor de la Envidia. De alguna manera ha conseguido que un numeroso grupo de [[Agotes]] la sirvan ciegamente. Vive en el jauregui de Maya, en el [[Baztán]]. 
+## Descripción 
 ## Motivaciones
-- [Objetivo principal del personaje.]
-- [Motivaciones secundarias o conflictos internos.]
+Parece que quiere menoscabar el poder de su madre para desprestigiarla ante todas las sorgiñak. La última, tras convertir a un amante que la rechazó en perro, exige que la hija recién nacida de este le sea entregada para dársela de comer al propio perro. De no hacerlo, arrasará la aldea de [[Intza]] como castigo. 
+ Tiene tratos con [[Oighrig]], hermana de [[Duncan de Tremere]],aunque se desconoce el alcance y términos de estos, pero sí se sabe que ha colaborado en la hecatombe de Zugarramurdi, donde fueron terriblemente asesinadas más de cien mujeres de la forma más cruel. 
 
-## Interacciones Previstas
-- **Con Protagonistas:** [Cómo se relaciona con los personajes jugadores.]
-- **Con Otros PNJs:** [Relaciones con otros personajes secundarios o antagonistas.]
-
-## Reacciones Previsibles
-[Comportamiento probable del personaje ante diferentes situaciones.]
-
-## Secretos y Debilidades
-[Información que los jugadores pueden descubrir sobre el personaje.]
-
-## Notas del Director
-[Consejos para interpretar al personaje y sus actitudes.]
-Frases recurrentes. Muletillas. Tono de voz, gestos, posturas. 
