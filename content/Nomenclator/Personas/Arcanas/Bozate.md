@@ -1,0 +1,2 @@
+![[image-133.png]]
+Nombre que recibe el patriarca o cabecilla de los agotes de una región. Se dice que el Bozate, a pesar de estar consumido por la lepra, es aún más poderoso gracias a ella y capaz de obrar magia gracias a ella. 
