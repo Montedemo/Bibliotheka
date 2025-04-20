@@ -84,13 +84,13 @@ Es un pueblo extremadamente sencillo con pocos edificios que mencionar, salvo:
 #### Iglesia de San Miguel
 - Una pequeña iglesia románica con un cementerio adyacente. Los aldeanos creen que la iglesia protege al pueblo de los espíritus malignos que habitan en la sierra, lo que disgusta a Birrutia que les recuerda que en realidad es Mikelats quien les protege. 
 Son más destacables para mencionar sus alrededores están llenos de lugares de poder:
-#### La fuente de Marimundoko  
-- Una pequeña fuente en las afueras de la aldea, en las faldas de Aralar, donde nace el regato de Intza. Se cree que sus aguas tienen propiedades curativas, pero en ciertas noches, la fuente desaparece y vuelve a aparecer en otro lugar del bosque, por lo que las gentes del pueblo han desistido en la tarea de encontrarla, dejando tal tarea al único linaje que parece predestinado a hacerlo, el de las mujeres Iturri, encabezadas por la matrona Zuriñe. Se dice que es el hogar de una poderosa [[Lamia]], **Marimundoko** (hija de la Mari), que a veces actúa como ella y tiene un carácter extremadamente caprichoso.
-#### Bosque de Urrenazkárate
+#### La fuente de [[Marimundoko]]  
+- Una pequeña fuente en las afueras de la aldea, en las faldas de Aralar, donde nace el regato de Intza. Se cree que sus aguas tienen propiedades curativas, pero en ciertas noches, la fuente desaparece y vuelve a aparecer en otro lugar del bosque, por lo que las gentes del pueblo han desistido en la tarea de encontrarla, dejando tal tarea al único linaje que parece predestinado a hacerlo, el de las mujeres Iturri, encabezadas por la matrona Zuriñe. Se dice que es el hogar de una poderosa [[Lamias]], **Marimundoko** (hija de la Mari), que a veces actúa como ella y tiene un carácter extremadamente caprichoso.
+#### [[Bosque de Urrenazkárate]]
 Un bosque denso al norte de la aldea, puerta de la misma al saltus vasconum, en el que los aldeanos evitan adentrarse al anochecer. Se dice que está habitado por maideak y laminak, y se cuentan muchas historias de gentes que se han perdido para no regresar jamás -y si lo han hecho, han vuelto locos y trastornados. 
-#### Cueva de Birruti
+#### [[Cueva de Birruti]]
 Una cueva secreta en la falda de Aralar, a los pies de las Malloas. Según la leyenda, aquí habita el espíritu protector de la zona y padre o antecesor de Birrutia, la  gran matriarca de las sorgiñak. 
-#### Túmulos de Auntzin
+#### [[Túmulos de Auntzin]]
 Paraje cercano a la aldea, en una especie de terraza que sobresale de las faldas de Aralar y que está rodeada de fresnos. En un claro en su centro, una roca extraña sobresale formando un semicírculo en el centro del cual las sorgiñak enciende una gran hoguera para iluminar sus reuniones. Todo el lugar está cuajado de extrañas protuberancias de roca que asoman de la superficie.  Las gente los llaman túmulos y dicen que antaño, los gentilak se enterraban allí. 
 #### La Piedra de los Sueños
 Una gran roca en los túmulos de Auntzin cubierta de antiguos grabados. Se dice que quienes duermen sobre ella tienen sueños proféticos, pero conlleva el riesgo de ser "visitados" por seres sobrenaturales.

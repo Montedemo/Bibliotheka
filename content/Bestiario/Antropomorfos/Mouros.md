@@ -1,0 +1,14 @@
+![[mouro.webp]]
+PUEBLO fabuloso de las tierras gallegas, asturianas, leonesas y portuguesas que se cree eran los primitivos habitantes de la Galaecia. A pesar de la identificación con los "moros" el término parece provenir del latín mortuus (los muertos) ya que se les presenta como los Eran presentados como los antiguos, los «no bautizados» y paganos.
+
+## Apariencia
+Los mouros tienen aspecto de humanos de gran porte y belleza. Aunque las mouras tienen una talla humana, los mouros suelen ser más altos y corpulentos, a menudo casi gigantes, con largas barbas y la tez oscura, casi negra. Les encanta el color rojo y visten prendas de ese color, y a menudo las mujeres mouras suelen ser pelirrojas.
+
+## Naturaleza
+Según cuenta la tradición, en tiempos pasados las tierras gallegas estuvieron ocupadas por los Mouros , seres mágicos capaces de convertirse en serpientes gigantes en caso de necesidad, quizá emparentados con los Sugaar vascos . La llegada de los romanos primero y, sobre todo, del cristianismo después los obligaron a retirarse bajo tierra, a un mundo subterráneo que, de forma previsora, habían excavado con anterioridad. En este aspecto se conectan con los [[Jentilak]] y [[Mairuk]] vascos o los Sidhe, atribuyéndoseles también la construcción de los megalitos que pueblan el paisaje galaico y astur.  
+Se sabe que requieren el servicio de hombres y mujeres para que les proporcionen determinados productos (leche, miel, vino) o realicen para ellos ciertos trabajos, recompensándolos con una vida larga, buena salud y abundante riqueza, pero si cuentan a alguien el origen de su fortuna o desvelan el más pequeño de los secretos de los mouros, éstos, al igual que las hadas, los castigan cruelmente, a menudo con la muerte.  
+Las entradas al reino subterráneo de los mouros se encuentran en las viejas ruinas paganas (castros, mámoas, etc.), así como en ciertas simas y cuevas. A veces las mouras, coquetas y perversas, gustan de dejarse ver en esas “entradas” al anochecer, ya sea para tomar el aire, coser sus complicados bordados a la luz de la luna o simplemente para peinarse lánguidamente su larga cabellera con peines de oro, a la manera de las Laminak  vascas, pero aquellos galanes que se acerquen a ellas han de andarse con tiento, que a buen seguro que no andarán lejos los celosos mouros. Si, aun así, se consiguiera establecer relación con una moura, es importante recordar que los frutos de un humano y una moura son siempre iguales, el nacimiento de una lumia. La reina de todos los mouros es la Reina Lupa, que reside en dos grandes palacios subterráneos: uno, en el Pico Sacro  y, otro, en el **Monte Pindo**, donde fue enterrada.
+![[mouro.jpeg]]
+
+--- 
+#Galicia #antiguagente #sidhe #hadas #hadascortesanas #hadasdeloslímites #hadasdelascuevas 

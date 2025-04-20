@@ -31,7 +31,7 @@ Esta alianza de otoño es una de las más poderosas de la [[Orden de Hermes]], a
 
 Justo antes de que estallara la Guerra del Cisma, muchos de los magi Flambeau de [[Val-Negra]] dejaron la domus magna, ante aciagos presagios que vaticinaban su caída, y formaron una alianza aparte llevando con ellos a varios magi de otras casas. Se hicieron con el control de un puesto de avanzada cercano y de las estancias menores dispersas por los Pirineos que antes pertenecieran a Val-Negra, incluyendo el gran templo de Mercurio del cual tomaron el nombre de la alianza.‌
 
-Después de la [[Guerra del Cisma]], se asumió que Val-Negra ya no existía y que Aedes Mercurii había heredado su legado. Así, la alianza está ahora considerada como uno de los mayores poderes de la región -y de la Orden, aunque no consigue igualar la antigua gloria de Val-Negra.
+Después de la [[997-1013 - Guerra del Cisma]], se asumió que Val-Negra ya no existía y que Aedes Mercurii había heredado su legado. Así, la alianza está ahora considerada como uno de los mayores poderes de la región -y de la Orden, aunque no consigue igualar la antigua gloria de Val-Negra.
 
 ![[image-19.png]]
 
