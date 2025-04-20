@@ -1,0 +1,1 @@
+Magus de la [[Casa Flambeau]],  del linaje de [[Apromor]], miembro de [[Aedes Mercurii]]

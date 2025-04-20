@@ -15,4 +15,4 @@ Tras la muerte de Ainhoa, ha querido cambiar de aires, encaminándose hacia Espa
 
 ![[Duncan de Tremere-Token.png]]
 --- 
-#exterater #pj 
+#exterater #pj #magi 

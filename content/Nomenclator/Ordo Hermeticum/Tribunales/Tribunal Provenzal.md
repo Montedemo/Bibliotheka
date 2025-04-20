@@ -137,7 +137,7 @@ Alianzas en ruinas, abandonadas o perdidas:
 
 Pequeño pero sobrepoblado de magi, cuenta con aproximadamente 105 miembros en 1220, aunque en 1200 -antes de la Cruzada- tenía más de 150 miembros (muchos de los cuales murieron o dejaron el Tribunal en busca de tierras más pacíficas.)
 
-el Tribunal Provenzal cuenta actualmente con 12 alianzas plenamente constituidas y dos grupos de magi no oficialmente reconocidos. También existe constancia de 11 alianzas desaparecidas (sobre todo durante la [[Guerra del Cisma]]), a causa de los saqueos piráticos de Fraxinetum (ya sea abandonadas o integradas dentro del Cenobium) y más recientemente cinco alianzas víctimas de los estragos de la [[Cruzada Albigense]]. 
+el Tribunal Provenzal cuenta actualmente con 12 alianzas plenamente constituidas y dos grupos de magi no oficialmente reconocidos. También existe constancia de 11 alianzas desaparecidas (sobre todo durante la [[997-1013 - Guerra del Cisma]]), a causa de los saqueos piráticos de Fraxinetum (ya sea abandonadas o integradas dentro del Cenobium) y más recientemente cinco alianzas víctimas de los estragos de la [[Cruzada Albigense]]. 
 
 No se cuentan las más de nueve alianzas de Diedne que antaño poblaron el tribunal y de las que nada se sabe o bien de las que no se puede habla. No es raro que una alianza se levante sobre un antiguo sitio Diedne sin que sus miembros más jóvenes lo sepan.  
 
@@ -248,7 +248,7 @@ El terrible costo de las batallas contra las alianzas Diedne dejó cicatrices en
 
 #### La Caída de Val-Negra
 
-Hoy se sabe poco sobre el destino de Val-Negra, en su tiempo la alianza más poderosa del Tribunal. Se conoce su destrucción durante la [[Guerra del Cisma]], pero no las razones por las que nunca resurgió. Dada la gloriosa posición que ocupa en la historia de la Orden, se esperaría que la evacuación de la alianza y su reemplazo como _domus magna_ de la [[Casa Flambeau]] por la humilde [[Castra Solis]]] estuvieran mejor documentados, pero no es así. Curiosamente, incluso la ubicación exacta de la alianza, en algún lugar del extremo sur del Tribunal, parece estar perdida. 
+Hoy se sabe poco sobre el destino de Val-Negra, en su tiempo la alianza más poderosa del Tribunal. Se conoce su destrucción durante la [[997-1013 - Guerra del Cisma]], pero no las razones por las que nunca resurgió. Dada la gloriosa posición que ocupa en la historia de la Orden, se esperaría que la evacuación de la alianza y su reemplazo como _domus magna_ de la [[Casa Flambeau]] por la humilde [[Castra Solis]]] estuvieran mejor documentados, pero no es así. Curiosamente, incluso la ubicación exacta de la alianza, en algún lugar del extremo sur del Tribunal, parece estar perdida. 
 
 ### Un Tribunal Gótico
 Desde el siglo IX, los condes de Toulouse volvieron a ser efectivamente independientes del distante trono franco. Sus fortunas fluctuaron, pero alcanzaron su cénit bajo el gobierno de Raimundo IV Sent-Gil, conde de Tolosa y marqués de Arelate (1093-1105). Este período marcó el florecimiento de la literatura occitana y la cultura trovadoresca, por las cuales la región se haría famosa.
@@ -371,7 +371,7 @@ Amaury de Montfort reclamó los títulos de Simón, y Alice de Montfort sigue de
 En 1219 comenzó una segunda cruzada, dirigida por la corte real francesa. La nobleza del norte de Francia apoyó este esfuerzo para incorporar el sur a una Francia más grande. Tras tomar [[Marmande]] y realizar una masacre allí, los invasores fueron rechazados ante las murallas de Tolosa. Hoy, el conde Raimundo está en ascenso nuevamente, restaurando el control sobre su condado.
 
 ### Un homenaje a los caídos...
-Desde la [[Guerra del Cisma]] hasta la [[Cruzada Albigense]] el Tribunal ha sufrido devastadores conflictos que se han llevado por delante gran cantidad de alianzas, en su mayoría jóvenes pero también veteranas y consolidadas. Este es un listado de todas las alianzas provenzales caídas desde la creación del Tribunal. 
+Desde la [[997-1013 - Guerra del Cisma]] hasta la [[Cruzada Albigense]] el Tribunal ha sufrido devastadores conflictos que se han llevado por delante gran cantidad de alianzas, en su mayoría jóvenes pero también veteranas y consolidadas. Este es un listado de todas las alianzas provenzales caídas desde la creación del Tribunal. 
 
 - **[[Askelarre]] (945–1011):** Una alianza fundada por un aquelarre de sorginak herméticos o brujas vascas distribuidas por el País Vasco y destruida durante la Guerra del Cisma.  
 - **Barbegal (895–930):** Un complejo de molinos de agua dominado por un trío de magos-herreros Verditius, situado al norte de Arlés. Fue abandonado a principios del siglo X debido a los ataques sarracenos en el sitio indefenso. Los magos sobrevivientes ayudaron a establecer la alianza del Ródano conocida como Coenobium Rhodanien.  

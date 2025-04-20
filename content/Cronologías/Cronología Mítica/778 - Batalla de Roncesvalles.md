@@ -1,0 +1,46 @@
+
+![[image-172.png]]
+
+La batalla de Roncesvalles se libró el 15 de agosto de 778 (según otros autores, en alguna fecha no identificada de 808), posiblemente en Valcarlos, en las proximidades del desfiladero de Roncesvalles del [[Pirineo]] navarro, cuando un gran ejército de [[vascones]] emboscaron a una parte del ejército de [[Carlomagno]] tras su invasión de [[España]]. La batalla ocurrió en el contexto de los intentos de realizar en la zona una Marca Hispánica carolingia, que en el territorio pamplonés se logró únicamente durante 10 años, de 806 a 816.
+
+El ataque de los vascones fue una represalia por la destrucción, por orden de Carlomagno, de los muros de su capital, [[Pamplona]]. Mientras los francos se retiraban cruzando los Pirineos de vuelta a [[Francia]], como tesis más probable, la retaguardia del ejército de Carlomagno se vio cortada, hizo una última defensa y fue completamente aniquilada. Entre los que murieron en la batalla se encontraba [[Roldán]], un comandante franco. Roldán cayó en combate a manos del palentino Bernardo del Carpio. Su muerte lo elevó a él y a los paladines, los principales guerreros de la corte de Carlomagno, a la leyenda, convirtiéndose en el modelo por excelencia de los caballeros y también influyendo en gran medida en el código de caballería de la Edad Media.
+
+Existen numerosas obras escritas sobre la batalla, algunas de las cuales modifican y exageran los acontecimientos. La batalla es relatada en el _Cantar de Roldán_, del siglo XI, la obra importante más antigua de la literatura francesa que se conserva, y en _Orlando furioso_, una de las obras más célebres de la literatura italiana. Adaptaciones modernas de la batalla incluyen libros, obras de teatro, obras de ficción y monumentos en los Pirineos.
+![[image-174.png]]
+
+## Ubicación
+
+La ubicación exacta del lugar de la batalla se desconoce, ya que los cronistas carolingios no mencionan con un topónimo el puerto por donde pasaron las tropas ni el desfiladero donde aconteció la emboscada. La historiografía del siglo IX y tradicionalmente la población la situó en Luçayde (actual Valcarlos, Luzaide en euskera, la última procedente de _Vallis-Karoli_ en relación con la mención explícita del valle de Carlos). Es a raíz de la _Canción de Roldán_, en el siglo XII (hacia 1150), cuando se localiza más al sur, en Rozaballes o Renzeval (Roncesvalles). En estudios recientes se dan distintas posibilidades. Así Rita Lejeune lo situó en el paso del Perthus, en los Pirineos orientales gerundenses actuales. El historiador Antonio Ubieto concluyó que fue en el puerto del Palo en el valle de Ansó del actual Pirineo oscense, cuando utilizaban la calzada romana de Zaragoza al Bearne. José María Jimeno Jurío en sus conclusiones, posteriores a los anteriores, se decanta por la hondonada de Valcarlos-Luzaide. Iñaki Sagredo, por su parte, lleva estudiando dicho suceso desde el año 2000. Sus primeras impresiones fueron publicadas en la reedición del libro de José María Jimeno en el año 2004. En su publicación posterior, año 2013, abre el abanico de posibilidades, si bien sigue anotando como principal lugar de la emboscada algún punto de la calzada romana entre Roncesvalles y San Juan de Pie de Puerto.
+
+## Prolegómenos y batalla
+
+El interés de Carlomagno en los asuntos hispánicos le movió a apoyar una rebelión, iniciada un año antes en el valiato de la Marca Superior de al-Ándalus, de Sulaymán al-Arabí, valí de Barcelona, que pretendía alzarse a emir de Córdoba con el apoyo de los francos, a cambio de entregar al emperador franco la plaza de Saraqusta (Zaragoza).
+
+Entre mayo y junio de 778 Carlomagno llegó a Pamplona, que capituló. Sin embargo, Sulaymán se negó a su llegada a entregar Zaragoza y Carlomagno puso asedio a la ciudad, capturando a Sulaymán, que marchaba junto a sus tropas a unirse a las fuerzas rebeldes al emir. Dado que llegó la noticia de la sublevación de los sajones, los francos levantaron el cerco e iniciaron la retirada llevándolo consigo como rehén. Al llegar de nuevo a Pamplona, Carlomagno arrasa las murallas, como se describe en los _Anales regios_ y en los _Annales de Gestis Caroli Magni_ del Poeta Saxo, y además destruye totalmente la ciudad para abandonarla y retornar al Pirineo por el mismo camino que en la venida.
+
+Al paso por el desfiladero de Valcarlos (transformación etimológica de _Vallis-Karoli_), la retaguardia del ejército franco, unos 20 000 soldados acaudillados por Roldán, sobrino de Carlomagno, y por el resto de los Doce Pares de Francia, fue desbaratada el 15 de agosto de 778 por unas huestes formadas probablemente por contingentes de tribus vasconas. Sulaymán fue liberado en esta batalla.
+
+Los primeros textos relatan que el ataque se efectuó sobre la cola de la retaguardia, como punto más débil, y que utilizaron la estrechez del camino (_angustiae viae_), lo angosto de los parajes (_angustus locus_) y los tupidos bosques (_opacitas silvarum_). Se lanzaron dardos y piedras y cayeron rodando pesadas rocas por las laderas, que sorprendieron al ejército creando pánico, que les hizo precipitarse por el barranco sin tiempo para reaccionar. Murieron un gran número de caballeros francos, entre los que destacaban Oliveros y Roldán. En los textos iniciales no se dice nada de la agonía y muerte de Roldán, ya que no se encontró su cadáver.
+
+## Los atacantes
+
+No se conoce con exactitud quiénes fueron los asaltantes. Los historiadores manejan tres hipótesis. La primera dice que fue una coalición de vascones y musulmanes; la segunda, una combinación de vascones de ambas laderas del Pirineo; y la tercera que fueron vascones ultrapirenaicos descontentos con el fortalecimiento del régimen franco en Aquitania. En una redacción casi coetánea de la época, en los _Anales regios_, hacen protagonistas de la emboscada únicamente a los vascones. Es en la _Canción de Roldán_ y otros del siglo XII donde se sustituye a los atacantes por sarracenos, ya que describe un enorme ejército de cuatrocientos mil sarracenos distribuido en escuadrones a las órdenes de los doce Pares musulmanes (equivalente a la organización franca). Ramón Menéndez Pidal concluye que en la celada tomaron parte vascones y musulmanes juntos, en el contexto entre alianzas y relaciones familiares entre los primeros caudillos pamploneses y la familia Banu Qasi del valle del Ebro, que arrancan en el 734.
+![[image-176.png]]
+
+## Relatos sobre los hechos
+
+No existen relatos sobre estos hechos de los vascones del siglo VIII, cuyos caudillos establecieron en los años siguientes el reino de Pamplona, que evolucionó al reino de [[Navarra]].
+
+Los principales textos carolingios recogidos en los _Anales regios_ (hasta 829), _Annales Mettenses priores_, _Vita Karoli Magni imperatoris_ de Eginhardo, _Annales de Gestis Caroli Magni_ del Poeta Sajón y _Vita Hludowici imperatoris_ del Astrónomo Lemosín recogen estos hechos en los años siguientes a la batalla.
+
+Los _Anales Mettenses Priores_ (hasta el 805) son anónimos y fueron escritos en Metz veinticinco años después de la masacre. Son los más cercanos en el tiempo y aunque silencian el desastre, son valiosísimos por cuanto anotan expresamente la ruta seguida por Carlomagno entre Aquitania y Pamplona.
+
+Los _Anales Regios_, también anónimos, fueron escritos cincuenta años después de los hechos:
+
+> Habiendo decidido volverse (a Francia), entró en los bosques del Pirineo (_Pyrenei saltum ingressus est_), desde cuyas cimas los vascones habían tendido una emboscada. Al atacar a la retaguardia (_extremun agmen_) se extiende el tumulto por todo el ejército (_totum exercitum magno tumultu perturbant_), y aunque los francos eran superiores a los vascones, tanto en armamento como en valor, lo escarpado del terreno y la diferencia en el modo de combatir los hizo inferiores. En la lucha fueron muertos la mayoría de los paladines que el rey había puesto al frente de las fuerzas. La impedimenta fue saqueada. El enemigo desapareció rápidamente gracias al conocimiento del terreno.
+
+Eginhardo, que era el biógrafo de Carlomagno, en el relato _Vita Karoli Magni_, realizado cincuenta años después, describe:
+
+> Marchó a Hispania con todas las fuerzas disponibles, y salvados los montes Pirineos, logró la sumisión de todas las fortalezas y castillos que encontró. Al regreso, en la misma cima de los Pirineos, tuvo que experimentar la perfidia de los vascones cuando el ejército desfilaba en larga columna, como lo exigían las angosturas del lugar. Los vascones emboscados en el vértice de la montaña, descolgándose de lo alto, empujaron al barranco a la columna que escoltaba la impedimenta que cerraba la marcha, provocando que los hombres se precipitasen al valle situado más abajo, y trabando la lucha los mataron hasta el último. Después de lo cual, apoderándose del botín, protegidos por la noche que caía, se dispersaron con gran rapidez. Ayudó a los vascones no solo la ligereza de su armamento, sino también la configuración del lugar en que la suerte se decidía. A los francos, tanto la pesadez de su armamento como el estar en un lugar más bajo, les hizo inferiores en todo momento. Entre otros muchos perecieron el senescal Egiardo...
+
+![[image-175.png]]
