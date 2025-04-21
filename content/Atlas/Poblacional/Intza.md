@@ -55,7 +55,7 @@ Hogar de [[Zuriñe de las Fuentes]] y de su nieta [[Ane de las Fuentes]].
 ###### 20. Casa Mendia
 Hogar de [[Joxe, el curandero]] y su hermana Maider.
 ###### 21. Caserío Ituren
-Hogar de [[Aitor, el pastor]], su cuñada Eneca y su sobrina de pocos meses . El marido de Eneka, Koldo Ituren, es el hombre trasformado en perro por [[Gabazkuak]] y el bebé es aquel cuya entrega exige. 
+Hogar de [[Aitor, el pastor]], su cuñada [[Eneka Ituren]] y su sobrina de pocos meses . El marido de Eneka, Koldo Ituren, es el hombre trasformado en perro por [[Gabazkuak]] y el bebé es aquel cuya entrega exige. 
 ###### 22. Caserío Zubizarreta
 Hogar de [[Leire, la pastora]]. 
 ###### 23. Caserío Agirre
@@ -65,7 +65,7 @@ Hogar de [[Otxoa, el cazador]].
 ###### 25. Casa Aroztegui
 Hogar de [[Adur, el cazador de serpientes]]. 
 ###### 26. Casa Perunea
-Hogar de [[Ander, el cazador]]. 
+Hogar de [[Ander Perunea, el cazador]]. 
 ###### 29. Porquerizas
 
 ### Entorno natural
@@ -109,6 +109,7 @@ La aldea está gobernada por la anciana Maialen, una sorgiña sin Don, mujer de 
 - Aunate, mujer del vinatero
 - Idoia, mujer del albañil
 - Garazi Berasaluze, la hilandera
+- Eneka Ituren, joven madre de la niña amenazada 
 ###### Doncellas 
 - Orreaga Jauregui, la melera 
 - Leire Zubizarreta, la pastora
