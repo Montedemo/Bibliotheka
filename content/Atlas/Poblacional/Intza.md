@@ -1,5 +1,80 @@
 Intza es una pequeña aldea situada en las estribaciones de [[Aralar]], en el Reino de [[Navarra]] y dentro del [[Valle de Araiz]]. Se encuentra rodeada de densos bosques y montañas, y es conocida por su aislamiento y sus paisajes agrestes. El nombre del lugar en antiguo euskera significa algo así como "lugar de aguas" ya que son abundantes los arroyos y fuentes que lo cruzan, serpenteando el agua por todas partes en el pueblo. 
-![[Intza 2.png]]
+![[Intza.png]]
+## Descripción 
+#### A. Barrio de San Miguel
+Tambien llamado de Olaizola, dado que es la familia del caserío principal. 
+###### 1. Iglesia de San Miguel
+Donimikel Iklesia. Lugar donde más fácil es de encontrar [[Maialen, la Sacristana]]
+###### 2. Casa Abadía
+También llamado Casa Olaizola. Hogar de [[Maialen, la Sacristana]] y donde se hospeda [[Fray Iñigo de Aralar]] cuando se deja ver por Intza. 
+#### 3. Casa Ituren
+Hogar de [[Tomás, el Labrador]]
+#### 4. Casa Zabaleta
+Hogar de [[Eneko Zabaleta]].
+
+#### B. Barrio Gorrondetxe
+Se dice que los Gorrondetxe son la familia más antigua del pueblo. 
+###### 5. Casa Gorrondetxe
+Hogar de [[Amaia, la Matrona]] y de su hijo [[Xabier el herrero]] y familia. 
+###### 6. Fragua
+Anexa a la casa, taller de [[Xabier el herrero]]. 
+###### 7. Casa Etxeberria
+Hogar de [[Txomin el albañil]] y sus hijos, [[Aitor, el albañil]] y [[Matxin, el albañil]]. 
+###### 8. Horno de Exteberria
+Taller de [[Garazi, la alfarera]].
+###### 9. Casa Berasaluze
+Hogar de [[Garazi la hilandera]]  y su familia
+
+#### C. Barrio Goñi
+Hace bastante tiempo, un miembro de la familia Goñi se instaló en el pueblo tras heredar, sin embargo, las cosas no le fueron tan bien y sus descendientes no han podido equiparar el nivel  de la rama principal y tienen que trabajar con las manos - son carpinteros, y vender algunas parcelas donde se instalaron la taberna-horno y el molino. 
+###### 10. Taberna
+Hogar de [[Maider, la Tabernera]] y Jon el panadero
+###### 11. Molino
+Hogar de [[Mikel, el molinero]] y [[Eider, la hija del molinero]]. 
+###### 12. Casa Goñi
+Hogar de [[Beñat Goñi, el carpintero]]  y su familia.
+###### 13. Carpintería
+Taller de Beñat Gopi y sus hijos. 
+###### 14. Casa Jauregui
+Hogar de [[Orreaga, la melera]] 
+###### 30. Quesería
+
+#### D. Barrio Alto
+En la parte más alta del pueblo, en el camino que lleva a los [[Túmulos de Auntzin]]. 
+###### 15. Casa de Birutia
+Hogar de las [[Sorgiñak de Aralar]]. 
+###### 16. Casa Urrutikoetxea
+Hogar de [[Iñaki, el vinatero]] y su familia.
+###### 17. Lagar
+Dónde se fabrica el vino. 
+#### 18. Viñedos
+
+#### Caseríos Dispersos
+###### 19. Casa Iturri
+Hogar de [[Zuriñe de las Fuentes]] y de su nieta [[Ane de las Fuentes]]. 
+###### 20. Casa Mendia
+Hogar de [[Joxe, el curandero]] y su hermana Maider.
+###### 21. Caserío Ituren
+Hogar de [[Aitor, el pastor]], su cuñada Eneca y su sobrina de pocos meses . El marido de Eneka, Koldo Ituren, es el hombre trasformado en perro por [[Gabazkuak]] y el bebé es aquel cuya entrega exige. 
+###### 22. Caserío Zubizarreta
+Hogar de [[Leire, la pastora]]. 
+###### 23. Caserío Agirre
+Hogar de [[Aldana, la pastora]]. 
+###### 24. Casa Urrutia
+Hogar de [[Otxoa, el cazador]]. 
+###### 25. Casa Aroztegui
+Hogar de [[Adur, el cazador de serpientes]]. 
+###### 26. Casa Perunea
+Hogar de [[Ander, el cazador]]. 
+###### 29. Porquerizas
+
+#### Entorno natural
+###### 27. Bosque de Urrenazkárate 
+Atravesado por el sendero que conecta Aintza con Betelu -y con el mundo exterior. Es un lugar inquietante donde a menudo se oyen visiones y se ven voces... Los aldeanos lo evitan de noche y siempre evitan salirse del sendero, porque dicen que quien se pierde en este bosque o no regresa o regresa enajenado. 
+###### 31. Túmulos de Auntzin 
+Extraño lugar en la ladera de Aralar donde, en el claro de un bosque de fresnos se ubica una extraño monítulo  semicircular de roca tallada y a su vez rodeada de extraños montones de piedras semienterrados y cubiertos por el la maleza y los árboles. Aquí tienen lugar las asambleas de las matronas y los aquelarres de las [[sorgiña]]k, si es que hay alguna diferencia. 
+###### 32. Fuente de Marimundoko 
+Donde nace el regato de Intza. Es un lugar oculto que solo las mujeres de la familia Iturri saben encontrar. 
 
 ---
 
@@ -7,17 +82,10 @@ Intza es una pequeña aldea situada en las estribaciones de [[Aralar]], en el Re
 ### Población 
 Intza se sitúa en la media de las aldeas vascas y navarras, con 120 habitantes que se traduce en aproximadamente 25-30 fuegos o familias.
 En el núcleo (barrios centrales) hay 18 casas (15 habitadas y tres vacías). Esto incluye la mayor parte de las familias establecidas y con oficios, así como la iglesia y algunos edificios comunitarios.
-Dispersos alrededor hay 10 caseríos de los que dos están abandonados). Estos están en los alrededores del pueblo, habitados por familias dedicadas a la ganadería o la agricultura que necesitan espacio para sus actividades y vivir más cerca de sus pastos y prados.
-
-Hay diferentes razones que explican las casas deshabitadas:
-- **Desplazamiento o Emigración:** Algunas familias pueden haber abandonado sus hogares en busca de mejores tierras, seguridad o trabajo. Esto sería especialmente relevante en un periodo de conflicto o cambios políticos.
-- **Mortalidad Alta:** La peste, las guerras, o hambrunas podrían haber afectado a la población. Si una familia completa perecía sin herederos, la casa podía quedar vacía.
-- **Problemas de Linaje:** En una sociedad donde el sistema matriarcal está presente, es posible que algunas casas hayan quedado vacías por falta de sucesión femenina adecuada.
-- **Mala Reputación o Superstición:** Algunas casas pueden haber sido abandonadas por estar asociadas a eventos considerados desafortunados o por estar "malditas" según la tradición popular. Dada la presencia de la sorgiña Birrutia, esto podría ser especialmente relevante en el escenario de Intza.
 ### Implantación
 Los habitantes ocupan sus tierras ancestrales desde hace milenios como en todo el valle de Araiz.
 ### Estratificación
-No existe, aunque sí algunos miembros de la comunidad son más destacados -por su carisma personal o profesión- que otros. Las familias que cuentan con una matrona tienen, sin embargo, un mayor prestigio dentro de la comunidad, y se consideran por ello, preeminentes. Aunque hay algunos varones destacados ninguno ha acumulado suficiente poder o riqueza como para convertirse en *aide nagusia*
+No existe, aunque sí algunos miembros de la comunidad son más destacados -por su carisma personal o profesión- que otros. Las familias que cuentan con una matrona tienen, sin embargo, un mayor prestigio dentro de la comunidad, y se consideran por ello, preeminentes. Aunque hay algunos varones destacados ([[Beñat Goñi, el carpintero]] o [[Xabier el herrero]]) ninguno ha acumulado suficiente poder o riqueza como para convertirse en *aide nagusia*
 Todas las mujeres de la aldea están iniciadas en el culto de las sorgiñak, contando con varias matronas, mientras que los varones forman una hermandad de cazadores.  
 
 ![[Intza al atardecer3-1.png]]
@@ -26,11 +94,11 @@ Todas las mujeres de la aldea están iniciadas en el culto de las sorgiñak, con
 ###  Gobierno
 La aldea está gobernada por la anciana Maialen, una sorgiña sin Don, mujer de avanzada edad y gran sabiduría. Una asamblea de mujeres, la Asamblea de las Madres, gobierna los asuntos del pueblo. En ausencia de Birrutia y sus hijas -a menudo inmersas en las cuevas-, la Asamblea es presidida por la matrona más anciana, en este caso Maialen. No obstante, [[Birrutia]], matriarca de las [[Sorgiñak de Aralar]], y sus hijas, aunque no interfiere en los asuntos del pueblo, no pueden dejar de manifestar su peso en la vida y espíritu del lugar. 
 #### El Aquelarre de Intza
-#####  Matronas
+######  Matronas
 - Maialen
 - Amaia
 - Zuriñe,  la guardiana de las fuentes.
-##### Matres
+###### Matres
 - Maider, la tabernera
 - Nagore, la molinera 
 - Garazi Etxeberria, la alfarera
@@ -39,7 +107,7 @@ La aldea está gobernada por la anciana Maialen, una sorgiña sin Don, mujer de 
 - Aunate, mujer del vinatero
 - Idoia, mujer del albañil
 - Garazi Berasaluze, la hilandera
-##### Doncellas 
+###### Doncellas 
 - Orreaga Jauregui, la melera 
 - Leire Zubizarreta, la pastora
 - Aldana Agirre, la pastora
@@ -63,6 +131,7 @@ Se trata de una comunidad bastante cerrada debido al aislamiento, aunque las muj
 ![[Intza al atardecer4-1.png]]
 
 ## Geografía urbana
+El mapa es particularmente disperso -aún más de lo que cabría esperar de una aldea navarra, y aún siendo tan pequeña, sus casas se agrupan en barrios o subaldeas vinculados a una familia principal y sus parientes menores y/o clientelares. 
 ### Emplazamiento
 Se trata de una serie de caseríos dispersos en la ladera del monte Aralar. Es la población a mayor altura de todo el [[Valle de Araiz]] y desde donde se accede a los malloak (malloas o pastos en altura) en las terrazas prácticamente inaccesibles que hay cerca de la cumbre y que constituyen los pastos comunales de verano del valle. 
 ### Clima
