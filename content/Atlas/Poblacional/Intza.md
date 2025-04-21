@@ -75,6 +75,8 @@ Atravesado por el sendero que conecta Aintza con Betelu -y con el mundo exterior
 Extraño lugar en la ladera de Aralar donde, en el claro de un bosque de fresnos se ubica una extraño monítulo  semicircular de roca tallada y a su vez rodeada de extraños montones de piedras semienterrados y cubiertos por el la maleza y los árboles. Aquí tienen lugar las asambleas de las matronas y los aquelarres de las [[sorgiña]]k, si es que hay alguna diferencia. 
 ###### 32. Fuente de Marimundoko 
 Donde nace el regato de Intza. Es un lugar oculto que solo las mujeres de la familia Iturri saben encontrar. 
+###### 33. Vado 
+Aquí es donde el camino principal del pueblo atraviesa el regato de Intza. En estación seca se puede vadear en este punto, pero el resto del año es mejor utilizar el puente colgante que salva el agua. 
 
 ---
 
