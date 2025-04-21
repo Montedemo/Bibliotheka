@@ -1,7 +1,7 @@
 Intza es una pequeña aldea situada en las estribaciones de [[Aralar]], en el Reino de [[Navarra]] y dentro del [[Valle de Araiz]]. Se encuentra rodeada de densos bosques y montañas, y es conocida por su aislamiento y sus paisajes agrestes. El nombre del lugar en antiguo euskera significa algo así como "lugar de aguas" ya que son abundantes los arroyos y fuentes que lo cruzan, serpenteando el agua por todas partes en el pueblo. 
 ![[Intzahistoriado.png]]
 ## Descripción 
-#### A. Barrio de San Miguel
+### A. Barrio de San Miguel
 Tambien llamado de Olaizola, dado que es la familia del caserío principal. 
 ###### 1. Iglesia de San Miguel
 Donimikel Iklesia. Lugar donde más fácil es de encontrar [[Maialen, la Sacristana]]
@@ -12,7 +12,7 @@ Hogar de [[Tomás, el Labrador]]
 #### 4. Casa Zabaleta
 Hogar de [[Eneko Zabaleta]].
 
-#### B. Barrio Gorrondetxe
+### B. Barrio Gorrondetxe
 Se dice que los Gorrondetxe son la familia más antigua del pueblo. 
 ###### 5. Casa Gorrondetxe
 Hogar de [[Amaia, la Matrona]] y de su hijo [[Xabier el herrero]] y familia. 
@@ -25,7 +25,7 @@ Taller de [[Garazi, la alfarera]].
 ###### 9. Casa Berasaluze
 Hogar de [[Garazi la hilandera]]  y su familia
 
-#### C. Barrio Goñi
+### C. Barrio Goñi
 Hace bastante tiempo, un miembro de la familia Goñi se instaló en el pueblo tras heredar, sin embargo, las cosas no le fueron tan bien y sus descendientes no han podido equiparar el nivel  de la rama principal y tienen que trabajar con las manos - son carpinteros, y vender algunas parcelas donde se instalaron la taberna-horno y el molino. 
 ###### 10. Taberna
 Hogar de [[Maider, la Tabernera]] y Jon el panadero
@@ -39,7 +39,7 @@ Taller de Beñat Gopi y sus hijos.
 Hogar de [[Orreaga, la melera]] 
 ###### 30. Quesería
 
-#### D. Barrio Alto
+### D. Barrio Alto
 En la parte más alta del pueblo, en el camino que lleva a los [[Túmulos de Auntzin]]. 
 ###### 15. Casa de Birutia
 Hogar de las [[Sorgiñak de Aralar]]. 
@@ -49,7 +49,7 @@ Hogar de [[Iñaki, el vinatero]] y su familia.
 Dónde se fabrica el vino. 
 #### 18. Viñedos
 
-#### Caseríos Dispersos
+### Caseríos Dispersos
 ###### 19. Casa Iturri
 Hogar de [[Zuriñe de las Fuentes]] y de su nieta [[Ane de las Fuentes]]. 
 ###### 20. Casa Mendia
@@ -68,7 +68,7 @@ Hogar de [[Adur, el cazador de serpientes]].
 Hogar de [[Ander, el cazador]]. 
 ###### 29. Porquerizas
 
-#### Entorno natural
+### Entorno natural
 ###### 27. Bosque de Urrenazkárate 
 Atravesado por el sendero que conecta Aintza con Betelu -y con el mundo exterior. Es un lugar inquietante donde a menudo se oyen visiones y se ven voces... Los aldeanos lo evitan de noche y siempre evitan salirse del sendero, porque dicen que quien se pierde en este bosque o no regresa o regresa enajenado. 
 ###### 31. Túmulos de Auntzin 
