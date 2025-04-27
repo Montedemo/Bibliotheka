@@ -347,7 +347,7 @@ A mediodía, bajo una esplendida mañana primaveral, limpio el cielo tras la pav
 
 **5 de mayo de 1166 AD**
 
-El grupo de [[Duncan de Tremere]] regresó de [[Andueza]] bien escoltado por [[Martín de Goñi]]  y sus ocho hombres dispuestos a luchar para defender Intza de [[Gabazkuak]] y su horda de [[Agotes]]. Llevaban dos heridos - [[Phaestus de Apromor]] gravemente herido en el pecho por la mordedura viciosa de uno de los [[Heraldos de la Hambruna]]. La aparición de tan nutrido grupo de hombres armados levantó los ánimos del pueblo de [[Intza]] aunque [[Birrutia]] recibió a Goñi con una fría bienvenida pero mostró su agradecimiento y hospitalidad hacia estos difíciles aliados. 
+El grupo de [[Duncan de Tremere]] regresó de [[Andueza]] bien escoltado por [[Martín de Goñi]]  y sus ocho hombres dispuestos a luchar para defender Intza de [[Gabazkuak]] y su horda de [[Agotes]]. Llevaban dos heridos - [[Phaestus de Apromor]] gravemente mordido en el pecho por la mordedura viciosa de uno de los [[Heraldos de la Hambruna]], [[Eneko Zabaleta]], perforado por una traidora flecha del taimado [[Blas de Andueza]]. La aparición de tan nutrido grupo de hombres armados levantó los ánimos del pueblo de [[Intza]] aunque [[Birrutia]] recibió a Goñi con una fría bienvenida pero mostró su agradecimiento y hospitalidad hacia estos difíciles aliados. 
 
 ![[birrutiarecibeamartin.png]]
 
