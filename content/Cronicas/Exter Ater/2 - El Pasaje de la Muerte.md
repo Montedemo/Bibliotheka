@@ -343,4 +343,87 @@ A mediodía, bajo una esplendida mañana primaveral, limpio el cielo tras la pav
 
 --- 
 
+# VI - La Batalla de Intza
+
+**5 de mayo de 1166 AD**
+
+El grupo de [[Duncan de Tremere]] regresó de [[Andueza]] bien escoltado por [[Martín de Goñi]]  y sus ocho hombres dispuestos a luchar para defender Intza de [[Gabazkuak]] y su horda de [[Agotes]]. Llevaban dos heridos - [[Phaestus de Apromor]] gravemente herido en el pecho por la mordedura viciosa de uno de los [[Heraldos de la Hambruna]]. La aparición de tan nutrido grupo de hombres armados levantó los ánimos del pueblo de [[Intza]] aunque [[Birrutia]] recibió a Goñi con una fría bienvenida pero mostró su agradecimiento y hospitalidad hacia estos difíciles aliados. 
+
+![[birrutiarecibeamartin.png]]
+
+## La defensa de Intza 
+### El plan de Martín 
+No obstante, la presencia de Martín de Goñi se dejó notar de inmediato. Capitán experto en batallas y buen estratega, pronto vio los errores fatales del plan inicial (resistir todos parapetados en los [[Túmulos de Auntzin]]), calificándolo como una trampa mortal para los defensores y estableció que la primera defensa debía llevarse a cabo en otro punto más abajo, donde menguar el más que probable nutrido número de enemigos. Pronto eligió un lugar, un vado del regato de Intza en mitad de la aldea, por donde necesariamente habrían de pasar los agotes y puso a los hombres de Intza y a los suyos propios a trabajar a destajo, codo con codo, en despejar el área al Este del vado -por donde llegaría el enemigo, y con la madera obtenida hizo levantar una represa provisional que embalsara el agua del regato. En el lado oeste del vado, mandó montar abatises -empalizadas de ramas de árbol en punta, acodadas sobre el terreno, para obstaculizar el cruce del enemigo y desde donde dispararles a cubierto. La idea era que los agotes creyeran que esa era la trampa, cruzando el vado esperando sobrepasar las defensas con su gran número y, una vez todos en el cauce, romper la represa y liberar las aguas -con troncos y ramas flotando como metralla -  para que arroyara al enemigo. En ese momento, mantenidos agazapados en lo que quedaba de bosquete del lado este, saldría un grupo de ataque para cortarles la retirada y hostigarles por los dos frentes. 
+
+![[abatisesvado.png]]
+
+### El séptimo día 
+A la mañana del séptimo día -la fecha límite del ultimatum- todos se dispusieron en sus puestos a uno u otro lado del vado. La recien nacida de [[Eneka Ituren]] no sería entregada a Gabazkuak. En el lado oeste se encontraban todas las gentes de Intza, con montones de piedras listos para arrojar a los atacantes bloqueados en el vado, mientras [[Beñat el Fauno]] capitaneaba la defensa de proyectiles. En el lado este, Duncan, Phaestus, Antxon, Raoul, Martín y sus hombres se mantenían a la espera, ocultos en el bosquete junto a la represa. Nada tenía que hacer revelar su presencia. 
+![[la carga de los agotes _4_.png]]
+Al atardecer, los vieron llegar. Salían del sendero del [[Bosque de Urrenazkárate]], en tropel, aullando, gritando, sin guía ni adalid claro. Primero se dirigieron al barrio de San Miguel y lanzaron antorchas sobre la iglesia y las casas circundantes. Luego procedieron con el barrio Gorroandtexe y siguieron ascendiendo hasta incendiar la Taberna de [[Maider, la Tabernera]]. 
+
+## La batalla del Vado
+
+Era ya casi oscuro cuando llegaron al vado, deteniéndose por un instante -como casi percibiendo la trampa- pero cayendo en ella, atraídos por la luces y el [[irrintzi]] de las mujeres de Intza.  Todos se lanzaron embravecidos a cruzar el vado, gritando
+
+> ¡¡¡AGOTERRI!!
+> Agoterrin berriro jaioko gara !
+
+![[la carga de los agotes _3_.png]]
+
+Fueron recibidos por los flechazos de Beñat y los arqueros y honderos del pueblo, viéndose obstaculizados por las dos líneas de abatises que les protegían. Eran muchos, un centenar de hombres armados con hachas y escudos y pertrechados con rústicas armaduras de cuero. Sus rostros estaban terroríficamente demacrados por la lepra y su hedor se percibía en la distancia. Grandes y fuertes, pronto empezaron a usar sus hachas: unos para derribar los abatises, y otros, lanzaron hachas más ligeras para comprometer a los arqueros, mientras les caía encima una lluvia de piedras arrojadas por las gentes de Intza. Fueron solo unos pocos minutos pero se hicieron interminables, hasta que los agotes estuvieron todos en la línea del cauce .
+
+![[z_assets/labatalladelvado.png]]
+
+[[Beñat Goñi, el carpintero]] y sus hijos eran los encargados de derribar la represa, esperando la señal, una flecha encendida al aire. Pero a oscuras, casi a tientas, tardaron más de lo previsto en cortar las maromas que aguantaban precariamente los troncos y apuntalados en el lecho del arroyo. Finalmente, lo consiguieron, pero en su demora los agotes iban salvando las defensas y ya estaban muchos entablando combate cuerpo a cuerpo con los hombres de Intza. Uno de ellos, [[Txomin el albañil]] se vio sobrepasado por dos agotes quedando peligrosamente fuera de la línea de abatises. Y llegó el agua, arrastrando trocos y ramas y los propios abatises bajos, como arietes, arroyando a todos a sus paso. Pronto el agua se encañonó en el vado y bloqueada, revotó en peligrosas oleadas que batían a los agotes sumergidos con los troncos. El agua se tiño de sangre y muchos de los gritos de los agotes quedaron ahogados. 
+
+Ahí salieron los hombres agazapados. Los de Martín se dispusieron en fila, cerrando el paso con sus escudos y lanzas, para mantenerles a distancia.  Los de Antxon sacaron sus arcos y se dispusieron a disparar. El resto, tras la línea de escudos, hostigó a los agotes que trataban de escapar por la orilla oeste.  Pero eran muchos más los que habían salvado el río por la orilla este, y la situación era difícil allí. Por suerte el reflujo de las aguas y la torpeza de los heridos hizo que muchos cayeran al torrente cuyo caudal se agitaba en todas las direcciones: esas peligrosas sacudidas hacían blando el terreno  y las ramas en suspensión atrapaban a los incautos como los tentáculos de un kraken. Por desgracia, Txomin, herido fue atrapado y arrastrado por este reflujo, recibiendo mala muerte empalado entre los abatises flotantes . 
+
+En la orilla este la batalla estaba decidida, pero no así en la oeste y era imposible cruzarla para ayudarles. Pero, primero Antxon y luego los hombres de Martín, sacaron sus arcos y acribillaron por la espalda a los agotes supervivientes que estaban superando la línea de abatises. 
+
+### Barro y despojos 
+Nunca el bello paraje de Intza se había teñido de muerte como aquella noche. El cristalino regato de Intza, que nacía en las pristinas aguas sanadoras de la Fuente de [[Marimundoko]] se aparecía como un charco cenagoso y maloliente, donde cuerpos y ramas de árboles flotaban confundiéndose. El agua embolsada en el estrecho del vado fue achicando poco a poco, dejando un muro de cadáveres y troncos que impedía el paso. 
+
+![[barroydespojos.png]]
+
+Los hijos de Txomin, [[Aitor, el albañil]] y [[Matxin, el albañil]] bajaron a recuperar el cuerpo de su padre, para que no yaciera entre la pestilente carroña de los agotes. Cargando y llorando a su padre lo llevaron a la iglesia, acompañados por las gentes del pueblo que corrieron a salvarla de las llamas, junto con las otras casas incendiadas. 
+
+Aún agotados, el grupo se dedicó a buscar supervivientes a quien rematar. Raoul, guiado por una furia casi divina, se enfrascó en la tarea a fondo, no contento con darles matarile sino decapitando a vivos o muertos que encontraba por igual. Martín procedió a interrogar a otros prisioneros, tan intimidatoriamente que, el agote, a pesar de estar enfervorecido por la idea de renacer en ese lugar llamado [[Agoterri]], no tuvo reparos en confesar: que [[Gabazkuak]] estaba en su [[jauregui]] en [[Maya]], y que no estaba sola, sino que aún le quedaban un centenar de agotes más. Desconocía otras estrategias y solo sabía que habían de renacer en Agoterri pero que los de Intza ya estaban muertos.
+
+ > *Agoterrin berriro jaioko gara!*
+
+## Renaceremos en Agoterri 
+
+La noche se preveía larga. Mientras las gentes de Intza ayudaba a apagar los fuegos en los barrios septentrionales, -protegidos por Antxon y sus hombres, y asistidos por Josue, el resto se dedicó a rastrear la presencia de agotes agazapados o supervivientes, temiendo una segunda oleada, ignorantes de que la oleada ya estaba allí... 
+
+Disgregado el grupo acordaron con las gentes de Intza: un largo toque de cuerno indicaba peligro, y la orden de replegarse hacia los Túmulos de Auntzin donde organizarían la última defensa. Martín, a caballo y sus hombres peinaron la zona central del pueblo, mientras Duncan y el resto escoltaron a la Eneka y su hija a los túmulos de Auntzin, preparados para resistir como último refugio, Allí las dejaron junto a  a [[Vela el Joven]] y Phaestus, y también a Eneko -que seguía herido, tras haberse negado en rotundo en pedir ayuda a Marimudoko sabedor de la prenda a pagar... Algo en lo que Phaestus no había tenido tanto reparo. Así se dispusieron a hacer guardia toda la noche. 
+
+### Siniestros duendecillos 
+El resto del grupo, acompañados de los arqueros y honderas del pueblo, descendieron de nuevo hacia el centro  del pueblo. No tardaron en percibir diminutas sombras que correteaban descaradamente por la floresta, en dirección al río. Hombrecillos negros y cornudos, como sombras animadas, en el centro de cuya cara sin rostro iluminaba un fulgurante y único ojo...
+![[lutines.png]]
+
+Ni Beñat no fue capaz de identificar a estas criaturillas, como tampoco sirvió de nada dispararlas, pequeñas y rápidas como eran. Duncan no pudo precisar qué eran pero su presencia no era nada halagüeña...  Avanzaron cautelosamente por el camino y no tardaron en encontrarse con su maléfica obra, encontrándose el camino bloqueado por ominosas y lentas siluetas que avanzaban torpemente, sus ojos encendidos con un siniestro fulgor... Sus cuerpos mostraban heridas y mutilaciones ramas y flechas atravesadas, algunos cuerpos estaban dramáticamente desmembrados, todos estaban muertos : pero se movían. 
+
+![[renaceremos en agoterri.png]]
+
+### Cadáveres retornados 
+Eran los agotes caídos en la batalla, claramente reanimados por la intercesión infernal de aquellos diminutos diablos. Aquella era la treta de la taimada Gabazkuak y el trágico engaño con el que empujó a los agotes más fanáticos contra Intza. Contra lo que creían, no había menospreciado a su madre y esperaba una resistencia en el pueblo, la volvió en su contra; cuantos más agotes mataran, más podría reanimar y estarían todos ya en el pueblo y encontrando a sus habitantes desperdigados. Así fue 
+
+Los retornados eran lentos y torpes pero animados por el poder infernal mostraban conatos de fuerza y furia asesina impredecibles. Un grupo de cinco se encaró con el grupo. Beñat y los arqueros les acribillaron a flechazos, pero claramente ignoraban las heridas menores al estar sus cuerpos más allá del concepto de dolor. Raoul y Duncan se enfrentaron a ellos cuerpo a cuerpo, con desigual suerte. El normando se mostró resuelto con su manejo de las espadas, pero Duncan se vio sobrepasado por uno de ellos, confiado por su torpeza aparente.
+
+El cadáver avanzaba a trompicones, blandiendo su hacha  como un palo. Pero en un momento brutal, como si el demonio dentro de él rugiera de pura rabia, su brazo muerto se tensó en un latigazo imposible: la hoja voló trazando un arco salvaje, rasgando el aire y buscando  carne viva. No había técnica alguna en su gesto, solo violencia pura guiada por un odio más allá de la muerte. Aquel golpe era letal de necesidad, pero Raoul, a su lado, tras haber despachado a uno de ellos veía como su amigo iba a morir, sorprendido por la ferocidad inusitada de aquel embate. No lo dudó, se lanzó contra el agote muerto, interponiéndose entre él y Duncan, recibiendo su daño con abnegado valor. El golpe fue brutal y atravesó armadura y dañó las vísceras. Raoul cayó al suelo y solo pudo echarse atrás sobre sus cuartos traseros, incapaz de ponerse en pie. 
+
+> ¡Sonad el cuerno, idiotas! - gritó [[Ander Perunea, el cazador]]
+
+Y eso hizo Beñat, que era quien lo portaba. Pronto oyeron los cascos del caballo de Martín. Duncan ayudó a Raoul a ponerse a salvo, mientras los honderos y arqueros les cubrían la retirada. Se pusieron a salvo, pero Raoul estaba gravemente herido y podría complicarse fatalmente. Finalmente apareció Martín, a caballo, flanqueado por sus perros alanos dando final a los retornados. Sus hombres le seguían al zaga. Conocedores de la trampa, el cuerno ahora atraería a las gentes de Intza hacia donde presumiblemente estaban todos los agotes retornados, las inmediaciones del río donde habían muerto. Duncan se trasformó en lobo, sorteando la prohibición expresa de hacer magia impuesta por Birrutia para correr a avisar a los que estaban en el extremo norte del pueblo, del peligro que les amenazaba ahora. 
+
+Si habían retornado todos los agotes muertos, era el fin...
+
+***CONTINUARÁ...***
+
+![[archerandzombies.png]]
+
+---
+
+
 #exterater #intza #valledaraiz #zugarramurdi #iditxa #lamias #agotes #vasasdelainiquidad #reflejossiniestros #heraldosdelahambruna #tártalo #hauteclaire #saltusvasconum #duncandetremere #cultodelextranjeronegro #sorgiña #sorgiñakdeAralar #Aralar 

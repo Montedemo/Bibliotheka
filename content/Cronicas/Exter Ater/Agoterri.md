@@ -1,0 +1,1 @@
+Literalmente, "tierra de los [[Agotes]]". Lugar desconocido del que el pueblo maldito de los [[Pirineos]] dice provenir. Nadie conoce su paradero ni puede verificar su existencia, siendo probablemente un mito. 
