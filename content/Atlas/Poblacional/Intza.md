@@ -1,4 +1,5 @@
 Intza es una pequeña aldea situada en las estribaciones de [[Aralar]], en el Reino de [[Navarra]] y dentro del [[Valle de Araiz]]. Se encuentra rodeada de densos bosques y montañas, y es conocida por su aislamiento y sus paisajes agrestes. El nombre del lugar en antiguo euskera significa algo así como "lugar de aguas" ya que son abundantes los arroyos y fuentes que lo cruzan, serpenteando el agua por todas partes en el pueblo. 
+
 ![[Intzahistoriado.png]]
 ## Descripción 
 ### A. Barrio de San Miguel
