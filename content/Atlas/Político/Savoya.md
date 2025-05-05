@@ -1,0 +1,1 @@
+Ducado en las tierras altas del reino de [[Arelate]] enclavado en los valles alpinos entre [[Galia]] e [[Italia]]. 

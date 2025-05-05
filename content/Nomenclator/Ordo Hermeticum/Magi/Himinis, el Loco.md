@@ -1,0 +1,1 @@
+Magus de la  [[Casa Verditius]] famoso por su extrema paranoia y miedo a ser robado. Vivió en el [[Tribunal Provenzal]]. 

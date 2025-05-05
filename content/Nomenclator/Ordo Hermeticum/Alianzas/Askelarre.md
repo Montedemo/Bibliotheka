@@ -25,4 +25,4 @@ Sucesor:
 NoteIcon: alianza
 ---
 
-Alianza de las [[sorgiña]]k herméticas que tuvo su centro en [[Aralar]] hasta la destrucción de esta por la [[Casa Diedne]] durante la [[997-1013 - Guerra del Cisma]]
+Alianza de las [[sorgiña]]k herméticas que tuvo su centro en [[Aralar]] hasta la destrucción de esta por la [[Casa Diedne]] durante la [[00997-1013 Guerra del Cisma]]

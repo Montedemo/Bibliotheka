@@ -1,0 +1,1 @@
+Sede arzobispal y ducal y antigua capital  de la provincia [[Narbonense]], en la [[Galia]] meridional. 

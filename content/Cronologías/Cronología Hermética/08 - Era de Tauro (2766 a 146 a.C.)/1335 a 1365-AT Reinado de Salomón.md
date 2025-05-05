@@ -1,0 +1,4 @@
+## 969 a 930 a.C. 
+![[image-199.png]]
+
+El Gran Rey Salomón levantó un gran templo a su Dios y un vasto palacio para sí mismo. Era un gran mago, capaz de convocar a todo tipo de espíritus para obrar su voluntad. Su Gran Sello sigue siendo una poderosa protección y dispositivo para los espíritus y se dice que su Anillo puede controlarlos a todos. Podía volar en el viento con una alfombra mágica y hablaba los idiomas de las bestias y los pájaros. Su sabiduría era ampliamente conocida; resolvió los enigmas de la Reina de Saba y juzgó sabiamente los casos más desconcertantes. Gobernó sobre los mortales y los espíritus, trajo las riquezas del mundo a su capital, [[Jerusalén]], en sus días, la más espléndida ciudad del Levante y exploró las profundidades del mar y las alturas del cielo.

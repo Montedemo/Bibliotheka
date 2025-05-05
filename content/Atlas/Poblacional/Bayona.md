@@ -1,0 +1,1 @@
+Importante ciudad de [[Gascuña]], sede episcopal y capital del condado de [[Labor]]. 

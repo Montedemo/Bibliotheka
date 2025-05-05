@@ -1,0 +1,1 @@
+Magus rusticanus activo en el [[Tribunal Provenzal]] que se mueve itinerantemente por él aunque se supone que él y su cuadrilla tienen alguna base en los bosques de [[Gascuña]]. 

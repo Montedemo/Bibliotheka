@@ -1,5 +1,5 @@
 ![[Antxon retrato.jpeg]]
-Infanzón [[aide nagusia]] de la aldea de Aia, en [[Guipuzcoa]],  perteneciente a un antiguo linaje vascón que se remonta más allá de los héroes que derrotaron a los francos en la [[778 - Batalla de Roncesvalles]]. 
+Infanzón [[aide nagusia]] de la aldea de Aia, en [[Guipuzcoa]],  perteneciente a un antiguo linaje vascón que se remonta más allá de los héroes que derrotaron a los francos en la [[778 Batalla de Roncesvalles]]. 
 
 ## Descripción 
 Antxon es un atractivo caballero en sus treinta años, de serio semblante y poblada cabellera castaño claro que suele llevar algo desaliñada y poblada barba. Es fuerte y carismático y experto en el manejo de la espada y el escudo en combate. Va acompañado de sus hombres, [[Fermín el Martillo]] y [[Gabín el Escudo]], y su escudero, el joven [[Vela el Joven]], bastardo de altísimo linaje que su señor don [[Vela Ladrón de Guevara]] puso bajo su custodia. 

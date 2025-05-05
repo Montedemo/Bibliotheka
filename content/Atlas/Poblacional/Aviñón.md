@@ -1,0 +1,1 @@
+Ciudad de [[Provenza]], destacado feudo papal en el reino de [[Arelate]] y residencia de los pontífices en la [[Galia]]. 

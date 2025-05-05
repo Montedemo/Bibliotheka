@@ -1,0 +1,3 @@
+## 1300 a.C.
+![[image-197.png]]
+La antigua civiización Kymrica florece en torno Britania, guiada por sacerdotes-magos que tenían su sede en [[Cimbrínsula]] una isla perdida en el mar de Irlanda. Con el tiempo la civilización Kymrica será destruida por los invasores Gael, y la isla de Cimbrínsula se hundirá bajo las aguas. La fusión de las civilizaciones Kymrica y Gaelica dará lugar a la gente Britona. Los sacerdotes-magos Kymricos se convertirán en los druidas con el paso de los años.

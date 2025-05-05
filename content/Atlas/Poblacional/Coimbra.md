@@ -1,0 +1,1 @@
+Capital del reino de [[Portugal]]

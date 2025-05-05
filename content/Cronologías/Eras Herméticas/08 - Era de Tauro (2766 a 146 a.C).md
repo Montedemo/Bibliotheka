@@ -1,0 +1,4 @@
+Durante este periodo la gente estuvo enfocada en la búsqueda de los placeres sensoriales y las posesiones materiales, adorando al cuerpo y los sentidos. En este momento fue cuando la humanidad comprendió la realidad física y la propiedad sobre el mundo como el hogar a proteger. Es el tiempo de Egipto, de oro y minerales, y de la construcción de las grandes casas y palacios, honrando a los materiales de la tierra. 
+Se desarrollaron los sistemas de irrigación avanzadas y métodos agrícolas más sofisticados. Se construyeron masivos y sólidos edificios por todo el mundo. Creció el conocimiento del mundo material y la naturaleza, y la gente se identificó con las experiencias físicas, prácticas.conforme iba desapareciendo la conexión con reinos más elevados. 
+
+Muchas culturas adoraron al Toro o a la Vaca, egipcios, indios, tra iox. La belleza y abundancia femenina fueron adorados y las mujeres recuperaron un poder inusual en la sociedad. 

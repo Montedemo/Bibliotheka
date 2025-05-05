@@ -1,0 +1,1 @@
+Importante ciudad de [[Gascuña]], y antigua capital del ducado de Wasconia. Actualmente es la sede de los  vizcondes de [[Armañac]]. 

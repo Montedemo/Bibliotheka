@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: bbthk
+created: 2025-04-30T19:29:15+02:00
