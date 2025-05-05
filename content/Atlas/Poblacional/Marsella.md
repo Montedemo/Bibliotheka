@@ -1,0 +1,1 @@
+Importante ciudad portuaria y centro económico de [[Provenza]] y [[Arelate]].

@@ -26,21 +26,21 @@ Predecesor: Tribunal de Val-Negra
 NoteIcon: tribunal
 ---
 ![[image-17.png]]
+ 
  El Tribunal de Iberia es la demarcacion hermética que se extiende por la mayor parte de las tierras de la península de [[España]] . Este tribunal, en el extremo occidental del mundo es, paradójicamente, la puerta a la refinada cultura oriental, desde donde el resto de la Europa Mítica recibe las influencias de Persia, Damasco, Bagdad, Siria y Egipto. Los magi de Iberia han sido testigos y actores de un primer renacimiento de las artes y las letras en el medievo, pioneros en las lecturas de los tratados clásicos (traducidos al árabe en oriente y traídos con los omeyas a al-Ándalus) y en la incorporación de las tesis aristotélicas y platónicas a la religión, la ciencia, la filosofía y la teoría mágica. Ellos han sido los máximos difusores de estas enseñanzas entre sus pares, en una Iberia que se ha convertido en la cuna de la cultura occidental, gracias a poetas y poetisas de la talla de Abū ʿAmir ibn Šuhayd, Abū Muḥammad ʿAlī ibn Ḥazm, Wallāda ḅint Al-Mustakfī o Al-Fatḥ ibn Jāqān, a místicos como Ibn Masarra y Muḥammad ibn al-ʿArabī, y a polígrafos como ʿAbbās ibn Firnās, Abraham ben Meʾir ibn Ezrá, Abū Bakr ibn Ṭufayl, Abū Marwān ibn Zuhr, Abū Bakr ibn Bāŷŷa, Rabí Mosé ben Maimón e Ibn Rušd.
 
 La influencia de la antigua dinastía de los omeyas ha dejado un eco que todavía puede sentirse en las alianzas y la sociedad de Iberia. Los magi más ancianos recuerdan las viejas costumbres y echan de menos el legado de los reinos de taifas, maldiciendo en sus oraciones el momento en el que llegaron a Iberia las retrógradas tesis almohades de Ibn Tūrmat con las que deben lidiar en 1220.
 
-<section data-section-id="sidepanelcontent" class="wa-section public"><h2>General Details</h2>
-<p></p><h5>Artículos relacionados</h5>
-<a href="/w/europa-mythica-montedemo/t/historia-del-tribunal-de-iberia-timeline">Historia del Tribunal de Iberia</a>
-<span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="6df04657-4d77-45fd-876f-ae715e96ba45" data-template-type="document" data-article="6df04657-4d77-45fd-876f-ae715e96ba45">Código Periférico Ibérico</span><p></p><hr /></section><section data-section-id="publicAgenda" class="wa-section public">
-##Política##
-<h3>Publicagenda</h3>
+## Política
+
+<h3>Agenda pública</h3>
 <p>Desde que fuera elegido, ʿEzraʾ ha luchado junto con la alianza de Durato contra el éxodo de muchas formas, y aunque en 1220 parece que los almohades están en decadencia, no se muestra optimista. Por otra parte, la cercanía de la fecha de vencimiento de la cláusula impuesta por los saḥirs en el año 925 ha hecho que muchos magi pongan sus miras en el continente africano, sobre todo desde que los mozárabes que lucharon en el Magreb junto al califa Al-Manṣūr atestiguaran que en aquellas tierras se disfrutaban de mayores libertades que en la provincia almohade de al-Ándalus. Preparándose para lo que prevé será una carrera por obtener esas riquezas,
-ʿEzraʾ ha conseguido que se apruebe una cláusula por la cual Iberia pasa a abarcar las tierras del norte de África hasta la cordillera del Atlas, lo que dará ventaja a los magi ibéricos cuando llegue el momento. La medida aprovecha un hueco legal en el acuerdo con los saḥirs, ya que no establece ninguna presencia hermética real en esas tierras. Estas son las entradas que se han aprobado durante el mandato de ʿEzraʾ para someterlas a revisión durante el siguiente Gran Tribunal (que se celebrará en 1228) y puedan así ser incluidas en el Código Periférico. Por su parte, ʿEzraʾ teme que la cláusula de 1214 por la que el tribunal se arroga los derechos sobre el norte de África sea rebatida e incluso desechada durante el Gran Tribunal, ya que serán muchos los interesen que choquen una vez la restricción impuesta por los saḥirs venza.</p><hr /></section><section data-section-id="alternativeNames" class="wa-section public"><dl><dt>Alternativenames</dt><dd>Tribunal de Hispania, Tribunal de Hesperia</dd></dl></section><section data-section-id="demonym" class="wa-section public"><dl><dt>Demonym</dt><dd>Ibérico, -a, -s</dd></dl></section><section data-section-id="structure" class="wa-section public"><h3>Structure</h3>
+ʿEzraʾ ha conseguido que se apruebe una cláusula por la cual Iberia pasa a abarcar las tierras del norte de África hasta la cordillera del Atlas, lo que dará ventaja a los magi ibéricos cuando llegue el momento. La medida aprovecha un hueco legal en el acuerdo con los saḥirs, ya que no establece ninguna presencia hermética real en esas tierras. Estas son las entradas que se han aprobado durante el mandato de ʿEzraʾ para someterlas a revisión durante el siguiente Gran Tribunal (que se celebrará en 1228) y puedan así ser incluidas en el Código Periférico. Por su parte, ʿEzraʾ teme que la cláusula de 1214 por la que el tribunal se arroga los derechos sobre el norte de África sea rebatida e incluso desechada durante el Gran Tribunal, ya que serán muchos los interesen que choquen una vez la restricción impuesta por los saḥirs venza.</p>
+<h3>Estructura</h3>
 <p></p><h4>El Praeco</h4>
-<br />Como en todos los tribunales herméticos, al frente del mismo de encuentra un <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="125bd912-7c6b-41ff-bceb-644ab7fceedd" data-template-type="rank" data-article="125bd912-7c6b-41ff-bceb-644ab7fceedd">Praeco</span> que lo dirige, mantiene el orden y se preocupa por que el Tribunal progrese productivamente. Ya que los Praeconis manejan mucho poder, a menudo persiguen sus propias agendas, aunque se supone que deben permanecer neutrales.
-<br />Aunque en el resto de la Orden, el praeco se nombra automáticamente en el magus más anciano, para evitar así disputas sucesorias, en Iberia -desde el 906- el praeco se elige entre los cinco magi más ancianos que cumplan con los siguientes requisitos:
+Como en todos los tribunales herméticos, al frente del mismo de encuentra un <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="125bd912-7c6b-41ff-bceb-644ab7fceedd" data-template-type="rank" data-article="125bd912-7c6b-41ff-bceb-644ab7fceedd">Praeco</span> que lo dirige, mantiene el orden y se preocupa por que el Tribunal progrese productivamente. Ya que los Praeconis manejan mucho poder, a menudo persiguen sus propias agendas, aunque se supone que deben permanecer neutrales.
+
+Aunque en el resto de la Orden, el praeco se nombra automáticamente en el magus más anciano, para evitar así disputas sucesorias, en Iberia -desde el 906- el praeco se elige entre los cinco magi más ancianos que cumplan con los siguientes requisitos:
 <ul>
 <li>Han de ser miembros de alguna alianza de Iberia, por lo que deben pertenecer al Tribunal y estar censados en él.</li>
 <li>Han de estar en plenas facultades mentales:</li>
@@ -71,15 +71,16 @@ Toda alianza del Tribunal de Iberia que pueda demostrar su trabajo para con la O
 <br />
 Desde la reunificación del tribunal de Iberia en 1116, el tesoro del Tribunal se reparte entre las Casas Mercer de <span data-article-privacy="private" data-article-id="951c5be3-1d68-40cd-8f15-ceb45e0632ae" data-template-type="organization" class="private-article article-unlinked entity-link wa-link">Porta Pandere</span> y <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="de0c7096-26b3-46a1-9932-ee3a9607ec85" data-template-type="organization" data-article="de0c7096-26b3-46a1-9932-ee3a9607ec85">Aedes Mercurii</span>. La primera custodia el tesoro del Tribunal de las alianzas del territorio de al-Andalus y del reino de Portugal, y la segunda el de los territorios de los reinos de León, Castilla, Navarra y la Corona de Aragón. 
 <br />Para dicho fin, cuentan con la regulación y protección de dos magi (tradicionalmente un Flambeau y un Guernicus) que ostentan los títulos de praefectus praetorio (harisun) y quaestor aerarii (jazin), respectivamente. El harisun se encarga de la protección del tesoro y el jazin de la contabilización de este, necesitándose de la presencia de ambos para todo ingreso o extracción del mismo.
-<br /><p></p><hr /></section><section data-section-id="history" class="wa-section public"><h2>History</h2>
-<p><a href="/w/europa-mythica-montedemo/t/historia-del-tribunal-de-iberia-timeline">Historia del Tribunal de Iberia</a>
-<br />
+<br /><p></p>
+<h2>Historia</h2>
+
 La Historia y cultura hermética de Iberia están profundamente entrelazadas con su historia y sociedad mítica; la huella de los acontecimientos políticos mundanos está sólidamente marcada en las actitudes del Tribunal desde que fuera ocupado por la Orden tras la segunda reunión del Primer Tribunal y su constitución oficial en el séptimo Gran Tribunal hasta la actualidad.
-<br />
+
 Hasta hoy en día, son los periodos y acontecimientos determinados desde el verdadero centro geopolítico de Hispania: al-Ándalus, los que a su vez han venido determinando y pautando los ritmos de evolución y cambio del propio Tribunal Hermético desde antes incluso de su creación. 
-<br />
+
 Se distinguen las siguientes etapas en la historia del Tribunal.
-</p><h4>Las Guerras Flambónicas (765-781)</h4>
+
+<h4>Las Guerras Flambónicas (765-781)</h4>
 O la violenta irrupción de <span data-article-privacy="private" data-article-id="a3e6121b-a529-47ef-97c8-fb0d1b63e1b0" data-template-type="person" class="private-article article-unlinked entity-link wa-link">Flammans, el Fundador</span> y sus seguidores en Hispania inmediatamente después de la propia fundación de la <span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="84d6f542-1f90-406c-b123-0d1f80c1fc0c" data-template-type="organization" data-article="84d6f542-1f90-406c-b123-0d1f80c1fc0c">Orden de Hermes</span> y la consecuente erección de la legendaria alianza de <span data-article-privacy="private" data-article-id="41e70e92-9adc-4263-95b1-0b409e69afa9" data-template-type="settlement" class="private-article article-unlinked entity-link wa-link">Val-Negra</span>, desde donde se determinará la política hermética de las tierras hispánicas hasta la constitución final del Tribunal de Iberia.
 <br />Es un tiempo de gran violencia, en el que los temerarios pero poco sutiles magi de Flambeau se lanzan a la aventura de intentar conquistar o integrar por la fuerza a los hechiceros hispánicos con irregulares resultados.
 <br />En este periodo se produce la fundación de las primeras alianzas herméticas emplazadas en suelo ibérico, antes del año 780.
@@ -210,11 +211,12 @@ Durante el éxodo fueron elegidos dos Praecones de actitudes muy distintas:
 <td>ʿEzraʾ ben Šēlomoh al-Bonisagī</td>
 <td>1200-Act.</td>
 </tr>
-</tbody></table><p></p><hr /></section><section data-section-id="demographics" class="wa-section public"><h2>Demographics</h2>
+</tbody></table><p></p><hr /></section><section data-section-id="demographics" class="wa-section public"><h2>Demografía</h2>
 <p>En 1220, el Tribunal cuenta con un total de 155 magi (entre los que se incluyen veinticuatro Boinas Rojas), lo que le convierte en el Tribunal más poblado de la Orden (por delante del Rín, que cuenta con 130 magi). Diferentes circunstancias históricas, geográficas y culturales han llevado a que, además de los niños con el Don nacidos en las tierras hispanas se añadan los numerosos magi venidos de más allá de los Pirineos o del otro lado del Mediterráneo, en busca del saber que atesoran las ciudades y alianzas ibéricas.
-Dada la amplia extensión geográfica del territorio, hay espacio suficiente para poder emplazar una tupida red de alianzas. En la fecha canónica hay treinta y una alianzas habitadas y veintisiete en ruinas.</p><hr /></section><section data-section-id="territory" class="wa-section public"><h2>Territory</h2>
+Dada la amplia extensión geográfica del territorio, hay espacio suficiente para poder emplazar una tupida red de alianzas. En la fecha canónica hay treinta y una alianzas habitadas y veintisiete en ruinas.</p><hr /></section>
+<h2>Territorio</h2>
 <p></p><h5>El Reino de Portugal</h5>
-Todas las alianzas de Portugal pertenecen al Tribunal de Iberia, aunque es un reino que no ha tenido demasiada presencia hermética en toda su historia. La región ha sido dividida tradicionalmente por los magi peninsulares según la barrera natural que forma el sistema montañoso que comienza en serra Montejunto (donde se encuentra Porta Pandere, la segunda Casa Mercer más importante del Tribunal después de la barcelonesa Aedes Saturni) y termina en serra da Estrela, donde está la mayor cota del reino, a casi 2000 metros de altura, y nace el río Mondego, a lo largo del que se pueden encontrar varias construcciones megalíticas.
+Todas las alianzas de [[Portugal]] pertenecen al Tribunal de Iberia, aunque es un reino que no ha tenido demasiada presencia hermética en toda su historia. La región ha sido dividida tradicionalmente por los magi peninsulares según la barrera natural que forma el sistema montañoso que comienza en serra Montejunto (donde se encuentra [[Porta Pandere]], la segunda Casa Mercer más importante del Tribunal después de la barcelonesa Aedes Saturni) y termina en serra da Estrela, donde está la mayor cota del reino, a casi 2000 metros de altura, y nace el río Mondego, a lo largo del que se pueden encontrar varias construcciones megalíticas.
 <table class="table table-striped">
 <tbody><tr>
 <th>Alianzas habitadas</th>
@@ -224,21 +226,21 @@ Todas las alianzas de Portugal pertenecen al Tribunal de Iberia, aunque es un re
 <th>Ubicación</th>
 </tr>
 <tr>
-<td><span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="04b7effb-012e-45a7-9e92-03cf70916aa8" data-template-type="organization" data-article="04b7effb-012e-45a7-9e92-03cf70916aa8">Serra da Lousã</span></td>
+<td><span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="04b7effb-012e-45a7-9e92-03cf70916aa8" data-template-type="organization" data-article="04b7effb-012e-45a7-9e92-03cf70916aa8">[[Serra da Lousa]]</span></td>
 <td>934-Act.</td>
 <td>Primavera</td>
 <td>2</td>
 <td>Portucale</td>
 </tr>
 <tr>
-<td><span data-article-privacy="private" data-article-id="951c5be3-1d68-40cd-8f15-ceb45e0632ae" data-template-type="organization" class="private-article article-unlinked entity-link wa-link">Porta Pandere</span></td>
+<td><span data-article-privacy="private" data-article-id="951c5be3-1d68-40cd-8f15-ceb45e0632ae" data-template-type="organization" class="private-article article-unlinked entity-link wa-link">[[Porta Pandere]]</span></td>
 <td>990-Act.</td>
 <td>Otoño</td>
 <td>13</td>
 <td>Extremadura portuguesa</td>
 </tr>
 <tr>
-<td><span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="cc36d5bf-a521-4a20-ae82-d4149215de4e" data-template-type="organization" data-article="cc36d5bf-a521-4a20-ae82-d4149215de4e">Resurgens</span></td>
+<td><span class="article-link article-explorer-link entity-link wa-link" data-article-privacy="public" data-article-id="cc36d5bf-a521-4a20-ae82-d4149215de4e" data-template-type="organization" data-article="cc36d5bf-a521-4a20-ae82-d4149215de4e">[[Resurgens]]</span></td>
 <td>1151-Act.</td>
 <td>Verano</td>
 <td>4</td>
@@ -262,8 +264,8 @@ Todas las alianzas de Portugal pertenecen al Tribunal de Iberia, aunque es un re
 <td>Portucale</td>
 </tr>
 </tbody></table>
-<h5>El reino de León</h5>
-Las alianzas se encuentran dispersas entre las grandes unidades regionales del reino (de oeste a este y de norte a sur): Galicia, Asturias, el Bierzo, León, la Extremadura leonesa y la Transierra.
+<h5>El reino de [[León]]</h5>
+Las alianzas se encuentran dispersas entre las grandes unidades regionales del reino (de oeste a este y de norte a sur): [[Galicia]], [[Asturias]], el [[Bierzo]], [[Tierra de León]], [[la Extremadura leonesa]] y la Transierra.
 <table class="table table-striped">
 <tbody><tr>
 <th>Alianzas habitadas</th>

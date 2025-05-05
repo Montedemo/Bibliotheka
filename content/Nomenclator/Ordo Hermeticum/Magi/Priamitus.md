@@ -1,0 +1,1 @@
+Primer filius e hijo primogénito del fundador Mercere, y primer primus de la [[Casa Mercere]]. Gran investigador hermético, es el responsable de la recuperación e integración de los rituales del [[Culto de Mercurio]] dentro de la teoría hermética. 

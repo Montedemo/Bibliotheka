@@ -64,4 +64,4 @@ En tanto que las sorgiñas se mantienen alejadas de los núcleos urbanos o de po
 La preminencia de las sorgiñas en la sociedad vascona frente a la autoridad patriarcal de los nobles varones o [[aide nagusia]]k les ha puesto en el punto de mira de muchos poderosos señores que envidian o recelan de su poder y se frustran al intentar imponer su autoridad si esta choca con los designios de las tradiciones milenarias que las sorgiñak custodian. 
 
 --- 
-#Vasconia #paganismo #religión #magiacthonica #sorgiña #sorgiñakdeAralar #Navarra #exterater #atarrabi #mikelats #akerbeltz #mari #sugaar 
+#Vasconia #religiones #paganismo #religión #magiacthonica #sorgiña #sorgiñakdeAralar #Navarra #exterater #atarrabi #mikelats #akerbeltz #mari #sugaar 

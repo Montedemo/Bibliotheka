@@ -1,0 +1,4 @@
+## 435 a.C. era de Tauro 
+![[image-208.png]]
+
+Empédocles de Agrigento se interesó por el pensamiento de Parménides. Tomó de él muchos atributos asignados al Ser parmenídeo y los aplicó a su propia Sphairos, la divinidad en la cual todo estaba mezclado en armonía. Cree como Parménides que nada puede originarse de la nada y que lo que existe no puede desaparecer, pero mientras que aquel deducía de esto que la realidad era una e inmóvil, Empédocles postuló que eran cuatro los principios materiales de la realidad y que se hallaban en constante movimiento, mezclándose y repulsándose por las fuerzas espirituales del Amor y el Odio. Estos eran los elementos propuestos por Tales de Mileto, Anaxímenes, Heraclito y Jenófanes: agua, aire, fuego y tierra respectivamente. Las teorías de composición e interacción del universo propuestas por Empédocles constituyen dos conceptos clave de la Magia Hermética.

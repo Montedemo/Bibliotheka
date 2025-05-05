@@ -1,0 +1,3 @@
+Durante este periodo, la gente comenzó a adorar a la Luna, las Diosas Lunares y de la divinidad celeste femenina, tras el Gran Diluvio que anegó la tierra, la humanidad no tuvo otro sostén que la unidad familiar, con centro en la madre. 
+
+Resurgió el culto a la fertilidad femenina, ahora celestial, al fuego secreto del hogar, a la Luna que rige las mareas y los humores. La Madre y sus habilidades nutrientes fueron exaltadas y adoradas. 
