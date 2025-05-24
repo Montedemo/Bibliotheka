@@ -1,3 +1,4 @@
+## 476 d.C.
 ![[image-138.png]] 
 
 La caída del Imperio Romano de Occidente (también conocida como la caída del Imperio Romano o la caída de Roma) se refiere al hecho de la pérdida de autoridad sobre su vasto territorio quedando dividido en numerosas entidades políticas sucesoras (los reinos germánicos). Tradicionalmente, se sitúa su final en el año 476 d.c., coincidiendo con la deposición del último emperador romano de Occidente, Rómulo Augústulo, a manos de Odoacro . En esa fecha, los invasores "bárbaros" habían establecido su propia autoridad en la mayor parte del área del Imperio de Occidente, aunque no sucedió lo mismo con el [[Imperio Romano de Oriente]] que perduró mil años más.

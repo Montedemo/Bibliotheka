@@ -1,0 +1,2 @@
+## 814 aD
+[[Pralix]] fillia de [[Tytalus, el Fundador]] hace realidad su proyecto e una Orden rival que mantenga despierta a la [[Orden de Hermes]] y preparada para cualquier peligro, aglutinando a todos los hechiceros cuyas tradiciones exóticas no encajaban con los diversos paradigmas de la Orden de Hermes.  Dos años después, acordará su integración en la Orden como la [[Casa Ex-Miscellanea]], aprovada en el Gran Tribunal del siguiente año. 

@@ -1,4 +1,4 @@
-
+## 778 d.C.
 ![[image-172.png]]
 
 La batalla de Roncesvalles se libró el 15 de agosto de 778 (según otros autores, en alguna fecha no identificada de 808), posiblemente en Valcarlos, en las proximidades del desfiladero de Roncesvalles del [[Pirineo]] navarro, cuando un gran ejército de [[vascones]] emboscaron a una parte del ejército de [[Carlomagno]] tras su invasión de [[España]]. La batalla ocurrió en el contexto de los intentos de realizar en la zona una Marca Hispánica carolingia, que en el territorio pamplonés se logró únicamente durante 10 años, de 806 a 816.

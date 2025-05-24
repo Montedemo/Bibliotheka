@@ -1,3 +1,4 @@
+## 1209 a 1223 a.C.
 La historia reciente del Tribunal ha estado marcada por las atrocidades y horrores de la Cruzada Albigense. Esta violencia, ahora temporalmente mitigada, ha dejado una profunda huella en muchos personajes del Tribunal. La razón de la cruzada fue la prevalencia de la herejía en la región, y los herejes se podían encontrar por todo el Tribunal. Sin embargo, los más infames y numerosos entre ellos eran los cátaros, descritos anteriormente.
 
 #### Los heréticos y los intentos de reforma

@@ -31,7 +31,7 @@ El emperador **Federico II de Hohenstaufen**, coronado en 1212 y confirmado en 1
 
 ## Relaciones exteriores
 
-El Reino de Arelate se encuentra en una encrucijada de influencias: el Imperio al norte y este, la corona de Francia al noroeste, y la **Corona de Aragón** al suroeste. En los últimos años, especialmente tras el inicio de la [[1209 a 1223 Cruzada Albigense]], el poder francés ha aumentado en la Galia meridinal, afectando al equilibrio tradicional.
+El Reino de Arelate se encuentra en una encrucijada de influencias: el Imperio al norte y este, la corona de Francia al noroeste, y la **Corona de Aragón** al suroeste. En los últimos años, especialmente tras el inicio de la [[1348 a 1362-AA Cruzada Albigense]], el poder francés ha aumentado en la Galia meridinal, afectando al equilibrio tradicional.
 
 El papado también juega un papel importante en la región, tanto por la cercanía de [[Aviñón]] como por los intereses eclesiásticos en combatir la herejía cátara.
 

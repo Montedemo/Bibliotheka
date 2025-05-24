@@ -1,3 +1,3 @@
-## 1709 era de Tauro
+## 509 a.C.
 ![[image-206.png|1201x872]]
 La monarquía de [[Roma]] fue abolida después de que su último rey, Tarquino el Soberbio, violara a la amiga de su mujer, Lucrecia, quien se suicidó. Un alzamiento destituyó al indigno monarca e instituyó una República que acabaría conquistando el mundo conocido a lo largo de los cinco siglos siguientes. Se quiere encontrar el paralelo entre la República Romana y la [[Orden de Hermes]], al ser ambas gobernadas por hombres sabios elegidos por sus ancianos.

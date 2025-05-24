@@ -1,0 +1,2 @@
+## 961 aD
+[[Kalliste]] denuncia ante los [[Quaesitores]] la corrupción diabólica que ha corrompido a la cúpula de la [[Casa Tytalus]], comenzando por la prima [[Tasgillia la Corrupta]]. Este preocupante hecho encenderá una mecha de suspicacia y desconfianza que allanará el camino para la [[1136 a 1152-AA Guerra del Cisma]]. 

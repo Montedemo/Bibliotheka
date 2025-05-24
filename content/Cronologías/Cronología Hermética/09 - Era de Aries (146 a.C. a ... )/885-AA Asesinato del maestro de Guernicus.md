@@ -1,0 +1,2 @@
+## 746 aD
+El *parens* de [[Guernicus, el Fundador]] fue asesinado por hechiceros rivales dando comienzo a la búsqueda de justicia que formará la reputación de este y  e inspirará la formación de los [[Quaesitores]].

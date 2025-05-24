@@ -35,7 +35,7 @@ Dado que el poder del rey de Francia es tan exiguo en el tercio meridional de su
 ***
 
 ## Historia
-La historia mundana de esta región se recuerda en canciones e historias, y mucho está registrado en libros, notablemente en los escritos de Julio César y Gregorio de Tours. Principalmente trata sobre los actos de los reyes. En la mayoría de los Tribunales, los historiadores herméticos son muy estimados, pero aquí en el [[Tribunal Normando]]  muchos miran con desconfianza a los magos que indagan en el pasado. Los terribles secretos de [[00997-1013 Guerra del Cisma]] están presentes en la historia de los tribunales gálicos, y los Quaesitores vigilan de cerca a aquellos que indagan demasiado profundamente en los conflictos antiguos.
+La historia mundana de esta región se recuerda en canciones e historias, y mucho está registrado en libros, notablemente en los escritos de Julio César y Gregorio de Tours. Principalmente trata sobre los actos de los reyes. En la mayoría de los Tribunales, los historiadores herméticos son muy estimados, pero aquí en el [[Tribunal Normando]]  muchos miran con desconfianza a los magos que indagan en el pasado. Los terribles secretos de [[1136 a 1152-AA Guerra del Cisma]] están presentes en la historia de los tribunales gálicos, y los Quaesitores vigilan de cerca a aquellos que indagan demasiado profundamente en los conflictos antiguos.
 ### Antecedentes
 #### La antigua Galia
 Las tierras que hoy integran el reino de Francia fueron una vez hogar de los salvajes galos, quienes realizaban sacrificios paganos a los poderosos espíritus y hadas del lugar. Los galos reverenciaban especialmente al jabalí, símbolo de sus reyes tribales. Los druidas, quienes pudieron haber sido precursores de la [[Casa Diedne]], lideraban su fe.

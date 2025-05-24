@@ -66,7 +66,7 @@ Hogar de [[Otxoa, el cazador]].
 ###### 25. Casa Aroztegui
 Hogar de [[Adur, el cazador de serpientes]]. 
 ###### 26. Casa Perunea
-Hogar de [[Ander Perunea, el cazador]]. 
+Hogar de [[Ander Eizaguirre, el cazador]]. 
 ###### 29. Porquerizas
 
 ### Entorno natural

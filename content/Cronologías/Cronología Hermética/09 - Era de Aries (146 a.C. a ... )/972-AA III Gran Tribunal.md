@@ -1,0 +1,1 @@
+Debate sobre los límites de autoridad de los [[Quaesitores]].  Se aprueba la constitución de la [[Casa Ex-Miscellanea]], liderada por [[Pralix]], con lo que serán trece las casas integrantes de la [[Orden de Hermes]]. 

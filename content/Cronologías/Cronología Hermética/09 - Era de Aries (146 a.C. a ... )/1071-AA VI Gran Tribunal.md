@@ -1,0 +1,1 @@
+Primera mención  sospechas que presentan a la [[Casa Diedne]] como una amenaza para la [[Orden de Hermes]]. 

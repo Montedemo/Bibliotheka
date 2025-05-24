@@ -1,0 +1,3 @@
+## 1168 ad
+El rey Valdemar I de [[Dinamarca]] inició la conquista de la isla de [[Rügen]]( donde se ubica la alianza de [[Crintera]], con el apoyo explícito del obispo de Roskilde para que acabe con lo que llamaba un nido de demonios paganos.   
+El establecimiento de los daneses cristianos en la isla y la fundación de parroquias y monasterios provocará que Crintera -domus magna de la [[Casa Bjornaer]] entre en su invierno, y se redrudezca el enfrentamiento entre lo partidarios de erradicar a los humanos [[Feritari]] o de armonizar los espacios salvajes con ellos ( [[Concordiarii]] ). 

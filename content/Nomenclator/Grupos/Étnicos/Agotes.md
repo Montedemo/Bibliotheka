@@ -4,7 +4,7 @@ Se les dice practicantes de ritos oscuros y de creer fervorosamente en dioses de
 ![[agotes1.png]]
 
 ## Nota
-Los verdaderos agotes -los históricos- no aparecerán hasta mediados del siglo XIII - siendo lo más presumiblemente refugiados de Gotia (Languedoc) que -herejes o no- escaparán de la [[1209 a 1223 Cruzada Albigense]], asentándose en [[Gascuña]], [[Navarra]] o [[Aragón]], donde los Cruzados no llegarán a entrar.  Los agotes predecesores de nuestra saga" son una raza maléfica del que los desdichados agotes históricos heredarán el nombre tras asentarse en las mismas tierras y recibir idéntico desprecio.
+Los verdaderos agotes -los históricos- no aparecerán hasta mediados del siglo XIII - siendo lo más presumiblemente refugiados de Gotia (Languedoc) que -herejes o no- escaparán de la [[1348 a 1362-AA Cruzada Albigense]], asentándose en [[Gascuña]], [[Navarra]] o [[Aragón]], donde los Cruzados no llegarán a entrar.  Los agotes predecesores de nuestra saga" son una raza maléfica del que los desdichados agotes históricos heredarán el nombre tras asentarse en las mismas tierras y recibir idéntico desprecio.
 ![[agotes3.png]]
 
 --- 
