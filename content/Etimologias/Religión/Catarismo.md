@@ -131,7 +131,7 @@ El legado Pedro de Castelnau  por su parte, elaboró en 1207 un acuerdo de paz 
 
 El 14 de enero de 1208 el legado pontificio Pedro de Castelnau fue asesinado a las orillas del Ródano por un escudero de Raimundo VI, que pensaba que así se ganaría el apoyo del conde.​
 
-Este acontecimiento fue el desencadenante final de la [[1209 a 1223 Cruzada Albigense]].
+Este acontecimiento fue el desencadenante final de la [[1348 a 1362-AA Cruzada Albigense]].
 
 ## Creencias de los Cátaros
 

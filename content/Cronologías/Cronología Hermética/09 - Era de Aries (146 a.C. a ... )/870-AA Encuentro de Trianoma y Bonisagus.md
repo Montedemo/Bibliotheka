@@ -1,0 +1,1 @@
+[[Trianoma]] y [[Viea]] se encuentran con [[Bonisagus, el Fundador]] en la Cueva. Viea marcho enseguida, pero Trianoma se convirtió en la aprendiza de Bonisagos y aprendió allí la Parma Magica. 

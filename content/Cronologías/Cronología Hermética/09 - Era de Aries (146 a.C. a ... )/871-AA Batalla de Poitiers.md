@@ -1,0 +1,2 @@
+## 732 aD
+El 5 de octubre de 732 los francos capitaneados por Carlos Martel, mayordomo de Austrasia, derrotaron al ejército invasor del emir de Córdoba en la batalla de Poitiers, una de las más decisivas de la historia de Europa Mítica, deteniendo definitivamente el avance sarraceno en Europa occidental. 

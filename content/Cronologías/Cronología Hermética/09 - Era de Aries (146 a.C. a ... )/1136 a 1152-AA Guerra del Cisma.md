@@ -1,3 +1,4 @@
+## 997 a 1013 d.C.
 **La Guerra del Cisma** fue un conflicto mágico de gran escala librado entre la _Orden de Hermes_ y la  [[Casa Diedne]], que alcanzó su punto álgido a principios del siglo XI, y culminó con la completa erradicación de dicha casa del Círculo Hermético. Se trata del mayor conflicto interno registrado en la historia de la Orden desde su fundación, y sus consecuencias aún resuenan en nuestros días.
 
 ## **Causas del conflicto**

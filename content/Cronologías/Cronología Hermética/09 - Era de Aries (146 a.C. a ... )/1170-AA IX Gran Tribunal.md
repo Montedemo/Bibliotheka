@@ -1,0 +1,1 @@
+Primer Gran Tribunal tras la [[1136 a 1152-AA Guerra del Cisma]] . Reorganización de la Orden tras la caída de la [[Casa Diedne]].

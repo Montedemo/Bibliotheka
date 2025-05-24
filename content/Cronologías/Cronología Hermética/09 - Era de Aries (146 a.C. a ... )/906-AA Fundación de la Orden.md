@@ -1,0 +1,2 @@
+## 767 a.D.
+Conocida como el **Gran Tribunal** a secas, es la primera reunión de los doce magi Fundadores en el lugar de [[Durenmar]] en la que acuerdan formar la h Orden de Hermes, como una hermandad filantrópica que una y proteja a todos los magi. 

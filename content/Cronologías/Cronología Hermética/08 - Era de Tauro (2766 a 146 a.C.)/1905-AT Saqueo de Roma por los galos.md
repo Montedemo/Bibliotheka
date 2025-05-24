@@ -1,3 +1,3 @@
-## 1905 era de Tauro 
+## 390 a.C.
 
 Tras la batalla de Allia, los galos secuanos liderados por Brenno se plantaron a las puertas de [[Roma]] y saquearon la ciudad. El Capitolio se salvó gracias al aviso de las ocas sagradas de Juno, pero toda la ciudad fue saqueada además de que los vencidos fueron obligados a pagar un cuantioso botín. De acuerdo con el primus [[Fenicil]], este es el ímpetu que llevará a la formación del [[Culto de Mercurio]], aunque esto contradicen otros escritos, que mencionan el Culto en Italia ya en el año 1700 AT.

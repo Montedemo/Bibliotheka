@@ -47,7 +47,7 @@ En 1220, la cristiandad es una realidad tanto temporal como espiritual, una soci
 
 Desde la Primera Cruzada en 1095, la Iglesia ha hecho esfuerzos por recuperar Tierra Santa y Jerusalén, aunque errores como el saqueo de Constantinopla han empañado las guerras santas. Cuatro cruzadas han intentado romper el dominio musulmán sobre la Tierra Santa, pero solo la primera tuvo cierto éxito. El nuevo emperador, [[Federico II]], ha prometido liderar otra cruzada desde Alemania, aunque por años no mostrará señales de movilización.
 
-El temor a la subversión dentro de la Iglesia ha llevado a severas sanciones contra doctrinas contrarias al cristianismo romano, lo que ha dado lugar a la [[1209 a 1223 Cruzada Albigense]] en el sur de [[Francia]] y, pronto, a la fundación de la Inquisición. Ante la duda de los fieles, muchos predican un retorno a las enseñanzas de Cristo en los Evangelios, y surgen nuevas formas de vida religiosa, como los frailes [[Franciscanos]] y [[Dominicos]].
+El temor a la subversión dentro de la Iglesia ha llevado a severas sanciones contra doctrinas contrarias al cristianismo romano, lo que ha dado lugar a la [[1348 a 1362-AA Cruzada Albigense]] en el sur de [[Francia]] y, pronto, a la fundación de la Inquisición. Ante la duda de los fieles, muchos predican un retorno a las enseñanzas de Cristo en los Evangelios, y surgen nuevas formas de vida religiosa, como los frailes [[Franciscanos]] y [[Dominicos]].
 
 El futuro promete grandes cosas para los seguidores de Cristo, y gran sufrimiento para quienes se opongan a ellos. La Santa Iglesia alcanza la cúspide de su autoridad temporal, y su luz sagrada crece, provocando cambios dramáticos en toda la Europa Mítica.
 

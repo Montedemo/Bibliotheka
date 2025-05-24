@@ -1,6 +1,6 @@
 ![[image-173.png]]
 
-Roldán, Conde de la Marca Bretona y Paladín del Emperador. Llamado en castellano Rolando u Orlando, en francés Roland, en navarro Roldane, en fráncico, Hrobiland, en catalán Rotllà, en euskera Errolan, en provenzal Rotland, en italiano Orlando, fue un comandante de losfrancos al servicio de la marca bretona, responsable de defender la frontera de Francia contra los bretones. Murió en la [[778 Batalla de Roncesvalles]] a manos de los [[Vascones]] el 15 de agosto de 778. 
+Roldán, Conde de la Marca Bretona y Paladín del Emperador. Llamado en castellano Rolando u Orlando, en francés Roland, en navarro Roldane, en fráncico, Hrobiland, en catalán Rotllà, en euskera Errolan, en provenzal Rotland, en italiano Orlando, fue un comandante de losfrancos al servicio de la marca bretona, responsable de defender la frontera de Francia contra los bretones. Murió en la [[917-AA Batalla de Roncesvalles]] a manos de los [[Vascones]] el 15 de agosto de 778. 
 
 ## Biografía 
 Roldán, varón de noble estirpe y sobrino del glorioso emperador [[Carlomagno]] -hijo de su hermana Gisela-, fue uno de los más esforzados caballeros que vieran los siglos. Criado en la corte imperial de Aquisgrán, desde mozo mostró gran ardor por las armas y rectitud en el alma, siendo pronto elevado al rango de Conde de la Marca de Bretaña, donde mantuvo a raya a paganos y rebeldes.

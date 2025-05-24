@@ -1,0 +1,2 @@
+## 720 aD
+[[Bonisagus, el Fundador]] se retira al legendario lugar conocido como La Cueva para desarrollar la Parma Magica que permita a los magi tener una protección que les de seguridad en un hipotético encuentro. 
