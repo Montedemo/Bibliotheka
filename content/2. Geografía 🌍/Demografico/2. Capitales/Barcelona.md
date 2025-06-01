@@ -1,1 +1,0 @@
-Sede del condado de [[Barcelona (condado)]] y principal centro económico y urbano de [[Catalaunia]], uno de los puertos más activos del [[Mediterráneo]] occidental y de la [[España]] cristiana. 
