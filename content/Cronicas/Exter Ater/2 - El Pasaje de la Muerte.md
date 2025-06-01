@@ -431,14 +431,14 @@ Gabazkuak tenía un plan para la eventual derrota de su primer ataque, resucitar
 
 Duncan, transformado en lobo, corrió campo a través para evitar encontrarse con los Retornados y alertar a los aldeanos que estaban, bajo la protección de [[Antxón Elkanobarrena]] y sus hombres, apagando los fuegos del barrio y la iglesia de San Miguel. Mientras tanto, don [[Martín de Goñi]] y sus hombres, junto a [[Beñat el Fauno]] y los arqueros y el malherido [[Raoul Legrand]] continuaba por el camino dirección norte en la misma dirección, encargándose de barrer a los retornados que encontrara para proteger la evacuación de los aldeanos hacia Auntzin. 
 
+![[lasegundabatalladeintza.png]]
+
 ### La Taberna 
 Este nutrido  grupo, que avanzaba despacio dado el estado de Raoul, tras las dificultades para cruzar el vado donde se había desarrollado la batalla llegó al barrio de la Taberna donde encontró a la familia de [[Maider, la Tabernera]] tratando en vano de salvar de las llamas su hogar y sustento.  El grupo llegó justo cuando un una banda de retornados les venía por la espalda y hubieran caído con ellos si Martín y los suyos no hubiera avanzado formando un muro de escudos y lanzas para darles muerte. Limpiada la zona prosiguieron el camino hacia el barrio de San Miguel. 
 
 ![[image-4-1.png]]
 
-## Rezagados en Auntzin 
-
-### La danza de las esferas 
+### Rezagados en Auntzin 
 Mientras tanto, [[Phaestus de Apromor]] y [[Vela el Joven]] habían quedado en los [[Túmulos de Auntzin]] custodiando al también malherido [[Eneko Zabaleta]] y a la madre [[Eneka Ituren]]. Apostados en la cima del mismo junto a la roca turriforme que corona la extraña colina donde se reúnen las [[Sorgiñak de Aralar]] vigilaban lo que pudiera venirles -incluso Vela llamó a su cuervo para que vigilara por él el contorno. Girones de niebla empezaron a elevarse y se aterrorizaron al comprobar que la dicha niebla surgía de la roca misma de la colina como si ardiendo en el interior exudara  un humo gris que olía a musgo y a tierra. Buscando como salir de allí vieron una tosca figura grabada en la roca, justo en el espaldar del lugar donde Birrutia presidía las reuniones. 
 
 Los desgastados bordes del símbolo resplandecían iridiscentemente, al igual que la espada de Vela, anunciando la presencia creciente de un aura infernal pero, a diferencia de las otras ocasiones, el resplandor parecía fluctuar  recorrer el filo, como si la propia influencia del Infierno estuviera mitigada o condicionada por la presencia de otras fuerzas igual de poderosas en el mismo lugar. A su vez, Phaestus pudo sentir que su capacidad mágica fluctuaba de igual manera percibiendo el respaldo del aura mágica, al caricia de la feérica y el azote de la infernal simultáneamente y anulándose entre sí. De alguna manera, aquel lugar estaba vinculado a tres reinos sobrenaturales simultáneamente y en un difícil equilibrio, las tres esferas de poder giraban en torno a ellos, encapsulándoles en un refugio de roca viva. 
@@ -446,7 +446,7 @@ La niebla espesa e iridiscente envolvió el mundo en un silencio profundo, absol
 
 ![[el túmulo de la memoria.png]]
 
-### El túmulo de la memoria 
+#### El túmulo de la memoria 
 La niebla se solidificó a su alrededor, no como hielo sino como roca viva que crecía con propósito. Las formas se definían lentamente: columnas talladas, relieves imposibles, estatuas que parecían haber surgido del corazón mismo de la tierra. La bruma se disipó con un susurro, y se encontraron en una cámara subterránea ajena al tiempo.  
 
 Un templo excavado en la piedra, arcanamente inaccesible al no tener ninguna entrada. El enigmático arte que ornamentaba sus paredes parecía más antiguo que cualquier civilización conocida.  Al fondo, un trono labrado se alzaba, y sobre él, una figura encapuchada e inmóvil, esculpida en la roca con tal detalle que por un instante parecía respirar. A ambos lados, relieves narraban escenas cuya iconografía resulta perturbadora y fascinante a la vez: seres mitad hombre mitad animal entregando ofrendas a una entidad sin rostro, y otras escenas inquietantes y perturbadoras.
@@ -457,12 +457,15 @@ Se encontraban en el Túmulo de la Memoria, un lugar que no se encuentra: te enc
 
 ![[Iglesia está ardiendo.png]]
 
-## La Iglesia en llamas 
+### La Iglesia en llamas 
 
 Por su parte, en el barrio de San Miguel las gentes lo estaban dando todo por salvar su iglesia, no por el templo en sí, sino por la apreciada figura del santo arcángel que ella se encontraba. Cuando oyeron sonar el cuerno alertando de la presencia de nuevos enemigos, Antxon y los suyos procedieron a llamar a las gentes para retirarse hacia Auntzin, pero estas eran reacias a escuchar. Un aldeano exaltado, dijo que no se iría sin que rescataran la estatua. Antxon no encajó bien esa desavenencia a sus órdenes y le exhortó a que si era tan valiente, que entrara él y cogiera la estatua, ni corto ni perezoso eso hizo y en un alarde de temerirad penetró en la Iglesia desapareciendo entre el humo y las llamas. 
 
 Fue entonces cuando aparecieron los Retornados, primero un puñado pero en la oscuridad se veían llegar más y más, atraídos por el alboroto de las gentes, ascendiendo desde el cercano río. Antxon colocó a sus hombres: [[Gabín el Escudo]] y [[Fermín el Martillo]], junto a [[Matxin, el albañil]] y [[Aitor, el albañil]], [[Xabier el herrero]] y [[Beñat Goñi, el carpintero]] -que habían estado entrenando juntos toda la semana, formando un muro de escudos con los que resistir la llegada de los muertos andantes. La maniobra fue excelente y el grupo organizado pudo hacer frente a las oleadas heroicamente, pero se estaban empezando a ver desbordados y rodeados, obligados a luchar por dos flancos e incapaces de desentablar combate para reorganizarse en círculo. Nuevos retornados aparecían desde el bosque pero se dirigían hacia las gentes que -indefensas- empezaron a caer en sus garras, atrapadas entre ellos y las llamas. 
 
+![[ChatGPT Image 1 jun 2025, 19_08_29.png]]
+
+#### La segunda batalla de Intza 
 En ese momento hizo aparición [[Duncan de Tremere]] comprobando que la realidad ya les había alertado del peligro. Al recobrar su forma humana decidió contravenir las órdenes de Birrutia de no hacer magia alguna, debido a la urgencia de la situación, y arrojó una [[Lanza de Fuego (CrIg20)]] contra uno de los retornados que estaban envolviendo el grupo de Antxon, repitiendo dicha estrategia en auxilio para desahogarle de los que le rodeaban, aunque eran muchos los Retornados que habían caído, pero seguían llegando más. Cada vez que hacía uso de su magia podía sentir la fluctuación de las auras, como si las esferas de los cuatro reinos de poder estuvieran girando alocadamente en una danza caótica. Sentía que cada palabra mágica que pronunciaba era una ofensa, una provocación, una llamada... 
 
 Por fin, el grupo de [[Martín de Goñi]], [[Beñat el Fauno]] y [[Raoul Legrand]] llegó. Martín cargó para aplastar a una fila de Retornados permitiendo al guipuzcoano reorganizarse en un solo flanco. Mientras, Beñat y los arqueros buscaban asaetar a los que salían del bosque. Pero los jugueteos de Duncan con la magia pronto tuvieron consecuencias y finalmente sintió como sus tirones en el tejido de la vis tuvieron respuesta al otro lado de los hilos...
