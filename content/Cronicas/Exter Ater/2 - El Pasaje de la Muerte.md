@@ -436,7 +436,9 @@ Este nutrido  grupo, que avanzaba despacio dado el estado de Raoul, tras las dif
 
 ### La danza de las esferas 
 Mientras tanto, [[Phaestus de Apromor]] y [[Vela el Joven]] habían quedado en los [[Túmulos de Auntzin]] custodiando al también malherido [[Eneko Zabaleta]] y a la madre [[Eneka Ituren]]. Apostados en la cima del mismo junto a la roca turriforme que corona la extraña colina donde se reúnen las [[Sorgiñak de Aralar]] vigilaban lo que pudiera venirles -incluso Vela llamó a su cuervo para que vigilara por él el contorno. Girones de niebla empezaron a elevarse y se aterrorizaron al comprobar que la dicha niebla surgía de la roca misma de la colina como si ardiendo en el interior exudara  un humo gris que olía a musgo y a tierra. Buscando como salir de allí vieron una tosca figura grabada en la roca, justo en el espaldar del lugar donde Birrutia presidía las reuniones. 
+
 ![[image-4-1.png]]
+
 Los desgastados bordes del símbolo resplandecían iridiscentemente, al igual que la espada de Vela, anunciando la presencia creciente de un aura infernal pero, a diferencia de las otras ocasiones, el resplandor parecía fluctuar  recorrer el filo, como si la propia influencia del Infierno estuviera mitigada o condicionada por la presencia de otras fuerzas igual de poderosas en el mismo lugar. A su vez, Phaestus pudo sentir que su capacidad mágica fluctuaba de igual manera percibiendo el respaldo del aura mágica, al caricia de la feérica y el azote de la infernal simultáneamente y anulándose entre sí. De alguna manera, aquel lugar estaba vinculado a tres reinos sobrenaturales simultáneamente y en un difícil equilibrio, las tres esferas de poder giraban en torno a ellos, encapsulándoles en un refugio de roca viva. 
 La niebla espesa e iridiscente envolvió el mundo en un silencio profundo, absoluto. Antes de que pudieran reaccionar se encontraron flotando en un vacío brumoso, sin cielo ni suelo. Una presión ancestral les oprimía el pecho, como si los siglos mismos les observaran. 
 
@@ -477,7 +479,7 @@ Y la autora de aquel horror no tardó en manifestarse, por fin: [[Gabazkuak]].
 Entre el Caos desatado sobre Intza, se apareció una joven de demacrada hermosura y frente extrañamente tonsurada. Una mujer cuyas facciones recordaban a Birrutia y a [[Yndarr]], pero con algo en ellas que no era de este mundo: algo maligno y repulsivo. Algo nefando. 
 
 > He venido a cumplir mi palabra -anunció con una poderosa voz que no encajaba con tan escuálido cuerpo retumbó a través del viento- Pudisteis haberos salvado, ahora moriréis todos. Hizo tres señales a cada uno de los silfos infernales.
-> - Tú, llévate a la Madre y a la Hija. Tú, destruye la aldea. Tú, y señaló al grupo: mátalos a todos. 
+> Tú, llévate a la Madre y a la Hija. Tú, destruye la aldea. Tú, y señaló al grupo: mátalos a todos. 
 
 Los silfos aceptaron las órdenes con una leve inclinación de cabeza. Un partió raudo en dirección sur, hacia a Auntzin. Otro se dirigió hacia el resto de la aldea, encolerizando a los vientos para destruir una por una cada casa, cada cabaña hasta no dejar más que escombros. El tercero es el que permaneció allí, alzándo su brazo  al cielo y y haciendo brillar las nubes que se cargaban con las venas fulgurantes de un relámpago a punto de caer. Con su otra mano señaló al grupo, una zona indeterminada entre Antxon y Martín, donde la maleza y el vello comenzó a erizarse. Echaron a correr mientras el rayo caía inclemente del cielo pero algo inusitadamente lo atrajo hacia la iglesia: cayendo sobre ella. Beñat pudo ver, desde el bosque como entre el resplandor de la explosión se distinguía la silueta de una figura alada que con enarbolando su espada atrajo el fulgor letal hacia sí, salvándoles. 
 
@@ -539,7 +541,7 @@ Birrutia observó en silencio. No había desesperación en sus ojos, sino cálcu
 
 ![[image-219.png]] 
 
-# El Bosque Sombrío
+# La Ley de la Madre 
 
 En el que el grupo tendrá que adentrarse hasta el jauregui de Gabazkuak por las sendas del [[Saltus Vasconum]] para impedir que la hechicera hija del Demonio culmine su triunfo entregando a la recién nacida en sacrificio. Pero tendrán que ser muy rápidos, ya que la noche no puede sorprenderles en el sendero o caerán en las garras de aquel que lo guarda... 
 
