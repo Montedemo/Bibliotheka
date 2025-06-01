@@ -1,0 +1,6 @@
+![[lauburupiedra.jpeg]]
+El "lauburu" (del euskera "lau", que significa "cuatro", y "buru", que significa "cabeza") es un símbolo tradicional de los vascones y para muchos el signo mismo del [[Paganismo vascón]] Es una cruz gamada o cruz curvilínea de cuatro brazos, similares a una coma, recordando a una rueda o a un [[eguzkilore]], ambos símbolos solares. 
+
+Su significado es complejo y ha sido interpretado de diversas maneras. Algunos creen que representa al sol [[Eguzki]], el movimiento o ciclos de la vida o las edades del hombre, o incluso la vida y la muerte dependiendo de su giro (derecha o izquierda). otros le atribuyen un significado más general como símbolo de energía o virilidad masculina. 
+
+No es exclusivo de los vascones y se encuentra en representaciones artísticas de otros pueblos europeos, como los celtas y los germanos, apareciendo en dibujos y tallas visigóticas. Asimismo en petroglifos en Galicia y en hórreos asturianos y gallegos, siendo allí denominados **tetrasqueles**. También aparecen símbolos parecidos en Aragón, con esvásticas curvilíneas de cuatro o más brazos que se conocen como **cuatrefuellas** o **religadas**. 
