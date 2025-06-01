@@ -360,7 +360,7 @@ No obstante, la presencia de Martín de Goñi se dejó notar de inmediato. Capit
 ### El séptimo día 
 A la mañana del séptimo día -la fecha límite del ultimatum- todos se dispusieron en sus puestos a uno u otro lado del vado. La recien nacida de [[Eneka Ituren]] no sería entregada a Gabazkuak. En el lado oeste se encontraban todas las gentes de Intza, con montones de piedras listos para arrojar a los atacantes bloqueados en el vado, mientras [[Beñat el Fauno]] capitaneaba la defensa de proyectiles. En el lado este, Duncan, Phaestus, Antxon, Raoul, Martín y sus hombres se mantenían a la espera, ocultos en el bosquete junto a la represa. Nada tenía que hacer revelar su presencia. 
 
-![[la_carga_de_los_agotes _4_-1.png]]
+![[lacargadelosagotes4.png]]
 
 Al atardecer, los vieron llegar. Salían del sendero del [[Bosque de Urrenazkárate]], en tropel, aullando, gritando, sin guía ni adalid claro. Primero se dirigieron al barrio de San Miguel y lanzaron antorchas sobre la iglesia y las casas circundantes. Luego procedieron con el barrio Gorroandtexe y siguieron ascendiendo hasta incendiar la Taberna de [[Maider, la Tabernera]]. 
 
