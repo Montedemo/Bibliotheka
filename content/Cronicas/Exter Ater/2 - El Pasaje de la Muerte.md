@@ -419,11 +419,127 @@ Y eso hizo Beñat, que era quien lo portaba. Pronto oyeron los cascos del caball
 
 Si habían retornado todos los agotes muertos, era el fin...
 
-***CONTINUARÁ...***
-
 ![[archerandzombies.png]]
 
----
+## Dispersados 
+
+Gabazkuak tenía un plan para la eventual derrota de su primer ataque, resucitar a los caídos a través de sus diablillos sirvientes, los [[Lutines]]. Aprovechando la emergencia causada por la destrucción de los [[Agotes]] preveía que la gente iría a tratar de apagar los fuegos de sus casas y, sobre todo, de su querida iglesia. No había sido tanta la destrucción ocasionada por los agotes -solo los barrios más septentrionales, pero también eran los más alejados de los [[Túmulos de Auntzin]], el lugar acordado para refugiarse en el caso de que fueran avistados nuevos enemigos, y así habían alertado a través del sonido del cuerno. 
+
+Duncan, transformado en lobo, corrió campo a través para evitar encontrarse con los Retornados y alertar a los aldeanos que estaban, bajo la protección de [[Antxón Elkanobarrena]] y sus hombres, apagando los fuegos del barrio y la iglesia de San Miguel. Mientras tanto, don [[Martín de Goñi]] y sus hombres, junto a [[Beñat el Fauno]] y los arqueros y el malherido [[Raoul Legrand]] continuaba por el camino dirección norte en la misma dirección, encargándose de barrer a los retornados que encontrara para proteger la evacuación de los aldeanos hacia Auntzin. 
+
+### La Taberna 
+Este nutrido  grupo, que avanzaba despacio dado el estado de Raoul, tras las dificultades para cruzar el vado donde se había desarrollado la batalla llegó al barrio de la Taberna donde encontró a la familia de [[Maider, la Tabernera]] tratando en vano de salvar de las llamas su hogar y sustento.  El grupo llegó justo cuando un una banda de retornados les venía por la espalda y hubieran caído con ellos si Martín y los suyos no hubiera avanzado formando un muro de escudos y lanzas para darles muerte. Limpiada la zona prosiguieron el camino hacia el barrio de San Miguel. 
+
+## Rezagados en Auntzin 
+
+### La danza de las esferas 
+Mientras tanto, [[Phaestus de Apromor]] y [[Vela el Joven]] habían quedado en los [[Túmulos de Auntzin]] custodiando al también malherido [[Eneko Zabaleta]] y a la madre [[Eneka Ituren]]. Apostados en la cima del mismo junto a la roca turriforme que corona la extraña colina donde se reúnen las [[Sorgiñak de Aralar]] vigilaban lo que pudiera venirles -incluso Vela llamó a su cuervo para que vigilara por él el contorno. Girones de niebla empezaron a elevarse y se aterrorizaron al comprobar que la dicha niebla surgía de la roca misma de la colina como si ardiendo en el interior exudara  un humo gris que olía a musgo y a tierra. Buscando como salir de allí vieron una tosca figura grabada en la roca, justo en el espaldar del lugar donde Birrutia presidía las reuniones. 
+![[image-4-1.png]]
+Los desgastados bordes del símbolo resplandecían iridiscentemente, al igual que la espada de Vela, anunciando la presencia creciente de un aura infernal pero, a diferencia de las otras ocasiones, el resplandor parecía fluctuar  recorrer el filo, como si la propia influencia del Infierno estuviera mitigada o condicionada por la presencia de otras fuerzas igual de poderosas en el mismo lugar. A su vez, Phaestus pudo sentir que su capacidad mágica fluctuaba de igual manera percibiendo el respaldo del aura mágica, al caricia de la feérica y el azote de la infernal simultáneamente y anulándose entre sí. De alguna manera, aquel lugar estaba vinculado a tres reinos sobrenaturales simultáneamente y en un difícil equilibrio, las tres esferas de poder giraban en torno a ellos, encapsulándoles en un refugio de roca viva. 
+La niebla espesa e iridiscente envolvió el mundo en un silencio profundo, absoluto. Antes de que pudieran reaccionar se encontraron flotando en un vacío brumoso, sin cielo ni suelo. Una presión ancestral les oprimía el pecho, como si los siglos mismos les observaran. 
+
+![[el túmulo de la memoria.png]]
+### El túmulo de la memoria 
+La niebla se solidificó a su alrededor, no como hielo sino como roca viva que crecía con propósito. Las formas se definían lentamente: columnas talladas, relieves imposibles, estatuas que parecían haber surgido del corazón mismo de la tierra. La bruma se disipó con un susurro, y se encontraron en una cámara subterránea ajena al tiempo.  
+
+Un templo excavado en la piedra, arcanamente inaccesible al no tener ninguna entrada. El enigmático arte que ornamentaba sus paredes parecía más antiguo que cualquier civilización conocida.  Al fondo, un trono labrado se alzaba, y sobre él, una figura encapuchada e inmóvil, esculpida en la roca con tal detalle que por un instante parecía respirar. A ambos lados, relieves narraban escenas cuya iconografía resulta perturbadora y fascinante a la vez: seres mitad hombre mitad animal entregando ofrendas a una entidad sin rostro, y otras escenas inquietantes y perturbadoras.
+
+En el centro de la estancia, un estanque de aguas negras y calmas refulgía con destellos azul verdosos, como si una constelación dormida reposara bajo su superficie. Sus aguas no reflejaban la imagen de quien observara, sino recuerdos… algunos reconocibles, otros que jamás parecían haber ocurrido. Al fondo, una antecámara daba paso a dos corredores que se alejaban en direcciones opuestas y en el centro, una cámara a oscuras. Allí, una pétrea figura velada presidía desde su trono, su silueta envuelta en sombras. Sin palabras,  su presencia imponía  una reverencia involuntaria. Algo ancestral habitaba este lugar: no una deidad, sino un recuerdo sagrado petrificado por el paso de los eones.
+
+Se encontraban en el Túmulo de la Memoria, un lugar que no se encuentra: te encuentra...
 
 
-#exterater #intza #valledaraiz #zugarramurdi #iditxa #lamias #agotes #vasasdelainiquidad #reflejossiniestros #heraldosdelahambruna #tártalo #hauteclaire #saltusvasconum #duncandetremere #cultodelextranjeronegro #sorgiña #sorgiñakdeAralar #Aralar 
+![[Iglesia está ardiendo.png]]
+## La Iglesia en llamas 
+
+Por su parte, en el barrio de San Miguel las gentes lo estaban dando todo por salvar su iglesia, no por el templo en sí, sino por la apreciada figura del santo arcángel que ella se encontraba. Cuando oyeron sonar el cuerno alertando de la presencia de nuevos enemigos, Antxon y los suyos procedieron a llamar a las gentes para retirarse hacia Auntzin, pero estas eran reacias a escuchar. Un aldeano exaltado, dijo que no se iría sin que rescataran la estatua. Antxon no encajó bien esa desavenencia a sus órdenes y le exhortó a que si era tan valiente, que entrara él y cogiera la estatua, ni corto ni perezoso eso hizo y en un alarde de temerirad penetró en la Iglesia desapareciendo entre el humo y las llamas. 
+
+Fue entonces cuando aparecieron los Retornados, primero un puñado pero en la oscuridad se veían llegar más y más, atraídos por el alboroto de las gentes, ascendiendo desde el cercano río. Antxon colocó a sus hombres: [[Gabín el Escudo]] y [[Fermín el Martillo]], junto a [[Matxin, el albañil]] y [[Aitor, el albañil]], [[Xabier el herrero]] y [[Beñat Goñi, el carpintero]] -que habían estado entrenando juntos toda la semana, formando un muro de escudos con los que resistir la llegada de los muertos andantes. La maniobra fue excelente y el grupo organizado pudo hacer frente a las oleadas heroicamente, pero se estaban empezando a ver desbordados y rodeados, obligados a luchar por dos flancos e incapaces de desentablar combate para reorganizarse en círculo. Nuevos retornados aparecían desde el bosque pero se dirigían hacia las gentes que -indefensas- empezaron a caer en sus garras, atrapadas entre ellos y las llamas. 
+
+En ese momento hizo aparición [[Duncan de Tremere]] comprobando que la realidad ya les había alertado del peligro. Al recobrar su forma humana decidió contravenir las órdenes de Birrutia de no hacer magia alguna, debido a la urgencia de la situación, y arrojó una [[Lanza de Fuego (CrIg20)]] contra uno de los retornados que estaban envolviendo el grupo de Antxon, repitiendo dicha estrategia en auxilio del grupo cada vez más desbordado, aunque eran muchos los Retornados que habían caído, pero seguían llegando más. Cada vez que hacía uso de su magia podía sentir la fluctuación de las auras, como si las esferas de los cuatro reinos de poder estuvieran girando alocadamente en una danza caótica. Sentía que cada palabra mágica que pronunciaba era una ofensa, una provocación, una llamada... 
+
+Por fin, el grupo de [[Martín de Goñi]], [[Beñat el Fauno]] y [[Raoul Legrand]] llegó. Martín cargó para aplastar a una fila de Retornados permitiendo a Antxon reorganizarse en un solo flanco. Mientras, Beñat y los arqueros buscaban asaetar a los que salían del bosque. Pero los jugueteos de Duncan con la magia pronto tuvieron consecuencias y finalmente sintió como sus tirones en el tejido de la vis tuvieron respuesta al otro lado de los hilos...
+
+
+![[El viento del infierno.png]]
+### El Viento del Infierno 
+
+Un viento frío y ardiente a la vez se alzó de forma repentina creciendo en intensidad hasta convertirse en vendaval: destruyéndolo todo a su paso y avivando las llamas.  Cuando se den cuenta vieron unas temibles figuras, como si el viento tuviera sombra o como si se hubiera encarnado el viento que sopla en los pozos más oscuros del mismo infierno, un aire impregnado de esa misma negrura. 
+
+Entonces Duncan comprendió qué tres terribles [[Poderes Aéreos]] habían invocado en la cueva de  [[Zugarramurdi]] la aciaga noche de la Hecatombe. Esos seres infernales, enardecidos de brutal malignidad, eran para cuya invocación y comando había sido necesario el brutal sacrificio de cien mujeres inocentes en la nefanda ceremonia del pasado 30 de abril. 
+
+Y la autora de aquel horror no tardó en manifestarse, por fin: [[Gabazkuak]]. 
+
+![[Gabazkuak2.png]]
+### Entra Gabazkuak 
+Entre el Caos desatado sobre Intza, se apareció una joven de demacrada hermosura y frente extrañamente tonsurada. Una mujer cuyas facciones recordaban a Birrutia y a [[Yndarr]], pero con algo en ellas que no era de este mundo: algo maligno y repulsivo. Algo nefando. 
+
+> He venido a cumplir mi palabra -anunció con una poderosa voz que no encajaba con tan escuálido cuerpo retumbó a través del viento- Pudisteis haberos salvado, ahora moriréis todos. Hizo tres señales a cada uno de los silfos infernales.
+> - Tú, llévate a la Madre y a la Hija. Tú, destruye la aldea. Tú, y señaló al grupo: mátalos a todos. 
+
+Los silfos aceptaron las órdenes con una leve inclinación de cabeza. Un partió raudo en dirección sur, hacia a Auntzin. Otro se dirigió hacia el resto de la aldea, encolerizando a los vientos para destruir una por una cada casa, cada cabaña hasta no dejar más que escombros. El tercero es el que permaneció allí, alzándo su brazo  al cielo y y haciendo brillar las nubes que se cargaban con las venas fulgurantes de un relámpago a punto de caer. Con su otra mano señaló al grupo, una zona indeterminada entre Antxon y Martín, donde la maleza y el vello comenzó a erizarse. Echaron a correr mientras el rayo caía inclemente del cielo pero algo inusitadamente lo atrajo hacia la iglesia: cayendo sobre ella. Beñat pudo ver, desde el bosque como entre el resplandor de la explosión se distinguía la silueta de una figura alada que con enarbolando su espada atrajo el fulgor letal hacia sí, salvándoles. 
+
+![[quiencomodios.png]]
+###  Nor Jaungoikoa bezala! 
+Todos echaron a correr, salvo [[Beñat el Fauno]] que, junto con los arqueros se emboscaron en el bosque para atacar al silfo desde allí. Este preparó otra saeta de fulgor infernal pero algo bloqueó su poder en los cielos impidiendo que so arma más letal se desatara sobre las gentes. Lleno de rabia llamó su atención la figura de Antxon tratando valerosamente de arengar a las gentes para que le siguieran pero su voz quedó ahogada: claramente no podría respirar mientras un girón de aire negro que había entrado en sus pulmones le asfixiaba. Beñat, al amparo del bosque, disparó e hirió al silfo a pesar de ser ágil como el propio viento, pero no pudo ver de dónde provenía dado que Beñat se camufló entre los arbustos, moviéndose hacia otro lado para disparar. Martín decidió rescatar a Antxon a caballo para sacarlo de ahí, con la esperanza de que al alejarle del silfo pudiera volver a respirar: buena idea pero captó la atención de este y pronto el humo negro bloqueaba también sus pulmones. Un nuevo disparo volvió a acertar en el silfo. Raoul se acercó hacia donde estaba la gente, en la puerta de la iglesia para guiarles lejos de allí, pero estaban rodeados entre el silfo, las llamas que se habían extendido por el bosque meridional y los Retornados. 
+
+Pero un nuevo destello se hizo en la iglesia: el aldeano que había corrido a rescatar la figura cruzó el umbral del templo saliendo con la imagen en brazos y el cuerpo cubierto de llamas. Dio unos postreros pasos y cayó muerto a los pies de Raoul. Retomando el testigo, el normando asió la imagen de su patrón alzándola sobre su cabeza y elevó una plegaria al aguerrido arcángel. Los retornados se detuvieron en seco ante su visión y los cuerpos cayeron uno a uno al suelo, mientras podían verse las sombras de los lutines huyendo del divino resplandor del Arcángel. 
+
+Mientras, Martín acercó el caballo hasta Antxon que seguía sin poder respirar: de un salto logró subirse a la grupa pero cuando iniciaban la escapada, el silfo insufló su aire letal en los belfos del caballo. Asfixiándose, el corcel de Martín se encabritó, pero los dos hábiles jinetes pudieron mantenerse y finalmente Martín logró controlar a su caballo y emprender la huida, a pesar de que los tres seguían sin poder respirar, como si el humo negro fuera tan denso como el agua y estuvieran en él sumergidos. Beñat volvió a disparar al silfo y Raoul se acercaba hacia el demonio enarbolando la figura divina. Rabiando frustración descargo la misma con una bocanada de aire que empujó las llamas de la iglesia hacia el bosque norte donde se emboscaba Beñat, obligándole a abandonar su posición si no quería morir abrasado. Fue lo último que el silfo infernal hizo antes de esfumarse, literalmente, en una explosión de humo frío, desterrado por la visión de San Miguel In Excelsis. 
+
+![[Intza destruida.png]]
+
+### Un amanecer desolador 
+Duncan corría en forma lupina para alertar a los que estaban en Auntzin de la llegada del silfo, pero no podía correr más que el aire. En su carrera pudo ver al segundo silfo ensañándose con las casas que quedaban en pie, entrando en ellas y reventándolas con una explosión de aire negro desde dentro. Así iba reduciendo a escombros cada casa de Intza, cumpliendo sistemáticamente la orden de Gabazkuak. Una triste visión del alba. 
+
+Por fin llegó a Auntzin. Todo estaba tranquilo pero se notaba el paso del viento maligno por el lugar. En el centro del círculo de ceremonias le estaba esperando, ni más ni menos que la propia Gabazkuak que le dijo:
+> Llegas tarde, extranjero. Ya me las he llevado, pero tienes suerte: a ti no puedo matarte; se lo he prometido a otras que bien conoces que tienen otros planes para ti. 
+
+Y volvió a desvanecerse. Corrió hacia la cima del túmulo y vio a Eneko que con la voz entrecortada le dijo:  
+
+> SE LAS HA LLEVADO, el viento negro se las ha llevado...  
+
+No había ni rastro de Eneka Ituren y de su niña pero sí pudo ver los cuerpos tumbados en el suelo de Phaestus y Vela, vivos pero inconscientes. Consiguió despertarles a duras pero aunque estaban exhaustos quisieron contar lo que les había ocurrido. 
+
+![[túmulodelamemoriaplanta.png]]
+### Testigos de la memoria 
+Contaron a Duncan como habían sido encontrados por aquel templo subterráneo, y relataron lo que habían indagado de él. en una regio se encontraba un viejo templo a la Mari o un repositorio de su memoria, levantado hace eones por las gentes mágicas que habitaron estas tierras antes de los humanos: los maideak y las laminak. Un túmulo sin puertas con la forma que recordaba vagamente una figura. Ambos lograron esbozar una suerte de plano del lugar. 
+Una serie de relieves contaban hechos del pasado- o quizá del futuro- en imágenes de oscura comprensión y abigarradas de figuras simbólicas arcanas vinculadas a la religión vascona. Uniendo los conocimientos arcanos de Phaestus y las leyendas vasconas conocidas por Vela, llegaron a las siguientes conclusiones. 
+1. En aquel lugar se alzó una ciudad anterior a los hombres donde vivían una raza de hombres y mujeres con rasgos animales: una ciudad sin tejados ni techos ya que sus habitantes no temían a la intemperie. Su señor era un gran macho cabrío negro: Akerbeltz y su madre la propia madre tierra Amaiur. 
+2. Los maideak y las laminak enseñaron el fuego y las artes a los humanos que fueron humanos tras recibir estos dones. Una mujer parece comprender mejor que los demás y se convirtió en la primera sorgiña. 
+3. La Mari tuvo dos hijos gemelos, uno blanco y bueno, Atarrabi y otro oscuro y malicioso, Mikelats. Puso a ambos al estudio bajo la instrucción del mismo Etsai (el Demonio). Ambos lograron escapar del diablo gracias al sacrificio de Atarrabi que finalmente también escapó usando su astucia. 
+4. Atarrabi se unió al sol mientras que Mikelats comenzó a peregrinar por el mundo, enseñando a los hombres las artes que había aprendido del Diablo, quizá para que aprendan a protegerse de él, quizá para que puedan elegir el camino de la oscuridad si es su albedrío. 
+5. Bajo la sombra de Aralar, un círculo de mujeres rodea a Mikelats que les enseña mientras Akerbelz y la Mari muestrasn su aprobación. Probablemente se trate del nacimiento de la tradición de las sorgiñak que aprendieron entonces las artes de la hechicería en este lugar. 
+6. Los relieves explican el papel de la muerte y el destino de las almas. Estas son guiadas por Illargi -la luna- hacia el regazo de la Mari, a través de un sendero marcado por su luz, mientras Mikelats en el cielo castiga en vida a los que incumplen la ley más sagrada: la Ley de la Madre. 
+7. Los confines del reino de Mari están delimitados por las sombras y la oscuridad insondable que lo encierra como un muro. Durante la noche, allí donde la luz de Ilargi no llega, la oscuridad se filtra y devora, como una manada de lobos hambrientos a quien en ella se pierde. Es Gaueko, la oscuridad, el señor de la noche, a quien solo el lucero del genio Gauargui puede disipar. 
+8. Las sorgiñak son las señoras de la vida y de la muerte en las comunidades vasconas, y aparecen inmemoriamente representadas por una anciana que sostiene una hoz, una madre con una vara y una joven con una hoz, presidiendo ritos, ofrendas y sacrificios cruentos, tanto a la Mari como a Akerbeltz, renovando con sangre los votos hacia los dioses y la fertilidad de la tierra. 
+9. Los magos (suponemos que herméticos) pactan con las sorgiñak. Las hembras son entrenadas en la vieja tradición mientras que los hombres con don son entregados a los magos como aprendices. El nombre del primero, Mikel, es señalado. Phaestus sabe que Mikel se llamaba el primer aprendiz de Flambeau, que tomó más tarde el nombre de Apromor y recuperó los ritos mercurianos, así como atrajo a gran número de hechiceros paganos a la Orden, dentro de su linaje hermético. Un detalle que les llama la atención es que deliberadamente el rostro de Mikel y el de Mikelats son idénticos... 
+10. Sucesos aciagos que Phaestus identifica como la [[1136 a 1152-AA Guerra del Cisma]] arrasan este lugar y acaban con el pacto entre sorgiñak y magi herméticos. Terrible serpientes surgen de la tierra y devoran tanto a brujas como a magos: una alegoría de los Diedne druídicos o de los demonios que eran capaces de invocar. 
+11. Decepcionadas, muchas sorgiñak empiezan a abrazar los Infernal como única fuerza capaz de protegerlas. Sus ritos se van haciendo más cruentos y muchas declaran su devoción única al maligno pervirtiendo el culto de la Mari y de Akerbeltz. Lo que antes era crueldad vinculada al ciclo de la vida ahora es apetito servidumbre ante el apetito de corrupción y destrucción del Diablo. 
+12. Las brujas son ejecutadas en estacas en la hoguera por hombres que enarbolan la cruz. Mikelats es despojado de sus astas, Akerbeltz parece una parodia del Demonio. La Mari una alegoría de la Virgen María... La vieja religión está llegando a su fin. 
+13. Un probable futuro difícil de interpretar: todo este lugar queda cubierto por una lengua de tierra que se despliega desde lo alto de Aralar, quedando todo sepultado amorosamente en el olvido por bondad de la Madre. 
+
+Aunque sospechaban que había mucha más información y poder contenida en aquella cripta inaccesible, esto es lo que pudieron indagar de los misteriosos relieves cuando se desvanecieron agotados, no sabiendo qué pasó después hasta que fueron despertados por Duncan. Ansioso el escocés les inquiría a que si en esos símbolos se describía alguna manera de derrotar a los silfos o a Gabazkuak, pero no hallaron ningún recuerdo que les fuera de utilidad. Duncan seguía en su idea de que iban a venir cuando una voz le sacó de su ensimismamiento...
+
+> Ya han venido, Extranjero, y se han llevado lo que querían... 
+
+![[Birrutia1-1.png]]
+## Ahora movemos nosotros 
+Era Birrutia, acompañada de Yndarr y Sorgiñak.
+
+La batalla estaba perdida, el pueblo reducido a escombros, la madre y la hija capturadas por Gabazkuak cuya sombra se alzaba victoriosa... pero solo en apariencia. 
+
+Birrutia observó en silencio. No había desesperación en sus ojos, sino cálculo. 
+
+> Esto no ha terminado . Ahora movemos nosotros.
+
+**CONTINUARÁ...***
+
+![[image-219.png]] 
+
+# El Bosque Sombrío
+
+En el que el grupo tendrá que adentrarse hasta el jauregui de Gabazkuak por las sendas del [[Saltus Vasconum]] para impedir que la hechicera hija del Demonio culmine su triunfo entregando a la recién nacida en sacrificio. Pero tendrán que ser muy rápidos, ya que la noche no puede sorprenderles en el sendero o caerán en las garras de aquel que lo guarda... 
+
+
+#exterater #intza #valledaraiz #zugarramurdi #iditxa #lamias #agotes #vasasdelainiquidad #reflejossiniestros #heraldosdelahambruna #tártalo #hauteclaire #saltusvasconum #duncandetremere #cultodelextranjeronegro #sorgiña #sorgiñakdeAralar #Aralar #lutines  #silfos 
