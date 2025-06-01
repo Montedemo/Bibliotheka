@@ -359,7 +359,7 @@ No obstante, la presencia de Martín de Goñi se dejó notar de inmediato. Capit
 
 ### El séptimo día 
 A la mañana del séptimo día -la fecha límite del ultimatum- todos se dispusieron en sus puestos a uno u otro lado del vado. La recien nacida de [[Eneka Ituren]] no sería entregada a Gabazkuak. En el lado oeste se encontraban todas las gentes de Intza, con montones de piedras listos para arrojar a los atacantes bloqueados en el vado, mientras [[Beñat el Fauno]] capitaneaba la defensa de proyectiles. En el lado este, Duncan, Phaestus, Antxon, Raoul, Martín y sus hombres se mantenían a la espera, ocultos en el bosquete junto a la represa. Nada tenía que hacer revelar su presencia. 
-![[la carga de los agotes _4_.png]]
+![[la_carga_de_los_agotes _4_.png]]
 Al atardecer, los vieron llegar. Salían del sendero del [[Bosque de Urrenazkárate]], en tropel, aullando, gritando, sin guía ni adalid claro. Primero se dirigieron al barrio de San Miguel y lanzaron antorchas sobre la iglesia y las casas circundantes. Luego procedieron con el barrio Gorroandtexe y siguieron ascendiendo hasta incendiar la Taberna de [[Maider, la Tabernera]]. 
 
 ## La batalla del Vado
@@ -369,7 +369,7 @@ Era ya casi oscuro cuando llegaron al vado, deteniéndose por un instante -como 
 > ¡¡¡AGOTERRI!!
 > Agoterrin berriro jaioko gara !
 
-![[la carga de los agotes _3_.png]]
+![[la_carga_de_los_agotes _3_.png]]
 
 Fueron recibidos por los flechazos de Beñat y los arqueros y honderos del pueblo, viéndose obstaculizados por las dos líneas de abatises que les protegían. Eran muchos, un centenar de hombres armados con hachas y escudos y pertrechados con rústicas armaduras de cuero. Sus rostros estaban terroríficamente demacrados por la lepra y su hedor se percibía en la distancia. Grandes y fuertes, pronto empezaron a usar sus hachas: unos para derribar los abatises, y otros, lanzaron hachas más ligeras para comprometer a los arqueros, mientras les caía encima una lluvia de piedras arrojadas por las gentes de Intza. Fueron solo unos pocos minutos pero se hicieron interminables, hasta que los agotes estuvieron todos en la línea del cauce .
 
