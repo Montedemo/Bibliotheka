@@ -541,16 +541,233 @@ La batalla estaba perdida, el pueblo reducido a escombros, la madre y la hija ca
 
 Birrutia observó en silencio. No había desesperación en sus ojos, sino cálculo. 
 
-> Esto no ha terminado. Ahora movemos nosotros.
+> "_Esto no ha terminado. Ahora movemos nosotros_".
+> *Disponemos de un día hasta que Gabazkuak escenifique su triunfo ante todas las sorgiñak en [[Zugarramurdi]]. Pero podemos sorprenderla antes, en su jauregui de [[Maya]], en el [[Baztán]], ahora que triunfante pero agotada es más vulnerable, sobre todo si no se lo espera.*
+> *Infiltraos en su jauregui, atacadla. Tan solo necesito que **una gota de su sangre** caiga al suelo. Entonces, nosotras y toda la gente de [[Intza]] nos plantaremos allí con vosotros y acabaremos con esto, de una vez por todas."
+> "Podéis salvar la distancia hasta el Baztán en menos de un día, de orto a ocaso. Pero el sendero del **Bosque Sombrío** es el más peligroso de los caminos de los gentiles. Guardado por el [[Basajaun]], exige duras pruebas y sacrificios que no todos están dispuestos ni preparados para asumir, pero eso no es lo peor, ya que, al caer la noche, es **El de la Noche** quien gobierna el lugar, y ay de vosotros si os da alcance..."
+> Y ante todo, nada de magia... Cualquier perturbación en el Bosque Sombrío será percibida de inmediato y perderéis el factor sorpresa.
 
-**CONTINUARÁ...***
+![[image-221.png]]
 
-![[image-219.png]] 
+### Regalos de las sorgiñak 
+Pero no habían de partir con las manos vacías, las sorgiñak de Aralar habían preparado unos dones que serían de buena ayuda al grupo. Empezando por unos amuletos de [[eguzkilore]] ligados de forma rústica pero simple a cordeles de cáñamo para que los llevaran al cuello. 
+> "Esto os  protegerá pero no os salvará si os enfrentáis al de la Noche"
+
+Cada vez que Birrutia mencionaba a ese ser se le ensombrecía el rostro, mientras que los personajes vascos (Antxon, Vela o Eneko) comprendieron enseguida a quien mencionaba el eufemismo que no era tal, dado que su nombre quería decir eso mismo: [[Gaueko]], El de la Noche. La bestia que acechaba en la oscuridad y que avisaba a los mortales de los tenues límites de su dominio. 
+
+Pero el grupo apreció más siete odres de un azumbre cada uno que portaban, convenientemente tratada, el agua de la [[Marimundoko]] de cuyas milagrosas propiedades curativas y regeneradoras eran bien conocedores.
+> No temáis. Nosotras sabemos como tratarla y no tendréis que pagarle ningún precio por sus dones.
+
+Pudieron comprobar rápidamente sus efectos cuando, con un mayor o menor número de tragos o sorbos eran capaces de restablecer sus heridas. Incluso [[Eneko Zabaleta]] pudo ahora sanar su fea herida del pecho que le impedía hablar de forma inmediata, con unos tragos largos. 
+
+Restablecidos y preparados, el grupo conformado por Duncan, Phaestus, Antxon y sus primos, Vela, Raoul, Beñat y Eneko partieron de inmediato tras el sendero que Birrutia les indicó que partía del mismo [[Bosque de Urrenazkárate]] por el que en su momento llegaron a Intza y por el que los [[Agotes]] de Gabazkuak irrumpieron  la noche anterior. 
+Como única despedida, Birrutia aseverará:
+> No os desviéis del camino y recordad:
+> *eguna egunezko-arentzat eta gaua gauezkoarentzat*
+
+**El día para los del día y la noche para el de la noche**
 
 ---
 # La Ley de la Madre 
 
-En el que el grupo tendrá que adentrarse hasta el jauregui de Gabazkuak por las sendas del [[Saltus Vasconum]] para impedir que la hechicera hija del Demonio culmine su triunfo entregando a la recién nacida en sacrificio. Pero tendrán que ser muy rápidos, ya que la noche no puede sorprenderles en el sendero o caerán en las garras de aquel que lo guarda... 
+## El Bosque Sombrío 
+
+Se adentraron por el sendero de Urrenazkárate con los primeros rayos de sol filtrándose a través del follaje que se iba haciendo más denso e impenetrable a medida que avanzaban. Pronto perdieron toda referencia de donde se encontraban y solo podían discurrir hacia adelante en aquel sendero tortuoso pero sublimemente ornamentado por la belleza natural del bosque primigenio. 
+
+![[image-222.png]]
+
+### El claro de los susurros 
+Sin embargo, el sendero terminó abruptamente en un claro soleado en el que se alzaban unas misteriosas piedras vagamente alineadas en círculo y cubiertas de musgo y líquenes.  Nadie recordaba quien había alzado aquellas piedras. Entre robles y hayas antiguas, en lo más hondo del bosque que el sol apenas osaba atravesar, se abría este claro pequeño, vestido con bruma matinal, donde el tiempo se deshilachaba en silencio.
+
+Las piedras, bajas y vencidas por la humedad, dibujaban un círculo imperfecto, apenas un gesto de geometría olvidada. sobre una de ellas, un [[Lauburu]] se insinuaba como si lo hubiera dibujado el viento. Los pájaros, los insectos y la brisa se fundían en un murmullo vegetal que respiraba muy lento, muy hondo. Si uno se detenía a escuchar no oía palabras... sino algo más antiguo que el lenguaje: el susurro de las raíces, la memoria de los líquenes, **el latido enterrado del bosque**. 
+
+![[image-223.png]]
+
+Vela y Beñat pudieron vislumbrar su silueta semioculta en la espesura, dibujada en un perfil saliente de la roca, pero todos pudieron comprobar que el Guardián Invisible permanecía en aquel bosque que era su hogar primordial.
+
+Beñat supo de inmediato que estaban en presencia del [[Basajaun]], el señor del Bosque y su figura empezó a hablar a través del viento, del follaje, del canto de los pájaros, del zumbido de los insectos y el crujjir de los árboles.
+
+#### Las palabras del Basajaun 
+
+> El bosque es vuestra madre. ¿Y qué dice la Ley de la Madre? 
+
+Ninguno de los presentes, ni siquiera Beñat acertó con la respuesta adecuada, por lo que tras un tenso silencio, Basajaun prosiguió: 
+>¿Cómo se compra el cielo? ¿Cómo se compra el calor del suelo?
+>El viento no es vuestro. Tampoco el arroyo que canta. El musgo, la niebla, el claro secreto... son memoria viva. No andáis solos. Vuestros pasos hollan sobre nuestros muertos, que no partieron a las estrellas: duermen aquí, bajo la raíz, entre la piedra. 
+>Todo lo que tiene nombre existe y todo cuanto respira es familia. El ciervo que huye, la flor que se inclina, el potro que nace caliente de aliento...
+>[[Lur]], la Madre, os dio la vida. ¿Y habéis de alzar la mano contra quien os la tejió?? 
+>No hirais la carne del bosque, pues es herida en vosotros mismos. No mancilléis lo que es herencia de vuestros hijos. 
+>**No derraméis la sangre de vuestra sangre**. Esa es la Ley de la Madre 
+
+![[image-224.png]]
+
+Tras sentenciar con su discurso, el Basajaun reabrirá el bosque para ellos pero no será uno sino tres senderos los que aparecerán ante ellos, obligándoles a elegir el derrotero a seguir. 
+- A la izquierda un vericueto sombrío, flanqueado por hayas altas, alfombrado de hojas húmedas, casi cerrado por ramas bajas:  **el Sendero de los Ecos**. 
+> "Aquí la espesura repetirá vuestra voz... pero no la que fingís, sino la que susurra en lo más profundo.  El Bosque expondrá ante todos el verdadero mensaje de vuestra voz. ""
+- En el centro, una senda más despejada, pero serpenteante en ligera subida entre robles nudosos, que dejaban oír agua a lo lejos: **la Senda del Recuerdo**. 
+>" Donde el pasado no duerme. Lo que habéis dejado atrás caminará a vuestro lado y pedirá cuentas. Allí os cruzaréis con vuestro peor recuerdo, y habréis de responder por vuestras acciones."
+- A la derecha: una trocha cubierta de helechos, con zarzas silvestres y una atmósfera más abierta, como si llevara a un claro a un barranco: **la Ruta Silente**. 
+> "Más allá del murmullo, más allá del pensamiento compartido. Caminaréis en silencio absoluto, sin palabra ni entendimiento."
+
+> Ningún sendero es seguro. Ninguno es letal, pero todos exigen algo. 
+> Elegid
+
+Tras una difícil deliberación, el grupo votó finalmente por seguir la senda central dispuestos a enfrentarse a sus peores recuerdos. 
+
+### La Senda del Recuerdo 
+Tomaron la mencionada senda ascendente y tras pasar junto a una pequeña cascada comenzaron a experimentar visiones. Cada uno de los miembros del grupo se vio, en diferentes momentos, caminando solo por el sendero tropezándose repentinamente con aquel que protagonizaba el momento más amargo de sus vidas. 
+Los demás pudieron ver como:
+- **Vela** lloraba ante el desprecio de su padre y el odio de su abuelo que lo apartaron de su lado llamándole "engendro". 
+- **Duncan** volvió a recibir la noticia de su parens muerta tras haber sido advertido de que eso ocurriría si dormía bajo techo, contraviniendo su maldición. Por extraño que pareciera, la muerte de Ainhoa ya no le atormentaba como antes tras comprobar que en realidad no le había amado. 
+- **Antxon**, sin embargo, sí que amaba a Ainhoa y fue encontrarla muerta, sacrificada, lo que enardeció un profundo odio en su interior. ¿Hacia quién? 
+- **Raoul** volvió a verse en el bosque nocturno, bajo la tormenta, con los puños ensangrentados y el cadáver brutalmente asesinado a golpes de Ane Iturri. Y aunque luego pudiera comprobar que se trataba de una ilusión; realmente había perpetrado aquel execrable crimen movido por su rabia más profunda y su vano orgullo herido. 
+- **Eneko** vio como el sendero le llevaba a los jardines de [[San Miguel In Excelsis]], el monasterio donde recibió educación y se vio perseguido por los monjes de nuevo que querían purgar a la bestia que anidaba en él, según gritaban histéricos los que creía sus compañeros y tutores... 
+- **Phaestus** revivió el desprecio de su ilustre y altiva familia despreciándole porque su grotesco aspecto no hacía honor a la grandeza antigua de su linaje. 
+- **Beñat** se volvió a desgarrar de dolor al comprobar la cruel e injusta muerte de su madre a manos de Gabazkuak durante la hecatombe de [[Zugarramurdi]]. 
+Todos pudieron ver en algún momento a su compañero sumido en el dolor y la tristeza; pero la huella que dejara en su alma es algo que solo aquel que la sufrió sabe. 
+
+### El corazón del bosque 
+Pero no solo su corazón sino el bosque mismo no dejó de interponerles obstáculos. Enjambres de avispas que hostigaron, torrentes sin fin de ardillas interrumpiendo el paso, bandadas de urracas impertinente, troncos de árboles milenarios abatidos sobre el camino cortando el acceso, e incluso charcos parlantes que insultaban insolentemente. 
+![[elcorazóndelbosque.png]]
+Eneko y Vela protagonizaron, estos momentos, y tras haber tomado buena nota de la consigna de La Ley de la Madre, trataron de solventar estos obstáculos pidiendo permiso al bosque para abordarlos y disculpas por cualquier daño, evitando reaccionar ni devolver el daño sufrido (picadas de avispas, o incluso una rama del árbol tronchada por Eneko al trepar por él). Cuando eso pasó, sintió que el bosque entero se estremeció, arrojando una sombra sobre él... 
+
+### El cervatillo herido 
+Pero no fue la prueba más dura que les impuso el bosque. Al cabo de un rato de haber traspasado el árbol abatido en el que solo sentían el crujido de las hojas secas bajo sus pies, escucharon un quejido, débil y ahogado como un suspiro que se disolvía acurrucado al pie de un tronco. Allí, junto al linde del sendero, yacía un cervatillo. Su pelaje moteado aún con el blanco de la infancia: temblaba. Una flecha, corta, de punta irregular, hecha de asta rota o hueso- atravesaba su pata trasera. No podía huir ni tampoco incorporarse. Solo os miraba, respirando con dificultad por el dolor. Los ojos muy abiertos, sin parpadear, reflejando miedo y dolor. 
+
+![[image-225.png]]
+
+Sintieron que le bosque aguardaba su decisión. El bosque siempre observa y, a veces, recuerda. 
+De nuevo una dura decisión se interpuso. Intentaron curar su herida pero sus torpes habilidades de sanación animal les llevaban a cometer una chapuza con el desvalido animal. Pero todos aceptaron que abandonarlo así no era una opción. Finalmente le dieron a beber agua de los odres y, la poción hizo su efecto, cerrando la herida mientras escupía los fragmentos de flecha. El animalillo pudo ponerse en pie pero, seguía aterrorizado. Inmóvil, mirándoles fijamente con sus ojos de enormes pupilas. Observaron y no vieron rastro de su madre.
+
+Decidieron dejarlo ahí, sano pero a su suerte, ya que habían cumplido ayudándole y no eran culpables de su indefensión. 
+
+Tras unos pasos, al girar un vericueto escucharon atrás un galope, un rugido, unas ramas que se quebraban. Un chillido. Otro. Luego, solo silencio... 
+
+### El espejo verde 
+Prosiguieron mientras la luz que se infiltraba empezaba a teñirse del inconfundible brillo anaranjado de la tarde. 
+El bosque se abrió en un claro inesperado, donde el aire se volvió más espeso, más lento... más antiguo. Entre helechos altos y juncos inclinados se reveló un estanque de aguas profundamente verdes, tan quietas que parecían de cristal fundido. El aire cálido y húmedo transpiraba un silencio denso y expectante.  Las copas de los árboles se entrelazaban arriba como los dedos de un gigante dormido, dejando filtrar la luz en haces suaves que tililaban sobre la superficie del agua. Y sin embargo, **el estanque no reflejaba en bosque**. En su espejo húmedo, cada viajero veía ot ra cosa: una corona dorada, un ser amado perdido, un fuego cálido encendido en un hogar que nunca existió, o un miembro recobrado... 
+![[image-226.png]]
+El grupo pronto percibió la naturaleza sobrenatural del lugar y decidió evitar lo más rápido posible el lugar prosiguiendo la senda que bordeaba el quieto estanque; pero fue demasiado tarde. Todos sentían la llamada de sus aguas y beberlas significaba recobrar aquello perdido o anhelado. Raoul cayó fulminantemente ante aquel hechizo: lanzándose de cabeza al agua, gritando a Marimundoko para que le devolviera lo que se le llevó...
+
+Antxon trató de llamarlo y de contener a sus hombres con su voz de mando, pero él mismo cayó presa del hechizo y se acurrucó ensimismado sobre la orilla, bebiendo de aquel agua verde como si se le fuera la vida en ello, o pudiera así resucitar a Ainha. Lo mismo le pasó a Phaestus que claramente llamaba a su padre y a su madre como si bebiendo de aquel agua pudiera adoptar la apostura que tanto le reprochaban no tener. 
+
+El resto trató de ayudarles a recomponerse y volver en sí de un trance hipóntico; pero había que rescatar a Raoul que se zambullía feliz en aquel estanque como una nutria extasiada. Vela se lanzó entonces al agua a rescatarle y, gracias una prodigiosa maniobra natatoria consiguió sacar a Raoul que no pudo resistirse al abrazo de Vela, quien pudo sacarle así del agua; pero aún había que ayudarle a volver en sí -como a todos- y Beñat determinó que tenía que hacerlo por la vía dura, a puñetazos. 
+
+Cuando los afectados recobraron el conocimiento, se sintieron centrados y en sus cabales, reanudando rápidamente la marcha, pero... habían perdido mucho tiempo en el proceso. 
+
+### El puente de raíces 
+Nuevamente un obstáculo interrumpía el sendero, detenido abruptamente frente a un abismo. Un silencio espeso lo envolvía todo, como si el bosque contuviera el aliento. al otro lado, el camino continuaba, pero entre ambos márgenes se abría una hondonada profunda, envuelta en niebla tenue que exhalaba lentamente desde las entrañas del barranco. No se oía agua ni se veía fondo, solo la certeza de una caída letal. 
+**Y sin embargo había un paso:** Una maraña de raíces se descolgaba y entrelazaba, formando un arco torcido de madera viva. No parecía construido, sino crecido con propósito, como si el propio bosque ofreciera - a regañadientes- una vía para los que se atreven a cruzarlo. Las raíces crujían suavemente con el viento, cubiertas de líquenes, húmedas, resbaladizas. Alguna vibraba bajo el pie, como si latiera. 
+La luz del atardecer se filtraba ya entre las copas, dorando las sombras y haciendo brillar el musgo con reflejos esmeralda. La belleza del momento era inquietante: había una trampa en lo sublime. Cada paso sobre el puente sería una prueba, no solo de equilibrio, sino de confianza... en que le bosque no cambie de idea a cada paso que den.
+Debajo ,a niebla se arremolinaba como si algo esperase con paciencia. 
+![[image-227.png]]
+
+Raoul se ofreció temerariamente a cruzar él solo, primero, poniendo a prueba la resistencia del puente bajo su peso, portando el extremo de una cuerda que ataría al otro lado para que sirviera de ayuda al equilibrio de los demás cruzando después, maniobra que efectuó con éxito. El resto pudo así ayudarse para cruzarlo pero el riesgo aún estaba y, paradójicamente, aquel más unido al bosque fue el que trastabilló; Beñat casi estuvo a punto de caer por el abismo, pero pudiendo agarrarse *in extremis* a una raíz saliente por la que pudo trepar y reincorporarse. 
+
+## La noche tiene dueño 
+A pesar de sus esfuerzos, los obstáculos, tropiezos y distracciones alargaron más su itinerario de lo deseado y el anochecer cayó sobre el grupo irremisiblemente. El bosque enmudeció; los árboles quedaron inmóviles: ni viento, ni insectos. Solo ep aso de la noche a lomos de algo que se acercaba. la última luz del día no se puso: se apagó, como una vela en el soplo de una tumba. Nuevamente el sendero desapareció bajo sus pies y se encontraron en un claro bordeado de árboles nudosos y retorcizos, macilentos, como si hubieran crecido torturados por la noche y no alimentados por la luz del día. 
+![[image-228.png]]
+
+El avance de la oscuridad devorando el día les removió las entrañas, les apresó el corazón, les asfixió como si quisiera llevarse su voz. Comenzaron a oír a los hijos de la noche aullando en la lontananza, pero su canto se escuchaba cada vez más cerca. 
+
+Algo les susurraba en su interior, algo que les hacía retroceder muchas infancias, milenios de infancias hasta el primer niño que aterrado por la noche primigenia quedó inmóvil por el miedo primordial. Entonces entendieron por qué les asustaba la oscuridad, comprendieron por qué les daba miedo la noche. 
+> "Eguna, egunezkoarrentzat, gaua Gauekoarentzat"
+
+![[image-229.png]]
+### El dueño de la noche 
+Entonces entró aquel al que las mismas sorgiñak evitan pronunciar su nombre. El de la noche, la noche misma: [[Gaueko]] de las tinieblas.  No lo vieron venir, lo supieron venir. 
+
+Una sombra de tres metros, sin forma estable,  a veces lobo, a veces hombre, a veces telaraña de ramas secas, a veces simple y aterradora ausencia. Ojos que refulgían sin luz, fauces que aullaban en silencio. Cada paso suyo hacía temblar las hojas como si estuvieran secas. Hacía temblar a nuestros valerosos héroes como si fuerais hojas secas. La noche les observaba... y estaba hambrienta.
+
+![[gaueko2.png]]
+> ¿Quiénes cruzan la noche sin permiso?
+
+Eneko, reuniendo todo el coraje posible respondió sin dudarlo y espetó un órdago en el mismo rostro de la noche tenebrosa. 
+
+> Nosotros, que nos hemos visto retrasados más no fue nuestra intención ofenderte. Pero si nos dejas pasar, prometo que haré que tu nombre resuene en los corazones de todos, mucho más lejos de nuestras fronteras. El mundo entero sabrá de Gaueko y habrá de temer de él. 
+
+La elocuencia de Eneko fue manifiesta y enardecedora... pero no suficiente para conmover al mismo señor de la Noche. 
+> Lo que me ofreces ya lo tengo. Ya sé que en todos los rincones de la tierra escucharán mi nombre y se aterrorizarán. 
+> En la noche no hay atajos sino finales. Renuncia a tu sangre y sé mío para siempre. 
+
+![[image-230.png]]
+Esa fue la respuesta de Gaueko que Eneko escuchó, pero El de la Noche habló al alma de cada uno de ellos, apresando su corazón como un puño tenebroso con diferentes palabras, conociendo el nombre de cada uno de ellos: 
+>Duncan, nieto de la tierra, sangre de tormenta y sentencia, ¿crees que tus luces humanas pueden desafiar la oscuridad eterna? El poder que llevas fue mío, antes de que los hombres nombraran a los dioses. Escoge: abandona ese camino o aprende que la noche reclama todo lo que nace al sol"
+
+El magus sintió una mezcla de llamada interna y peligro, pero se sobrepuso a él: 
+>"No haré ni lo uno ni lo otro. Seguiré mi camino pues más alto es mi fin que el que tú me ofreces. Nos dejarás pasar y cumpliré mi destino"
+
+>Mairu, huérfano mestizo, criatura del verde y del susurro, ¿qué buscas en mi reino donde la vida se extingue en la sombra y el verde deviene gris, sin luna ni estrellas que lo aviven... Escucho el latido salvaje de tu pecho pero la noche es más vieja que tu sangre. Renuncia a ella y sé mío para siempre. Mi poder es mayor y mayor mi dominio. 
+
+Pero el fauno se mantuvo firme frente a la amenaza vestida de oferta del Dueño de la Noche. 
+
+> Vela, niño de sombras y aguas turbias, ¿qué has venido a buscar en mi reino de oscuridad? Tu guardián emplumado no sable lo que acecha en el silencio. ¿Acaso crees que puede protegerte del frío que toda luz extingue? Renuncia a tu sangre y sé mío para siempre. Mi poder es mayor y mayor mi dominio...
+
+El joven quedó paralizado por el miedo que estrujaba su corazón como un paño húmedo, escurriéndole todo el valor. Se vino abajo, incapaz de hacer nada, ni siquiera de evitar que unos largos brazos se negros sarmientos le apresaran. 
+
+Igual de paralizados quedaron Antxon y sus primos, como si los cuentos y consejas de las viejas que escuchaban en su casa hubieran calado hondo en su ser, creciendo temerosos de la noche cuyos límites que sabían bien que no habían de traspasar. De la misma manera, los brazos de oscuridad sarmentosa se lanzaron hacia ellos, apresándoles sin que pudieran hacer nada para defenderse. Inmóviles pagaron su precio por haber penetrado los límites impuestos a los humanos. 
+
+Todos los nacidos en Vasconia recordaron que sus madres y abuelas les acunaban con una vieja nana que les advertía que si no se dormían, se los llevaría El de la Noche. 
+
+>*Aurtxo polita seaskan dago,  
+zapi zuritan txit bero.  
+Aurtxo polita seaskan dago,  
+zapi zuritan txit bero. 
+Amonak dio, ene potxolo,  
+arren egin ba, lo, lo.  
+Amonak dio, ene potxolo,  
+arren egin ba, lo, lo.
+Gaueko aundia etorriko da zuk ez badezu egiten lo.   
+Gaueko aundia etorriko da zuk ez badezu egiten lo. 
+Orregatik ba, ene potxolo,   
+egin aguro, lo, lo.  
+Orregatik ba, ene potxolo,   
+egin aguro, lo, lo
+
+Eneko no lo dudó y cantó la canción, hilvanándola con una narración encantada que exortaba a los oyentes a caer dormidos para salvarse. Y así, todos salvo el propio Eneko y los magi -protegidos por sus *parmae magicae*, cayeron dormidos aún en esas circunstancias, gracias al talento sobrenatural del cuentacuentos. 
+
+![[gauekosemueve.mp4]]
+
+Enfurecido ante el contratiempo, Gaueko se dispuso a atacar al resto, encarándose al insolente Eneko que pudo esquivar su golpe, mientras Phaestus y Duncan usaban su hechizo de La [[Maldición de la Carcoma (PeHe5)]] con la esperanza de que poder así romper las lianas de tineblas de Gaueko, que sorprendentemente cedieron ante el pequeño hechizo, liberando a sus presas, que cayeron al suelo, aún dormidos pero libres de la fatal atadura de la noche. 
+
+La desesperación les había llevado a contravenir la principal advertencia de Birrutia, la prohibición de hacer magia en el sendero. Pero realmente no habían tenido otra opción, y si la tuvieron jamás lo supieron. 
+
+Fue entonces cuando Duncan se esforzó para espontáneamente lanzar un equivalente a la [[Fragancia de los Dulces Sueños (ReMe20)]], reducido al alcance Voz, para inducir al sueño a sí mismo y a todos los que pudieran escucharle. Ambos desarmaron sus parmae magicae y se dejaron arrullar por el hechizo de Duncan, cayendo junto a Eneko, finalmente dormidos... 
+
+Indefensos. Lo último que sintieron antes de caer presas del sueño fue el fétido aliento de los lobos cayendo sobre ellos...
+
+![[montedemo_a_panoramic_scene_in_a_dark_ancient_forest_at_night_ec5fabb9-ff49-49ef-8766-bd641cb92540_0.mp4]]
 
 
-#exterater #intza #valledaraiz #zugarramurdi #iditxa #lamias #agotes #vasasdelainiquidad #reflejossiniestros #heraldosdelahambruna #tártalo #hauteclaire #saltusvasconum #duncandetremere #cultodelextranjeronegro #sorgiña #sorgiñakdeAralar #Aralar #lutines  #silfos 
+## Luz en el bosque 
+Y entonces, despertaron, todos juntos, la sombra se había roto. No por un golpe ni por un grito, sino por una grieta tenue que se abría en la propia noche: el Alba. 
+Gaueko se había desvanecido, fragmentado en jirones que se fundían de nuevo con la negrura del bosque. No había huida, solo ausencia. 
+
+Y con él, sus lobos callaron. Uno a uno, los ojos rojos parpadearon y se apagaron. El silencio no aportaba paz, pero al menos ya no era una amenaza. El claro que era una prisión se había transformado: entre la maleza húmeda, el musgo tembloroso y las raíces negras, un sendero antiguo, cubierto de hojas y brumas, no se había abierto: siempre había estado allí. 
+![[image-231.png]]
+Los dedos del alba deshilachaban la noche como cada mañana desde que el sol inició su periplo sobre la bóveda celeste. Mientras se recomponían y alzaban, tambaleantes, dolidos, humillados o simplemente exhaustos, comprendieron algo sin palabras: 
+Que no habían salido ilesos.
+Algo suyo había quedado atrás. 
+Tal vez un recuerdo, un fragmento de su alma. Tal vez inocencia...
+
+El Bosque Sombrío se cobra siempre su precio y su sendero, es su Pasaje. 
+Pero estaban vivos, y la luz del día les esperaba. 
+
+Unos traguitos del odre les ayudó a recomponerse y seguir adelante, hacia la próxima etapa de su aventura. 
+
+## El puente del Diablo 
+El trecho del sendero les saca por fin del bosque y pueden respirar ante el cielo abierto a la luz del amanecer. El sendero y el bosque terminan abruptamente ante un gran cortado, una escarpada hoz labrada por el curso tumultuoso de un arroyo que desciende desde los Pirineos. El sendero sale del bosque para cruzar un arriesgado puente de piedra labrado de la misma roca, como capricho o ingeniería de dioses, demonios o gigantes...  
+![[el puente del diablo _2_.png]]
+
+La quietud de la mañana se ve rota por una figura, grande que huye, perseguida por un tumulto aullante de voces enfurecidas...
+
+***CONTINUARÁ...***
+
+
+
+
+
+--- 
+
+
+#exterater #intza #valledaraiz #zugarramurdi #iditxa #lamias #agotes #vasasdelainiquidad #reflejossiniestros #heraldosdelahambruna #tártalo #hauteclaire #saltusvasconum #duncandetremere #cultodelextranjeronegro #sorgiña #sorgiñakdeAralar #Aralar #lutines  #silfos  #Basajaun #Gaueko 
