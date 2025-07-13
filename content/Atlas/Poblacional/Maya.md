@@ -1,1 +1,1 @@
-[[jauregui]] fortificado en la cabecera norte del valle del [[Baztán]]. Llamado Amaiur en euskerra. 
+[[jauregui]] fortificado en la cabecera norte del valle del [[Baztán]]. Llamado Amaiur en euskera. 
