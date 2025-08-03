@@ -756,18 +756,236 @@ Pero estaban vivos, y la luz del día les esperaba.
 Unos traguitos del odre les ayudó a recomponerse y seguir adelante, hacia la próxima etapa de su aventura. 
 
 ## El puente del Diablo 
-El trecho del sendero les saca por fin del bosque y pueden respirar ante el cielo abierto a la luz del amanecer. El sendero y el bosque terminan abruptamente ante un gran cortado, una escarpada hoz labrada por el curso tumultuoso de un arroyo que desciende desde los Pirineos. El sendero sale del bosque para cruzar un arriesgado puente de piedra labrado de la misma roca, como capricho o ingeniería de dioses, demonios o gigantes...  
+El trecho del sendero les saca por fin del bosque y pueden respirar ante el cielo abierto a la luz del amanecer. El sendero y el bosque terminabann abruptamente ante un gran cortado, una escarpada hoz labrada por el curso tumultuoso de un arroyo que desciende desde los Pirineos. El sendero salía del bosque para cruzar un arriesgado puente de piedra labrado de la misma roca, como capricho o ingeniería de dioses, demonios o gigantes...  
 ![[el puente del diablo _2_.png]]
+La niebla se arrastraba lentamente entre los valles profundos, como si no quisiera abandonar el secreto que guarda el desfiladero. Ante ellos se alzaba un puente de piedra ciclópea, arqueado sobre el abismo con una elegancia que contradecía su tamaño. Cubierto de musgo, raíces y tiempo, parecía más un fragmento del paisaje que una obra construida.  
+Los árboles crecían en sus extremos, como centinelas que hubieran olvidado a quién vigilaban. En lo más alto, la vegetación había comenzado a reclamarlo, mientras en su base, los riscos caían a una selva remota envuelta en brumas. El río que serpenteaba abajo apenas era un susurro. El sol luchaba por atravesar las nubes, tiñendo el aire de un resplandor dorado y melancólico.  
+Frente a vosotros, el silencio. Sin pájaros. Sin viento. Solo el rumor lejano del agua... y el peso de algo antiguo. Muy antiguo
 
-La quietud de la mañana se ve rota por una figura, grande que huye, perseguida por un tumulto aullante de voces enfurecidas...
+Pero la paz y la quietud del entorno pronto se vio interrumpida: a punto de cruzar por el puente una figura enorme que corría perseguido por una veintena de hombres aullantes armados con hachas, algunos trataban de alcanzarle con hachas arrojadas, sin éxito. El hombretón gigantesco se disponía a cruzar el puente y esa muchedumbre que le persigue estaba a punto de darle alcance. Sí, eran agotes...
+![[image-233.png]]
 
-***CONTINUARÁ...***
+### Escaramuza en el puente
+Nuestros héroes no lo dudaron ni un segundo y se dispusieron para disparar a los agotes perseguidores, facilitando la huida del gigante. Los primeros en avanzar por el puente fueron hostigados por la flechas de [[Beñat el Fauno]], [[Antxón Elkanobarrena]] y sus hombres, mientras [[Phaestus de Apromor]] usaba sus hechizos para levitar con la [[Ligereza de la Pluma (ReCo10)]] envuelto en un [[Manto de Invisibilidad (PeIm20)]], flotando en medio del puente, mientras Duncan seguía practicando con su magia improvisada de sueño consiguiendo que varios de ellos cayeran dormidos mientras cruzaban el azaroso paso de roca sobre el abismo, cayendo por el. 
 
+Los agotes en la retaguardia lanzaron sus hachas sobre el gigante, alcancándole algunas de ellas, pero sin conseguir detener su raudo paso a través del puente. En cuanto este, que Beñat rápidamente reconoció como un *jentil* (ver [[Jentilak]]) en cuanto vio que el combate estaba igualado se giró sobre sus talones y enarbolando sus dos almádenas bloqueó el paso a todo agote que consiguiera cruzar. 
 
+> -"¡Son ellos!" - exclamó un agote. 
+> -"la señora los quiere vivos!" - replicó otro. 
+> -Os dije que no debíamos ir tras el *jentil*, se nos ha ido al traste la emboscada...
+> ***¡AGOTERRI!***
 
+Los agotes viendo el peligro, decidieron organizarse y cruzar el puente en formación cerrada -una organización que contrastaba con el descabellado ataque que lanzaron contra [[Intza]] el día anterior.. Pero las flechas, lanzas de llamas, nuevos hechizos de sueño y una superficie de aceite resbaladizo lanzada con un hechizo de Phaestus, fue menguando los números de los mismos. Phaestus prendió fuego al aceite, y varios agotes prefirieron tirarse por el abismo a ser presa de las llamas. Los pocos que consiguieron pasar fueron aplastados por las mazas del jentil. 
 
+### Harbizkur 
+Cuando el peligro hubo pasado, el *jentil* les dio sonoramente las gracias y se presentó como Harbizkur y el resto hizo lo propio, ofreciéndole el agua de Marimundoko para sanar sus heridas, reconociendo rápidamente su sabor y su origen con una pícara sonrisa... Era un hermoso ejemplar de su antigua raza: poderoso, rocoso, con un cuerpo esculturalmente tallado en la montaña, representando la fuerza de la madre tierra. Medía más de tres metros y su piel era gruesa como la corteza de un roble milenario, con vetas grises y marrones como si fuera granito vivo. El vello que surgia en los pliegues de su cuerpo y ocultaba a duras penas sus generosas partes íntimas tenía la textura de denso liquen marrón, y a pesar de su rústica apariencia, exhalaba un profundo y agradable olor a musgo verde y roca mojada. Tenía los ojos grises como la niebla al amanecer, con una luz suave, profunda, como brasas envuelvas en ceniza. Lucía el cabello largo y enmarañado, con hojas secas y raíces atrapadas, como si llevara siglos durmiendo bajo un hayedo. 
+
+Su cuerpo era enorme y musculoso pero no hinchado ni grotesco; cada movimiento suyo parecía que iba a resonar con el paso de la tierra pero, extrañamente no producía sonido alguno, moviéndose tan ágil como silenciosamente. Sus brazos parecían troncos y sus manos, palas de piedra. 
+
+Como claramente notaron, no llevaba ropa, como es costumbre de su raza antigua, que no conocen el pudor que constriñe a los cristianos ni necesitan protegerse de la intemperie ni del frío, y llevaba atado a la cintura una cuerda de la que pendían huesos tallados de uros y campanas de bronce mudas de antiguos santuarios. Blandía una poderosa *makila* de basalto: un bastón alto como un hombre, tallado con nudos donde se podían leer tallados símbolos milenarios y coronado por una piedra negra que, al golpear la tierra hacía temblar el suelo. En la otra mano llevaba una maza más pequeña pero hecha de la misma piedra oscura. 
+![[image-234.png]]
+
+Harbizkur explicó que no solía verse a los agotes internarse tanto en esta parte del bosque por eso no esperaba encontrárselos, parecía que estaban apostados con un propósito. Pero la enquina entre las dos razas legendarias es mítica y los agotes no quisieron desaprovechar la oportunidad de darle caza. Pronto supo del grupo que se dirigían a matar a [[Gabazkuak]] en su castillo de [[Maya]] y entendió que era a ellos a quienes los agotes esperaban. Rechazó la invitación a unirse a ellos aduciendo que tenía un mensaje muy importante que llevar a su *aita* (padre) pero que le informaría y haría lo posible por que les ayudaran. Les ofreció, no obstante, unos cuantos consejos. Un sendero más corto y rápido -aunque azaroso- con el que ahorraban dos horas de camino en plantarse en Maya y bajo la cubierta del bosque. También, la información de que existía una entrada trasera: una poterna que asomaba al acantilado de la cara norte por la que evacuaban los desperdicios, pero por la que había que trepar muy duramente para alcanzarla. Este camino evitaba cruzar por en medio del poblado agote que se había levantado hace poco en la ladera sur del monte sobre el que se alzaba el castillo. 
+
+Asimismo no dejó de indicar que el nombre de ese lugar era Amaiur (Madre Tierra) nombre dado por los propios [[Jentilak]] al santuario que levantaron en honor a la madre de todo, y sobre cuyos ruinas sepultadas se levanta el castillo. Expulsados de allí por los humanos, maldijeron el lugar, y desde entonces solo ha atraído desgracias y gentes de mal. Gabazkuak lo hizo suyo y atrajo a los agotes para servirla y desde allí organizan raides en tierras lejanas con las que nutrir sus filas. Los agotes no tienen mujeres, y sus ancianos, los bozates, inmortales gracias a la lepra que les corroe, necesitan de cuerpos de hombres mortales para infectarles y transformarlos en los suyos, trayéndoles desde la maldita tierra de [[Agoterri]]. Una vez marcados con su lepra se harán inmortales y envejecerán sin debilitarse. No temen a la muerte pues saben que regresan a su nicho del infierno, Agoterri; pero si se destruye su cuerpo con fuego, el agote ya no puede regresar, razón por la que lo temen, aunque tampoco sienten pánico ante él. Pero no es valentía lo suyo, sino temeridad y desprecio por la vida. 
+
+No quería descorazonarles pero les advirtió que si eran capturados, los agotes les harían suyos y acabarían engrosando sus filas nauseabundas. Ellos construyeron la torre del castillo para su nueva señora, Gabazkuak, una torre inexpugnable que se alza en lo alto y casi cuelga sobre el abismo. Solo tiene una entrada, y desde allí tiene el acceso a sus mazmorras, que horadan los huesos de nuestro santuario. Allí lleva a cabo las abominaciones más horrendas, porque aprende del dolor y de la enfermedad.
+
+El apuesto *jentil* se despidió deseándoles mucha suerte en su empresa y con dos rápidas zancadas, se marchó para desaparecer de su vista en un mero instante. 
+
+## Camino de Maya 
+Mientras esperaban a que el aceite terminara de arder para tener seguro el paso del puente, el grupo deliberó arduamente sobre la estrategia a seguir y las tácticas a emplear. 
+
+No dudaron en que era mejor ahorrar tiempo corriendo riesgos por lo que ir por el atajo del bosque no se discutió, pero pronto el grupo empezó a vislumbrar la posibilidad de llevar a cabo una emboscada a Gabazkuak mientras se dirigía a [[Zugarramurdi]], con su comitiva, escolta, [[Eneka Ituren]] , su marido  convertido en perro y el bebé. Dedujeron que no tardaría en salir hacia allí ya que llevaba medio día de camino. Pero muchos desconfiaban de que una idea tan descabellada -saliéndose del plan- fuera sensata, pensando que un ataque sorpresivo en su cubil sería más efectivo, especialmente si se infiltraban por los aliviaderos. 
+
+Tras un arduo debate, finalmente se fue imponiendo la idea de emboscarles en el camino y evitar el castillo -seguramente concebido como una trampa mortal para los intrusos. Así que apretaron el paso por el atajo -que se saldó sin incidentes importantes (aunque particularmente bochornoso para [[Beñat el Fauno]], el hijo del bosque, darse un tropezón que le causó una molesta torcedura, subsanada gracias al agua de Marimundoko de la que todavía disponían en abundancia en sus odres. )
+
+Vislumbraron la siniestra silueta del castillo cruzando sigilosamente bajo su sombra. Vela envió a la Cuerva Cornuda para que echara un vistazo y esta regresó rauda, avisando de que había muchos agotes y que parecían vigilantes. 
+> - Son muchos y nos esperan - indicó Vela 
+
+Pero la cuerva añadió algo más, había una presencia que sobrevolaba el castillo, otro alado, una urraca, pero no una urraca cualquiera. Su plumaje tenía brillos verdosos, era tuerta, con un ojo velado y el otro vivo, con un brillo dorado...
+
+![[zirikuta.png]]
+
+Duncan determinó que debía de tratarse de su familiar -y siendo una hechicera infernalista, dicho familiar sería sin duda un demonio menor, un *famulus*, probablemente un lutín (ver [[Lutines]]) poderoso a su servicio y quien habría orquestado el ataque nocturno de los agotes retornados de la muerte... 
+
+Esto les reafirmó a pasar de largo y organizar una emboscada en algún lugar apropiado del camino que atravesaba el [[Baztán]] de noreste a sureste (un ramal del camino de Santiago que cruzaba las estribaciones pirenaicas occidentales. Sin duda, el castillo de Maya no solo controlaba ese camino, sino todo el valle de Baztán desde su estratégica posición, y ni envueltos en el manto de sombras de Phaestus se sintieron a salvo del escrutinio de Gabazkuak... 
+
+![[image-235.png]]
+
+## La emboscada 
+Nuestros héroes continuaron un par de millas más adelante, donde un bosquete cubría el camino, proyectando una cómoda sombra que ocultaba la suya propia -ya que el hechizo borraba la imagen pero no los ruidos ni las sombras proyectadas. 
+
+Se dispusieron a ambos lados del camino. Beñat bien preparado para disparar a la derecha del camino de la marcha, junto a Duncan; mientras Antxon, encabezando un grupo formado por sus hombres, Vela y Raoul, se apostaban en el lado derecho. Phaestus se elevó con la [[Ligereza de la Pluma (ReCo10)]], dispuesto a emboscar desde lo alto. El objetivo era el que llevaban desde que partieron de Intza, conseguir que una gota de sangre de Gabazkuak cayera al suelo -único requisito pedido por su madre [[Birrutia]]. Pero no les iba a resultar tan fácil.
+
+### El paso de la comitiva 
+Por el camino discurría un lento ejército de leprosos, marchando a paso contenido. En la vanguardia, una veintena de agotes abría la marcha, le seguía un gran carromato tirado por seis agotes, que trasportaba una jaula de madera en cuyo interior se hallaba el desdichado marido de Eneka, el hombre convertido en enorme perro rojo como castigo por sus despecho a Gabazkuak. Furioso, ladraba y rugía contra todo lo que se le acercaba. 
+![[image-236.png]]
+Después, otro tiro de seis agotes empujaba otro carruaje, este cubierto, para transporte de pasajeros. Estaba conducido por una figura encapuchada y enmascarada con una siniestro pasamontañas de cuero, ornado con cuernos y colmillos de jabalí. La siniestra figura llevaba un cayado grabado con símbolos y cráneos y exhalaba una maldad primigenia. Lo reconocieron como el [[Bozate]], el patriarca de la tribu de agotes. 
+![[image-237.png]]
+**El Bozate**
+Pero eso no era lo peor, dado que flanqueando el carruaje había sendas tres filas de agotes bien pertrechados, armados con lanzas y grandes escudos y, lo más temible, enormes: sus cabezas sobresalían con creces por encima del carruaje y debían alcanzar las tres varas de altura (más de 2 metros y medio) Supusieron que en aquel carruaje viajaba Gabazkuak. Cerrando el paso, otra unidad de veinte agotes, caminando con sus hachas y escudos en formación cerrada.  
+
+![[guardiasagotes.png]]
+
+#### Ahora o nunca 
+Inmóviles, silentes e invisibles entre sí, el grupo se sentía paralizado por el miedo a empezar a destiempo, mientras la comitiva se desplazaba lenta pero inexorablemente. A punto estuvieron de perder esa oportunidad de ataque, hasta que  finalmente Antxon exclamó:
+> **¡Ahora!** 
+
+![[image-239.png]]
+Sin embargo los nervios y la improvisación se cebaron en este primer ataque y el grupo atacó torpemente y a destiempo a los guardias agotes de su flanco, revelando su presencia y recibiendo de vuelta unos buenos lanzazos como recompensa. Duncan volvió a hacer dormir a un grupo de agotes, en este caso a los que transportaban al perro, para obligar a toda la comitiva a detenerse. Beñat, oculto, esperaba la oportunidad de ver a Gabazkuak para asaetarla. Eneko se acercaba de hurtadillas al carruaje cubierto, pero temeroso del Bozate no se atrevió a colarse dentro. 
+
+En ese momento oyeron el graznido grasiento de una gorda urraca verdosa que revoloteba rápido sobre ellos, pronunciando la palabra:
+> ***¡BEGIZKO! ***
+
+Sí, la urraca podía verles... Y todos sintieron la pesadumbre del infortunio sentarse sobre sus hombros. El olor de la fatalidad aposentarse sobre ellos. Gafados y malditos. 
+
+Viéndose impedidos y azuzados por la urgencia, Vela y Raoul se separaron del grupo y corrieron hacia el carruaje, en el momento en el que Phaestus prendió el aceite con el que había impregnado el camino, sembrando el caos. En ese momento, Beñat lanzó su flecha contra el Bozate y tan certero fue el disparo que le atravesó el cráneo, cayendo muerto en el acto y dejando libre el paso a un valeroso Vela que al entrar en el carromato se encontró una mujer atada y amordazada (Eneka) un bebé en el suelo y...  Gabazkuak. La bruja no lo dudó y en un alarde de sus poder heredado de su sangre demoníaca, como hija del Señor de la Envidia pronunció:
+> -Oh, qué hermoso joven, lástima que yo ya tenga compromiso... No te preocupes que te quedarás siempre a mi lado, pues serás un agote precioso. Pero de momento...
+> **Eso que tienes, no lo mereces. Mío es y me lo quedo**. 
+
+![[image-238.png]]
+Sí, también Gabazkuak era capaz de ver a través del velo ilusorio que le cubría. Vela sintió como su espada le flaqueaba, le temblaba el pulso. De alguna manera se sentía mucho más torpe, como si la hechicera le hubiera robado la destreza con la que blandía a [[Altaclara]], que relucía en su presencia. 
+
+Por su parte, Duncan tenía enfilado al perro y jugaba con la idea de darle muerte para hacer fracasar el plan de Gabazkuak en última instancia, pero se conformó con hechizar la jaula con la [[Caricia de la Podredumbre (PeCo25)]] para debilitarla e instigar a la bestia a salir y sembrar el caos -aunque para su temor, Duncan pudo ver que el olfato y oído del animal suplía a su invisibilidad... 
+
+Desesperado, Raoul que también había abandonado al grupo, se enfiló corriendo hacia el carromato cubierto y entró como una furia de la naturaleza en el mismo, lanzándose contra Gabazkuak y con todo su peso, expulsándola fuera y aplastándola con el mismo. 
+
+Con el camino libre, Eneko se coló también en el carromato y aprovechó para soltar a Eneka y tomar al bebé, haciéndoles salir de un carromato que estaba siendo presa fácil de las llamas (al estar hecho de madera y mimbre). 
+
+Por su parte, Antxon y sus primos, se enzarzaron y redujeron finalmente al grupo de guardias de su costado, y viéndose venir a los agotes de la vanguardia contra ellos, decidieron moverse para entablar con guardia del otro lado. En este caso contaron con la ayuda de Phaestus -que desde lo alto, clavó su lanza en la cruz de uno de ellos, así como de los saetazos de Beñat. 
+
+Vela saltó del carro para seguir atacando a Gabazkuak, con tan mala fortuna -al no ver a Raoul- que hirió al mismo en el costado. La hechicera, por su parte conjuró sus poderes oscuros y, en contacto directo como estaba con Raoul, conjuró todas las heridas suyas y de los agotes alrededor contra Raoul que sufrió, de inmediato, todas las lanzadas, tajos y magulladoras sin curar de quienes les rodeaban, que a su vez se sanaban a costa de la salud de Raoul. 
+
+Así es como Gabazkuak pudo zafarse e intentó escapar, pero esa era la oportunidad que Beñat llevaba esperando y su flecha certera e implacable salió disparada contra la hechicera buscando su cuello y encontrándolo, y atravesándolo, tan limpiamente que la propia flecha continuó su trayectoria, manchada de sangre...
+
+Gabazkuak se vio morir... y todos, pero Zirikuta, la urraca, sobrevoló rauda posándose sobre un agote a quien transfirió la herida de su ama, que se cerró diabólicamente a vista de todos. La malvada bruja seguía viva y sonriente pero... La flecha finalmente cayó al suelo y manchó con su sangre la tierra embarrada del camino. 
+
+### Una gota de sangre
+La sangre negra como savia podrida tocó la tierra. Gabazkuak lanzó una mirada furiosa y temerosa, sabía que algo no iba bien, que algo estaba por pasar. La mancha de sangre en la tierra comenzó a ramificarse, a extenderse y de la mismas greitas un vapor pestilente emanó, como si el musgo ardiera mezclado con azufre. En un momento, se levantó una humareda fría que se disipó para dejar ver a Birrutia, y a [[Yndarr]], acompañadas de [[Martín de Goñi]] a caballo, sus ocho hombres, sus perros y a todas las gentes de INtza: los hombres y las mujeres armados con sus herramientas de trabajo, hachas, martillos, horcas y cuchillos. Algunos llevaban bolsas cargadas con piedras, y los pastores llevaban sus hondas, y los cazadores sus arcos. Todos a a morir por su libertad y por la justicia, dispuestos a vengarse de Gabazkuak y a no aceptar sus chantajes. Un sonoro [[irrintzi]] se elevó y retumbó entre las paredes de las montañas del valle, y sus ecos llegarían a todos sus confines. Los agotes temieron la vara de Birrutia. 
+
+ Birrutia, escoltada por Yndarr y las demás sorgiñak de Intza profirieron al unísono:
+> -¡Quien la lepra lleve que de sus partes sufra!
+
+Y todos los agotes que intentaron acercárse a ellas y cortárles el paso hacia Gabazkuak cayeron al suelo, presa de un inefable dolor en sus vergüenzas, retorciéndose miserables en el fango. Ahora las [[Sorgiñak de Aralar]] podían exhibir su poder. 
+
+## Sacrificio y castigo 
+
+### Madre e hija 
+Y así Birrutia se abrió paso hasta su díscola hija: 
+> -¡Detén esta insensatez! Devuélvenos a la madre, a la niña y al perro. Estás a tiempo, hija mía. No labres el camino de tu destrucción. Hazlo y nos iremos y habrá paz y perdón.
+
+Gabazkuak henchida de ira, orgullo y rencor espetó: 
+> -Antes, antes... TÚ HAS DE MORIR, espantajo!
+> Ni quiero ni necesito tu perdón, ¡VIEJA! Pronto de ti no se acordará nadie, y todos alabarán el nombre de Gabazkuak, la que trae la noche, como la reina de las sorgiñak. Todos se postrarán ante mí, y aunque perro, yaceré con el macho más hermoso y engendraré el linaje que reinará sobre esta tierra!
+
+Pero las últimas de estas palabras se pronunciaron con el puñal de Gabazkuak hundido en el vientre de Birutia. Ante el estupor de todos, se ensañó, retorciendo y ascendiendo con su filo cortando vísceras y destrozando el vientre donde se gestó. Birrutia solo exhalo un pequeño grito de dolor, mientras apuntaba al cielo y mirando fijamente a su hija renegada, exhaló en un último suspiro:
+>-Te has condenado, has derramado LA SANGRE... DE TU SANGRE
+
+### La justicia de la madre 
+Cuando el cuerpo sin vida de Birutia cayó al suelo, su peso resonó como un trueno. Pero inmediatamente pudieron comprobar que era un trueno real. Las nubes comenzaron a arremolinarse con velocidad vertiginosa, mientras se tenían de negro y lo que era un día soleado de primavera estaba a punto de convertirse en una pavorosa tormenta. Un viento que parecía nacer de la tierra misma elevó nubes de polvo sobre el cielo, que se desgranó en truenos y relámpagos. Finalmente, de las nubes, el polvo y el relámpago emergió una figura alada, majestuosa y terrible: alas negras, negro cabello, cuernos de venado negro que relampagueaban y una mano que era el mismo rayo devoledor. Era hermoso, e implacable... 
+>-¡Mikelats! - balbucearon con pavor la mayoría de los presentes.
+> -¿Saint-Michel? - musitó Raoul. 
+> -¿Dubhgail? - aventuró Duncan. 
+
+![[image-240.png]]
+Incluso el rostro de Gabazkuak estaba paralizado por el pavor y apenas logro a esgrimir un grito -quizá tratando de traer la ayuda de su padre infernal, asfixiado por el haz de luz cegadora que desde la mano de la deidad vengadora cayó sobre la pérfida hechicera. Entonces, solo entonces, su grito se liberó, un aullido de desesperación, que duró un instante eterno en el que la abominable descubrió su aciago destino de un solo golpe, mientras se consume, transformada en cenizas.
+
+Los agotes comenzaron a huir en desbandada mientras un segundo rayo fulminó de un solo golpe la torre del castillo de Maya, que vieron convertida en lejana antorcha. 
+
+### La revelación del Extranjero Negro 
+Mikelats detuvo su vorágine de destrucción y se quedó mirando a Duncan. Le observó y le reconoció: 
+> -Yo no conozco la piedad. Pero eres sangre de mi sangre y caminarás salvo... 
+> Yo soy quien enseñó la hechicería a los mortales. Viajé por la tierra, esparcí mi semilla y mi conocimiento. Hablé y las mujeres escucharon.  
+> Ahora escúchame tú. Mi linaje está corrompido y mi nombre usurpado. Una araña anida donde tu viaje comenzó. Un ángel roba mis hazañas. Tu destino está trazado, pero yo te regalo la oportunidad de elegir y de olvidar y de aprender. Ese es mi don, sangre de mi sangre.
+
+Dejando a todos mudos y atónitos,en un aleteo reemprendió el vuelo y se alejó, hacia el noroeste, hacia la cumbre de una montaña: Larraun, una de las cumbres sagradas de Vasconia. Alía amainaba la tormenta y aparecía un sol brillante, que iluminaba su cima. Sobre ella, se alumbró un trono con forma de carnero dorato y sentado sobre eél, la figura de una mujer majestuosa, regia, vestida de rojo y de verde a la vez. Estaba rodeada de un coro de mujeres que cantaban su nombre y, a ellas, se unía un miembro más: una mujer hermosa y fuerte, que vísteis vieja, y que vivirá ahí para siempre, en el seno de la [[Mari]]. Un latigazo de fuego, como una serpiente de llamas voló alrededor y de un fogonazo, el resplandor se apagó y con él la visión. 
+
+### Retorno a Intza 
+Los agotes se retiraron en desbandada pero los que acudían a buscar refugio  a Maya -o el refuerzo de los que allí quedaran- se encontraron con una docena de figuras enormes que les cortaban el paso y les daban caza. 
+> -***¡JENTILAK!***
+
+Yndarr hizo oír su voz, alta serena y firme. 
+> -Arropaos todos, volvemos a casa!
+
+![[Indarr1.png]]
+Y las gentes pronto formaron un corro de varios círculos en torno a la sorgiña. Esta sacó su cuchillo, rasgó la palma de su mano y dejó caer unas gotas de su preciada sangre, que cayeron al suelo, ramificándose rápidamente y emanando un humareda fría que les envolvió a todos. Cuando la humareda se disipó, estaban de vuelta a Intza. 
+
+Pero alguien no siguió esa llamada. Phaestus envuelto en las sombras, siguió su propio camino y regresó a [[Garazi]] a informar a sus superiores de [[Aedes Mercurii]] de todo lo acontecido, como había sido su misión desde el principio. 
+
+# El Final del Pasaje 
+## Celebración de la vida
+Las sencillas gentes de Aralar pronto improvisaron un festín. Encendieron una gran hoguera con los restos mismos de sus cabañas destruidas y con lo poco que tenían, y su alegría de sentirse vivos y libres se lanzaron a la celebración. Eneko enardecía los ánimos a la fiesta y Beñat sacó su caramillo, acompañando a los rudimentarios músicos de la aldea en sus acordes y danzas. 
+
+![[image-241.png]]
+
+Rodaban el vino y la sidra, que con la no muy abundante comida, pronto se subía a la cabeza. La bella muchacha [[Sorgiñak]], la hija de Yndarr se acercó a Vela y le ofreció un vaso de sidra fresca y espumosa que el joven aceptó. Pronto sus risas cómplices se entrelazaron en un beso y desaparecieron en el bosque. 
+
+![[Sorgiñak3.png]]
+
+### El hombre que fue perro y la niña que es vieja
+En el momento en el que Gabazkuak murió, sus hechizos se desvanecieron y el perro volvió a su forma humana original, la del guardabosques Eider Ituren, un hermosísimo hombre, alto y fornido, de llameante cabello rojo y ojos brillantes que denotaban una ascendencia no del todo humana. Era comprensible que Gabazkuak enloqueciera deseo por él.
+![[eider.jpg]] 
+La familia reunida no tardó en dirigirse a todo el grupo, agradeciéndoles su ayuda. Y orgullosos les mostraron a su tierna criatura, que tenía una mirada abierta, despierta que se clavaba en los ojos de quienes miraba como si les reconociera, como si pudiera hablar. Una mirada antigua, como si hubiera nacido después de haber vivido muchos siglos... Y a quien preguntaba su nombre, los padres orgullosos respondían:
+> -Birutia
+
+### Recompensas y despedidas 
+En la fiesta, Yndarr se acercó a Duncan:
+> -No tienes nada que preguntarme? -le espetó con irónico reproche.
+> -Muchas cosas -contestó Duncan- pero no sé como empezar a formularlas. Lo que sí recuerdo es que me prometieron algo y todavía no lo tengo. 
+> -Por supuesto, mi madre me dejó esto para ti.
+
+Y le mostró una vieja moneda de extraño sello: 
+![[obolodeerio.png]]
+> -Este es el óbolo de Erio. El Pasaje de la Muerte. Ponlo en la boca de quien haya partido, y la muerte lo traerá de vuelta, intacto, sin preguntas ni condiciones. 
+
+Yndarr continuó:
+> -Ya has conocido a tu ancestro. Le rezamos e imploramos su ayuda en la adversidad  y él nos envió a ti...
+> -Es él quien tiene que ver con Flambeau. - Interrumpió Duncan. 
+> -No recuerdo ese nombre de franco, pero sí de un *magus* como tú que hace siglos tomó un aprendiz de nuestra raza llamado Mikel. De nuestra raza y de tu sangre, la de Mikelats, el Hermano Negro, el hijo oscuro de la Mari. Su justicia y verdugo. Te está agradecido y te ha concedido un don mucho más preciado que esa moneda. El don de tu conocimiento. Ese conocimiento se imparte en el Túmulo de la Memoria, allí donde está sepultado y guardado todo nuestro conocimiento. Allí el tiempo se detendrá para ti para que obtengas todo el saber que desees tomar, algo que no está disponible a los hombres. Ese túmulo se abre para ti esta noche, pero no se volverá a abrir. 
+> -Sí, pero tengo una misión que cumplir con esta moneda...
+> -Puedes ceder esa moneda a otro. Es tuya también para regalarla. 
+> -Bien, en ese caso se la daré a quien la necesita y más la merece. Yo vine a esta tierra para comunicar a un padre la muerte de su hija. Encontré a su hija otra vez, pero para mí ya había muerto, y ha de descansar. Pero creo que es mas justo que tú la tengas.
+
+Y se dirigió a Beñat y le hizo entrega de la moneda. Beñat no tenía palabras pero unas lágrimas afloraron en sus ojos. Lágrimas de esperanza. 
+> -¿Y vas a dejar que Ainhoa se pudra? -exclamó Antxon indignado. 
+> -Mi deber hacia Ainhoa está cumplido. Es ahora la responsabilidad de Beñat qué hace con ella. Parte rápido a Zugarramurdi, Beñat, el hechizo de preservación no durará mucho más...
+> -Entonces no tenemos tiempo que perder. 
+
+El astado arquero se despidió de todos y emprendió el camino, acompañado de Antxon y sus primos. Sin Vela, ya que no podían encontrarle. 
+- Está a buen recaudo aquí, no os inquietéis por él. -tranquilizó Yndarr... 
+
+Hechas las despedidas. Yndarr volvió a dirigirse a Duncan:
+>-¿Preparado? 
+>-No lo sé, no se está preparado para esto nunca.
+>-Cierto. Debo decirte que para asegurarte la salida, puedes entrar acompañado de dos personas más. 
+
+Duncan pensó en Raoul pero pronto recordó que [[Eneko Zabaleta]] soñaba con aquel lugar de poder obsesivamente... Y también [[Martín de Goñi]].
+>-En efecto, -contestó Yndarr leyendo su mente- ellos fueron llamados a ese lugar para acompañarte, en dicha calidad pueden hacerlo.
+
+Los dos hombres aceptaron dado que entrar en aquel lugar era el tormento recurrente de sus sueños. 
+>-Es el momento de decir "Adios"- le recordó Yndarr. 
+
+Duncan se despidió emotivamente de sus amigos Raoul y [[Josué Ben Solomon]] que reemprenderían a la mañana siguiente el camino hacia [[Toledo]].
+>-No sé cuándo nos volveremos a ver...
+>-Nos encontrarás en Toledo...
+>-Es la hora -insistió Yndarr, implacable. 
+
+La sorgiña acompañó a los tres hombres hasta los [[Túmulos de Auntzin]]. Ante la invocación de la nueva matriarca de las [[Sorgiñak de Aralar]] las nieblas se elevaron, engullendo a los tres hombres con ellas, en aquel raro honor que no se concedía a los varones. Y así entraron, en el Túmulo de la Memoria. 
+
+![[el túmulo de la memoria-1.png]]
+
+## Un último epílogo 
+
+Varias jornadas separaban el camino entre Aralar y Zugarramurdi -en el confín norte del [[Baztán]]. Beñat y Antxon ya no cruzaban los caminos feéricos labrados por los [[Jentilak]] en el bosque, sabedores de sus precios y sus peligros. Pero no estaban libres de ellos. 
+
+Beñat despertó una mañana, más bien una tarde. Mareado y aturdido. Estaba solo. No había rastro de Antxon ni de sus primos. Habían partido sin él y sin saber por qué se había quedado dormido... o hechizado. ¿Por quién? No lo pudo adivinar pero entre las huellas que abandonaban aquel claro había otras rastros. Dos a pie, y la tercera de un caballo: un caballo de extraños cascos, unas huellas que jamás había visto.
+
+El héroe que había herido de muerte a Gabazkuak había sido traicionado. No era justo, pero el mal nunca es derrotado del todo. El apesadumbrado montaraz se había quedado sin su premio. Pero suya era la venganza... 
+
+**-- F I N --**
 
 --- 
 
 
-#exterater #intza #valledaraiz #zugarramurdi #iditxa #lamias #agotes #vasasdelainiquidad #reflejossiniestros #heraldosdelahambruna #tártalo #hauteclaire #saltusvasconum #duncandetremere #cultodelextranjeronegro #sorgiña #sorgiñakdeAralar #Aralar #lutines  #silfos  #Basajaun #Gaueko 
+#exterater #intza #valledaraiz #zugarramurdi #iditxa #lamias #agotes #vasasdelainiquidad #reflejossiniestros #heraldosdelahambruna #tartalo #hauteclaire #saltusvasconum #duncandetremere #cultodelextranjeronegro #sorgiña #sorgiñakdeAralar #Aralar #lutines #silfos #Basajaun #Gaueko  #jentilak #Baztán #Amaiur 
