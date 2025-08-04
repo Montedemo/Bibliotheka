@@ -758,7 +758,7 @@ Unos traguitos del odre les ayudó a recomponerse y seguir adelante, hacia la pr
 ## El puente del Diablo 
 El trecho del sendero les saca por fin del bosque y pueden respirar ante el cielo abierto a la luz del amanecer. El sendero y el bosque terminabann abruptamente ante un gran cortado, una escarpada hoz labrada por el curso tumultuoso de un arroyo que desciende desde los Pirineos. El sendero salía del bosque para cruzar un arriesgado puente de piedra labrado de la misma roca, como capricho o ingeniería de dioses, demonios o gigantes...  
 
-![[el puente del diablo _2_.png]]
+![[el puente del diablo _2_-1.png]]
 
 La niebla se arrastraba lentamente entre los valles profundos, como si no quisiera abandonar el secreto que guarda el desfiladero. Ante ellos se alzaba un puente de piedra ciclópea, arqueado sobre el abismo con una elegancia que contradecía su tamaño. Cubierto de musgo, raíces y tiempo, parecía más un fragmento del paisaje que una obra construida.  
 Los árboles crecían en sus extremos, como centinelas que hubieran olvidado a quién vigilaban. En lo más alto, la vegetación había comenzado a reclamarlo, mientras en su base, los riscos caían a una selva remota envuelta en brumas. El río que serpenteaba abajo apenas era un susurro. El sol luchaba por atravesar las nubes, tiñendo el aire de un resplandor dorado y melancólico.  
@@ -797,8 +797,9 @@ Asimismo no dejó de indicar que el nombre de ese lugar era Amaiur (Madre Tierra
 No quería descorazonarles pero les advirtió que si eran capturados, los agotes les harían suyos y acabarían engrosando sus filas nauseabundas. Ellos construyeron la torre del castillo para su nueva señora, Gabazkuak, una torre inexpugnable que se alza en lo alto y casi cuelga sobre el abismo. Solo tiene una entrada, y desde allí tiene el acceso a sus mazmorras, que horadan los huesos de nuestro santuario. Allí lleva a cabo las abominaciones más horrendas, porque aprende del dolor y de la enfermedad.
 
 El apuesto *jentil* se despidió deseándoles mucha suerte en su empresa y con dos rápidas zancadas, se marchó para desaparecer de su vista en un mero instante. 
+![[garganta de ardanbera-1.png]]
 
-## Camino de Maya 
+## Camino de Maya
 Mientras esperaban a que el aceite terminara de arder para tener seguro el paso del puente, el grupo deliberó arduamente sobre la estrategia a seguir y las tácticas a emplear. 
 
 No dudaron en que era mejor ahorrar tiempo corriendo riesgos por lo que ir por el atajo del bosque no se discutió, pero pronto el grupo empezó a vislumbrar la posibilidad de llevar a cabo una emboscada a Gabazkuak mientras se dirigía a [[Zugarramurdi]], con su comitiva, escolta, [[Eneka Ituren]] , su marido  convertido en perro y el bebé. Dedujeron que no tardaría en salir hacia allí ya que llevaba medio día de camino. Pero muchos desconfiaban de que una idea tan descabellada -saliéndose del plan- fuera sensata, pensando que un ataque sorpresivo en su cubil sería más efectivo, especialmente si se infiltraban por los aliviaderos. 
@@ -812,7 +813,7 @@ Pero la cuerva añadió algo más, había una presencia que sobrevolaba el casti
 
 ![[zirikuta.png]]
 
-Duncan determinó que debía de tratarse de su familiar -y siendo una hechicera infernalista, dicho familiar sería sin duda un demonio menor, un *famulus*, probablemente un lutín (ver [[Lutines]]) poderoso a su servicio y quien habría orquestado el ataque nocturno de los agotes retornados de la muerte... 
+Duncan determinó que debía de tratarse de su familiar -y siendo una hechicera infernal, dicho familiar sería sin duda un demonio menor, un *famulus*, probablemente un lutín (ver [[Lutines]]) poderoso a su servicio y quien habría orquestado el ataque nocturno de los agotes retornados de la muerte... 
 
 Esto les reafirmó a pasar de largo y organizar una emboscada en algún lugar apropiado del camino que atravesaba el [[Baztán]] de noreste a sureste (un ramal del camino de Santiago que cruzaba las estribaciones pirenaicas occidentales. Sin duda, el castillo de Maya no solo controlaba ese camino, sino todo el valle de Baztán desde su estratégica posición, y ni envueltos en el manto de sombras de Phaestus se sintieron a salvo del escrutinio de Gabazkuak... 
 
@@ -832,7 +833,7 @@ Después, otro tiro de seis agotes empujaba otro carruaje, este cubierto, para t
 
 Pero eso no era lo peor, dado que flanqueando el carruaje había sendas tres filas de agotes bien pertrechados, armados con lanzas y grandes escudos y, lo más temible, enormes: sus cabezas sobresalían con creces por encima del carruaje y debían alcanzar las tres varas de altura (más de 2 metros y medio) Supusieron que en aquel carruaje viajaba Gabazkuak. Cerrando el paso, otra unidad de veinte agotes, caminando con sus hachas y escudos en formación cerrada.  
 
-![[guardiasagotes.png]]
+![[guardiasagotes.png|0x0]]
 
 #### Ahora o nunca 
 Inmóviles, silentes e invisibles entre sí, el grupo se sentía paralizado por el miedo a empezar a destiempo, mientras la comitiva se desplazaba lenta pero inexorablemente. A punto estuvieron de perder esa oportunidad de ataque, hasta que  finalmente Antxon exclamó:
@@ -873,7 +874,9 @@ La sangre negra como savia podrida tocó la tierra. Gabazkuak lanzó una mirada 
  Birrutia, escoltada por Yndarr y las demás sorgiñak de Intza profirieron al unísono:
 > -¡Quien la lepra lleve que de sus partes sufra!
 
-Y todos los agotes que intentaron acercárse a ellas y cortárles el paso hacia Gabazkuak cayeron al suelo, presa de un inefable dolor en sus vergüenzas, retorciéndose miserables en el fango. Ahora las [[Sorgiñak de Aralar]] podían exhibir su poder. 
+Y todos los agotes que intentaron acercárse a ellas y cortárles el paso hacia Gabazkuak cayeron al suelo, presa de un inefable dolor en sus vergüenzas, retorciéndose miserables en el fango. Ahora las [[Sorgiñak de Aralar]] podían exhibir su poder.
+
+![[Birrutia3-1.png]]
 
 ## Sacrificio y castigo 
 
@@ -887,7 +890,7 @@ Gabazkuak henchida de ira, orgullo y rencor espetó:
 
 Pero las últimas de estas palabras se pronunciaron con el puñal de Gabazkuak hundido en el vientre de Birutia. Ante el estupor de todos, se ensañó, retorciendo y ascendiendo con su filo cortando vísceras y destrozando el vientre donde se gestó. Birrutia solo exhalo un pequeño grito de dolor, mientras apuntaba al cielo y mirando fijamente a su hija renegada, exhaló en un último suspiro:
 >-Te has condenado, has derramado LA SANGRE... DE TU SANGRE
-
+![[Gabazkuak1.png]]
 ### La justicia de la madre 
 Cuando el cuerpo sin vida de Birutia cayó al suelo, su peso resonó como un trueno. Pero inmediatamente pudieron comprobar que era un trueno real. Las nubes comenzaron a arremolinarse con velocidad vertiginosa, mientras se tenían de negro y lo que era un día soleado de primavera estaba a punto de convertirse en una pavorosa tormenta. Un viento que parecía nacer de la tierra misma elevó nubes de polvo sobre el cielo, que se desgranó en truenos y relámpagos. Finalmente, de las nubes, el polvo y el relámpago emergió una figura alada, majestuosa y terrible: alas negras, negro cabello, cuernos de venado negro que relampagueaban y una mano que era el mismo rayo devoledor. Era hermoso, e implacable... 
 >-¡Mikelats! - balbucearon con pavor la mayoría de los presentes.
@@ -898,6 +901,7 @@ Cuando el cuerpo sin vida de Birutia cayó al suelo, su peso resonó como un tru
 Incluso el rostro de Gabazkuak estaba paralizado por el pavor y apenas logro a esgrimir un grito -quizá tratando de traer la ayuda de su padre infernal, asfixiado por el haz de luz cegadora que desde la mano de la deidad vengadora cayó sobre la pérfida hechicera. Entonces, solo entonces, su grito se liberó, un aullido de desesperación, que duró un instante eterno en el que la abominable descubrió su aciago destino de un solo golpe, mientras se consume, transformada en cenizas.
 
 Los agotes comenzaron a huir en desbandada mientras un segundo rayo fulminó de un solo golpe la torre del castillo de Maya, que vieron convertida en lejana antorcha. 
+![[La destrucción de Maya.png]]
 
 ### La revelación del Extranjero Negro 
 Mikelats detuvo su vorágine de destrucción y se quedó mirando a Duncan. Le observó y le reconoció: 
@@ -905,12 +909,14 @@ Mikelats detuvo su vorágine de destrucción y se quedó mirando a Duncan. Le ob
 > Yo soy quien enseñó la hechicería a los mortales. Viajé por la tierra, esparcí mi semilla y mi conocimiento. Hablé y las mujeres escucharon.  
 > Ahora escúchame tú. Mi linaje está corrompido y mi nombre usurpado. Una araña anida donde tu viaje comenzó. Un ángel roba mis hazañas. Tu destino está trazado, pero yo te regalo la oportunidad de elegir y de olvidar y de aprender. Ese es mi don, sangre de mi sangre.
 
-Dejando a todos mudos y atónitos,en un aleteo reemprendió el vuelo y se alejó, hacia el noroeste, hacia la cumbre de una montaña: Larraun, una de las cumbres sagradas de Vasconia. Alía amainaba la tormenta y aparecía un sol brillante, que iluminaba su cima. Sobre ella, se alumbró un trono con forma de carnero dorato y sentado sobre eél, la figura de una mujer majestuosa, regia, vestida de rojo y de verde a la vez. Estaba rodeada de un coro de mujeres que cantaban su nombre y, a ellas, se unía un miembro más: una mujer hermosa y fuerte, que vísteis vieja, y que vivirá ahí para siempre, en el seno de la [[Mari]]. Un latigazo de fuego, como una serpiente de llamas voló alrededor y de un fogonazo, el resplandor se apagó y con él la visión. 
+Dejando a todos mudos y atónitos, en un aleteo reemprendió el vuelo y se alejó, hacia el noroeste, hacia la cumbre de una montaña: Larraun, una de las cumbres sagradas de Vasconia. Alía amainaba la tormenta y aparecía un sol brillante, que iluminaba su cima. Sobre ella, se alumbró un trono con forma de carnero dorato y sentado sobre eél, la figura de una mujer majestuosa, regia, vestida de rojo y de verde a la vez. Estaba rodeada de un coro de mujeres que cantaban su nombre y, a ellas, se unía un miembro más: una mujer hermosa y fuerte, que vísteis vieja, y que vivirá ahí para siempre, en el seno de la [[Mari]]. Un latigazo de fuego, como una serpiente de llamas voló alrededor y de un fogonazo, el resplandor se apagó y con él la visión. 
 
-### Retorno a Intza 
 Los agotes se retiraron en desbandada pero los que acudían a buscar refugio  a Maya -o el refuerzo de los que allí quedaran- se encontraron con una docena de figuras enormes que les cortaban el paso y les daban caza. 
 > -***¡JENTILAK!***
 
+![[ataquejentilak.png]]
+
+### Retorno a Intza
 Yndarr hizo oír su voz, alta serena y firme. 
 > -Arropaos todos, volvemos a casa!
 
@@ -959,7 +965,7 @@ Y se dirigió a Beñat y le hizo entrega de la moneda. Beñat no tenía palabras
 > -Entonces no tenemos tiempo que perder. 
 
 El astado arquero se despidió de todos y emprendió el camino, acompañado de Antxon y sus primos. Sin Vela, ya que no podían encontrarle. 
-- Está a buen recaudo aquí, no os inquietéis por él. -tranquilizó Yndarr... 
+> -Está a buen recaudo aquí, no os inquietéis por él. -tranquilizó Yndarr... 
 
 Hechas las despedidas. Yndarr volvió a dirigirse a Duncan:
 >-¿Preparado? 
@@ -967,7 +973,7 @@ Hechas las despedidas. Yndarr volvió a dirigirse a Duncan:
 >-Cierto. Debo decirte que para asegurarte la salida, puedes entrar acompañado de dos personas más. 
 
 Duncan pensó en Raoul pero pronto recordó que [[Eneko Zabaleta]] soñaba con aquel lugar de poder obsesivamente... Y también [[Martín de Goñi]].
->-En efecto, -contestó Yndarr leyendo su mente- ellos fueron llamados a ese lugar para acompañarte, en dicha calidad pueden hacerlo.
+>-En efecto, -contestó Yndarr leyendo su mente- ellos fueron llamados a ese lugar para acompañarte, aunque no lo supieran, estaban destinados a ello.
 
 Los dos hombres aceptaron dado que entrar en aquel lugar era el tormento recurrente de sus sueños. 
 >-Es el momento de decir "Adios"- le recordó Yndarr. 
@@ -985,7 +991,8 @@ La sorgiña acompañó a los tres hombres hasta los [[Túmulos de Auntzin]]. Ant
 
 Varias jornadas separaban el camino entre Aralar y Zugarramurdi -en el confín norte del [[Baztán]]. Beñat y Antxon ya no cruzaban los caminos feéricos labrados por los [[Jentilak]] en el bosque, sabedores de sus precios y sus peligros. Pero no estaban libres de ellos. 
 
-Beñat despertó una mañana, más bien una tarde. Mareado y aturdido. Estaba solo. No había rastro de Antxon ni de sus primos. Habían partido sin él y sin saber por qué se había quedado dormido... o hechizado. ¿Por quién? No lo pudo adivinar pero entre las huellas que abandonaban aquel claro había otras rastros. Dos a pie, y la tercera de un caballo: un caballo de extraños cascos, unas huellas que jamás había visto.
+Beñat despertó una mañana, más bien una tarde. Mareado y aturdido. Estaba solo. No había rastro de Antxon ni de sus primos. Habían partido sin él y sin saber por qué se había quedado dormido... o hechizado. ¿Por quién? ¿Y el Óbolo? ¡MÁLDICIÓN! Ya no lo tenía... Jamás debió confiar en las intenciones del Señor de Aia... 
+Observó los rastros. Había alguien más entre ellos, otras huellas:  Dos a pie, y la tercera de un caballo: un caballo de extraños cascos, unas huellas que jamás había visto.
 
 El héroe que había herido de muerte a Gabazkuak había sido traicionado. No era justo, pero el mal nunca es derrotado del todo. El apesadumbrado montaraz se había quedado sin su premio. Pero suya era la venganza... 
 
