@@ -757,7 +757,9 @@ Unos traguitos del odre les ayudó a recomponerse y seguir adelante, hacia la pr
 
 ## El puente del Diablo 
 El trecho del sendero les saca por fin del bosque y pueden respirar ante el cielo abierto a la luz del amanecer. El sendero y el bosque terminabann abruptamente ante un gran cortado, una escarpada hoz labrada por el curso tumultuoso de un arroyo que desciende desde los Pirineos. El sendero salía del bosque para cruzar un arriesgado puente de piedra labrado de la misma roca, como capricho o ingeniería de dioses, demonios o gigantes...  
+
 ![[el puente del diablo _2_.png]]
+
 La niebla se arrastraba lentamente entre los valles profundos, como si no quisiera abandonar el secreto que guarda el desfiladero. Ante ellos se alzaba un puente de piedra ciclópea, arqueado sobre el abismo con una elegancia que contradecía su tamaño. Cubierto de musgo, raíces y tiempo, parecía más un fragmento del paisaje que una obra construida.  
 Los árboles crecían en sus extremos, como centinelas que hubieran olvidado a quién vigilaban. En lo más alto, la vegetación había comenzado a reclamarlo, mientras en su base, los riscos caían a una selva remota envuelta en brumas. El río que serpenteaba abajo apenas era un susurro. El sol luchaba por atravesar las nubes, tiñendo el aire de un resplandor dorado y melancólico.  
 Frente a vosotros, el silencio. Sin pájaros. Sin viento. Solo el rumor lejano del agua... y el peso de algo antiguo. Muy antiguo
@@ -771,8 +773,11 @@ Nuestros héroes no lo dudaron ni un segundo y se dispusieron para disparar a lo
 Los agotes en la retaguardia lanzaron sus hachas sobre el gigante, alcancándole algunas de ellas, pero sin conseguir detener su raudo paso a través del puente. En cuanto este, que Beñat rápidamente reconoció como un *jentil* (ver [[Jentilak]]) en cuanto vio que el combate estaba igualado se giró sobre sus talones y enarbolando sus dos almádenas bloqueó el paso a todo agote que consiguiera cruzar. 
 
 > -"¡Son ellos!" - exclamó un agote. 
+> 
 > -"la señora los quiere vivos!" - replicó otro. 
+> 
 > -Os dije que no debíamos ir tras el *jentil*, se nos ha ido al traste la emboscada...
+> 
 > ***¡AGOTERRI!***
 
 Los agotes viendo el peligro, decidieron organizarse y cruzar el puente en formación cerrada -una organización que contrastaba con el descabellado ataque que lanzaron contra [[Intza]] el día anterior.. Pero las flechas, lanzas de llamas, nuevos hechizos de sueño y una superficie de aceite resbaladizo lanzada con un hechizo de Phaestus, fue menguando los números de los mismos. Phaestus prendió fuego al aceite, y varios agotes prefirieron tirarse por el abismo a ser presa de las llamas. Los pocos que consiguieron pasar fueron aplastados por las mazas del jentil. 
@@ -801,7 +806,7 @@ No dudaron en que era mejor ahorrar tiempo corriendo riesgos por lo que ir por e
 Tras un arduo debate, finalmente se fue imponiendo la idea de emboscarles en el camino y evitar el castillo -seguramente concebido como una trampa mortal para los intrusos. Así que apretaron el paso por el atajo -que se saldó sin incidentes importantes (aunque particularmente bochornoso para [[Beñat el Fauno]], el hijo del bosque, darse un tropezón que le causó una molesta torcedura, subsanada gracias al agua de Marimundoko de la que todavía disponían en abundancia en sus odres. )
 
 Vislumbraron la siniestra silueta del castillo cruzando sigilosamente bajo su sombra. Vela envió a la Cuerva Cornuda para que echara un vistazo y esta regresó rauda, avisando de que había muchos agotes y que parecían vigilantes. 
-> - Son muchos y nos esperan - indicó Vela 
+> -Son muchos y nos esperan - indicó Vela 
 
 Pero la cuerva añadió algo más, había una presencia que sobrevolaba el castillo, otro alado, una urraca, pero no una urraca cualquiera. Su plumaje tenía brillos verdosos, era tuerta, con un ojo velado y el otro vivo, con un brillo dorado...
 
@@ -824,6 +829,7 @@ Por el camino discurría un lento ejército de leprosos, marchando a paso conten
 Después, otro tiro de seis agotes empujaba otro carruaje, este cubierto, para transporte de pasajeros. Estaba conducido por una figura encapuchada y enmascarada con una siniestro pasamontañas de cuero, ornado con cuernos y colmillos de jabalí. La siniestra figura llevaba un cayado grabado con símbolos y cráneos y exhalaba una maldad primigenia. Lo reconocieron como el [[Bozate]], el patriarca de la tribu de agotes. 
 ![[image-237.png]]
 **El Bozate**
+
 Pero eso no era lo peor, dado que flanqueando el carruaje había sendas tres filas de agotes bien pertrechados, armados con lanzas y grandes escudos y, lo más temible, enormes: sus cabezas sobresalían con creces por encima del carruaje y debían alcanzar las tres varas de altura (más de 2 metros y medio) Supusieron que en aquel carruaje viajaba Gabazkuak. Cerrando el paso, otra unidad de veinte agotes, caminando con sus hachas y escudos en formación cerrada.  
 
 ![[guardiasagotes.png]]
@@ -983,7 +989,9 @@ Beñat despertó una mañana, más bien una tarde. Mareado y aturdido. Estaba so
 
 El héroe que había herido de muerte a Gabazkuak había sido traicionado. No era justo, pero el mal nunca es derrotado del todo. El apesadumbrado montaraz se había quedado sin su premio. Pero suya era la venganza... 
 
-**-- F I N --**
+![[beñatmairu.png]]
+
+**-- F I N    D E L    S E G U N D O   C A P Í T U L O --**
 
 --- 
 
