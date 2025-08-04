@@ -758,11 +758,9 @@ Unos traguitos del odre les ayudó a recomponerse y seguir adelante, hacia la pr
 ## El puente del Diablo 
 El trecho del sendero les saca por fin del bosque y pueden respirar ante el cielo abierto a la luz del amanecer. El sendero y el bosque terminabann abruptamente ante un gran cortado, una escarpada hoz labrada por el curso tumultuoso de un arroyo que desciende desde los Pirineos. El sendero salía del bosque para cruzar un arriesgado puente de piedra labrado de la misma roca, como capricho o ingeniería de dioses, demonios o gigantes...  
 
-![[el puente del diablo _2_-1.png]]
+![[el puente del diablo.png]]
 
-La niebla se arrastraba lentamente entre los valles profundos, como si no quisiera abandonar el secreto que guarda el desfiladero. Ante ellos se alzaba un puente de piedra ciclópea, arqueado sobre el abismo con una elegancia que contradecía su tamaño. Cubierto de musgo, raíces y tiempo, parecía más un fragmento del paisaje que una obra construida.  
-Los árboles crecían en sus extremos, como centinelas que hubieran olvidado a quién vigilaban. En lo más alto, la vegetación había comenzado a reclamarlo, mientras en su base, los riscos caían a una selva remota envuelta en brumas. El río que serpenteaba abajo apenas era un susurro. El sol luchaba por atravesar las nubes, tiñendo el aire de un resplandor dorado y melancólico.  
-Frente a vosotros, el silencio. Sin pájaros. Sin viento. Solo el rumor lejano del agua... y el peso de algo antiguo. Muy antiguo
+La niebla se arrastraba lentamente entre los valles profundos, como si no quisiera abandonar el secreto que guarda el desfiladero. Ante ellos se alzaba un puente de piedra ciclópea, arqueado sobre el abismo con una elegancia que contradecía su tamaño. Cubierto de musgo, raíces y tiempo, parecía más un fragmento del paisaje que una obra construida.  Los árboles crecían en sus extremos, como centinelas que hubieran olvidado a quién vigilaban. En lo más alto, la vegetación había comenzado a reclamarlo, mientras en su base, los riscos caían a una selva remota envuelta en brumas. El río que serpenteaba abajo apenas era un susurro. El sol luchaba por atravesar las nubes, tiñendo el aire de un resplandor dorado y melancólico.
 
 Pero la paz y la quietud del entorno pronto se vio interrumpida: a punto de cruzar por el puente una figura enorme que corría perseguido por una veintena de hombres aullantes armados con hachas, algunos trataban de alcanzarle con hachas arrojadas, sin éxito. El hombretón gigantesco se disponía a cruzar el puente y esa muchedumbre que le persigue estaba a punto de darle alcance. Sí, eran agotes...
 ![[image-233.png]]
