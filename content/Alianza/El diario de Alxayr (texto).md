@@ -34,8 +34,8 @@ _(Entrada del _Diarium Alxayr_, abril del año 1186)_
 > En mi alforja llevaba pan negro, un odre de vino y tablillas enceradas, donde deseo dejar memoria de lo que vea y escuche, para que no se pierda con mi olvido. Porque el hombre es débil, mas la escritura es fuerte, y lo que el viajero calla muere, pero lo que escribe permanece.
 > 
 > Así emprendí mi marcha hacia la tierra que los francos llaman **Gotia**, donde según se dice los trovadores hacen de la lengua un fuego y del amor un arte. Que Mercurio me guíe, que Mercere me inspire, y que mis pasos encuentren no solo fatiga, sino también belleza.
-> 
-> _(Aquí termina la primera entrada. El copista anota al margen: “El autor se extiende después en versos sobre la hermosura de Zaragoza y los mozos con quienes compartió la víspera; no hemos juzgado necesario traducir tales ligerezas.”)_
+
+(Aquí termina la primera entrada. El copista anota al margen) _El autor se extiende después en versos sobre la hermosura de Zaragoza y los mozos con quienes compartió la víspera; no hemos juzgado necesario traducir tales ligerezas.”)_
 
 ---
 
@@ -55,8 +55,9 @@ _(Entrada del _Diarium Alxayr_, abril del año 1186)_
 > Los monjes me recibieron con pan y vino, y uno de ellos, que conocía algo de árabe, me preguntó por Córdoba y por los poetas de Al-Ándalus. Conversamos largo rato en un claustro frío, y aunque sus preguntas eran torpes, vi en sus ojos deseo de saber.
 > 
 > Allí pasé la noche, escuchando los rezos que se elevaban contra la roca como humo contra el cielo. Pensaba yo en Mercurio, mensajero alado, que oye todas las lenguas y traduce los corazones, y recé en silencio para que el camino se abriera ante mí sin extravío.
-> 
-> _(Nota del copista: “Aquí el autor se explaya largamente en debates con los monjes sobre la virginidad de María y la naturaleza del alma. Hemos omitido esos pasajes por ser de poco provecho y cargados de ligereza juvenil.”)_
+
+
+(Nota del copista) _Aquí el autor se explaya largamente en debates con los monjes sobre la virginidad de María y la naturaleza del alma. Hemos omitido esos pasajes por ser de poco provecho y cargados de ligereza juvenil._
 
 ---
 
@@ -78,8 +79,8 @@ _(Entrada del _Diarium al-Shayr_, abril del año 1186)_
 > Descendí al fin hacia las vertientes septentrionales, y el aire se hizo más húmedo, y los bosques más espesos. El idioma cambió en boca de los pastores: ya no era romance de Aragón, sino una lengua nueva y cantarína, que llaman aquí gascón y en otras partes provenzal.
 > 
 > Así entré en **Bigorra**, condado de los gascones pirenaicos, donde las gentes viven de ganado y de pastos, y el pan es más negro, el vino más áspero y sus gentes recias y reservadas. Sin embargo, sus canciones eran dulces, y hallé en ellas un eco de las melodías de mi tierra.
-> 
-> _(Nota del copista: “Aquí el autor dedica muchas líneas a quejarse de la rudeza del vino y a describir con ironía a ciertos peregrinos francos. Por no ser materia grave, lo hemos dejado de lado.”)_
+
+  (Nota del copista) _Aquí el autor dedica muchas líneas a quejarse de la rudeza del vino y a describir con ironía a ciertos peregrinos francos. Por no ser materia grave, lo hemos dejado de lado._
 
 ---
 
@@ -92,8 +93,8 @@ _(Entrada del _Diarium Alxayr_, abril del año 1186)_
 > En Lourdes desestimé visitar la alianza de **Aedes Mercuri**, de la que dicen que es la más poderosa de los Pirineos y de todo el Tribunal de Provenza y que allí se sienta el praeco mismo. En Zaragoza me aconsejaron que buscara hospitalidad entre sus muros, pues la fama de su grandeza es extendida, y allí deciden cosas altas de la Orden. Pero yo pensé: _¿Qué me importan a mí las asambleas de los graves, si mi corazón no busca cetros ni dignidades, sino canciones y amores?_  De modo que pasé de largo, contento con mi mula, mis tablillas y la promesa de la música que me esperaba más al este.
 > 
 > En Tarbes, villa mayor del condado, encontré mercado bullicioso y calles llenas de humo, dormí aquella noche en casa de un posadero, y bebí vino agrio de la comarca, que sin embargo me supo dulce por la fatiga del camino. Escuché a los mozos cantar baladas antiguas, y aunque no entendí todas las palabras, comprendí que hablaban de amor y de nostalgia, que son lenguas universales.
-> 
-> _(Nota del copista: “El autor dedica aquí muchas páginas a burlarse de ciertos clérigos de Tarbes y a relatar compañías frívolas. Hemos omitido esas líneas, por ser indignas de perpetuación.”)_
+
+(Nota del copista) _El autor dedica aquí muchas páginas a burlarse de ciertos clérigos de Tarbes y a relatar compañías frívolas. Hemos omitido esas líneas, por ser indignas de perpetuación.
 
 ---
 
@@ -120,8 +121,10 @@ _(Entrada del _Diarium Axayr_, fines de abril del año 1186)_
 > Fue en esos días cuando oí nombrar repetidamente a **Raimon de Sent Geli**, heredero de la casa condal, al que muchos ya llaman protector de los poetas y de los eruditos. Dicen que en su corte hallan abrigo tanto trovadores como filósofos, y que no rechaza la compañía de hombres que buscan la verdad aunque su fe sea otra. Algunos murmuran que mira con benevolencia a los llamados _albigenses_, que predican con fervor en estas tierras; mas otros alaban en él la generosidad y la cortesía, que enaltecen más que un ejército. Yo vi en ello el signo de una ciudad donde la palabra es poder y el canto es arma más fuerte que la lanza.
 > 
 > No negaré que en Tolosa hallé también amistades más íntimas, pues el calor de la música enciende otros fuegos. Pero de eso no hablaré, que los copistas cristianos son severos con tales materias.
-> 
-> _(Nota del copista: “En este capítulo el autor incluye varios versos en lengua vulgar, que no hemos trasladado por carecer de dignidad. Asimismo, refiere ciertos devaneos nocturnos, que omitimos por decoro.”)_
+
+
+(Nota del copista) _En este capítulo el autor incluye varios versos en lengua vulgar, que no hemos trasladado por carecer de dignidad. Asimismo, refiere ciertos devaneos nocturnos, que omitimos por decoro._
+
 ---
 
 
@@ -138,8 +141,9 @@ _(Entrada del _Diarium al-Shayr_, mayo del año 1186)_
 > El clima mismo era distinto: en Bellaquin siempre luce el tiempo propicio, aunque cambien las estaciones. Así pude ver flores tempranas, brisas suaves y un sol que doraba los muros. Me pareció como si Mercurio hubiera bendecido aquel lugar con una sonrisa, para que nunca faltara inspiración a quienes allí moran.
 > 
 > A mi llegada fui recibido por hombres y mujeres que no me trataron como extranjero, sino como amigo esperado. Entre ellos estaba **Valgravian de Jerbiton**, de quien más adelante hablaré, pues su hospitalidad y su saber exceden cuanto pudiera yo poner en estas páginas.
-> 
-> _(Nota del copista: “El autor dedica varias páginas a describir jardines, banquetes y cantares en Bellaquin. Hemos abreviado, pues la abundancia de lo escrito excedía lo necesario.”)_
+
+
+ (Nota del copista): _El autor dedica varias páginas a describir jardines, banquetes y cantares en Bellaquin. Hemos abreviado, pues la abundancia de lo escrito excedía lo necesario._
 
 ---
 
@@ -158,8 +162,9 @@ _(Entrada del _Diarium Alxayr_, verano del año 1186)_
 > Porque la **Provenza** misma, aún más que Arles, es un vasto jardín de trovadores y de ***lo gay saber*** como definen los trobadores a su arte. Allí las damas no son mudas, sino que alzan voz en poesía: la condesa **Beatriz de Día** compone sus propios versos con dulzura encendida, y la condesa de **Forcalquier** se dice mecenas generosa de trovadores. Vi con asombro cómo las mujeres son en esta tierra no solo inspiradoras, sino protagonistas de la cultura, y pensé que el amor cortés es arte tanto de damas como de caballeros.
 > 
 > Mas después de haber visto el río con sus barcazas, el puerto con sus contratos, y las cortes con sus cantares, pensé: _Ya tengo bastante de Provenza. El comercio y la pompa no son para mí. Lo que mi corazón desea es volver a Bellaquin, donde la música nunca calla y donde el aire mismo está templado para la poesía._ Y así regresé al Aveyron, más ansioso aún de beber del paraíso bucólico de los Jerbiton.
-> 
-> _(Nota del copista: “El autor compuso aquí largas listas de nombres de trovadores y damas que lo hospedaron; por ser inmoderadas, las hemos abreviado. Asimismo, hace comparaciones atrevidas entre Mercurio y Venus, que no hemos trasladado.”)_
+
+
+ (Nota del copista) _El autor compuso aquí largas listas de nombres de trovadores y damas que lo hospedaron; por ser inmoderadas, las hemos abreviado. Asimismo, hace comparaciones atrevidas entre Mercurio y Venus, que no hemos trasladado.)_
 
 ---
 
@@ -177,8 +182,8 @@ _(Entrada del _Diarium al-Shayr_, verano del año 1186)_
 > Ahora comprendo que por eso no me sedujeron las tierras del Ródano: porque ya había encontrado en Bellaquin la fuente de mi inspiración. Allí donde estaba mi amigo, allí estaba mi patria.
 > 
 > Así pasamos las noches de verano, entre risas y danzas bajo faroles encantados, o tendidos en la hierba componiendo versos hasta que el alba nos sorprendía. Y escribo esto no para ornamento de otros, sino para memoria mía: pues sé que todo lo que se canta y se goza se disipa como humo, salvo lo que queda en la palabra escrita.
-> 
-> _(Nota del copista: “El autor abunda aquí en versos licenciosos y alusiones demasiado encendidas a cierta amistad. Hemos suavizado su relato, llamándole simplemente _amicus_. No juzgue el lector con severidad, pues era joven y dado a excesos.”)_
+
+ (Nota del copista) _El autor abunda aquí en versos licenciosos y alusiones demasiado encendidas a cierta amistad. Hemos suavizado su relato, llamándole simplemente _amicus_. No juzgue el lector con severidad, pues era joven y dado a excesos.)_
 
 ---
 
@@ -199,8 +204,9 @@ _(Entrada del _Diarium Alxayr_, otoño del año 1186)_
 > Semanas más tarde llegó un emisario con presentes de **Consuelia de Guernicus**, la ductrix y fundadora de Crista Nebulae. Ella envió como disculpa una **cítola encantada**, cuyas cuerdas nunca se desafinan y que al tocarse hacen florecer lirios a su alrededor. Con este don se templó la afrenta y se mantuvo la amistad entre ambas alianzas.
 > 
 > Yo mismo vi la cítola en manos de Henry, que la acariciaba con dulzura, aunque sus ojos guardaban aún la herida de su laúd perdido. Pensé entonces: _Grimgroth levantó una torre para desafiar al cielo, mas Henry levantó versos que desarman corazones. El primero venció en su Certamen, pero el segundo salió vencedor en la memoria de todos._
-> 
-> _(Nota del copista: “El autor refiere este suceso con mucha ironía, llamando a Grimgroth puerilis et crudelis. Por respeto hemos mitigado sus palabras, pero se conserva lo esencial.”)_
+
+
+  (Nota del copista) _El autor refiere este suceso con mucha ironía, llamando a Grimgroth puerilis et crudelis. Por respeto hemos mitigado sus palabras, pero se conserva lo esencial.)
 
 ---
 
@@ -217,8 +223,9 @@ _(Entrada del _Diarium Alxayr, invierno del año 1186–1187)_
 > Escuché este relato entre la nieve ligera, mientras los magi recitaban versos y las lámparas mágicas hacían brillar los muros inacabados. Y pensé: _Si los francos levantan torres para desafiar al cielo, Bellaquino levantó un paraíso para consolar al alma._
 > 
 > En aquellos días traté más de cerca a **Valgravian de Jerbiton**, uno de los próceres de la alianza y gran músico también. Su hospitalidad era tan grande que aún temo exagerar al describirla. Me ofreció no solo refugio y manjares, sino también la compañía de los más exquisitos artistas, y alentó mi escritura como si hubiera sido un tesoro.
-> 
-> *(Colofón del traductor latino en Bellaquin)*: _Por mandato del señor Valgravian he vertido fielmente las palabras del autor, sin atenuar sus elogios ni añadir glosas que los disminuyan. Si a algún lector le parecen hiperbólicos, sepa que así los escribió al-Shayr y así se conservan._
+
+
+  (Colofón del traductor latino en Bellaquin) _Por mandato del señor Valgravian he vertido fielmente las palabras del autor, sin atenuar sus elogios ni añadir glosas que los disminuyan. Si a algún lector le parecen hiperbólicos, sepa que así los escribió al-Shayr y así se conservan._
 
 ---
 
@@ -238,8 +245,8 @@ _(Entrada del _Diarium Alxayr, primavera del año 1187)_
 > Despedíme de **Valgravian de Jerbiton**, cuya liberalitas excede cuanto pueda escribirse. Él me abrazó como a un hijo y me dijo: _«Las puertas de Bellaquin estarán siempre abiertas para ti»._
 > 
 > Partí, pues, con corazón dividido: alegre por llevar conmigo a mi amigo, triste por dejar atrás un lugar donde cada día era certamen y cada noche banquete. Al cruzar el valle del **Aveyron**, volví la vista una vez más, y vi las torres inacabadas brillar al sol entre jardines. Pensé que nunca en mi vida volvería a hallar otro refugio tan perfecto, y escribí en mis tablillas: _«La belleza de Bellaquin no es de piedra, sino de música; y quien la deja atrás, lleva consigo su nostalgia como herida dulce»._
-> 
-> _(Colofón del traductor latino en Bellaquin: “Así concluye la estancia del autor en Bellaquin, según su propia pluma. Por mandato de mi señor Valgravian lo he vertido sin añadidura ni corte.”)_
+
+ (Colofón del traductor latino) _Así concluye la estancia del autor en Bellaquin, según su propia pluma. Por mandato de mi señor Valgravian lo he vertido sin añadidura ni corte.”)_
 
 ---
 
@@ -256,6 +263,8 @@ _(Entrada del _Diarium Alxayr, 25 de abril del año 1187)_
 > Entramos sin demora, mi **amicus** y yo, con las mulas cansadas. Nos alojamos en una posada cercana a la muralla. La gente habla en voz baja, y al mirarnos baja los ojos. No sé si nos temen o si temen otra cosa.
 > 
 > El aire aquí es distinto al de Bellaquin o Tolosa. No hay música en las calles. Solo el rumor de pasos apresurados y el eco de las torres. Siento, aunque no sé por qué, que la ciudad guarda un secreto. Esta noche apenas he podido dormir: cada vez que cierro los ojos veo la silueta del castillo recortada contra la luna.
+
+(Nota del traductor): _A partir de aquí los folios de pergamino cesan. El autor prosigue en tablillas de cera, de las que se copiaron estos pasajes con dificultad. He mantenido las frases quebradas y las repeticiones. No es error de copia.
 
 ---
 
@@ -295,6 +304,8 @@ _(Entrada del _Diarium al-Shayr_, 27 de abril del año 1187)_
 > 
 > Esta noche vuelvo a temer el sueño. Presiento que algo aguarda tras las torres, como un animal invisible que rodea la ciudad. Si mañana escribo, será porque me queda voz para hacerlo.
 
+(Nota del copista) _En esta tablilla el autor parece haber raspado y vuelto a escribir varias veces. Se leen huellas de palabras borradas: “no escribir — no decir — callar”.  He dejado constancia de los huecos.
+
 ---
 
 
@@ -309,6 +320,8 @@ _(Entrada del _Diarium Alxayr, 28 de abril del año 1187)_
 > La suerte, sin embargo, se volvió. El altercado fue presenciado por un hombre del barón de estas tierras, que al oír que yo era **trovador de lejanas comarcas** decidió conducirme a su señor. «Más honra será para vos cantar en la corte», me dijo. Y así, mientras los hospitalarios cerraban sus puertas, nosotros tomamos camino hacia el **castillo de Verodún**.
 > 
 > No sé si debo sentir alivio o inquietud. Las torres de Verodún se alzan oscuras sobre la garganta del valle, y esta noche cantaré no en taberna ni hospedería, sino ante un barón cuyo rostro aún ignoro. Algo en mi corazón me dice que la senda que empezó en Bellaquin se ha vuelto más áspera, y que cada puerta cerrada me conduce a lugares más sombríos.
+
+(Nota del traductor) _El tono se torna inmediato, casi taquigráfico. Parece escrito en el mismo camino. El texto presenta cambios de persona y saltos que se han respetado.
 
 ---
 
@@ -336,6 +349,8 @@ _(Entrada del _Diarium al-Shayr_, 29 de abril del año 1187)_
 > Le repliqué que el cielo augura sol, y que la lluvia vendrá dentro de dos días. Pero él insistía: no hablaba del clima. «La Tempestad», la llamó, con ojos tan serios que parecía anciano. Comprendí entonces que buscaba un pretexto para retenerme, y aun así me inquietó.
 > 
 > Reí, le guiñé un ojo: «Sí, la tempestad… la que hierve en esa cabezota tuya. Se te pasará». Mas cuando se alejó, quedé pensando: ¿y si no era deseo, sino aviso? Recordé la tensa discusión en Bellaquin sobre el lugar, la alianza, de Ventocaelatus ubicada en tierras de Fois en un lugar llamado el Caireforc. Quizá debiera haber tomado el paso por Crista Nebulae que evitamos por no volver a ver al petulante Grimgroth. Pero no quería quedarme en Verodun ni una sola noche más... ¿Obraba correctamente al querer partir tan apresuradamente? 
+
+(Nota del copista): _Estas tablillas estaban manchadas de vino y humo. La caligrafía es más firme, como si el autor hubiese querido “volver” al estilo inicial, pero pronto caen otra vez en frases abruptas.
 
 ---
 
@@ -410,6 +425,12 @@ Larix señala las torres rechonchas unidas al gran edificio: los señores viven 
 > Ahora rezaré, **a mi modo**. Daré gracias por la vida. Y me meteré en ese lecho **antiguo y tentador** para buscar unas horas de **olvido**.
 > **Si despierto**, escribiré. Si **no**, que quien halle estas páginas entienda: **la tempestad no estaba en el cielo**. Está **aquí**, **atada a cada orden**, a cada puerta **tapiada**, a cada **ojo** que mira **desde la torre cerrada**.
 
+(Colofón del traductor )
+_A partir de esta entrada, el manuscrito de Al-Shayr ya no es pergamino, sino tablillas enceradas. La copia presenta repetidas raspaduras, lagunas y frases inacabadas. He trasladado al latín con la mayor fidelidad posible, conservando las repeticiones y los cortes bruscos. El lector advertirá que ya no se trata de una rihla compuesta al escritorio, sino de notas tomadas en el mismo trance del viaje._
+
+(Nota del copista)
+_En esta tablilla inicial del tramo de Ventocaelatus la escritura es temblorosa, con signos de haber sido grabada a toda prisa. Varias frases aparecen duplicadas, como si el autor dudara de su propia memoria. Se han perdido fragmentos en los bordes, donde la cera estaba rota. En un margen se distinguía: «_¿por qué sigo escribiendo?_» —tachado con violencia._
+
 ---
 
 
@@ -426,9 +447,9 @@ _(Entrada del _Diarium Alxayr, 2 de mayo del año 1187)_
 > 
 > Al alba, rumor entre arrieros: **«Mateo ha desaparecido.»** Dicen que salió a orinar antes del amanecer. **No volvió.** **Botas junto a la puerta.** Nada más. **Ni rastro, ni huella.**
 
-> **(Colofón del traductor latino en Bellaquin)**: Se conserva el orden y la aspereza del estilo, según mandó mi señor Valgravian._
+ (Colofón del traductor latino ) _Se conserva el orden y la aspereza del estilo, según mandó mi señor Valgravian._
 
-> **(Nota del copista de Bellaquin)**: _El nombre del compañero se omite en todo el cuaderno por voluntad del autor. No hemos suplido tal vacío._
+ (Nota del copista ) _El nombre del compañero se omite en todo el cuaderno por voluntad del autor. No hemos suplido tal vacío._
 
 ---
 
@@ -468,9 +489,8 @@ _(Entrada del _Diarium Alxayr, 3 de mayo del año 1187)_
 > 
 > Desde esa noche, **sueños de sangre**. Un **rumor** constante en los oídos, siquiera en el silencio. **Cierro los ojos** y veo **rostros sin carne**. **Nombres** que nadie me enseñó **se ponen de pie** y me hablan.
 
-> **(Colofón del traductor latino en Bellaquin)**: _He preservado los nombres y la forma del convivium. El humo verdoso se repite en tres folios: no es lapsus._
-
-> **(Nota del copista de Bellaquin)**: _Cellemon habla de “muros antiguos”. El autor no explica su origen; nada añade el archivo._
+(Colofón del traductor latino) _He preservado los nombres y la forma del convivium. El humo verdoso se repite en tres folios: no es lapsus._
+(Nota del copista): _Cellemon habla de “muros antiguos”. El autor no explica su origen; nada añade el archivo.
 
 ---
 
@@ -488,9 +508,8 @@ _(Entrada del _Diarium Alxayr_, 4 de mayo del año 1187)_
 > 
 > Dicen que **hombres del Barón** les siguen a distancia. Dicen que **no aprenderán** nunca.
 
-> **Colofón del traductor latino en Bellaquin**: _El “Batallón Insomne” se nombra así en el manuscrito. No hallo otra mención. Mantengo la literalidad._
-
-> **Nota del copista de Bellaquin**: _El ejército salió sin víveres ni bagajes. El autor no comenta cómo ni cuándo comen o duermen._
+(Colofón del traductor latino): _El “Batallón Insomne” se nombra así en el manuscrito. No hallo otra mención. Mantengo la literalidad._
+(Nota del copista de Bellaquin:) El ejército salió sin víveres ni bagajes. El autor no comenta cómo ni cuándo comen o duermen._
 
 ---
 
@@ -520,10 +539,11 @@ _(Entrada del _Diarium al-Shayr_, 5 de mayo del año 1187 — final inconcluso)_
 > **No** me quedaré otra noche.  
 > **No** esperaré explicaciones.  
 > **No** sabré por qué me **han mantenido vivo** hasta ahora.
->
-> **(Colofón del traductor latino en Bellaquin)**: _El folio se interrumpe aquí. Hay huellas de dedos ennegrecidos. Pasan dos hojas en blanco y reaparecen líneas con tinta corrida._
->
-> **(Nota del copista de Bellaquin=**: _Desde aquí, el orden de las frases es incierto. Transcribo lo legible._
+
+
+(Colofón del traductor latino): _El folio se interrumpe aquí. Hay huellas de dedos ennegrecidos. Pasan dos hojas en blanco y reaparecen líneas con tinta corrida._
+
+ (Nota del copista):  _Desde aquí, el orden de las frases es incierto. Transcribo lo legible._
 
 ---
 
@@ -541,5 +561,7 @@ _(líneas dispersas entre manchas de tinta y sangre)_
 >
 > **Última página, sin datar — al margen, con carbón:**  
 > _«Si estas palabras encuentras, **no regreses**. Que el **viento** te hable y te avise. **En lo alto**, la **piedra llora** con lenguas humanas.»_
->
-> **(Colofón del traductor latino en Bellaquin)**: _A partir de este punto, no hay más cuartillas. He cotejado el legajo: faltan al menos tres. La presente copia se cierra por mandato de mi señor Valgravian, sin añadir glosas._
+
+--- 
+
+ (Colofón del traductor latino en Bellaquin): _A partir de este punto, no hay más cuartillas. He cotejado el legajo: faltan al menos tres. La presente copia se cierra por mandato de mi señor Valgravian, sin añadir glosas._
