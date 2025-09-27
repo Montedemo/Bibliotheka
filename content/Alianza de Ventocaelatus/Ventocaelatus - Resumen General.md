@@ -61,7 +61,7 @@
 
 ---
 
-# Ventajas y Trabas (21/32)
+# Ventajas y Trabas (21/34)
 
 ## Sobre el entorno (1/6)
 Se considera "Entorno de la alianza" todo lugar que se pueda alcanzar en un día de ida y vuelta como máximo. (7-8 horas de ida y 7-8 horas de vuelta). 
