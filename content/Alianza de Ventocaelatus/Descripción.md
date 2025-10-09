@@ -88,12 +88,11 @@ La basílica es sólida y compacta, con muros reforzados en contrafuerte que alc
 ---
 
 ### Planta Baja (Cripta)
-![[Planta Suelo.webp]]
-Angosta, sucia y de muros angulosos y estrechos. Huele fatal: mezcla de animales, hombres, cocinas, y talleres diversos.
 
+Angosta, sucia y de muros angulosos y estrechos. Huele fatal: mezcla de animales, hombres, cocinas, y talleres diversos.
+![[Planta Sueloredux.webp]]
 > **Larix recuerda:**
 >  Un hervidero de actividad en sus años de esplendor...  una procesión de caminantes sin voluntad en sus años finales. 
-
 
 #### A-Cuerpo de entrada 
 Paso a través de los muros de la basílica, formado por dos módulos de 2 x 2 metros. Separados por dos puertas enrejadas y un portalón final, recubierto de metal. 
