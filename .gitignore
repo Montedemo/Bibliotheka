@@ -10,3 +10,6 @@ private/
 .replit
 replit.nix
 copy_content.py
+public/
+dist/
+quartz-cache/
