@@ -42,7 +42,7 @@ La idea base es tener 12 meses del gran año equinoccial o eras astrológicas de
 
 Dado que no es posible un acercamiento riguroso ya que las constelaciones son figuras arbitrarias y por lo tanto no existe una forma de establecer límites formales (rigurosos, sí, formales no, en el sentido de que no hay un criterio que no sea relativamente arbitrario para determinar si una constelación tendrá 27, 29, 32 o 34 grados de arco), que no sean 123 sectores angulares de 30º cada uno. 
 
-Si bien oficialmente, la Orden utiliza un criterio de fidelidad a la longitud de las constelaciones zodiacales, con arcos de longitud dispar, no son pocos los magi los que abogan por un sistema homogéneo. Esto es especialmente patente en magi cristianos que quieren que el final de la edad de Aries coincida con el nacimiento de Jesucristo, inaugurando así la edad de Piscis; pero las reuniones del Gran Tribunal de [[Durenmar]] siguen datando sus actas en la edad de Aries, (iniciada en el -139 a.C.) y aunque la edad de Piscis está cerca, nos encontramos aún en ella. 
+Si bien oficialmente, la Orden utiliza un criterio de fidelidad a la longitud de las constelaciones zodiacales, con arcos de longitud dispar, no son pocos los magi los que abogan por un sistema homogéneo. Esto es especialmente patente en magi cristianos que quieren que el final de la edad de Aries coincida con el nacimiento de Jesucristo, inaugurando así la edad de Piscis; pero las reuniones del Gran Tribunal de [[Durenmar]] siguen datando sus actas en la edad de Aries, (iniciada en el -139 a.C.) y aunque la edad de Piscis está cerca, no nos encontramos aún en ella. 
 
 Algunos magi agoreros vaticinan que el final de Aries será el de la Orden de Hermes. 
 
