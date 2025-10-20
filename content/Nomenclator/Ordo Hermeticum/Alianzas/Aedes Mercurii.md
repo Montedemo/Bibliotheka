@@ -51,7 +51,8 @@ La alianza cuenta con otras localizaciones que considera como propias, aunque ni
 Había otro portal de entrada al complejo en el borde oriental de los Pirineos, al norte de Gerona ¿[[Canigón]] ?, aunque ese también fue abandonado, junto con el portal a la propia Val-Negra, al comienzo de la Guerra del Cisma.‌
 Conserva, no obstante, el domino sobre otros muchos lugares a lo largo de los Pirineos y en sus ambas vertientes -razón principal por la que las tierras meridionales anexas a la cordillera se consideran parte del Tribunal Provenzal y no del Tribunal Ibérico, al haberlas heredado de Val-Negra. Así, Aedes Mercurii se arroga el dominio de un gran número de fuentes de vis, explotaciones mineras, bosques y pastos, peajes, ferrerías, etc. en muy diversos puntos de las tierras pirenaicas y toda joven alianza que quiera expandirse y encuentre un determinado recurso que parece no estar en manos de ningún poder mundano deberá preguntarse si no habrá sido reclamada antes por Aedes Mercurii.
 
-[![](https://www.worldanvil.com/uploads/images/9d40936b83499d24f9e88b5d02659662.png)](https://www.worldanvil.com/i/4821598)
+![[image-265.png]]
+
 ### Acceso al Monte Celidar
 Está construida en lo más alto del Pico de Miedia d'Aussau  que los magi herméticos conocen con el arcano nombre de Monte Celidar, aunque popularmente el monte es conocido como Los Gemelos, al tener una doble cumbre. Puede verse la montaña desde muchas millas en la distancia, y con todos los Pirineos extendiéndose a lo largo y ancho en toda su majestad, forma un lugar frío, desolado e increíblemente hermoso‌
 
