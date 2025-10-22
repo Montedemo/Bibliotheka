@@ -77,7 +77,7 @@ Al atardecer del miércoles, el día de Mercurio, el tañido de una enorme campa
 
 ![[image-271.png]]
 
-Los sacerdotes mercurianos de menor rango, entonaban plegarias y cánticos mientras hacían ofrendas de incienso y hierbas sobre urnas y braseros encendidos. Los numerosos magi cristianos no dejaban de expresar su hartazgo pero los mercurianos prestaban caso omiso a las quejas y continuaban con sus ritos auspiciatorios. Un magister camarae (chambelán) apareció con su vara y comenzó a ir llamando, a tres golpes de la misma a las diferentes delegaciones, que fueron cruzando parsimoniosamente la antesala para ir cruzando, una a una, el el gran portalón. 
+Los sacerdotes mercurianos de menor rango, entonaban plegarias y cánticos mientras hacían ofrendas de incienso y hierbas sobre urnas y braseros encendidos. Los numerosos magi cristianos no dejaban de expresar su hartazgo pero los mercurianos prestaban caso omiso a las quejas y continuaban con sus ritos auspiciatorios. Un magister camerae (chambelán) apareció con su vara y comenzó a ir llamando, a tres golpes de la misma a las diferentes delegaciones, que fueron cruzando parsimoniosamente la antesala para ir cruzando, una a una, el el gran portalón. 
 
 Los primeros en acudir fueron los magi de [[Tolosa Palladia]], que como la alianza más antigua de Provenza tenía ese privilegio. Un grupo de magi, hombres y mujeres, de aspecto noble y distinguido  hicieron entonces su entrada, con cada movimiento coreográficamente estudiado para demostrar su conocimiento y familiaridad con el evento. 
 > Mucha pompa y poca sustancia 
@@ -99,7 +99,7 @@ Los jóvenes magi de [[Lariander]], que habían lavado los ropajes con los que l
 ![[image-272.png]]
 **Valgravian de Jerbiton, miembro de Bellaquin**.
 
-La insigne [[Castra Solis]] con el primus [[Garus]] de Flambeau al frente seguido de un nutrido grupo de jovenes *milites* y cerrando con los venerables Legionarios de Mitra,  desfiló marcial ante la admiración de todos los partidarios de la facción cristiana, y de nuestro joven [[Periklés]] . Phaestus no pudo contener su desprecio hacia la enconada rival de Aedes Mercurii y la domus magna de Flambeau. 
+La insigne [[Castra Solis]] con el joven primus [[Garus]] de Flambeau al frente seguido de un nutrido grupo de jovenes *milites* y cerrando con los venerables Legionarios de Mitra,  desfiló marcial ante la admiración de todos los partidarios de la facción cristiana, y de nuestro joven [[Periklés]] . Phaestus no pudo contener su desprecio hacia la enconada rival de Aedes Mercurii y la domus magna de Flambeau. 
 > Un meapilas arrogante que vive en un establo y se precia de ser el sucesor del Fundador . Solo faltaría que hubiera entrado con su caballo cagándolo todo. 
 
 ![[image-501.png]]
@@ -108,19 +108,19 @@ La insigne [[Castra Solis]] con el primus [[Garus]] de Flambeau al frente seguid
 Tras el paso del ejército Flambeau, Phaestus hizo un rápido mutis para incorporarse...
 > Me toca, nos veremos después
 
-La anfitriona, Aedes Mercurii, tenía el privilegio de entrar la última, y las puertas del Templo se abrieron de par en par para dar paso a la comitiva de sacerdotes, flamines y pontífices del Culto de Mercurio.  Estos últimos, de avanzadísima edad, entraban en su mayoría sobre palanquines, exhibiendo joyas en todos sus dedos, su tesoro portátil de vis. Finalmente, entre lictores y queasitores, hicieron su entrada el Praeco y el Quaesitor praesidens, que avanzaron ceremoniosamente y se sentaron en sus respectivos tronos. Un grupo de sacerdotes mercurianos tenían el honor de barrer con escobas de mirto el suelo al paso de esta pareja, repitiendo una antigua ceremonia cuyo simbolismo se había olvidado ya. En total, una veintena de magi, vestidos austermente con ropajes oscuros, los mercurianos totalmente de negro, de rojo carmesí el quesitor preaesidens y el Praeco de negro con un manto púrpura, orlado en hilo de oro y plata. 
+La anfitriona, Aedes Mercurii, tenía el privilegio de entrar la última, y las puertas del Templo se abrieron de par en par para dar paso a la comitiva de sacerdotes, flamines y pontífices del Culto de Mercurio.  Estos últimos, de avanzadísima edad, entraban en su mayoría sobre palanquines, exhibiendo joyas en todos sus dedos, su tesoro portátil de vis. Finalmente, entre lictores y queasitores, hicieron su entrada el Praeco y el Quaesitor praesidens, que avanzaron ceremoniosamente y se sentaron en sus respectivos tronos. Un grupo de sacerdotes mercurianos tenían el honor de barrer con escobas de mirto el suelo al paso de esta pareja, repitiendo una antigua ceremonia cuyo simbolismo se había olvidado ya. En total, una veintena de magi, vestidos austeramente con ropajes oscuros, los mercurianos totalmente de negro, de rojo carmesí el quesitor preaesidens y el Praeco de negro con un manto púrpura, orlado en hilo de oro y plata. 
 ![[z_Assets/image-273.png]]
 
 Los asistentes debían permanecer de pie y en silencio en el interior del templo. Protantus, el Quesitor Praesidens tomó el asiento central. 
 ![[image-274.png]]
 **Protantus, el Quaesitor Praesidens**
 
-Tras tomar asiento, el praeco se levantó para dar unas palabras de bienvenida, abriendo oficialmente el Tribunal, dando paso a los legados foráneos con pequeñas representaciones enviadas desde Iberia -integrada por el futuro praeco ibérico Ezra Ben Selomoh al-Bonisagi, acompañado de quaesitores de [[Duresca]] y Boinas Rojas de [[Aedes Saturni]]. El Tribunal NOrmando envió una legación de quaesitores desde [[Confluensis]], al igual que el Tribunal Romano desde [[Magvillus]]. De los Alpes, el Primus Andru de Jerbiton envió a uno de sus fili, acomañado de un par de jóvenes bonisagi de [[Durenmar]]. También venía un exótico grupo desde el [[Tribunal de Levante]] con ánimo de promocionarlo como lugar en expansión y posibilidades. Otras veces solían venir gente del Tribunal de Tebas pero este año no habían sido invitados... 
+Tras tomar asiento, el praeco se levantó para dar unas palabras de bienvenida, abriendo oficialmente el Tribunal, dando paso a los legados foráneos con pequeñas representaciones enviadas desde Iberia -integrada por el futuro praeco ibérico Ezra Ben Selomoh al-Bonisagi, acompañado de quaesitores de [[Duresca]] y Boinas Rojas de [[Aedes Saturni]]. El Tribunal Normando envió una legación de quaesitores desde [[Confluensis]], al igual que el Tribunal Romano desde [[Magvillus]]. De los Alpes, el Primus Andru de Jerbiton mandó a uno de sus fili, acompañado de un par de jóvenes bonisagi de [[Durenmar]]. También venía un exótico grupo desde el [[Tribunal de Levante]] con ánimo de promocionarlo como lugar en expansión y posibilidades. Otras veces solían venir gente del Tribunal de Tebas pero este año, por alguna razón desconocida, no habían sido invitados... 
 
 Una vez hicieron entrada todas las legaciones, pudo entrar el resto de los asistentes. Y encontraron al Praeco, [[Oxioun]] de Tytalus ya sentado en su respectivo trono a menor altura y algo escorado para no robar protagonismo al Quaesitor Praesidens. 
 ![[image-275.png]]**El venerable Oxioun de Tytalus, Praeco de Provenza**. 
 
-Tras la bienvenida, dirigiéndose a todos como "*amici*", el Praeco inaugurará la sesión determinando el orden en que se discutirán todos los temas. Cualquier magus de Provenza puede proponer un tema o cuestión a debatir, entre los muchos que se tratarán. El praeco asignará el día en el que se tratará cada uno. 
+Tras la bienvenida, dirigiéndose a todos como "*amici*", el Praeco inauguró la sesión determinando el orden en que se discutirán todos los temas. Cualquier magus de Provenza puede proponer un tema o cuestión a debatir, entre los muchos que se tratarán. El praeco asignará el día en el que se tratará cada uno. 
 
 - **Primera Noche (miércoles)**: Iniciaciones y noticias. 
 - **Segunda Noche (jueves)**: Conflictos personales entre magi. El praeco adjudicó, por su relevancia esta noche para tratar los temas del Diario de Alxayr y la refundación de Ventocaelatus. 
@@ -208,6 +208,8 @@ Ante la expresión de no entender nada, el muchacho rompió en una sonora carcaj
 > Me encanta vuestra cara de perplejidad. Mi nombre hermético ya debería decir algo pero mi nombre mundano mucho más. Soy Marcus de Les Baus, hijo de Guillermo de Les Baus, príncpe de Aurenjia. Vuestra familia y la nuestra tenemos antepasados comunes... 
 
 ![[image-277.png]]
+**Marcus de Les Baus, El Baltasar de Tytalus**
+
 Anteo y Gom ya cayeron y recordaron que Les Baus eran una rama colateral de los d'Adam -aunque los Baus decían exactamente lo contrario, pero ciertamente, ambas ramas entroncaban de un mismo árbol en un pasado remoto. Como los d'Adam, los Les Baus también eran extraordinariamente proclives a tener miembros dotados entre sus filas y a estar imbuidos de un fuerte carisma y autoridad. En efecto, el joven ,aunque hubiera sido nombrado magus hace unas horas, mostraba una confianza y control de sí mismo increíble para su corta edad (ya que no llegaría a la veintena). 
 
 > Pronto estaré en disposición de visitar vuestra alianza si conseguís asentaros aqui... Todo un regalo el que os van a hacer, sin duda. Se notan los contactos, ¿eh?

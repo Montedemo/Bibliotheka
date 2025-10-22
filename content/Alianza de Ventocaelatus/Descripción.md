@@ -158,7 +158,7 @@ Las turbas (vivas) de la alianza reposaban aqui. Desde el habitáculo central qu
 > Dado el frío del lugar, en invierno muchos soldados compartían el lecho "para calentarse..."
 
 #### J-Cuadras, corrales y establos 
-El área animal de la alianza: 10 cubículos destinados a contener y albergar, monturas, animales de granja o de tiro. El personal destinado al cuidado de animale solía dormir aquí con ellos (dan calor). Esta nave -la final del lado Oeste, cuenta con ventanas estrechas para cada cámara, por lo que los animales reciben aire fresco y algo de luz diurna. 
+El área animal de la alianza: 10 cubículos destinados a contener y albergar, monturas, animales de granja o de tiro. El personal destinado al cuidado de animales solía dormir aquí con ellos (dan calor). Esta nave -la final del lado Oeste, cuenta con ventanas estrechas para cada cámara, por lo que los animales reciben aire fresco y algo de luz diurna. 
 ![[01-Establos.webp]]
 #### Despensa y Almacenes 
 En dirección Este, una nave totalmente interior sirve para el custodio de otros alimentos y de materias primas o combustible. 
@@ -288,7 +288,7 @@ En esta hermosa galería al final del ala Este, se alberga el cuerpo de escribas
 Uno de los grandes lujos de la alianza era la de abrir hermosos pórticos columnados hacia el exterior. Sendas galerías de diez arcos sobre columnas se abren a ambos lados Este y Oeste de la basílica, pero ninguno ofrece vistas y tan solo algunas horas de luz natural, pero constituyen un espacio de reunión y solaz en la alianza. 
 >**Larix recuerda:** Esos arcos antaño proyectaban visiones de lugares cercanos y lejanos. Cada uno de esos arcos era una ventana a un rincón diferente del mundo: lugares hermosos que los magi habían visitado y traído consigo. Bosques frondosos, fértiles campiñas, costas escarpadas, mares azules, incluso el gran desierto... También podían observar lugares cercanos y ciudades, conociendo con antelación los movimientos de los enemigos.
 
-De los extremos de los pórticos salen los puentes elevados que conducena las Torres. Por el Pórtico Oriental a las de Cellemon (sur) y Hammas (este). Por el Pórtico Occidental a las de Jiphegra (sur) y Marothiel (oeste). 
+De los extremos de los pórticos salen los puentes elevados que conducen a las Torres. Por el Pórtico Oriental a las de Cellemon (sur) y Hammas (este). Por el Pórtico Occidental a las de Jiphegra (sur) y Marothiel (oeste). 
 
 ---
 
@@ -297,23 +297,24 @@ De los extremos de los pórticos salen los puentes elevados que conducena las To
 ### Planta Bajocubierta 
 
 #### A-Entrada 
-
+Las escaleras dejan en una antesala porticada con vista al puente.  
 #### B-Corredor 
-
+Similiar al de las plantas anteriores, recorre toda la fachada sur. 
 #### C-Biblioteca 
-Asomando sobre el Aula Magna, sendas galerías de triforio custodiaban en el lado interior, estanterías cerradas conteniendo innumerables volúmenes sobre todos los temas imaginables, constituyendo la de Ventocaelatus una de las mayores  bibliotecas de la Orden de Hermes. 
+Asomando sobre el Aula Magna, sendas galerías de triforio custodian en el lado interior, nichos cerrados conteniendo innumerables volúmenes sobre todos los temas imaginables, constituyendo la de Ventocaelatus una de las mayores  bibliotecas de la Orden de Hermes. 
 >**Larix recuerda:** De haber perdurado su esplendor se habría convertido en una biblioteca mayor que la de Aedes Mercurii o Bellaquin combinadas, siguiendo los talones a las de Durenmar y Valnastium... Todo eso se perdió como lágrimas en la lluvia... 
 
 En el centro, frente a la puerta, se ubica el despacho del Librarius y sus asistentes, accediendo desde aquí a sendas alas, Este y Oeste. Cada nicho de la galería se corespondía a una letra -y normalmente se ordenaban por autor. Un índice general recogía todas las ubicaciones, y en otro libro se anotaban los préstamos, includos los internos de la Alianza. 
 
 ##### D-Biblioteca arcana 
-La galería que recorre el ábside, tras sendas puertas desde las galerías de la biblioteca mundana, se dedican a custodiar los libros sobre Artes, Conocimientos Arcanos, Habilidades Herméticas y Textos de Laboratorio. 
+La galería que recorre el ábside, tras sendas puertas desde las galerías de la biblioteca mundana, se dedican a custodiar los libros sobre Artes, Conocimientos Arcanos, Habilidades Herméticas y Textos de Laboratorio.  Todos vuestros fondos librarios actuales caben con creces aquí. 
+
 #### E- Aposentos nobles
 Estancias reservadas para invitados ilustres. 
 
 #### F- Enfermería 
 
-El final del ala Este se dedica a alojar enfermos y heridos. Una sección la ocupa el valeditudinarios como oficina. 
+El final del ala Este se dedica a alojar enfermos y heridos. Una sección la ocupa el valeditudinarius como oficina. Había laboratorios para la elaboración de fármacos y estudios para los médicos.
 
 ### Planta Cubierta 
 ![[Planta Cubierta.webp]]
@@ -321,4 +322,48 @@ El final del ala Este se dedica a alojar enfermos y heridos. Una sección la ocu
 ---
 ### Planta Sobrecubierta 
 ![[Planta Sobrecubierta.webp]]
-### Planta Sobrecubierta
+Los afilados tejados de Ventocaelatus, rematados en cornisas y gruesas agujas como si quisieran repeler un ataque desde el aire... Solo el último cuerpo de la Torre del Vértice asoma aquí. 
+
+### Planta subsuelo 
+
+![[Planta Subsuelo.webp]]Este  nivel está totalmente inundado y no es habitable ya que el nivel del agua del foso la anega totalmente.  
+
+En el pasado estaba constituida por: 
+- los balnea (baños de agua caliente) que emana de la gran cisterna burbujeante que se sitúa bajo el ábside y cuyo fondo nadie conoce. 
+- En las alas ambos lados una serie de talleres y almacenes que fueron subidos a la planta baja cuando quedaron inutilizables estas salas. 
+- En las alas de los extremos, sendas filas de calabozos. 
+
+## Las Torres 
+
+### A - Torre Vértice 
+También llamada Torre de Belraphazor o Torre Norte. Es la más gruesa 12 metros de lado y la más alta, con cinco plantas. 
+#### 1. Cripta
+Situado a dos niveles bajo el suelo, esta planta subterránea no parece tener función alguna.
+>**Larix recuerda:**
+>Aquí excavaron los magi sus tumbas pero nunca llegaron a ocuparlas, ni siquieras Belraphazor. Normalmente se usaba como tesoro para la plata, la vis y otros objetos preciados. Aquí es donde los magi hablaban con los muertos. 
+![[cripta.png]]
+#### 2. Capilla
+Esta antesala de la Cripta tampoco parece tener una función clara, pero su forma estrellada y los pedestales en cada punta que sostienen sus respectivas piedras amorfas dan a entender que tenía algún tipo de función religiosa. 
+> **Larix recuerda:**
+> Aquí rendían homenaje a los Titanes.
+![[Capilla.webp]]
+#### 3. Cámara del Portal 
+Uno de los arcosolia encierra una pared de roca viva.
+>**Larix recuerda**
+>Cuando los magi entraban en esta estancia desaparecían para regresar largo tiempo después. Dejaron de usarla tras la partida de Belraphazor. 
+![[z_Assets/tesoro.webp]]
+#### 4. Cámara del Concilium 
+Comunicado con la Basílica a través de una gran pasarela porticada sobre un puente. Una habitación de planta extraña donde un pentágono se inscribe dentro del cuadrado de la torre  y la bóveda inscribe una crucería en el techo con forma de estrella pentacular que se refleja en el suelo. En cada punta de la flecha, un solio sobre pedestal al que se asciende por una estrecha escalinata. Todos los muros están bordeados por galerías ciegas entre columnas. Un graderío se extiende a ambos lados de los tronos para asiento de miembros de menor rango. 
+>**Larix recuerda:**
+>Yo podía asistir si quería y algunas veces requerían mi presencia. Nunca me sentaba. El interpelado se sitúa dando la espalda a la entrada. Yo ocuaba un lugar a la derecha del trono de Belrphazor. 
+![[z_Assets/concilium.webp]]
+
+
+#### Sanctum Vértice 
+Las tres últimas plantas constituyen el antiguo sanctum de Belrphazor o de la Torre Vértice. 
+- En la primera tenía sus estancias privadas o aposentos
+![[sanctumvertice1.webp]]
+- en la intermedia su sanctum 
+![[sanctumvertice2.webp]]
+- en la superior, más laboratorio y la gran terraza a su alrededor que utilizaba como observatorio. 
+![[sanctumvertice3-1.webp]]

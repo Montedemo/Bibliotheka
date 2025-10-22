@@ -22,7 +22,7 @@ La Alianza se constituye en Familia, permitiendo dos tipos de Miembros en su Con
 Se considera miembro de la Familia a todo aquel que promulgue ante el Concilium el Juramento de la Alianza, reuniendo las siguientes condiciones a continuación. 
 
 ### Conditores
-Miembro del Círculo de los Cinco Magi Mayores de la Alianza. Se reserva el número cinco en tributo a los cinco magi creadores de la Ventacaelatus original cuyo testimonio dan las cinco torres. Dicho número se podrá ir renovando tras quedar algún solia vacante, entre los magi de pleno derecho de la Orden de Hermes integrantes del grado de **Successores** (ver más adelante) por estricto orden de integración en la Familia. El asiento de la Matriarcha o Pariarcha solo podrá ser ocupado por el magus o maga Conditor de mayor edad, tras quedar este vacante por la Matriarcha o Patriarcha anterior. El grado de Conditor es vitalicio y solo se pierde tras la renuncia, muerte o crepúsculo final. 
+Miembro del Círculo de los Cinco Magi Mayores de la Alianza. Se reserva el número cinco en tributo a los cinco magi creadores de la Ventacaelatus original cuyo testimonio dan las cinco torres. Dicho número se podrá ir renovando tras quedar algún solia vacante, entre los magi de pleno derecho de la Orden de Hermes integrantes del grado de **Successores** (ver más adelante) por estricto orden de integración en la Familia. El asiento de la Matriarcha o Pariarcha solo podrá ser ocupado por el magus o maga Conditor de mayor edad, tras quedar este vacante por la Matriarcha o Patriarcha anterior. El grado de Conditor es vitalicio y solo se extingue tras la renuncia, muerte o crepúsculo final. 
 
 ### Successores
 Forman parte del grado de Miembros Successores de la Familia: 
@@ -219,14 +219,14 @@ Si un Miembro contraviene las decisiones del Concilium, tomadas por votación o 
 ## Censura de un miembro 
 
 La censura conlleva la degradación o democión de un estatus al inmediatamente inferior. La censura requiere la aprobación de una moción durante una reunión del Concilium. 
-- Los conditores no pueden ser censurados más que a iniciativa exclusiva de la Matriarcha -nunca del Árbiter. y por votación unánime de todos los Miembros del Concilium. 
-- La censura de un successor solo tramitarse a iniciativa de un miembro Conditor y mediante votación por mayoría simple de los miembros del Concilium.  Esta censura  revoca los derechos de su estatus, devolviéndole al grado externo de Postulante; de esta forma, se asumen todos los derechos y deberes que conlleva este estatus. La censura no debe servir de prejuicio para la promoción de un Postulante a la posición de Miembro Successor Alianza. 
+- Los conditores no pueden ser censurados más que a iniciativa exclusiva de la Matriarcha -nunca del Árbiter. y por votación unánime de todos los restantes Miembros del Concilium. 
+- La censura de un successor solo puede tramitarse a iniciativa de un miembro Conditor y mediante votación por mayoría simple de los miembros del Concilium.  Esta censura  revoca los derechos de su estatus, devolviéndole al grado externo de Postulante; de esta forma, se asumen todos los derechos y deberes que conlleva este estatus. La censura no debe servir de prejuicio para la promoción de un Postulante a la posición de Miembro Successor. 
 - La censura de un Postulante recorta sus derechos, y le otorga instantáneamente el grado de Hospes, pudiendo llevarse a cabo a iniciativa de cualquier Miembro. 
 - El estatus de Hospes puede ser retirado en cualquier momento mediante votación del Concilium sin necesidad de censura y a iniciativa de cualquier Miembro. 
 
 ## Expulsión
 
-La expulsión se promulga mediante el voto unánime del resto de Miembros del Concilium. Un conditor no puede ser expulsado, solamente censurado salvo violación del Código Hermético. La expulsión es el único medio a través del cual un Sucessor o Postulante de la Alianza pierde sus derechos fundamentales; y obliga a que el antiguo Miembro no pueda hacer uso de esos derechos básicos tras la primera luna llena después de su expulsión. En caso de que un magus sea expulsado de la Orden, es el deber y la obligación de esta Alianza expulsarlo también sin demora.
+La expulsión se promulga mediante el voto unánime del resto de Miembros del Concilium. Un conditor no puede ser expulsado, solamente censurado, salvo violación del Código Hermético. La expulsión es el único medio a través del cual un Sucessor o Postulante de la Alianza pierde sus derechos fundamentales; y obliga a que el antiguo Miembro no pueda hacer uso de esos derechos básicos tras la primera luna llena después de su expulsión. En caso de que un magus sea expulsado de la Orden, es el deber y la obligación de esta Alianza expulsarlo también sin demora.
 
 
 ---
