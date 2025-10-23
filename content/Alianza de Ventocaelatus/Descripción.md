@@ -336,11 +336,12 @@ En el pasado estaba constituida por:
 ## Las Torres 
 
 ### A - Torre Vértice 
-También llamada Torre de Belraphazor o Torre Norte. Es la más gruesa 12 metros de lado y la más alta, con cinco plantas. 
+También llamada Torre de Belraphazor o Torre Norte o *Turris Septentria*. Es la más gruesa 12 metros de lado y la más alta, con cinco plantas. 
+Está expuesta al frío y severo Ventus Septentrio o Aquilo y se alinea con el Axis Mundi, siendo perfecta para un eje de disciplina y contemplación. 
 #### 1. Cripta
 Situado a dos niveles bajo el suelo, esta planta subterránea no parece tener función alguna.
 >**Larix recuerda:**
->Aquí excavaron los magi sus tumbas pero nunca llegaron a ocuparlas, ni siquieras Belraphazor. Normalmente se usaba como tesoro para la plata, la vis y otros objetos preciados. Aquí es donde los magi hablaban con los muertos. 
+>Aquí excavaron los magi sus tumbas pero nunca llegaron a ocuparlas, ni siquiera Belraphazor. Aquí es donde los magi hablaban con los muertos. 
 ![[cripta.png]]
 #### 2. Capilla
 Esta antesala de la Cripta tampoco parece tener una función clara, pero su forma estrellada y los pedestales en cada punta que sostienen sus respectivas piedras amorfas dan a entender que tenía algún tipo de función religiosa. 
@@ -348,9 +349,9 @@ Esta antesala de la Cripta tampoco parece tener una función clara, pero su form
 > Aquí rendían homenaje a los Titanes.
 ![[Capilla.webp]]
 #### 3. Cámara del Portal 
-Uno de los arcosolia encierra una pared de roca viva.
+La estancia tiene tres recámaras excavadas en lo muros que hacen la función de tesoro y almacén de vis y otros objetos preciados. Uno de los arcos entre columnas apunta al norte y enmarca un segmento de  pared de roca viva.
 >**Larix recuerda**
->Cuando los magi entraban en esta estancia desaparecían para regresar largo tiempo después. Dejaron de usarla tras la partida de Belraphazor. 
+>Cuando los magi entraban en esta estancia desaparecían para regresar largo tiempo después. Dejaron de usarla tras la partida de Belraphazor. El tesoro se llevó a la torre de Marothiel. 
 ![[z_Assets/tesoro.webp]]
 #### 4. Cámara del Concilium 
 Comunicado con la Basílica a través de una gran pasarela porticada sobre un puente. Una habitación de planta extraña donde un pentágono se inscribe dentro del cuadrado de la torre  y la bóveda inscribe una crucería en el techo con forma de estrella pentacular que se refleja en el suelo. En cada punta de la flecha, un solio sobre pedestal al que se asciende por una estrecha escalinata. Todos los muros están bordeados por galerías ciegas entre columnas. Un graderío se extiende a ambos lados de los tronos para asiento de miembros de menor rango. 
@@ -359,11 +360,93 @@ Comunicado con la Basílica a través de una gran pasarela porticada sobre un pu
 ![[z_Assets/concilium.webp]]
 
 
-#### Sanctum Vértice 
+#### 5. Sanctum Vértice 
 Las tres últimas plantas constituyen el antiguo sanctum de Belrphazor o de la Torre Vértice. 
-- En la primera tenía sus estancias privadas o aposentos
+1. En la primera tenía sus estancias privadas o aposentos
 ![[sanctumvertice1.webp]]
-- en la intermedia su sanctum 
+2. en la intermedia su sanctum principal.  
 ![[sanctumvertice2.webp]]
-- en la superior, más laboratorio y la gran terraza a su alrededor que utilizaba como observatorio. 
+3. en la superior, más laboratorio y la gran terraza a su alrededor que utilizaba como observatorio. 
 ![[sanctumvertice3-1.webp]]
+### B - Torre de Marothiel 
+También llamada la Torre Noroeste, o Torre Caura, que soporta el viento frío y borrascoso que en otras partes llaman Mistral y Cierzo. Es la segunda en tamaño y realizada en buena factura a pesar de estar algo desgastada en la esquina que da al Noroeste y de tener algunas abolladuras en los muros internos de extraña explicación. Cuenta con cinco plantas (contando el subsuelo inundado). Tiene unas dimensiones de planta de 10x10 metros de lado
+#### 1. Subsuelo 
+No estaba inundado antes de la reconstrucción. Aquí la archimaga guardaba el tesoro que hizo mover desde la Torre Vértice cuando, tras la partida de Belraphazor, se a intituló líder de la alianza. No lo utilizaba para guardar prisioneros, ya que Marothiel no tenía esa costumbre. A quien le molestara, simplemente lo incineraba. 
+
+![[torrecaura-1.webp]]
+#### 2. Aposentos 
+Marothiel llegó a tener aprendices, no se sabe qué fue de ellos, pero aquí se alojaban junto con su servicio personal. La mayoría acabaron incinerados, lapidados o defenestrados, dado su temperamento iracundo y sumamente susceptible. 
+![[torrecaura0-1.webp]]
+
+#### 3. Aposento principal 
+Aquí es donde Marothiel tenía sus aposentos personales. 
+![[torrecaura1.webp]]
+
+#### 4. Sanctum 
+Presenta una extraña irregularidad en la esquina Norte. Quizá lo deformó Marothiel en uno de sus ataques de furia elemental. 
+![[torrecaura2.webp]]
+#### 5. Bajocubierta
+Aquí Marothiel tenía su sanctum auxiliar y observatorio. Desde aquí solía lanzarse a cabalgar los vientos. Tiene un acceso al Orbe con una pequeña antesala que sirve de garita a los guardias. 
+![[torrecaura3.webp]]
+
+### Torre de Hammas
+También llamada Torre Noreste y, originalmente, *Turris Caecias* en honor al seco y brillante viento que recibe. Tiene unos 9x9 metros de planta y está contrahecha y algo irregular en su planta. No siempre estuvo así y parece que se ha ido deteriorando y deformando con el tiempo. Sus cinco plantas están en estado de habitabilidad aunque la planta subsuelo cuenta con un inquietante pozo cuyo olor asciende por toda la torre. 
+#### 1. Cámara del Pozo
+Aunque el subsuelo de esta torre no se ha inundado por su posición ascendente en la montaña, el pozo en el centro es una visión inquietante. Un agujero circular en el centro de la estancia de dos metros de diámetro por seis de profundidad, atravesado de cadenas y cuchillas y que despide un repulsivo olor a podredumbre y muerte, cuyas repulsivas emanaciones se huelen por toda la torre. 
+![[turriscaecias-1.webp]]
+
+#### 2. Planta Baja 
+Irregular y casi cavernosa. 
+![[torrecaecias0-1.webp]]
+
+#### 3. Aposento de Hammas 
+Dependencias de estar del magus. 
+![[torrecaecias1.webp]]
+
+#### 4. Sanctum 
+Presenta una planta  contrahecha debido a la deformación que la torre fue sufriendo con el tiempo. 
+![[torrecacias2.webp]]
+#### 5.Bajocubierta 
+Sanctum auxiliar de Hammas, con acceso al Orbe a través de una antesala en voladizo que sirve de cuerpo de guardia a quienes patrullan el muro. 
+![[torrecaecias3.webp]]
+
+### Torre de Cellemon
+También llamada Torre Suroeste y, originalmente, *Turris Lipsa*, en honor al viento tormentoso que sopla desde esa dirección. Es de menor tamaño, con una planta de 8x8 metros, cuenta con cinco plantas, la inferior o subterránea de las cuales está inundada por las filtraciones desde el foso. 
+
+#### 1. Mazmorra de Cellemon
+Aquí es donde Cellemon encerraba a sus prisioneros predilectos.
+![[torrelipsa-1.webp]]
+
+#### 2. Planta Baja
+Donde celebraba sus festines privados con sus "invitados" en proceso de "voluntarización". 
+![[torrelipsa0.webp]]
+
+#### 3. Planta Principal
+Estancia de aposentos personales donde Cellemon solía recibir a sus "invitados". 
+![[torrelipsa1.webp]]
+#### 4. Sanctum 
+Sanctum principal de Cellemon. 
+![[torrelipsa2.webp]]
+#### 5. Bajocubierta 
+Sanctum auxiliar de Cellemon. Con acceso al Orbe con una pequeña antesala en voladizo que sirve de garita a los guardias que patrullan el muro. 
+![[torrelipsa3.webp]]
+
+### Torre de Jiphegra
+También llamada Torre Sureste y, originalmente, *Turris Vulturna* en honor al viento cálido y húmedo que sopla desde esa dirección. Idéntica a la de Cellemon: 8 x 8 metros de lado y cinco plantas, la inferior de las cuales, en el nivel subterráneo está inundada por las filtraciones del foso. 
+#### 1. Subsuelo 
+Actualmente inundada en una esquina por filtraciones desde el foso. Jiphegra era una maga eminentemente práctica y usaba esta estancia como almacén. 
+![[torrevulturna-1.webp]]
+#### 2. Planta Baja
+Este era el aposento o cámara de Jiphegra. 
+![[torrevulturna0.webp]]
+
+#### 3. Planta Principal
+Aposento y oficina de Jiphegra
+![[torrevulturna1.webp]]
+
+#### 4. Sanctum
+Sanctum principal de Jiphegra 
+![[torrevulturna2.webp]]
+#### 5.Bajocubierta 
+Sanctum auxiliar de Jiphegra. Con un acceso al Orbe a través de una antesala en voladizo que sirve de garita a los guardias que patrullan el muro. 
+![[torrevulturna3.webp]]

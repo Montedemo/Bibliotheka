@@ -504,7 +504,7 @@ _(Entrada del _Diarium Alxayr_, 4 de mayo del año 1187)_
 > 
 > Le pregunté por su viaje. **No respondió**; o sí, pero **entre velos**: habló de **Sabarthés**, del **Barón**, de **hostigar** sin ser vista. Mentem **no es su arte** tanto como el de Cellemon, pero su voz **entra** por otras puertas.
 > 
-> **Tarde.** Rumor de armas en la muralla. Una columna se puso en marcha sin trompas ni estandartes: el **Batallón Insomne**. **Ojales sin parpadeo** tras yelmos; **paso exacto**; **silencio** que pesa. En lo alto, asomado a su torre, **Hammas** —parece un muchacho— los observaba partir. **Mirada enloquecida**. **Sonrió** al cruzarse nuestros ojos. **No sentí frío; sentí fiebre.**
+> **Tarde.** Rumor de armas en la muralla. Una columna se puso en marcha sin trompas ni estandartes: el **Batallón Insomne**. **Ojos sin parpadeo** tras yelmos; **paso exacto**; **silencio** que pesa. En lo alto, asomado a su torre, **Hammas** —parece un muchacho— los observaba partir. **Mirada enloquecida**. **Sonrió** al cruzarse nuestros ojos. **No sentí frío; sentí fiebre.**
 > 
 > Dicen que **hombres del Barón** les siguen a distancia. Dicen que **no aprenderán** nunca.
 
@@ -556,7 +556,7 @@ _(líneas dispersas entre manchas de tinta y sangre)_
 > «Intenté **rezar**. Las palabras **se atascan**. No puedo pronunciar **nombres santos**. El **viento** fuera canta **como un niño enfermo**.»
 >
 > «Han tomado mi **mente** por **campo de labranza**. La **riegan** con gritos. La **siembran** con mentiras. Y la **cosechan** cuando duermo. **¿Soy aún yo?**  
-> Oí a **Licinius** decir: **no nos retienen: nos desentierran**. Que nuestras **memorias** son **fósiles** para alzar “**la nueva carne**”. **Melitta** respondió: “**Al-Shayr aún resiste. Pero su miedo será simiente.**”  
+> Oí a **Marothiel** decir: **no nos retienen: nos desentierran**. Que nuestras **memorias** son **fósiles** para alzar “**la nueva carne**”. **Cellemon** respondió: “**Al-Shayr aún resiste. Pero su miedo será simiente.**”  
 > Oh, **Señor de los mundos**, protégeme.»
 >
 > **Última página, sin datar — al margen, con carbón:**  
