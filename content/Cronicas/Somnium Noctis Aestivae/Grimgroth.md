@@ -1,0 +1,2 @@
+MAGUS de Crista Nebulae, de la [[Casa Tremere]]. filius de su fundadora, [[Consuelia]]. Posee una gran presencia y una voz atronadora que puede escucharse o camuflarse como el trueno mismo. Es el cabecilla no-electo de la alianza, pero no por imposición sino por desidia de los demás miembros ante dicha responsabilidad. De gran prestigio, por su nobleza y valerosidad, no ha podido evitar que parte se le haya subido a la cabeza mostrando una cierta arrogancia cuando trata con personajes con ínfulas. 
+![[GrimGroth.jpeg]]
