@@ -1,0 +1,5 @@
+Magus de la [[Orden de Hermes]], seguidor de la [[Casa Jerbiton]] y miembro fundador de la segunda [[Ventocaelatus]]. 
+![[image-318.png]]
+El atractivo magus provenzal residió largo tiempo en el [[Tribunal de Tebas]] como parte de la alianza de [[Erebos]] junto con su esposa, [[Sabine de Tytalus]]. Las travesuras de su hija, la también maga [[Mercuria d'Adam]] obligaron a toda la familia a moverse al [[Tribunal Provenzal]] para evitar una investigación exhaustiva de los [[Quaesitores]]. Llegados aquí, su hermano el también magus [[Phaestus de Apromor]], consiguió que se tuviera en cuenta esta familia exiliada como receptores de las ruinas reconstruidas de [[Ventocaelatus]], donación y fundación que se hicieron patentes en el Tribunal Provincial de 1200. 
+
+Gom está dotado no solo de un irresitible atractivo personal sino también de una legendaria fertilidad, y su semilla arraiga fertilizando cualquier útero y la criatura concebida siempre posee el Don, algo probablemente heredado de su linaje, la [[Familia d'Adam]] entre quienes el Don corre tan fuerte en su sangre que, se manifieste o no, prácticamente todos sus miembros poseen. 

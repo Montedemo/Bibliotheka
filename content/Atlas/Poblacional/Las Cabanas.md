@@ -1,0 +1,1 @@
+Aldea del Verodunés, gracias a la [[Hospedería de Sent Jehan]] y a su feria mensual, ha crecido hasta convertirse en la aldea más poblada del valle. Forma parte de la Baronía de [[Castel-Verodun]], aunque los hermanos hospitalarios de la Hospedería gozan de una gran relevancia. 

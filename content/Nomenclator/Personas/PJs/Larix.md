@@ -1,0 +1,2 @@
+[[Autócrata]] de la alianza hermética de [[Ventocaelatus]], único superviviente de la destrucción que asoló la primera fundación de esta, se ha mantenido en el puesto durante la segunda Ventocaelatus. 
+![[image-315.png]]

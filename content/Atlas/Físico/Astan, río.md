@@ -1,0 +1,1 @@
+Potente arroyo pirenaico que recoge las aguas de los [[Montes de Astan]] vertiéndolos al [[Arièja]]. No confundir con la aldea del mismo nombre situada en su desembocadura. 

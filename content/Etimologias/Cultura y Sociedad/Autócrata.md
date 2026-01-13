@@ -1,0 +1,1 @@
+Figura de las alianzas o comunidades de magi de la [[Orden de Hermes]] al cargo de la administración y gestión mundana de la misma. Equivale a un mayordomo o senescal. 

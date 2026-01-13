@@ -1,0 +1,1 @@
+Ruta de comunicaciones entre la Península de [[España]] y la [[Galia]] que conecta los importantes centros políticos y económicos de [[Barcelona]] y [[Tolosa]], cruzando los [[Pirineos]] por el port de Peugmorent. En su recorrido conecta las poblaciones de  Balaguer, la [[La Seu d'Urgell]], Puigcerda, [[Fois]], [[Pamiàs]]. 

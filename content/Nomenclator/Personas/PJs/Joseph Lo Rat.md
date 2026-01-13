@@ -1,0 +1,3 @@
+Bribón de la ciudad de [[Tarascón]], siempre acompañado de su rata. 
+![[image-317.png]]
+Experto en la infiltración urbana y en la lucha callejera, Joseph se unión a los [[Garrics d'Agudanes]] tras un sucio altercado con el infame [[Arnau Lo Peajer]], uno de los hombres del castellano de Tarascón, en el que ayudó a [[Adam Lo Indòmit]] a cobrarse una justa venganza sobre el miserable funcionario. Aunque desde entonces, dicho personaje se la tiene jurada, Joseph sigue desafiando a la fortuna y entrando y saliendo de Tarascón a su antojo. 

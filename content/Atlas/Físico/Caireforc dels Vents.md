@@ -16,7 +16,7 @@ El lugar se eleva por encima de los estanques de [[Font Argenta]] y su siniestra
 Se trata de una curiosidad del relieve que no parece corresponderse con el paisaje que la envuelve en la que han aflorado materiales y rocas mucho más antiguos y erosionados que las jóvenes montañas pirenaicas que la rodean. El espolón que nace de la umbría del Anrondat está formado por tres cuerpos círculares que se suceden en dirección S-N ascendiendo suavamente desde los 2351 de la ladera del Anrondat hasta los 2379 de la cumbre en el extremo N del espolón. 
 
 ### Fenómenos 
-En este extraño lugar de desoladora belleza se producen numerosos fenómenos localizados: Los vientos se arremolinan a su alrededor, en una violenta y continua danza que atrae a los relámpagos. Es un lugar proclive a la formación repentina de tormentas, las cuales pueden formarse de imprevisto en poco tiempo con imponente aparato eléctrico. El lugar puede ser visto ominosamente iluminado por los relámpagos desde el pueblo de [[Astan]].
+En este extraño lugar de desoladora belleza se producen numerosos fenómenos localizados: Los vientos se arremolinan a su alrededor, en una violenta y continua danza que atrae a los relámpagos. Es un lugar proclive a la formación repentina de tormentas, las cuales pueden formarse de imprevisto en poco tiempo con imponente aparato eléctrico. El lugar puede ser visto ominosamente iluminado por los relámpagos desde el pueblo de [[Astan, río]].
 Todo tipo de extraños fenómenos se asocian al lugar, desde apariciones fantasmales, desfiles de ejércitos de muertos, monstruos y caballos infernales. Se dice que es uno de los escenarios preferidos por el Jinete de la Tormenta 
 
 ### Acceso 

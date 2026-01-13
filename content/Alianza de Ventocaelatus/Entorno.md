@@ -55,8 +55,8 @@
 - **[[Arquizat]]**: Aldea principal del señorío de Mereglos. ✠ Iglesia de San Hilario. 
 - [[Aulos]]: aldea de la baronía. 
 - **[[Auzat]]:** Villa condal. Pequeño tamaño. Castellán y cónsul. 
-- [[Astan]] (**Javielha**): Aldea en crecimiento.  Taberna y algunos servicios. Pequeña feria mensual (primer viernes de cada mes). ✠ Iglesia de Santa Fabia. 
-- **[[Cabanas]]:** Aldea en desarrollo. Cruce del Arièja. Casa y hospedería hospitalaria (Capulegio). 
+- [[Astan, río]] (**Javielha**): Aldea en crecimiento.  Taberna y algunos servicios. Pequeña feria mensual (primer viernes de cada mes). ✠ Iglesia de Santa Fabia. 
+- **[[Las Cabanas]]:** Aldea en desarrollo. Cruce del Arièja. Casa y hospedería hospitalaria (Capulegio). 
 - **[[Encamp]]:** Villa andorrana. Cabeza de parroquia. Varias iglesias ✠. 
 - [[Lorcat]]: aldea de la baronía. Minas de hierro. 
 - **[[Merens]]:** Comunidad benedictina femenina. Bajo la depedencia de La Bolbona. Puente sobre el Arieja. Hospedería hospitalaria de Capulegio. ✠Iglesia de San Pedro. 
@@ -76,7 +76,7 @@
 - **[[Monreal]]:** Castillo condal. Controla la Comunidad  y el valle. 
 
 ### Monasterios y ermitas
-- **[[Encomienda de Capulegio]]:** Sede de la delegación de la Orden del Hospital. Conventos, casas y hospederías por todo el [[Savarthès]] y el País d'Olmes. Pequeño grupo de caballeros y sargentos junto al Comendador. Centro de herrerías. ✠ San Juan. 
+- **[[Encomienda de Savarthès]]:** Sede de la delegación de la Orden del Hospital. Conventos, casas y hospederías por todo el [[Savarthès]] y el País d'Olmes. Pequeño grupo de caballeros y sargentos junto al Comendador. Centro de herrerías. ✠ San Juan. 
 - **Santuario y convento de [[Nuestra Señora de Savarth]]:** Centro de devoción local. Romería. Convento antiguo, ahora comunidad hospitalaria femenina. Reliquias de Santa Fabia. 
 
 ### Montañas, bosques y ríos

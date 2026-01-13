@@ -12,7 +12,7 @@ El pico de 2621 m custodia el flanco oriental del [[Puerto de Incles]] o de la F
 
 ### Geografía 
 
-La Font Argenta (2621m.) se encuentra en la cabecera del Río [[Astan]] flanqueada por las mayores cumbres de L'Anrondat, a la que pertenece, y la [[Rulha]] de la que la separa una cresta alargada que constituye el punto más bajo en la frontera entre Urgel y Fois y donde se ubica el Puerto de Incles, también conocido en Fois como de la Font Argenta. La ascensión del puerto por la cara sur la constituye una senda tortuosa y empinada, si bien más fácil que el canchal que se encuentra el viajero en la cara norte, de difícil tránsito.
+La Font Argenta (2621m.) se encuentra en la cabecera del Río [[Astan, río]] flanqueada por las mayores cumbres de L'Anrondat, a la que pertenece, y la [[Rulha]] de la que la separa una cresta alargada que constituye el punto más bajo en la frontera entre Urgel y Fois y donde se ubica el Puerto de Incles, también conocido en Fois como de la Font Argenta. La ascensión del puerto por la cara sur la constituye una senda tortuosa y empinada, si bien más fácil que el canchal que se encuentra el viajero en la cara norte, de difícil tránsito.
 
 En lo alto del puerto, dos grandes anillas de bronce unidas por una cadena marcan la frontera. La leyenda dice que fueron colocadas por el mismo Carlomagno para señalar el confín de su imperio. Desde el puerto, a 2263m., se puede descender al otro lado de los Pirineos o bien seguir una tortuosa senda hacia el Oeste que asciende hacia el Pico de la Font Argenta.
 

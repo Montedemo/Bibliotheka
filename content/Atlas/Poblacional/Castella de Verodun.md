@@ -1,0 +1,26 @@
+Población fortificada en el [[Savarthès]], caberza de la Baronía de [[Castel-Verodun]], estblecida frente a la confluencia del río [[Astan, río]] con el [[Arièja]]. 
+
+El castillo de Verodun se alza al norte del valle del **Astan**, en la orilla oriental, cerca de la confluencia con el **Arièja**, dominando desde el cierre rocoso del valle donde se ubican las aldeas que han florecido en esta confluencia y los caminos que lo cruzan, particularmente la unión de la [[Vía Mercadal]] que discurre paralela al Arièja con las sendas que cruzan los [Pirineos]] hacia [[Valles de Andorra]], ascendiendo por el valle del Astan. El castillo tiene a su espalda el Serrat des Auzels, uno de los extremos septentrionales del **Plan de Bel**, quedando oculta la cima del altiplano.
+
+El castillo es la fortificación más poderosa y mejor defendida del **Savarthès**, aunque no cuenta con la posición estratégica del de [[Lhordat]] , y podría resistir un asedio durante años. Las murallas son muy altas y extremadamente gruesas. Incluso en el caso de que se consiguiera abrir una brecha en las murallas exteriores, las del castillo en sí mismas bastan para sentirse a salvo dentro de él.
+
+El castillo del linaje que ostenta el título de barones es una exhibición descarada de poder. Aunque no posee una ubicación especialmente inexpugnable, sus defensas compensan con creces ese hecho y permiten que el castillo reciba rápida y fácilmente refuerzos de los señoríos del Sabarthès que le rinden vasallaje (Quier, Luzenac, Ravat). Además, el **Castillo de Gudannes**, también de la familia baronal y situado a poca distancia, actúa como antemural o primera defensa que impide que Castel-Verodún pueda ser atacado por sorpresa desde el sur.
+
+No obstante, el **conde de Fois** vigila las actividades del barón desde la cueva ([[espulga]]) de [[Verodun]], fortificación que obligó a los señores de Verodun a trasladar su residencia al otro lado del Arièja, en claro menoscabo de su poder.
+
+A los pies del castillo, el barón [[Arnau de Castel-Verodun]] ha hecho crecer una pequeña villa amurallada protegida por lienzos que nacen del propio castillo, encorsetando la población, asegurando a sus servidores y trabajadores y creando otro antemural capaz de resistir un asedio hasta la llegada de refuerzos. Las cabañas son miserables chamizos incapaces de constituir refugio alguno y ni siquiera el pueblo cuenta con iglesia. El barón, especialmente su esposa, se ha convertido en los últimos años en ferviente defensor del catarismo; buena parte de la población profesa esta religión y, por ello, las iglesias no parecen necesarias. Varios _perfecti_ viven en la aldea y atienden con sus sermones y plegarias las necesidades espirituales de la población. Una vía tortuosa asciende entre las casas hasta la explanada frente a las puertas del castillo.
+
+## Historia 
+Arnaud era el segundo hijo del Señor Arnaud II de Verodún, uno de los linajes más antiguos del Sabarthès que se remonta a época romana -y probablemente anterior. Su hermano Raymond heredó el señorío pero su carácter pusilánime y extremadamente religioso le hacía un personaje poco apto para un dominio guerrero como el de los Verodún. Su ambicioso hermano planeó su muerte, pagando a un caballero para que le diera muerte durante su peregrinación a Tierra Santa. Su hermano Harbín le disputó los derechos del señorío pero Arnaud le derrotó, aunque le permtió conservar su señorío de [[Quier]], bajo el pacto de vasallaje.
+
+En 1191 contrajo matrimonio con Isabel de Cerdaña, hija del conde Sancho de [[Cerdaña]], entroncando así con la Casa Real Aragonesa, al ser Isabel prima del rey Pedro II (hermano de Sancho de Cerdaña). Esto le confirió un enorme prestigio aún cuando don Arnaud se desposó con ella para acrecentar su importancia. 
+
+Arnaud se encontró con que tenía bajo su mando a todos los señores del Sabarthès, y cuando en 1196 fue requerido por el Conde Foix para atacar a los andorranos acudió con una gran hueste sabertense que defendió al conde de la contraofensiva urgelitana y cerdañola. Esto le valió el nombramiento de barón -que aunque no conllevaba explícitamente el dominio del Sabarthès, si que lo concedía de facto, elevando a Arnaud en rango por encima de todos sus vasallos del país. 
+
+Fue entonces cuando Arnaud hizo construir Castillo de Verodún: la fortaleza inexpugnable desde donde exhibe su recién ganado poder. 
+
+Desde entonces, el poder de don Arnaud se ha asentado y se dedica a disfrutar de su triunfo, pero guardando cuatela, ya que sabe que igual que él lo ha conseguido, otro se lo puede quitar.
+
+## Religión
+
+Don Arnaud tolera a los Cátaros, pero tal tolerancia se mantiene solo en medida en que no amenacen su poder y fortuna. La responsable de tal postura es su esposa que muestra una simpatía manifiesta por los creyentes. . El padre Rufe es el campellán del barón desde hace más de una década. En un principio le aconsejó que intentara ser menos agresivo y codicioso, pero a estas alturas se ha resignado a la indiferencia del barón frente a sus consejos.
