@@ -2,8 +2,9 @@
 
 El grupo partió del Caireforc a maitines con destino a Las Cabanas donde pretendían pasar la noche antes de dirigirse hacia [[Tarascon de Savarthès]] para asistir a la popular feria que se organiza en ese valle en torno a la romería de Nostra Senhora de la Victoria, -la Virgen de Sabarth. Era una mañana lluviosa y fría de esta primavera que se resistía en dejar atrás el invierno; las montañas al sur y al norte segúan acumulando nieve. Los cuatro grandes carromatos cubiertos avanzaban lentos pero seguros por las sendas que descendían desde los [[Montes de Astan]] hasta el valle del [[Arièja]], gracias a las ruedas encantadas instaladas en el primer carromato que manipulaban el terreno, nivelándolo y ensanchándolo para permitir el paso de los vehículos rodados. En el primero iba [[Gom d'Adam]] y a las riendas el experto carretero de los [[Garrics d'Agudanes]], [[Peyron Lo Boçut]], seguidos por el carro de [[Gavièl de Fois]]  y [[Joseph Lo Rat]], por el de [[Aureli Lo Canalla]] y [[Jehanet Lo Nen]] (vestido de mujer para pasar desapercibido- y cerrando la comitiva, el carro conducido por el imponente [[Miquel Lo Crestà]]  acompañado de [[Bertran Lo Tisic]]. Tras contemplar impresionados el flamante castillo del barón de [[Castella de Verodun]]  sitiéndose vigilados desde sus torres que controlaban la unión de río [[Astan, río]] con el Arieja, llegaron a la [[Hospedería de Sent Jehan]], en las cercanías de [[Las Cabanas]]. 
 
-![[Verodunés.jpeg]]
+![[Verodunés.jpeg|1242x665]]
 
+---
 
 ## La cena del escrutinio 
 
@@ -33,7 +34,7 @@ Entró entonces un clérigo joven de aspecto digno y cuidado y ademanes afables.
 ![[image-299.png]]
 **Padre Odón, capellán hospitalario de Las Cabanas**
 
-> Acepte mis disculpas, buen señor. Nuestras puertas están abiertas pero pululan por estas tierras demasiados indeseables: bandidos, herejes y sodomitas. Ciertos malnacidos infestan estos montes con su ignominia, se hacen llamar los garrics y se dice que duermen con hombres y roban a los muertos. Así que excúseme si mi rostro es hosco por naturaleza pero siempre prefiero estar a salvo de que me digan que una vez le sonreí al Diablo. 
+> -Acepte mis disculpas, buen señor. Nuestras puertas están abiertas pero pululan por estas tierras demasiados indeseables: bandidos, herejes y sodomitas. Ciertos malnacidos infestan estos montes con su ignominia, se hacen llamar los garrics y se dice que duermen con hombres y roban a los muertos. Así que excúseme si mi rostro es hosco por naturaleza pero siempre prefiero estar a salvo de que me digan que una vez le sonreí al Diablo. 
 
 Uno de los garrics no pudo contenerse una risilla cuando se sintió tan bien retratado por los epítetos del sargento. De los cuatro hospitalarios que estaban sentados a la mesa, uno miraba de hurtadillas al grupo y se sonrojaba cuando alguno de los garrics le devolvían la mirada. Sobre todo seguía cada gesto y movimiento de  los imponentes Aureli y Miquel, con las pupilas dilatadas, quizá aventurando ya la noche de desenfreno que le esperaba en los establos. Sin duda, estos dos ya conocían bien al hermano Hug, el otro sargento de la casa. 
 ![[image-300.png]]
@@ -45,12 +46,13 @@ Hablando de herejes, uno de los parroquianos habituales de la Hospedería estaba
 **El padre Ramón**
 
 Con su jarra nuevamente llena se dirige al áspero sargento:
-> Hermano Renaut, ¿y no aliviaría un poco más de vino los temores de vuestra alma? 
-> El vino no ahoga temores, padre Ramón. Los enseña a nadar. 
-
+> -Hermano Renaut, ¿y no aliviaría un poco más de vino los temores de vuestra alma? 
+> 
+> -El vino no ahoga temores, padre Ramón. Los enseña a nadar. 
 
 Entre la concurrencia, Gavièl echó una ojeada a ver si veía algún conocido, y en efecto, ya le reconoció un mercader de paños, Sicard d'Acs y se saludaron profusamente, comentando noticias y rumores. A la feria acudirá la flor y nata de la región, dado que el obispo, casi siempre ausente, estaba en la diócesis para dejarse ver y aparenta que hacía algo. Por eso, no faltarán ni el conde, ni el barón ni toda la flor y nata del [[Savarthès]] y del condado. Sobre qué les interesaba comprar (avituallamiento en general, paños, hierro y carbón) Sicard les dijo que de todo lo encontrarán sin problemas pero no paños catalanes como los suyos. Lo que veía más difícil era conseguir carbón, dado -por lo que había oído- el conde estaba incautando toda la producción. La razón que se aventuraba era la más que probable guerra con [[Urgel]] para hacerse con los [[Valles de Andorra]] dado que la heredera de los [[Familia Caboet]] estaba prometida con el hijo del conde de Fois y ni el obispo de la Seu ni el conde de Urgel la reconocían como heredera de los Valles. De momento, el hierro no es problema porque abunda, pero el carbón -como hay que hacerlo- se lo está quedando para que no falte en las armerías de Fois en el caso de que se abran las hostilidades. También se dice que el Caireforc vuelve a estar habitado y que las brujas han vuelto. Se vieron subir carretas a través por los senderos que remontan el Astan... Por allí, ¡carretas!  Gavièl aprovechó entonces para decir que trabajaba precisamente para el señor del Caireforc, y presentó al mercader a Gom, quien le tranquilizó. 
-![[z_Assets/image-301.png]]
+
+![[image-301.png]]
 **Sicard d'Acs, tratante de paños**
 
 Por último, le previno -como creyente cátaro que Sicard era- que se andara con cuidado: el inútil del obispo Merdici andaba con ganas de hacerse notar y justificar su presencia, así que no se iba a andar con miramientos para dar algún escarmiento a herejes y desviados como chivo expiatorio... 
@@ -62,28 +64,28 @@ A final de la cena, cuando los platos ya han sido retirados y solo quedan las ja
 **Bernat de Videnhac, Comendador de Savarthès**
 
 >-¡Señor Comendador! Exclama Renaut de Lantarés,  - no esperábamos vuestra visita. 
-> - Ni yo esperaba cena, como tampoco esta tormenta .
+> -Ni yo esperaba cena, como tampoco esta tormenta .
 
 Renaut de Lantarés y los demás rápidamente ceden sus asientos al comendador y su escolta. El oficial hospitalario se dirige a los huéspedes: 
-> - Que mi presencia no les perturbe su cena, señores huéspedes. Prosigan, por favor. Esta malditas montañas... El invierno se ceba e ellas, pero la primavera que le sigue es aún peor...
+> -Que mi presencia no les perturbe su cena, señores huéspedes. Prosigan, por favor. Esta malditas montañas... El invierno se ceba e ellas, pero la primavera que le sigue es aún peor...
 
 Rápidamente el Comendador posa su mirada sobre el insigne aspecto de Gom y su peculiar comitiva.
-> - ¿Qué son, viajeros? ¿Comerciantes? He visto carretas en la puerta... 
-> - Vamos a la romería de Sabarth a abastecernos.
-> - Vayan con cuidado, señores, estos caminos están llenos de bandidos, herejes y sodomitas... Y por si fuera poco está ese demonio a caballo que los destruye todo a su paso el Jinete de la Tormenta lo llaman. Hace unos días arrasó un puesto de carboneros más arriba del pueblo de Siguer. Los que lograron escapar han vuelto enloquecidos de rabia y miedo. Pero no es todo, me han llegado noticias de que el [[Caireforc dels Vents]] vuelve a estar habitado, que las brujas han regresado. ¡Válgame el Señor! Al final los herejes y los bandidos serán el menor de nuestros males...
+> -¿Qué son, viajeros? ¿Comerciantes? He visto carretas en la puerta... 
+> -Vamos a la romería de Sabarth a abastecernos.
+> -Vayan con cuidado, señores, estos caminos están llenos de bandidos, herejes y sodomitas... Y por si fuera poco está ese demonio a caballo que los destruye todo a su paso el Jinete de la Tormenta lo llaman. Hace unos días arrasó un puesto de carboneros más arriba del pueblo de Siguer. Los que lograron escapar han vuelto enloquecidos de rabia y miedo. Pero no es todo, me han llegado noticias de que el [[Caireforc dels Vents]] vuelve a estar habitado, que las brujas han regresado. ¡Válgame el Señor! Al final los herejes y los bandidos serán el menor de nuestros males... ¿De donde  dijisteis que veníais...?
 
 Gom intervino, alzándose:
-> - Señor Comendador, permítame presentarme, soy Gom d'Adam, y está usted en lo cierto, el Caireforc está habitado de nuevo ya que está su merced hablando con su nuevo señor. -El asombro en la sala se podía masticar- pero debo puntualizar, con el debido respeto- que nada ha de temer, porque nada tenemos que ver con dichas "brujas" y los errores y desmanes que pudieran haber cometido en el pasado no se repetirán mientras mi familia y yo estemos allí. 
-> - Vaya, una sorpresa sin duda. Luego, es cierto que hay un castillo oculto en esa roca negra... Ah claro, ¿no serían vuestras las carretas que ascendieron río arriba el Astán, el otro día?
-> - En efecto, son las nuestras.
->- Curiosa hazaña, esos caminos son de herradura no de rueda, y aún los caballos tienen problemas por allí. Por eso esas tierras son pasto de bandidos, de impíos bandidos herejes y sodomitas! Si no fuera por ese terreno indómito ya hace tiempo que habríamos acabado con ellos y todos los de su ralea...
+> -Señor Comendador, permítame presentarme, soy Gom d'Adam, y está usted en lo cierto, el Caireforc está habitado de nuevo ya que está su merced hablando con su nuevo señor. -El asombro en la sala se podía masticar- pero debo puntualizar, con el debido respeto- que nada ha de temer, porque nada tenemos que ver con dichas "brujas" y los errores y desmanes que pudieran haber cometido en el pasado no se repetirán mientras mi familia y yo estemos allí. 
+> -Vaya, una sorpresa sin duda. Luego, es cierto que hay un castillo oculto en esa roca negra... Ah claro, ¿no serían vuestras las carretas que ascendieron río arriba el Astán, el otro día?
+> -En efecto, son las nuestras.
+>-Curiosa hazaña, esos caminos son de herradura no de rueda, y aún los caballos tienen problemas por allí. Por eso esas tierras son pasto de bandidos, de impíos bandidos herejes y sodomitas! Si no fuera por ese terreno indómito ya hace tiempo que habríamos acabado con ellos y todos los de su ralea...
 
 El padre Odon se aventuró a quitar hierro al asunto. 
 >- Ilustrísimo Señor Comendador, conviene no asustar a nuestros nuevos vecinos. 
 >- No se preocupe, señor Comendador -añadió Gom- que está usted invitado a nuestra humilde morada cuando guste, para que compruebe que en nuestra casa solo reina la ley y el orden...
 
 ### El escrutinio 
-El Comendador no pareció quedarse tranquilo, pero prosiguió con su parca cena, acompañado por los dos hermanos caballeros a sus flancos, los sargentos en los extremos. A su derecha, un caballero de ojos vidriosos y mirada perdida apenas probó bocado... Y de vez en cuando elevaba la mirada y cerraba los ojos como olfateando algo... Así lo hizo sondeando toda la estancia hasta que al final los abrió mirando justo hasta donde se encontraba [[Joseph Lo Rat]]. [[Bertran Lo Tisic]] con su excelente capacidad de observación detectó la vigilancia. No era difícil, dado que tanto el como los demás Garrics no le quitaban el ojo al otro caballero hospitalario sentado a la izquierda del Comendador, un atractivo señor de sienes plateadas y marcial apostura- pero así notaron la mirada helada y perdida de aquel misterioso caballero que parecía sentir algo sin que pudiera especificar qué. Comentó algo en voz baja al Comendador y este, con menor disimulo aún, clavó su furibunda mirada en Joseph. 
+[[Bertrán de Videnhac]] no pareció quedarse tranquilo, pero prosiguió con su parca cena, acompañado por los dos hermanos caballeros a sus flancos, los sargentos en los extremos. A su derecha, un caballero de ojos vidriosos y mirada perdida apenas probó bocado... Y de vez en cuando elevaba la mirada y cerraba los ojos como olfateando algo... Así lo hizo sondeando toda la estancia hasta que al final los abrió mirando justo hasta donde se encontraba [[Joseph Lo Rat]]. [[Bertran Lo Tisic]] con su excelente capacidad de observación detectó la vigilancia. No era difícil, dado que tanto el como los demás Garrics no le quitaban el ojo al otro caballero hospitalario sentado a la izquierda del Comendador, un atractivo señor de sienes plateadas y marcial apostura- pero así notaron la mirada helada y perdida de aquel misterioso caballero que parecía sentir algo sin que pudiera especificar qué. Comentó algo en voz baja al Comendador y este, con menor disimulo aún, clavó su furibunda mirada en Joseph. 
 
 ![[image-302.png]]
 **El misterioso hermano Lliser**. 
@@ -102,11 +104,16 @@ Terminado el rezo, todo el mundo fue a sus aposentos. Gom y Gaviel hubieron de c
 
 ### Una visita nocturna 
 
-Cuando todo se hallaba en silencio, Gom y Gavièl oyeron que llamaban discretamente a su puerta. Gom dudaba si abrir pero observó que Caelatus estaba tranquilo y hasta movía el rabo. Era Fray Odon con rostro apurado. Se bajó la capucha y les advirtió que el Comendador tenái claras sospechas de que su acompañante, Joseph Lo Rat llevaba una valiosa reliquia robada. Su plan era partir a maitines caminio a Acs -como era su ruta, pero antes enviaría a un caballero a Tarascón a preparar el arresto. Por otra parte también les aqvisó de que no podría proteger al padre Ramón por más tiempo y que era muy probable de que fuera entregado al obispo que muy probablemente esté al tando de quién es realmente y qué es lo que hizo. Por último, les amonestó por presentarse allí con los *garrics*...
+Cuando todo se hallaba en silencio, Gom y Gavièl oyeron que llamaban discretamente a su puerta. Gom dudaba si abrir pero observó que Caelatus estaba tranquilo y hasta movía el rabo. Era Fray Odon con rostro apurado. Se bajó la capucha y les advirtió que el Comendador tenái claras sospechas de que su acompañante, Joseph Lo Rat llevaba una valiosa reliquia robada. Su plan era partir a maitines caminio a [[Acs]] -como era su ruta, pero antes enviaría a un caballero a Tarascón a preparar el arresto. 
+
+Por otra parte también les aqvisó de que no podría proteger al padre Ramón por más tiempo y que era muy probable de que fuera entregado al obispo que muy probablemente esté al tanTo de quién es realmente y qué es lo que hizo. 
+> -Yo no soy quién para juzgar los pecados de un alma descarriada, pero el pobre padre Ramón es una buena persona caída en el pozo de la desgracia. Si algún pecado cometió, es prerrogativa de Nuestro Señor juzgarlo. No nuestra... Yo solo quiero dejar de vivir sometido al miedo. 
+
+Por último, les amonestó por presentarse allí con los *garrics*...
+> -Me ponéis en una situación difícil encubriéndoos si os presentáis aquí con tamaño desparpajo.
 
 Gom señaló que tenían unas cartas que entregar allí para que las recogiera un mensajero... Fray Odón vio los sellos y rápidamente entendió:
-> Ah, el Mensajero Rojo... - claro, dejádmelas, yo se las daré, es conmigo con quién habla. 
-
+> -Ah, para el Mensajero Rojo... - claro, dejádmelas, yo se las daré, es conmigo con quién habla. 
 
 ### Partida rápida 
 
@@ -114,26 +121,27 @@ Gom y Gaviel se levantan y van hacia las cuadras, donde encuentran a los Garrics
 
 ### La emboscada imperfecta 
 
-Decidieron tomar la vía de herradura que discurría por la orilla norte del Ariêja, ya que Peyrot afirmaba que con esa maravila de carros suyos se pueden meter muy bien por allí -aunque fuera un camino. Convenía porque entrarían en Tarascón por la puerta de España que suele estar menos vigilada. Pero les preocupaba el cabo suelto: sin duda el mensajero a caballo del Comendador llegaría antes que ellos y caminarían hacia una más que probable trampa; pero no sabían con certeza de si tomaría el camino del norte o el del sur. Ante esa eventualidad y la falta de acuerdo, dividieron el grupo: 
-- Gom y las carretas irían por el camino norte y prepararían una emboscada al mensajero, fingiendo un accidente que requiriera la ayuda del mismo, momento que aprovecharía Gom para hechizarlo e infundirle un temor visceral a viajar a Tarascón, mediante un hechizo que conocía bien. 
-- Joseph Lo Rat y Miquel Lo Crestat prepararían una emboscada en la vía sur con el fin de dar muerte al mensajero. Una solución violenta, que ni Gavièl ni el padre Ramón aprobaban y de la que Gom recelaba. 
+Decidieron tomar la vía de herradura que discurría por la orilla norte del Ariêja, ya que [[Peyron Lo Boçut]] afirmaba que con esa maravilla de carros suyos se pueden meter muy bien por allí -aunque fuera un camino. Convenía porque entrarían en Tarascón por la puerta de España que suele estar menos vigilada. Pero les preocupaba el cabo suelto: sin duda el mensajero a caballo del Comendador llegaría antes que ellos y caminarían hacia una más que probable trampa; pero no sabían con certeza de si tomaría el camino del norte o el del sur. Ante esa eventualidad y la falta de acuerdo, dividieron el grupo: 
+- [[Gom d'Adam]], el grueso del grupo y las carretas irían por el camino norte y prepararían una emboscada al mensajero, fingiendo un accidente que requiriera la ayuda del mismo, momento que aprovecharía Gom para hechizarlo e infundirle un temor visceral a viajar a Tarascón, mediante un hechizo que conocía bien. 
+- [[Joseph Lo Rat]] y [[Miquel Lo Crestat]] prepararían una emboscada en la vía sur con el fin de dar muerte al mensajero. Una solución violenta, que ni Gavièl ni el padre Ramón aprobaban y de la que Gom recelaba. 
 
-Al poco rato, Gom y los suyos vieron acercarse a todo galope a uno de los caballeros hospitalarios, el atractivo hermano Marceu. Le pararon y le solicitaron ayuda. Bajo la rueda de la careta estaba aparentemente atrapado Jehanet Lo Nen, vestido de mujer, fingiendo ser la doncella en apuros. El caballero, bien intencionado, bajó del caballo y se dispuso a socorrer a la mujer y entonces, Gom se interpuso lanzándole el [[Infundir Temor en los Corazones (CrMe15)]] sin gestos ni voces. El hechizo funcionó y el caballero pronto exteriorizó un doloroso pavor a viajar a Tarascón. Sin embargo, su entrega al auxilio era más fuerte y quiso convencer al grupo de que no viajaran allí ya que algo terrible iba a suceder y sus vidas corrían peligro. Jehanet intentó convencerle de que tenía que ir precisamente a salvar a sus padres. El cballero se lo creó pero entonces decidión que había de ir a avisar al Comendador de que algo terrible iba a suceder. Gom perdió la paciencia entonces y ordenó a Caelatus que atacara: el sabueso de inmediato se multiplicó por cinco, haciendo gala de su naturaleza mágica. El desafortunado caballero tuvo apenas tiempo de desenfundar, recibiendo cinco mordeduras mortales, cayendo al suelo muerto y sin confesión. 
+Al poco rato, Gom y los suyos vieron acercarse a todo galope a uno de los caballeros hospitalarios, el atractivo hermano Marceu. Le pararon y le solicitaron ayuda. Bajo la rueda de la careta estaba aparentemente atrapado Jehanet Lo Nen, vestido de mujer, fingiendo ser la doncella en apuros. El caballero, bien intencionado, bajó del caballo y se dispuso a socorrer a la mujer y entonces, Gom se interpuso lanzándole el [[Infundir Temor en los Corazones (CrMe15)]] sin gestos ni voces. El hechizo funcionó y el caballero pronto exteriorizó un doloroso pavor a viajar a Tarascón. Sin embargo, su entrega al auxilio era más fuerte y quiso convencer al grupo de que no viajaran allí ya que algo terrible iba a suceder y sus vidas corrían peligro. Jehanet intentó convencerle de que tenía que ir precisamente a salvar a sus padres. El caballero se lo creó pero entonces decidión que había de ir a avisar al Comendador de que algo terrible iba a suceder. Gom perdió la paciencia entonces y ordenó a [[Caelatus]] que atacara: el sabueso de inmediato se multiplicó por cinco, haciendo gala de su naturaleza mágica. El desafortunado caballero tuvo apenas tiempo de desenfundar, recibiendo cinco mordeduras mortales, cayendo al suelo muerto y sin confesión. 
 
 ![[image-306.png]]
 
 El Padre Ramón exclamó: 
-> ¡Pero qué habéis hecho, desalmados!
+> -¡Pero qué habéis hecho, desalmados!
 
 Gavièl se quedó sin habla. 
 
 El resto desnudaron el cadáver, arrojaron sus posesiones al río, metieron al cadáver dentro de una carreta para desmembrarlo allí e ir alimentando a Caelatus con su carne durante el camino. Y así continuaron el viaje hacia Tarascón, a donde llegarían después del toque de Tercia. 
 
-
 ![[image-307.png]]
 **Hermano Caballero Marceu de Monllor, R.I.P.
 
+---
 
+**CONTINUARÁ...**
 
 
 
