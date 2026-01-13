@@ -2,6 +2,9 @@
 
 El grupo partió del Caireforc a maitines con destino a Las Cabanas donde pretendían pasar la noche antes de dirigirse hacia [[Tarascon de Savarthès]] para asistir a la popular feria que se organiza en ese valle en torno a la romería de Nostra Senhora de la Victoria, -la Virgen de Sabarth. Era una mañana lluviosa y fría de esta primavera que se resistía en dejar atrás el invierno; las montañas al sur y al norte segúan acumulando nieve. Los cuatro grandes carromatos cubiertos avanzaban lentos pero seguros por las sendas que descendían desde los [[Montes de Astan]] hasta el valle del [[Arièja]], gracias a las ruedas encantadas instaladas en el primer carromato que manipulaban el terreno, nivelándolo y ensanchándolo para permitir el paso de los vehículos rodados. En el primero iba [[Gom d'Adam]] y a las riendas el experto carretero de los [[Garrics d'Agudanes]], [[Peyron Lo Boçut]], seguidos por el carro de [[Gavièl de Fois]]  y [[Joseph Lo Rat]], por el de [[Aureli Lo Canalla]] y [[Jehanet Lo Nen]] (vestido de mujer para pasar desapercibido- y cerrando la comitiva, el carro conducido por el imponente [[Miquel Lo Crestà]]  acompañado de [[Bertran Lo Tisic]]. Tras contemplar impresionados el flamante castillo del barón de [[Castella de Verodun]]  sitiéndose vigilados desde sus torres que controlaban la unión de río [[Astan, río]] con el Arieja, llegaron a la [[Hospedería de Sent Jehan]], en las cercanías de [[Las Cabanas]]. 
 
+![[Verodunés.jpeg]]
+
+
 ## La cena del escrutinio 
 
 ### La tensa hospitalidad 
