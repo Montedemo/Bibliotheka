@@ -6,7 +6,7 @@ El grupo partió del Caireforc a maitines con destino a Las Cabanas donde preten
 
 ---
 
-## La cena del escrutinio 
+## La Cena del Escrutinio 
 
 ### La tensa hospitalidad 
 Al doblar un recodo tras cruzar un puente sobre el Astan, las murallas bajas de la hospedería emergieron entre los olmos: una casona rural, más fuerte que piadosa. En el portalón colgaba una lámpara con la cruz de los Hospitalarios, y bajo ella, un hombre armado que limpiaba con parsimonia el filo de su lanza. El grupo llgó empapado y con las mulas cansadas. El sabueso cazalobos [[[Caelatus]] caminaba junto a Gom, altivo, con ese aire de animal que sabe que no es simple carne. Fríamente atendidos por el hosco portero, Betraut, que apenas les indicó con un gesto que podían pasar. Entraron los carromatos al recinto -un patio porticado separaba una estancia de donde se oían voces y olor a comida de los establos y almacenes donde pudieron dejar los carros y dar forraje a las mulas.
