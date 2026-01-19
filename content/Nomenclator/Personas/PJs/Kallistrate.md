@@ -1,0 +1,3 @@
+![[image-344.png]]
+
+Responsable nodriza y comadrona que forma parte de la gente de la Alianza de [[Ventocaelatus]] habiendo llegado allí con el séquito griego de la familia d'Adam traído desde su alianza original de [[Erebos]]. Experta en los cuidados del parto y la maternidad, es la nodriza tanto de [[Mercuria d'Adam]] como de [[Pericles d'Adam]], y la figura materna más cercana para Mercuria. Es la madre de [[Karakaxa]] y su mayor quebradero de cabeza. 

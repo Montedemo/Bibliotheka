@@ -141,7 +141,113 @@ El resto desnudaron el cadáver, arrojaron sus posesiones al río, metieron al c
 
 ---
 
-**CONTINUARÁ...**
+## El Silencio Bajo el Castillo 
+
+Mientras tanto, esa misma mañana de sábado santo,  [[Mercuria d'Adam]] partía de [[Ventocaelatus]] en dirección a [[Castella de Verodun]] para visitar y sondear al barón de  [[Castel-Verodun]] principal poder feudal del [[Savarthès]] y cuyo flamante castillo se alzaba a pocas leguas del [[Caireforc dels Vents]], junto al  [[Astan, río]] casi en la confluencia con el [[Arièja]]. 
+
+La joven maga iba bien acompañada por: 
+- [[Cinta de Miravall]], doncella guerrera de [[Tortosa]] caída en desgracia y unida tangencialmente a los [[Garrics d'Agudanes]]. 
+- [[Kallistrate]], matrona griega venida con la gente de la alianza de [[Erebos]] traída a [[Ventocaelatus]], experta nodriza y ama de cría de Mercuria -y realmente su referente materno más cercano. 
+- [[Karakaxa]] (la Urraca), pizpireta hija de Kallistrate y hermana de leche de Mercuria. Poco amiga del trabajo y sí de la juerga y de la música.  
+
+Habían partido al amanecer para asegurarse de llegar en buena hora al castillo. Cinta y Mercuria a caballo -el de esta última herrado con las herraduras mágicas que permitían suavizar el camino y hacerlo transitable para las nobles bestias. Las dos criadas iban en sendas mulas, junto con parte del equipaje de la dama. Embozadas bajo mantos gruesos de lana encerada, el camino se les hizo largo ya que llovía fuerte y amenazaba tormenta, y Cinta no cejaba en alabar la grandeza de la Virgen de la Cinta, su protectora desde la infancia. 
+
+### Llegada al castillo 
+Pasada la hora sexta se  plantaron ante la puerta del imponente  castillo esperando ser atendidas. La flamante fortaleza era el bastión inexpugnable que controlaba la zona, la [[Via Mercadal]] y exponía el ascenso del poderoso barón que había levantado una construcción que hacía palidecer las del conde de [[Fois (condado)]] mismo. Con su gran donjon de piedra de cuatro plantas, flanqueado por gruesas torres cilíndricas en sus esquinas y un alto cinto exterior jalonado de torres y barbacanas: se mostraba como una foraleza imnexpugnable e imperecedera. La piedra se veía clara y recién aparejada. Los tejados de pizarra, alineados y sin desperfecto alguno. Aún asomaban restos de cal y arena por el suelo. 
+
+![[image-336.png]]
+
+Cuando por fin las abrieron, se les notificó que el barón no estaba, lo que supuso un revés para sus planes. **Roano**, el atildado mayordomo iba a despacharlas pero afortunadamente, don **Peire de Verodun**, el castellano las invitó a pasar y resguardarse de la lluvia en un alarde de caballerosidad. Cuando Mercuria se retira el capuchón, aprovechó para ensalzar mágicamente su importancia lanzando [[Aura de Autoridad (ReMe20)]] sobre sí misma, discretamente. Esto finalmente inclinó la balanza del reticente Roano a su favor y causó sensación en el castillo. 
+
+![[image-327.png]]
+
+>¿Quién será la misteriosa doncella de tan preternatural belleza?
+
+El castellano se retiró para sus quehaceres y las dejó bajo el cuidado de una servicial y tímida sirvienta de nombre **Marysse**, ataviada austeramente y con el rostro asustado. Marysse no hablaba latín -solo provenzal- así que que tan solo Cinta y algo Mercuria pudieron entenderla, pero se mostró sumamente servicial y solícita. 
+![[image-330.png]]
+
+Mientras les ofrecía vino caliente para templarse el cuerpo, se le acercó un guapo joven que cortejó a Mercuria casi sin disimularlo. notablemente atraído por su belleza; pero de una forma tan evidente que deja a relucir su torpeza en el trato con las mujeres, más basada en su posición de autoridad que otra cosa. Era **Jaume d'Agudanes** el sobrino del barón, y escudero del castellano, razón por la que no ha acudido a la Romería de Sabart con el resto de la familia. También podrán entrever que es un creyente cátaro, pero más por imposición de su padre, el austero **Guilhem d'Agudanes** que por devoción propia. 
+
+![[image-328.png]]
+**Jaume d'Agudanes** 
+
+Notaron que, en efecto, que el castillo está lleno de cátaros, a juzgar por sus vestimentas casi monacales y parca austeridad. El propio Jaume indicó que si bien el barón [[Arnaud de Podio]] se consideraba fiel católico, la señora baronesa [[Isabel d'Aragó]] había abrazado las creencias de los buenos hombres, de los que siempre iba rodeada, igual que su hija Ermessenda.
+
+Revelaba todo eso movido por la necesidad de complacerla y acercarse a ella, siendo casi evidente la excitación sexual que al joven le producía la irresistible presencia de Mercuria. Sin embargo, logró librarse de su presencia en cuanto dijo su procedencia: el [[Caireforc dels Vents]]. Solo nombrarlo, palideció y empezó a balbucear. Un leve sondeo mental reveló a Mercuria que el lugar está conectado con sus miedos infantiles más atávicos, razón por la que decidió no volver a mencionar ese lugar e incluso intentó  borrar el recuerdo de haberlo mencionado de la mente del joven escudero, no con mucho éxito. 
+
+### Fiesta en la cocina
+
+Kallistrate y Karakaxa fueron conducidas  a la cocina para que indicaran las preferencias y ayudaran en la preparación del ágape para su señora. Allí conocieron a **Beatriz**, la jefa de cocinas, una mujer esforzada y de rostro serio, pero atenta a las necesidades, que conectaría pronto con la veterana Kallistrate. La vieja jefa de cocinas chapurreaba algo de latín y gracias a eso supieron que el joven señor Jaume era un bala perdida que acosaba a todas las sirvientas jóvenes, pero particularmente a la buena Marysse, a quien su docilidad parecía excitarle particularmente. 
+![[image-335.png]]
+**La vieja Beatriz**
+
+Por su parte, Karakaxa, poco dada al trabajo duro y sí a la jerigonza, se puso a animar al numeroso personal de cocinas cantando una alegre tonadilla procaz, que al estar en griego su espontánea audiencia no llegó a entender, pero sí conectó con ella, alegrando sus quehaceres. 
+
+![[image-329.png]]
+**Karakaxa en su salsa** 
+
+El recital fue interrumpido por el demandante **Roano** que se encaró con Beatriz e insinuó que los cátaros son unos perezosos, a lo que Beatriz se impuso diciendo que menos interrumpir sus labores que en realidad son más importantes que las de él. 
+
+### Cena en el castillo 
+
+Fuero llamados al salón principal, en la planta primera, donde se invitó a Mercuaria y Cinta a sentarse en la mesa principal, ocupando la primera el sitio de honor frente al castellano. La presidencia estaba bastante vacía y solo sentados en ella, el castellano, su escudero Jaume y el mayordomo, mientras que junto a Mercuria se dispuso Cinta y tras ellas, atendiendo a sus necesidades, las criadas. 
+
+Don Peire trató, infructuosamente de que Mercuria precisara donde estaba su residencia, recibiendo solo evasivas y rodeos, aludiendo que se había perdido en estas agrestes tierras. Pero las sutiles artes de embrollamiento de la joven consiguieron capear la oleada de preguntas, ayudándose en su encanto del que claramente el sobrio castellano estaba más que impresionado. Para amenizar la conversación, Peire relató algunos aciagos sucesos ocurridos en la zona, razón por la que debería tener cuidado al andar sola por estas tierras. 
+
+No lejos se alzaba un nefando lugar, el Caireforc dels Vents, cuyas brujas habían sembrado el terror durante décadas. Se decía que habían muerto pero nuevamente se ha visto ir y venir de gentes hacia ese ignominioso lugar. Relató que las gentes de la zona habían sufrido muchísimo a costa de ellas y en ese mismo lugar se produjo el enfrentamiento con **El Batallón**. 
+![[image-332.png]]
+**El Batallón**
+
+Contó que hace mucho tiempo, los padres de sus padres relataban como los señores de Verodún alzaron su hueste para acabar con las brujas del Caireforc; gran batalla se libró allí y los hombres regresaron. Cuando las gentes de Verodún salieron a recibirles a su retorno victorioso, se dieron cuenta demasiado tarde que sus padres, hermanos e hijos estaban muertos y aún así, caminaban: heridos, mutilados, lanzándose contra sus familiares, que les recibían con los brazos abiertos, sembrando muerte y horror. Por suerte las plegarias a Santa Fabia intercedieron y la buena santa se apareció: con su cruz hizo retroceder a los muertos andantes hasta una cueva, allí les devolvió a la tierra y la gente les sepultó sellándola para siempre. 
+![[image-331.png]]
+**Santa Fabia haciendo frente al Batallón** 
+
+También habló del [[Jinete de la Tormenta]], del cual Mercuria aún no había oído detalle, que escuchó con mucha atención. Ese ser del Infierno que se aparece durante las Tormentas y cabalga sembrando el caos y la destrucción a su paso. 
+
+Karakaxa decidió que la noche no se acababa y tocó la cítara para animar el ambiente. Sin embargo, tanto el castellano como Mercuria decidieron que era hora de irse a dormir y la fiesta se acabó pronto. 
+
+### Un grito helado 
+
+Se fueron a dormir, destinándolas un amplio aposento de invitados en esa misma planta, cómodo y equipado pero frío como era todo aquel castillo. Cansadas por el viaje, se durmieron pronto pero algo las despertó, no solo a Kallístrate la del oído fino, sino a todas. Un grito helado y seco. Tardaron un poco en reaccionar pero decidieron salir a ver de qué se trataba -tras calzarse Cinta su cota de malla y armarse hasta los dientes por lo que pudiera pasar. No encontraron a nadie, pero sí, observando, un salpicado de gotas de cera y un fragmento de tela, como un jirón arrancado, de la misma tela de arpillera que solían llevar los criados. Observando con detalle podían ver un rastro de gotas de cera que descendía escaleras abajo hasta los sótanos. 
+
+![[image-350.png]]
+
+Lo siguieron y se encontraron en la sala de una gran cisterna, el gran almacén de agua, sobre el que discurría una pasarela de madera. Hacía muchísimo frío, como si el lugar guardara hielo y no agua, afectándolas severamente. Karakaxa detectó peligro al otro lado de dicha pasarela. Pero lo más desconcertante era la ausencia de sonido: no solo silencio, era como si algo, una presencia invisible devorara todas las *species* sonoras. Con señas y a la escasa luz de una vela, consiguieron hacerse entender. Con Cinta delante, protegiendo con su recio escudo fueron hasta la puerta que las separaba de dicho peligro, y tallada una inscripción que rezaba:
+
+> CAVE BESTIAM SENEM
+
+Dudaron en abrir la puerta ante la clara advertencia. ¿La Vieja Bestia? Pero realmente la puerta no estaba cerrada sino entornada. Al abrirla descubrieron dos cuerpos tirados en el suelo: uno conocido, el de Marysse la tímida doncella y el otro, un hombre con una basta  túnica de lana. Ambos blancos e inmóviles. ¿Vivos o muertos?
+
+![[image-334.png]]
+
+No pudieron tomar más detalles ya que algo ominoso se les echó de repente encima. 
+![[image-351.png]]
+
+
+### El Batallón y la Vieja Bestia 
+
+Era un esqueleto animado, y detrás otro, y detrás otro, y otro... Encañonados por el angosto pasillo fueron encarados uno a uno por Cinta, que les machacaba con su hacha, pero animados por una fuerza interior preternatural, resistían y aún descuartizados, persistían en su empeño. Mercuria, poseedora de hechizos que podían hacer desvanecerse los cadáveres convirtiéndolos en polvo, hizo buen uso de ellos, ayudando a Cinta, que enfrentaba continuamente a tres esqueletos y seguían viniendo más y más. De momento la aguerrida doncella era capaz de contenerles, pero no sabría por cuánto tiempo.
+![[image-333.png]]
+
+Además, en el fragor del combate, reptando a través de los afilados huesos, se acercaba algo grande. Apremiaba el tiempo y tenían que salir de ahí, Karakaxa hizo lo imposible por mover el cuerpo de Marysse fuera del corredor, pero finalmente fue Mercuria con magia la que lo consiguió. Kallistrate la examinó y estaba viva, aunque helada, aquejada de ese frío antinatural del lugar. La criatura reptante se aproximaba más y más, y antes de salir movieron también el cuerpo del hombre que la acompañaba. 
+
+Fue entonces cuando la bestia reptante se enfrentó a Cinta: se trataba un monstruoso gusano dentado con ojos ciegos que se lanzó contra su escudo, mellándolo. Sintió no solo el golpe de los colmillos sino el frío penetrar a través de él. Una vez despejado el camino de salida, Cinta comenzó a recular manteniendo la guardia. La bestia no atacó directamente sino que de su monstruosa boca emanó un vaho helado y todas sintieron aquel frío letal. Estaban exhaustas, habían de salir de allí. 
+
+![[image-352.png]]
+
+Lo consiguieron y cerraron y atrancaron la fuerte puerta que separaba la estancia de la cisterna de aquel pasadizo odioso. Kallistrate pudo comprobar que el hombre sí estaba muerto. 
+
+### Partida al amanecer
+
+Regresaron cargando a hombros el cuerpo de Marysse y buscaron a Beatriz. Apurada la vieja cocinera preparó agua tibia donde sumergir a la joven doncella que fue recuperándose aunque todavía seguía muy débil. Beatriz les explicó que Marysse quería huir del castillo, acosada como estaba por el violento Jaume, para unirse a un grupo de *[[perfecti]]* y hacerse perfecta con ellos, lejos de aquí donde solo era una sierva. Pero algo debió pasar, con alguien se tuvo que encontrar antes que la llevó a huir apresuradamente y supusieron que con el mismo Jaume que habría intentado retenerla. 
+
+Decidieron ocultarlo todo a don Peire, aparentando indisposición de la sirvienta e incluso haciendo desaparecer el cuerpo del cátaro del sótano y partir prestas para la Romería para encontrarse allí con el Barón -y posiblemente con Gom y su grupo. Con la gratitud eterna de Beatriz por ayudar a su querida ahijada partieron al amanecer, dejando atrás aquel imponente castillo, tan nuevo por fuera como podrido por dentro y que  albergaba secretos que lo carcomían en sus cimientos mismos. 
+
+--- 
+
+**CONTINUARÁ...***
+
+
 
 
 

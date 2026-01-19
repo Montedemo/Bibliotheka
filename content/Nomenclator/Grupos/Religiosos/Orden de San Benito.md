@@ -1,0 +1,11 @@
+La Orden de San Benito es la orden religiosa fundada por Benito de Nursia a principios del siglo VI en la abadía de Montecassino.
+
+Siguiendo su ejemplo e inspiración, diversos fundadores de órdenes religiosas han basado la normativa de sus monasterios en la Regla dejada por Benito, cuyo principio fundamental es "_Ora et labora_", es decir, Oración y Trabajo.  
+
+Durante el transcurso de su historia, la Orden Benedictina ha sufrido **numerosas reformas**, debido a la eventual decadencia de la disciplina en el interior de los monasterios.
+
+La primera reforma importante fue la hecha por Odón de Cluny en el siglo X; esta reforma, llamada **cluniacense** (nombre proveniente de [[Cluny]], lugar de Francia donde se fundó el primer monasterio de esta reforma), llegó a tener un gran influjo, hasta el punto que hasta finales del siglo XII gran parte de la Edad Media prácticamente todos los monasterios benedictinos estaban bajo la [[Orden de Cluny]].  Si bien el hábito negro es característica de la Orden Benedictina en general, es la regla de Cluny la que establece el negro como color, de ahí que -cuando surja el Císter, para diferenciar unos de otros se llame a los cluniacenses, "monjes viejos" o "monjes nuevos". 
+
+Tanto poder adquirido llevó a la decadencia de la reforma cluniacense, que condujo a la reforma **cisterciense**, palabra proveniente de Císter ([[Cîteaux]]en idioma francés), lugar de Francia donde se estableció el primer monasterio de esta reforma. Buscaban apartarse del estilo cluniacense, que había caído en la indisciplina y el relajamiento de la vida monástica. El principal objetivo de los fundadores de la [[Orden del Císter]] fue imponer la práctica estricta de la Regla de San Benito y el regreso a la vida contemplativa, adoptando hábitos blancos para diferenciarse -de ahí que se les llame "monjes blancos" o "monjes nuevos". 
+
+El principal impulsor de la reforma cisterciense fue san Bernardo de Claraval (1090-1153), que se convirtió en el principal consejero de los papas, predicó la Segunda Cruzada y fundó hasta 68 monasterios.

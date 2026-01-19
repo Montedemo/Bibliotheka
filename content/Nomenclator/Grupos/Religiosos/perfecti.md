@@ -1,0 +1,4 @@
+![[image-353.png]]
+Nombre que reciben los iniciados mayores en la religión de los [[Cátaros]]. Identifican a hombres y mujeres que han decidido abandonar el mundo no sin antes dedicar su vida a extender la verdad entre las gentes. Se diferencian de los ***credentes*** o iniciados menores en sus extremos votos de pobreza y abstinencia: ni alcohol, ni carne, ni nada que haya estado vivo. Abrazan la muerte y son incapaces de ejercer violencia alguna dejándose gustosos matar antes que empuñar arma o ejercer violencia alguna. 
+
+Si bien no llevan enseñas o uniformes se les suele reconocer por sus ropas carentes de todo ornamento o lujo, de lana o lino bastos y sin teñir, habitualmente sucias de polvo o barro del camino, ya que suelen llevar vida itinerante. También por su costumbre de moverse en grupos o parejas. Es raro ver a un perfectus o perfecta solo. 
