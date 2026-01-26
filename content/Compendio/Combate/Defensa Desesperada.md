@@ -1,0 +1,2 @@
+Sobreesfuerzo (gasto un nivel de Fatiga) para mejorar la Puntuación de [[DEFENSA]] aplicando dos veces la Habilidad de Combate en ese asalto.
+> **Bono a la Defensa:** + Habilidad de Combate en ese asalto 

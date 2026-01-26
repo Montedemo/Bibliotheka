@@ -1,0 +1,1 @@
+La Destreza implica ser capaz de moverse con agilidad y manipular objetos con precisión y pericia. Incluye la coordinación visomotriz, una buena motricidad y moverse con elegancia. Esta Característica también ayuda a determinar lo bien que tu personaje blande una espada o arroja un cuchillo.

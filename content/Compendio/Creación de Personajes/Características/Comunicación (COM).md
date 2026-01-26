@@ -1,0 +1,1 @@
+La Comunicación representa la aptitud que uno tiene para expresarse. Es importante para intentar influenciar o para comunicarse con alguien, de forma verbal o de cualquier otro modo. Una puntuación de Comunicación positiva hace que un personaje se sienta a gusto o seguro en sus relaciones con los demás.

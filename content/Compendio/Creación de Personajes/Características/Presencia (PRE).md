@@ -1,0 +1,1 @@
+La Presencia describe la apariencia de un personaje, su conducta y su carisma. Es importante para causar una buena impresión, así como para liderar a la gente. Esta Característica también mide lo imponente o intimidatoria que resulta una persona. Aunque algún personaje no sea físicamente atractivo, si tiene mucha Presencia, podrá seguir teniendo un porte que infunda respeto.

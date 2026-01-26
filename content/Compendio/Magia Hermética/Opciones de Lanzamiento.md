@@ -1,0 +1,6 @@
+- [[Apuntar]] 
+- [[Concentración]] 
+- [[Conexiones Arcanas]] 
+- [[0. AM Herramientas del Narrador 🛠️/0. AM5 Pantalla del Narrador/3-Magia/Penetración]] 
+- [[Pifias Mágicas]] 
+- [[Resistencia Mágica]] 

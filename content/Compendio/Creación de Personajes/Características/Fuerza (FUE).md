@@ -1,0 +1,1 @@
+La Fuerza mide el poderío físico: levantar, empujar, derribar, tirar e impulsar. La Fuerza es importante cuando empuñas un arma cuerpo a cuerpo y cuando se utiliza la fuerza bruta contra algo o alguien. Las personas con mucha Fuerza suelen ser más grandes que las que tienen menos, aunque tengan la misma puntuación de Tamaño.

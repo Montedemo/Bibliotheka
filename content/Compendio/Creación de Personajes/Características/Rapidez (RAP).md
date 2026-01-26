@@ -1,0 +1,1 @@
+La Rapidez se refiere a la velocidad de reacción y a los reflejos, y ayuda a determinar quién actuará primero cuando dos personas intenten hacer algo deprisa. También determina lo bien que hace algo tu personaje cuando está apurado. Tu Rapidez efectiva normalmente se verá modificada por tu Carga.

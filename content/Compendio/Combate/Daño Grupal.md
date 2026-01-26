@@ -1,0 +1,7 @@
+Cuando un grupo inflige daño, este se calcula en la secuencia de combate y se inflige tantas veces como combatientes haya en el grupo; cada miembro del grupo golpea una vez.  
+Los golpes se deberán dividir lo más equitativamente posible entre los miembros del grupo enemigo.  
+La vanguardia siempre tendrá que recibir, al menos, tantos golpes como cada uno de los demás miembro del grupo. Cuando un grupo excede en número a otro genera golpes sobrantes; estos golpes sobrantes los recibe la vanguardia.
+> [!example]-
+> Un grupo con cuatro miembros ataca a otro de tres, de los cuales uno posee Sangre de Gigantes, y la vanguardia y el tercero tienen un tamaño humano. Después de restar el Aguante del grupo defensor (que es igual al Aguante de la vanguardia), el ataque hace 6 puntos de daño. De esa forma, infligen cuatro veces 6 puntos de daño. Como cuatro golpes no pueden dividirse entre tres personajes, la vanguardia debe recibir dos impactos. Para un humano normal, seis puntos de daño son una Herida Media, de forma que la vanguardia recibe dos Heridas Medias, mientras que el otro personaje de tamaño normal recibe una. Para el personaje con Sangre de Gigantes, seis puntos se traducen en una Herida Leve.
+
+Las penalizaciones por heridas que tenga la vanguardia serán las que se aplicarán a las tiradas del grupo, aunque los demás miembros seguirán aportando su bono (independientemente de la heridas que tengan) hasta que queden incapacitados.

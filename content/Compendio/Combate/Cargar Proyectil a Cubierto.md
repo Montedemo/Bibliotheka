@@ -1,0 +1,3 @@
+Una táctica común de los **ballesteros** es abarcar la ballesta tras un pavés (escudo grande que se tiene solo en pie) u otra cobertura, salir, disparar y rápidamente guarecerse bajo cubierto para abarcar el arma nuevamente.  
+Un **arquero** puede hacer la misma táctica, al coste de dividir por la mitad su ritmo de disparo.  
+La única manera de que el ballestero quedara expuesto a los proyectiles enemigos es si el enemigo hubiera retrasado una acción, y entonces atacado en respuesta al ballestero abandonando su cobertura.
