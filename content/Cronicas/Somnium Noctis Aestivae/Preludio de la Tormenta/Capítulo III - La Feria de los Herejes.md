@@ -247,34 +247,63 @@ Regresaron cargando a hombros el cuerpo de Marysse y buscaron a Beatriz. Apurada
 
 Decidieron ocultarlo todo a don Peire, aparentando indisposición de la sirvienta e incluso haciendo desaparecer el cuerpo del cátaro del sótano y partir prestas para la Romería para encontrarse allí con el Barón —y posiblemente con Gom y su grupo. Con la gratitud eterna de Beatriz por ayudar a su querida ahijada partieron al amanecer, dejando atrás aquel imponente castillo, tan nuevo por fuera como podrido por dentro y que  albergaba secretos que lo carcomían en sus cimientos mismos. 
 
+--- 
+![[Tarascón-vistadelarieja.png]]
 ## Llegada a Tarascón 
 
 ### Las puertas de Tarascón
-Pero esa misma mañana, [[Gom d'Adam]] acopañado de [[Gavièl de Fois]] y el Padre Ramón llegaron con las carretas a Tarascón al toque de la hora sexta, entrando en la villa por la puerta de España, en efecto menos vigilada que aquella a la que se llega atravesando el puente. Sin embargo, dado que el camino que llega a la puerta de España no es apto para tráfico rodado, algunos vecinos les miran con sorpresa y asombro. 
-Por su parte, Joseph lo Rat y Lo Canalla llegan a Tarascón por el otro camino paralelo, que sin embargo desemboca en el solar de Sabart donde se está montando la feria. Camuflándose evita ser detectado por sus antiguos vecions —o eso cree, pero se topa con que para entra en Tarascón por esa dirección ha de cruzar, primero por el puente sobre el Arieja y después por la puerta de La Lauza, donde su enemigo Bernat Lo Peajer tiene su oficina. Tras dar un complicado rodeo, desandó el camino entrar por la puerta de España y encontrarse en la plaza de Tarascón con el grueso de la compañía de Gom. 
+Pero esa misma mañana, [[Gom d'Adam]] acopañado de [[Gavièl de Fois]] y el Padre Ramón llegaron con las carretas a [[Tarascon de Savarthès]] al toque de la hora sexta, entrando en la villa por la puerta de España, en efecto menos vigilada que aquella a la que se llega atravesando el puente. Sin embargo, dado que el camino  a la puerta de España no es apto para tráfico rodado, algunos vecinos les miraron atónitos.
+![[Tarascón-vistaEspaña.png]]
+Por su parte, [[Joseph lo Rat]] y [[Aureli Lo Canalla]] llegaron a Tarascón por el otro camino paralelo, que sin embargo desemboca en el solar de Sabart donde se está montando la feria. Camuflándose evita ser detectado por sus antiguos vecinos —o eso cree, pero se topa con que para entra en Tarascón por esa dirección ha de cruzar, primero por el puente sobre el Arieja y después por la puerta de La Lauza, donde su enemigo Bernat Lo Peajer tiene su oficina. Tras dar un complicado rodeo, desandó el camino entrar por la puerta de España y encontrarse en la plaza de Tarascón con el grueso de la compañía de Gom. 
+![[Tarascón-vista-Fois.png]]
 
 ### Encuentros callejeros 
 
-Mientras eso ocurría, Gavièl de Fois se topó con un viejo conocido, el carismático Isarn de Quier, perfectus cátaro de renombre y, oficiosamente, el cabecilla del movimiento en el Sabarthés. Llevándoselo a parte, departieron durante unos minutos. A la vuelta, Gavièl contó que, sin duda, al padre Ramón se lo iban a llevar para alante en cuanto el obispo empezara a impartir justicia. Sobre el alojamiento, indicó que no tenía problemas y que dormiría en la casa de les Bones Dones a la salida del pueblo, donde podría pasar desapercibido, y recomendó que pusieran al padre Ramón en un lugar seguro. 
+![[Tarascón-calles05.png]]
+
+A pesar de la molesta lluvia, las calles de Tarascón hervían de actividad en los preparativos de la feria. Comerciantes iban llegando para acomodar sus cuerpos y mercancías en la jornada previa. Entre el barullo  Gavièl de Fois se topó con un viejo conocido, el carismático Isarn de Quier, perfectus cátaro de renombre y, oficiosamente, el cabecilla del movimiento en el Sabarthés. Llevándoselo a parte, departieron durante unos minutos. A la vuelta, Gavièl contó que, sin duda, al padre Ramón se lo iban a llevar para alante en cuanto el obispo empezara a impartir justicia. Sobre el alojamiento, indicó que no tenía problemas y que dormiría en la casa de les Bones Dones a la salida del pueblo, donde podría pasar desapercibido, y recomendó que pusieran al padre Ramón en un lugar seguro. 
+
+![[IsarndeQuier.png]]
+
 Tras debatir sobre qué en qué alojamiento hospedarse, de nuevo el grupo decidió dividirse estratégicamente:
 - Gom y dos garrics: Peyron Lo Boçut y Bertrán Lo Tisic se quedarían en el Hostal de la Crotz, en el centro de Tarascón, donde tendrían a buen recaudo las carretas y mulas y tendrían un alojamiento de prestigio al nivel de Gom. 
 - Joseph, Ramón y los garrics Miquel Lo Crestat, Lo Canalla y Jehanet Lo Nen saldrían de Tarascón para refugiarse en la Casa de la Luna, una borda campestre junto al río cuya dueña, una vieja remendadora de virgos y otros menesteres, alquilaba camas con la compañía femenina de sus ahijadas. 
 
+![[Tarascón-calles-hostal.png]]
+
 ### El hostal de la Crotz
 En el Hostal de la Crotz fueron bien recibidos por la hostalera y pronto percibieron el ambiente de calidad, tanto en la limpieza y detalle del lugar como su público: mercaderes de postín y funcionarios condales llegados de Fois. Por supuesto, Gaviel, que se quedó a cenar con ellos, contactó con otro conocido, un buen mercader de quesos y embutidos con el que entablaron contactos previos para abastecer a la alianza. 
+
+![[HostaldelaCrotz-ambientegeneral.png]]
 
 Pero no fue la única persona conocida que vieron en el Hostal. Al rato, unos hombres vestidos con capas grises y cuyo peto mostraba una enseña que les resultaba familiar, entraron organizadamente, con aire casi marcial. Entre ellos una figura pronto se destacó, la hermosa joven maga Luciana de Tremere, miembro de Crista Nebulae. Rápidamente reconoció a Gom en la mesa y con una sonrisa ladeada se acercó a la mesa para saludar:
 
 >—Me gustó mucho vuestro poema. Muy interesante. Se nota un gran conocimiento y demostró un léxico increíble, aunque quizá peca de cierta convencionalidad. —aseveró como si fuera una gran entendida en el terminado
 
+![[LucianadeTremere.png]]
+
 Sin perder esa sonrisa de guardarse una broma o saberse un chiste que no quiere contar, se despidió cortesmente y escoltada por sus grogs, se retiró a sus aposentos,  tras dar a entender que tenían habitaciones en dicho hostal reservadas permanentemente para los miembros de su rica y bien asentada alianza. ¿No era curiosa tanta casualidad? ¿Era casual su presencia aquí?
 
+![[CasadelaLuna-exterior.png]]
+
 ### La casa de la Luna
-Mientras tanto, el otro grupo llegó a la Casa de la Luna, una borda grande emplazada en una suave colina cubierta de árboles, casi escondida del camino, pero cerca de este, y a espaldas al río. En la entrada había un enorme gato gris de ojos amarillos tan pálidos que casi parecían blancos. Joseph guardó a su rata bien escondida para que no llamara la atención del imponente felino. El gato les examinó impasible, luego, con un suave salto se levantó y entró en la casa, como indicándoles que le siguieran. Fueron bien recibidos por la dueña, Ysabel de Lluna una anciana bien conservada de vivos ojos verdes que salió de la cocina para atenderles. Pronto reconoció a los Garrics —viejos parroquianos suyos que solían dormir o esconderse en el granero bajocubierta de la casa. Le divirtió la prsencia del padre Ramón, sabedora de que frecuentemente, otros miembros del clero solían acudir a su casa. Poco después llegaron algunos clientes, un  mercader —viejo conocido, con aspecto triste y después, llamando la atención, un joven caballero de ademanes altaneros junto a dos hombres, bravuconeando a voz en grito su pertenencia al séquito del conde. Pronto intuyeron que era el típico cliente que quería follar y no pagar aduciendo a su alcurnia, y Jehanet quiso juguetear con él, pidiendo permiso a Ysabel para seducirle.
+Mientras tanto, el otro grupo llegó a la Casa de la Luna, una borda grande emplazada en una suave colina cubierta de árboles, casi escondida del camino, pero cerca de este, y a espaldas al río. En la entrada había un enorme gato gris de ojos amarillos tan pálidos que casi parecían blancos. Joseph guardó a su rata bien escondida para que no llamara la atención del imponente felino. El gato les examinó impasible, luego, con un suave salto se levantó y entró en la casa, como indicándoles que le siguieran. 
+
+![[Bix.png]]
+
+Fueron bien recibidos por la dueña, Ysabel de Lluna una anciana bien conservada de vivos ojos verdes que salió de la cocina para atenderles. Pronto reconoció a los Garrics —viejos parroquianos suyos que solían dormir o esconderse en el granero bajocubierta de la casa. Le divirtió la presencia del padre Ramón, sabedora de que frecuentemente, otros miembros del clero solían acudir a su casa. 
+
+![[YsabeldeLluna.png]]
+
+Poco después llegaron algunos clientes, un  mercader —viejo conocido, con aspecto triste y después, llamando la atención, un joven caballero de ademanes altaneros junto a dos hombres, bravuconeando a voz en grito su pertenencia al séquito del conde. Pronto intuyeron que era el típico cliente que quería follar y no pagar aduciendo a su alcurnia, y Jehanet quiso juguetear con él, pidiendo permiso a Ysabel para seducirle.
 
 >—Tráeme su "producto" —se limitó a asentir con una sonrisa malévola. 
+>
+![[CasadelaLuna-fiesta.png]]
 
 Jehanet pronto se convirtió en Jehaneta y magistralmente sedujo al fanfarrón, tan miserable que forzó a felarle en medio del la sala común donde se encontraban. Jehanet intentó convencerle de que pagara antes, pero el indeseable hizo caso omiso, forzándole en su trabajo. No le aguantó mucho tiempo, gracias a las artes felatorias y rápido se retiró a la cocina para verter el producto en un cuenco que entregó a Ysabel.
+
+![[EntraelComendador-en la puerta.png]]
 
 ### El interrogatorio
 
@@ -284,8 +313,10 @@ Por su parte, la noche no terminó para Gom. Cuando ya estaban pensando en retir
 Junto al Comendador se plantó también el inquietante hermano Lliser, el caballero dotado de talentos especiales. Na Thiburga, la hostalera, corrió a rogar al Comendador que respetara el local, frecuentado solo por gente de bien. Además, le recordó tácitamente que se encontraban intramuros, lo que equivalía a estar fuera de su jurisdicción...
 >—Solo quiero hacerle unas preguntas sobre un asunto importante para la seguridad de todos en el que su testimonio podría ser de gran ayuda. Si no le importa, yo también soy libre de acudir a esta posada y tomarme un vino. Es más, como parece que he interrumpido algo, que no se diga, la Orden de Sent Jeah invita a una ronda a toda la clientela. —y suelta una bolsa de monedas en la mesa. 
 
-Gom finalmente se mostró. Bernat de Videnhac hizo ademán de sentarse frente a él. El Comendador empezó con calma, casi con simpatía: 
->—Bien, En Gom, tengo  unas preguntas que hacerle y quisiera que me respondiera, pero antes, déjeme presentar a mi confrare el hermano Lliser de Sent Lliser... Gom d'Adam, porque ese es su nombre, verdad? Recuerdo que hablamos anoche en la hospedería de Sent Jehan. Buena mesa, la nuestra ¿verdad¿ La cocinera hace un estofado de trucha que... bueno, eso no viene al caso. —Hizo una pausa y volvió a sonreir, con la sonrisa de un lobo. 
+![[EntraelComendador-vengoacharlar.png]]
+
+Gom finalmente se mostró. [[Bernat de Videnhac]] hizo ademán de sentarse frente a él. El Comendador empezó con calma, casi con simpatía: 
+>—Bien, En Gom, tengo  unas preguntas que hacerle y quisiera que me respondiera, pero antes, déjeme presentar a mi confrare el hermano [[Lliser de Sent Lliser]] ... Gom d'Adam, porque ese es su nombre, verdad? Recuerdo que hablamos anoche en la hospedería de Sent Jehan. Buena mesa, la nuestra ¿verdad¿ La cocinera hace un estofado de trucha que... bueno, eso no viene al caso. —Hizo una pausa y volvió a sonreir, con la sonrisa de un lobo. 
 Prosiguió:
 >—Aquella noche había un hermano llamado Marceu. No se si lo recuerda. Alto, bien plantado, con barba canosa. Callado. Se sentó a mi lado. Pero vuestra merced no se fijó en él, claro. ¿Para qué iba a hacerlo?
 
@@ -296,18 +327,18 @@ El Comendador esperó unos segundos palpitantes. Gom estaba expectante, claramen
 El comendador sonrió por dentro, pero su brillo se reflejó en la mirada. El hermano Lliser permanecía observando, impasible. 
 >—El caso es que el mensaje no llegó. Y el hermano Marceu tampoco. 
 —Y yo qué quiere que le diga... —replicó Gom. 
-—Vuestra merced, que viajaba por el mismo caino, ¿no se cruzó con él? Es raro, un hombre solo, a caballo, por el mismo camino que vuestra merced. Parece imposible 
+—Vuestra merced, que viajaba por el mismo camino, ¿no se cruzó con él? Es raro, un hombre solo, a caballo, por el mismo camino que vuestra merced. Parece imposible 
 —No, no le vimos...
 
-El Comendador enarcó las cejas, extrañado. Entonces señaló a Celatus...
-
+El Comendador enarcó las cejas, fingiendo extrañeza. Entonces señaló a Celatus...
 >—Bonito animal el suyo. De los que no se ven muchos. Grandes, fieros, leales. Cuestan de entrenar ¿verdad? Sobre todo par que ataquen juntos. En manada...
+
 Mirando fíjamente a Gom:
-—El hermano Marceu no murió por la espada. No murió por flecha. Lo despedazaron bestias. Bestias grandes. Con dientes como cuchillos.
+>—El hermano Marceu no murió por la espada. No murió por flecha. Lo despedazaron bestias. Bestias grandes. Con dientes como cuchillos.
 
 Hizo otra pausa.
 
-—Los lobos, en esta época, no bajan tanto. Los osos, aún menos. Pero los perros… los perros sí. Sobre todo si su dueño está cerca.
+>—Los lobos, en esta época, no bajan tanto. Los osos, aún menos. Pero los perros… los perros sí. Sobre todo si su dueño está cerca.
 —Bueno, pero... yo solo tengo un perro, no sé a dónde quiere llegar. 
 —Ya... claro. Volvamos a la cena. Dice vuestra merced que no recuerda al hermano Marceu. Es comprensible. Pero dígame una cosa, ¿recuerda qué cenasteis anoche?
 —No, no lo recuerdo. 
@@ -315,7 +346,7 @@ Hizo otra pausa.
 
 Gom no terminó de entender el giro...
 
-—Vuestra merced respeta los ayunos? No, supogo que no. Vuestra merced comoe lo que puede cuando se le antoja. Como sus perros...
+>—Vuestra merced respeta los ayunos? No, supogo que no. Vuestra merced comoe lo que puede cuando se le antoja. Como sus perros...
 —Le he dicho que solo tengo un perro... —pero el Comendador prosiguió, interrumpiéndole. 
 —Los perros huelen el miedo, ¿lo sabía, vuestra merced? Pueden olerlo a distancia. También huelen la sangre, claro. Pero el miedo es más fácil. Más intenso. 
 —El hermano Marceu, cuando lo encontraron, apestaba a miedo. Hasta los buitres lo notaron. Por eso tardaron en llegar. El miedo envenena la carne, dicen...
@@ -331,29 +362,37 @@ El Comendador se levantó y miró desde su posición elevada:
 >—Los perros de Dios recordamos. Recordamos el olor de la sangre. Recordamos el lugar. Recordamos el miedo de la presa. 
 —Nosotros también. Y vuestra merced aún apesta a la sangre de nuestro hermano Marceu.
 
+![[EntraelComendador-hospitalario.png]]
+
 ### El arresto
 
 Hizo una señal a los sargentos de la puerta. La abren y aparece Bernat Lo Peajer. 
 
 >—Gom d'Adam, no tengo jurisdicción par arrestarle aquí y ahora, pero le relajo al brazo secular para que se encarguen de vuestra merced hasta que reunamos las pruebas definitivas para juzgarle por la muerte del hermano Marceu. 
 
-La desagradable figura de Arnau Lo Peajer se presentó, escoltado por dos hombres de armas que portaban la enseña condal, en sus sobrevestas. 
+![[ArnauLoPeajer.png]]
+
+La desagradable figura de [[Arnau Lo Peajer]] se presentó, escoltado por dos hombres de armas que portaban la enseña condal, en sus sobrevestas. 
 
 >—Gom d'Adam, en nombre del conde Ramon Roger, daos preso...
 
 Pero el comendador no satisfecho dio una siniestra orden a sus propios hombres:
->—Capturad al perro. 
-Y tres sargentos con las espadas desenvainadas y esucdos fueron a por él. Pero Gom rápidamente le dijo a Caelatus:
->—¡Huye!
 
+>—Capturad al perro. 
+
+Y tres sargentos con las espadas desenvainadas y escudos fueron a por él. Pero Gom rápidamente le dijo a Caelatus:
+
+>—¡Huye!
 
 Peyrot y Bertran se pusieron a liar alboroto para distraer y entorpecer a los sargentos y dar tiempo a Caelatus a escapar. Este, viendo la puerta bloqueada por los hombres del conde que entraban, subió por las escaleras, pero no encontró más que un pasillo —el de los aposentos—con las puertas cerradas, sin ventanas por donde salir a la calle. Finalmente los sargentos subieron por las escaleras con las armas en riste, listos, claramente a dar matarile al perro, pero...
 Gom conjuró de nuevo el [[Infundir Temor en los Corazones (CrMe15)]] pero esta vez para insertar el miedo en el corazón del Comendador. Sin gestos, ni palabras y en una ciudad, era todo un reto, pero Gom es un maestro de ambas artes y lo consiguió. Miró fijamente al Comendador y su rostro palideció. Gom transformando su propio odio en intimidación pronunció una amenaza que heló la sangre al orgulloso Comendador: 
 
 >—No toquéis al perro o sufriréis las consecuencias...
 
-El antes tan seguro de sí mismo Bertran de Videlhac, comendador de Savarthés solo pudo balbucear entre escalofrios:
->—¡DE—DEJAD AL PERRO! ES UNA ORDEN!
+El antes tan seguro de sí mismo Bertran de Videlhac, comendador de Savarthés solo pudo balbucear entre escalofríos:
+>—¡DE-DEJAD AL PERRO! ES UNA ORDEN!
+
+![[sargentosporcelatus.png]]
 
 **C O N T I N U A R Á**
 
